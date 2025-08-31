@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>14</Day>
+  <Year>2015</Year>
+  <Title>Monk Forms validation technique improved</Title>
+  <Type>1</Type>
+  <Content>Nexon improved the validation for Monk Forms.  This increases the stability of the Monk Forms(Draco, White Bat, Scorpion, and Kelberoth). Thank you for your reports. 
+
+For more information on Monk Forms, check out this overview on them at &lt;a target = _new href = "http://www.darkages.com/webpages/community/lore/Randolf_Monastica.html"&gt;http://www.darkages.com/webpages/community/lore/Randolf_Monastica.html&lt;/a&gt;</Content>
+</NewsArticle>

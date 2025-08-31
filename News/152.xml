@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>26</Day>
+  <Year>2015</Year>
+  <Title>Small Updates</Title>
+  <Type>1</Type>
+  <Content>Excommunicate- Only Clerics, Ministers, and High Priests can excommunicate.
+
+Arena-Master Weapons are allowed into the Arena.
+
+There will be a Dev Chat today at 4:00pm pst. you can access the chat at 4pm pst with mIRC at server irc.stratics.com port 6667 channel #PlanetDA or use PlanetDA's java client at http://www.planetda.net/IRCChat.php</Content>
+</NewsArticle>

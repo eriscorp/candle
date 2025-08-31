@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>5</Day>
+  <Year>2015</Year>
+  <Title>Logging onto Dark Ages</Title>
+  <Type>1</Type>
+  <Content>Hello,
+
+If you are having a problem starting Dark Ages, please wait a few minutes when starting the game and allow it to adjust to the new ISP changes.
+
+If you still cannot connect, download the following file and unzip it into your Dark Ages folder.
+
+&lt;a target=_new href=http://www.darkages.com/download/DNSpatch.zip&gt;"Network Patch"&lt;/a&gt;
+
+DA Team</Content>
+</NewsArticle>

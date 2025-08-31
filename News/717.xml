@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>5</Day>
+  <Year>2015</Year>
+  <Title>Muisir Training Grounds (Update)</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Muisir Training Grounds&lt;/b&gt;
+
+The trees in Undine have been cut. The bridge to Muisir Village can now be accessed. Can you figure out how to get in the village?
+
+The New Training Grounds are open to all registered Aislings insight 1-99.
+Please speak to Grady (next to the statue) for more information on the training grounds.
+
+&lt;b&gt;Double Experience&lt;/b&gt;
+
+All players hunting in the Muisir Hunting Grounds will receive DOUBLE EXPERIENCE! The rest of the of the hunting areas will only receive the normal rate. 
+Double Experience extended until Friday 7/12.
+
+&lt;b&gt;Bug Fixes&lt;/b&gt;
+
+* All monsters will pro����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������perly spawn in their correct location.
+* All Aislings will be able to cross the bridge in Undine.
+* Muisir Training can now be completed.
+ </Content>
+</NewsArticle>

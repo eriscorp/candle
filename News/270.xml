@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>31</Day>
+  <Year>2015</Year>
+  <Title>Server Maintenance -- Updated</Title>
+  <Type>1</Type>
+  <Content>The Dark Ages servers will be down from about 11:00AM to an (estimated) 3:00PM pst for server maintenance. We apologize for any inconvenience this may cause, the servers should be back up and running as soon as possible.
+
+DA Team
+
+</Content>
+</NewsArticle>

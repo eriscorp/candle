@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>10</Day>
+  <Year>2015</Year>
+  <Title>Arsaidh Aon</Title>
+  <Type>1</Type>
+  <Content>"Did you hear the news? The headless statue at the bottom of the Mileth Crypt has disappeared!"
+
+-Muhsin</Content>
+</NewsArticle>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>18</Day>
+  <Year>2015</Year>
+  <Title>Updates 01/18/07</Title>
+  <Type>1</Type>
+  <Content>- A list of the current quests in Temuair has been added to the "Event" section of the character profile.
+
+- The experience reward for some of the current quests have been added or adjusted.
+
+- Peasant characters no longer require a guide to choose a path. They may use a guide as an option.</Content>
+</NewsArticle>

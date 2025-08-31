@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>9</Day>
+  <Year>2015</Year>
+  <Title>DA Patch 7.38</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;DA Version 7.38&lt;/b&gt;
+
+On Wednesday, October 9th, Dark Ages will be patching to version 7.38
+
+&lt;b&gt;Patching Issues with Vista &amp; Windows7/8:&lt;/b&gt;
+
+Please "right-click" your Darkages.exe icon and choose "Run as administrator"
+
+&lt;b&gt;Patch notes&lt;/b&gt;
+
+*Updating maps for Halloween
+*Updating monster graphics for Halloween
+*Adding new items to the Itemshop</Content>
+</NewsArticle>

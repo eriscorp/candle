@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>7</Day>
+  <Year>2015</Year>
+  <Title>Internet Maintenance</Title>
+  <Type>1</Type>
+  <Content>Friday 12/07 internet service provider will perform maintenance for up to 30 minutes. This will prevent you from accessing the Nexon web sites and the Nexon download sites. This will not affect game service. 
+</Content>
+</NewsArticle>

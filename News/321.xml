@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>4</Day>
+  <Year>2015</Year>
+  <Title>Scheduled Down Time</Title>
+  <Type>1</Type>
+  <Content>The Dark Ages server will be down at 9:00pm today for about 1 hour to completely resolve the ISP issues and to prevent further ISP issues. After the down time the following skills will have a lower delay time.
+
+Mass Strike
+Double Rake
+Beak Pierce
+Sneak Flight
+Tail Sweep
+Claw Slash
+Instrumental Attack
+
+DA Team
+</Content>
+</NewsArticle>

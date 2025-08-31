@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>9</Day>
+  <Year>2015</Year>
+  <Title>Nexon Resolved Relay Connection</Title>
+  <Type>1</Type>
+  <Content>At 5 p.m. PST, 2001/11/09, we resolved a poor connection to Dark Ages game server. We apologize for the problems caused during service relay, which became severe for a portion of players on the evening of 11/08 and afternoon of 11/09. If you were unable to connect or experienced a slow connection, then please try to connect at this time. 
+
+If you try again now and are still unable to connect, then please report your exact symptom
+</Content>
+</NewsArticle>

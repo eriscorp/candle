@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>26</Day>
+  <Year>2015</Year>
+  <Title>Coming Soon!</Title>
+  <Type>1</Type>
+  <Content>The following updates are almost complete and will be released soon!
+
+The Rise of Andor - A strange kingdom of creatures.
+&lt;img src="http://www.darkages.com/news/images/Andor.jpg"&gt;
+
+
+The Gladiator Arena - Featuring 3 new arena maps and the new Arena Circuit.
+&lt;img src="http://www.darkages.com/news/images/GladArena.jpg"&gt;</Content>
+</NewsArticle>

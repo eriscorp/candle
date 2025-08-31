@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>2</Day>
+  <Year>2015</Year>
+  <Title>Server Lag</Title>
+  <Type>1</Type>
+  <Content>We are aware of the technical issues that has been causing severe latency in Dark Ages. We are working to improve our systems and network, but it will take some time. We understand this is a huge inconvenience to our players, therefore we will eventually give compensation once everything has been resolved. We sincerely apologize for any inconvenience and appreciate your support and patience.
+
+DA Team</Content>
+</NewsArticle>

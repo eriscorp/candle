@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>10</Day>
+  <Year>2015</Year>
+  <Title>Guild Battle Changes</Title>
+  <Type>1</Type>
+  <Content>These changes will take place sometime on Friday, November 11.
+
+Guilds can only attack 2 times every 4 hours.
+
+Attack Points will have a defense mechanism.
+
+Price to attack is now 2 million coins.</Content>
+</NewsArticle>

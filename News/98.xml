@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>26</Day>
+  <Year>2015</Year>
+  <Title>Nexon fixed Necromancy Summoning Spell</Title>
+  <Type>1</Type>
+  <Content>Nexon fixed wizard's necromancy summoning spell "Spion Torradh". Now it is set to two-lines of casting incantations and no additional delay to cast again. Previously, attempting to edit the spell's incantation caused the game to quit, and casting the spell caused the spell disabled the spell for a long time. We apologize for this inconvenience. 
+</Content>
+</NewsArticle>

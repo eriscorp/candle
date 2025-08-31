@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>13</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages 7.04</Title>
+  <Type>1</Type>
+  <Content>Dark Ages has now updated to 7.04 . If you are currently using 7.03, you can just download the small patcher file in the download section of the website. The update has fixed the following bugs.
+
+- Items with long names can now be withdrawn from the bank without disconnecting the player.
+
+- Players who log off from Medenia and re-login 3 hours later in Temuair will no longer disconnect.
+
+- Hats and helmets should now display the appropriate hair color instead of the default purple color.
+
+- Players can no longer use the exploit to attack while in spirit/ghost form.</Content>
+</NewsArticle>

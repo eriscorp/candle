@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>14</Day>
+  <Year>2015</Year>
+  <Title>New Customer Support System</Title>
+  <Type>1</Type>
+  <Content>In an effort to improve our customer communication we have implemented a new customer support system. The new system will replace our email support which will no longer be accepting inquires. All questions, comments, and technical issues should be addressed through our new support system. To access the new system, please visit
+
+&lt;a target=_new href=https://support.nexon.net&gt;https://support.nexon.net&lt;/a&gt;
+
+
+Thank you.
+</Content>
+</NewsArticle>

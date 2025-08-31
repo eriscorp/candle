@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>1</Day>
+  <Year>2015</Year>
+  <Title>Server Down Time - Resolved</Title>
+  <Type>1</Type>
+  <Content>Hello,
+
+As of 8:11 PM (PST) we believe that the issues with the ISP have been resolved for the most part, and the game should be working correctly now.
+
+We will be adding 1 day to all the active accounts to compensate for this down time.
+
+We are sorry for any inconvenience this may have caused.
+
+DA Team</Content>
+</NewsArticle>

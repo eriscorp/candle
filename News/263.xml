@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>17</Day>
+  <Year>2015</Year>
+  <Title>Nexon Accounts purge on the 18th of November</Title>
+  <Type>1</Type>
+  <Content>Hello everybody,
+
+On Tuesday, the 18th of November, Nexon will be doing an account database purge. At this time we will be removing all inactive accounts from our database. Inactive accounts are any account that has not been active in the last 30 days leading up to the purge date.
+
+This purge will free up any unused character names so that they will be available to other players to use in the future.
+
+When an account is purged all characters on the account will be deleted from our servers, along with any items, abilities, stats and experience the character may have. 
+
+We will not be a�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ble to restore any account or character that has been purged! To avoid the loss of your character you must make sure your account is actively registered some time between now and then 18th of November.
+
+If you plan on re-registering your character and account before the 18th we recommend that you do it in advance to avoid any possible complications or delays that may result in the loss of your characters.
+
+Nexon News</Content>
+</NewsArticle>

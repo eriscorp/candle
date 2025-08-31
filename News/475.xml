@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>30</Day>
+  <Year>2015</Year>
+  <Title>Unregistered Play</Title>
+  <Type>1</Type>
+  <Content>Starting on December 10th, all characters on unregistered accounts can log onto Dark Ages and play for an unlimited time. Unregistered characters will have the following restrictions,
+
+-If the unregistered character is level 99, they cannot gain experience, ability points, hit points, mana points, or stats.
+
+-Cannot earn rewards from level 99 quests or Medenian quests.
+
+-Cannot participate in some Kru events such as the Eulogy, Oren Ball, Merriest of Dreams,etc.
+
+-Cannot participate in some game features such as politics, religion, contests, etc.</Content>
+</NewsArticle>

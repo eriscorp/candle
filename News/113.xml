@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>5</Day>
+  <Year>2015</Year>
+  <Title>Nexon fixed  temporary log on problem</Title>
+  <Type>1</Type>
+  <Content>Nexon fixed a temporary auto renewal problem that had caused some problems in logging on to the game for the users on auto renewal.  Nexon quickly reacted and fixed the problem within a half hour.  We apologize for any inconviences this may have caused.</Content>
+</NewsArticle>

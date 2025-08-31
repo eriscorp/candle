@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>13</Day>
+  <Year>2015</Year>
+  <Title>Internet Stability</Title>
+  <Type>1</Type>
+  <Content>Internet service is stable at this time. At 7-8 p.m. PST, an internet service provider near Nexon game service failed, which caused some Internet users to fail to reach Nexon game service. 
+</Content>
+</NewsArticle>

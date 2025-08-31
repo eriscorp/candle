@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>29</Day>
+  <Year>2015</Year>
+  <Title>Recent Lag </Title>
+  <Type>1</Type>
+  <Content>We are aware of the recent lag issues with Dark Ages, we have addressed the problem and things should be back to normal. We will eventually provide compensation to all players, but we need to make sure the problem has been completely resolved. We apologize for the inconvenience.
+
+DA Team</Content>
+</NewsArticle>

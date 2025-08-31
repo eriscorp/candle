@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>10</Day>
+  <Year>2015</Year>
+  <Title>Nexon fixed The Pentagram</Title>
+  <Type>1</Type>
+  <Content>The Pentagram quest is fully-functional. Nexon fixed the error that prevented a clue from being given during the first macabre invocation. We apologize for the inconvenience during the period when it was unavailable.
+
+To learn more about the Pentagram, visit the Library of Loures. 
+</Content>
+</NewsArticle>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>14</Day>
+  <Year>2015</Year>
+  <Title>New Poll Ready For The Start of The Week!</Title>
+  <Type>1</Type>
+  <Content>The weekly poll has been updated with a burning question most Dark Ages players have an opinion on: Why do you play Dark Ages? Take a few moments to let us know!</Content>
+</NewsArticle>

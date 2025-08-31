@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>30</Day>
+  <Year>2015</Year>
+  <Title>Server Problems Resolved</Title>
+  <Type>1</Type>
+  <Content>Recently there was a minor problem with the communication between the game server and game clients. Unfortunately some players exploited this problem. We have since resolved the problem with the server and dealt with all players involved. We would like to thank the community of Dark Ages for sending in reports of the problems that occurred and the players involved. We will be extending every account 1 day for the inconvenience. Players affected by this can contact the DA Team through the support page on the website. Thank you
+
+In addition, because of the increasing size of Dark Ages, we will be moving Medenia t����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������o another server. There will be no noticieable difference in-game once the server is added. Players can logon and play normally as it is now.
+
+DA Team</Content>
+</NewsArticle>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>30</Day>
+  <Year>2016</Year>
+  <Title>Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Updates:&lt;/b&gt;
+
+* Increased Bomb Game entrance fee from 5K to 50K. This will increase the prize as well
+
+* Increased drop-rate of Skulls in Chadul hunting area.
+
+Dark Ages Team </Content>
+</NewsArticle>

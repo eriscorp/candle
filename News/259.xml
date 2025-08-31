@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>26</Day>
+  <Year>2015</Year>
+  <Title>Arena Update</Title>
+  <Type>1</Type>
+  <Content>Some changes have been made for the Arena:
+
+1)All dark items are allowed.
+
+2)Options for insight ranges 1-50 and 51-99 are available.
+
+3)Coliseum Mundanes Tor, Tyr, and Tur have repair and bank options.
+
+These updates will be available on the morning of 09/27. There will be more updates later. We are also working on other updates and areas.
+
+DA Team</Content>
+</NewsArticle>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>14</Day>
+  <Year>2015</Year>
+  <Title>Service Move</Title>
+  <Type>1</Type>
+  <Content>Wednesday 11/14 about 2 a.m. PST Dark Ages game servers will move to a new physical location. During the transfer, the service will be offline for up to 3 hours. 
+
+During the server relocation, all Nexon servers, including all Dark Ages servers, will be temporarily unavailable. We estimate the downtime for the server relocation to be fairly short and expect to have everything moved in 3 hours. However, as uncertainties may arise, the downtime may be longer than expected. Rest assured that Nexon is doing everything possible to ensure the smoothest transition for all our customers. Please be advised that upon logging into ou����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������r server for the first time after the move, you may experience a delay as the client updates with the latest server information. You will only experience this delay once and subsequent log-ins will connect as normal. 
+
+The exact service move schedule is subject to change by Internet Service Providers. Check news daily for updates.
+</Content>
+</NewsArticle>

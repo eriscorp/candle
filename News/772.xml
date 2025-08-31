@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>24</Day>
+  <Year>2015</Year>
+  <Title>Holiday Bonus Event!</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Holiday Bonus Event&lt;/b&gt;
+
+All registered accounts will receive &lt;b&gt;DOUBLE&lt;/b&gt; Experience and Ability Points gained through monster kills, quest rewards, etc. 
+
+Registered accounts will also receive &lt;b&gt;DOUBLE&lt;/b&gt; the leveling rate of Skills and Spells. Using the leveling bonus item from the itemshop will QUADRUPLE the rate!!!
+
+((This event will begin on December 24th through December 29th.
+Register your accounts to take advantage of this special event!))
+
+Happy Holidays,
+Dark Ages Team </Content>
+</NewsArticle>

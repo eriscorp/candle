@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>4</Day>
+  <Year>2015</Year>
+  <Title>Item Shop Update June 7th</Title>
+  <Type>1</Type>
+  <Content>The item shop will be updated with new items on June 7th. All registered accounts on June 7th will receive 100 Kruna. Auto-renewal accounts will receive an additional 100 Kruna for a total of 200 Kruna. Some items from the initial release will be removed from the shop.</Content>
+</NewsArticle>

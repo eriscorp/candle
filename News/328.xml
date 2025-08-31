@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>29</Day>
+  <Year>2015</Year>
+  <Title>The Red Moon</Title>
+  <Type>1</Type>
+  <Content>The Red Moon has come to haunt the lands of Temuair. Many Deochs ago, a demon sorcerer was vanquished from Temuair. Before his defeat, the sorcerer placed a curse on the lands, the curse of the Red Moon. The Mundanes were worried at first, but after many Deochs, a red moon never appeared. It was assumed that there was no curse and no one ever spoke of it again. But today, a full red moon hovers the sky above Temuair. Legend has it, those who stare at the moon will succumb to its power.</Content>
+</NewsArticle>

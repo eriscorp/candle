@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>4</Day>
+  <Year>2015</Year>
+  <Title>New Items at the DA Store</Title>
+  <Type>1</Type>
+  <Content>New items have been added to the Dark Ages online store. Click on the link below to view the lastest Dark Ages merchandise.
+
+&lt;a target=_new href=http://www.nexon.net/2003/store_da.html&gt;"Dark Ages Online Store"&lt;/a&gt;
+</Content>
+</NewsArticle>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>23</Day>
+  <Year>2015</Year>
+  <Title>The Lost Ruins Preview</Title>
+  <Type>1</Type>
+  <Content>Sneak Preview of The Lost Ruins:
+
+Preview 1
+
+&lt;img src="http://files.kru.com/DarkAges/Media/images/LR1.bmp"&gt;
+
+Preview 2
+
+&lt;img src="http://files.kru.com/DarkAges/Media/images/LR2.bmp"&gt;
+
+Preview 3
+
+&lt;img src="http://files.kru.com/DarkAges/Media/images/LR3.bmp"&gt;
+
+Preview 4
+
+&lt;img src="http://files.kru.com/DarkAges/Media/images/LR4.bmp"&gt;</Content>
+</NewsArticle>

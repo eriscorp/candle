@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>1</Day>
+  <Year>2015</Year>
+  <Title>Bugs Fixed</Title>
+  <Type>1</Type>
+  <Content>-Assassin Strike should now disarm the target.
+
+-Veltain Staff and Veltain Swords can now be worn by anyone of the appropriate class and has at least 15 ability. These items no longer requires specific skills.
+
+-Guild members can now whisper to each other between Medenia and Temuair.</Content>
+</NewsArticle>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>16</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages Chat on Planet Dark Ages Friday!</Title>
+  <Type>1</Type>
+  <Content>The date for the chat is Friday, April 18th 2003 at 3:30 PST. You can access the chat by clicking the link at the top of PDA entitled "PDA Live Chat".
+
+If you are using an IRC client such as mIRC, you may connect with the following information:
+Server: irc.xenobyte.net (use pda.ath.cx if you cannot connect to irc.xenobyte.net)
+Port: 6667
+Channel: #PlanetDA
+
+For more details, visit Planet Dark Ages &lt;a href="http://www.planetda.net"&gt;here&lt;/a&gt;!</Content>
+</NewsArticle>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>10</Day>
+  <Year>2015</Year>
+  <Title>Oren Island Is Here</Title>
+  <Type>1</Type>
+  <Content>The port to Oren Island is now open. All ships from Rucesion and Abel are now leaving to Oren. Thank you. (Oren is a large map, it might be necessary to refresh &lt;F5&gt; if you experience lag.)</Content>
+</NewsArticle>

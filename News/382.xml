@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>11</Day>
+  <Year>2015</Year>
+  <Title>Veltain Mines</Title>
+  <Type>1</Type>
+  <Content>The Veltain Mines is now open in Medenia.
+
+Coming Soon: The Oren Fair</Content>
+</NewsArticle>

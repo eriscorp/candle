@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>23</Day>
+  <Year>2015</Year>
+  <Title>Network updates</Title>
+  <Type>1</Type>
+  <Content>On Monday the 23rd of November, from about 1AM to 4AM PST the Nexon network will undergo updates and changes. During this time Darkages players may experience game down time, or account page availability outages.
+
+We are sorry for any trouble this may cause, and hope that you will understand that these updates are necessary.
+</Content>
+</NewsArticle>

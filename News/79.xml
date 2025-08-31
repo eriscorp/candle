@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>7</Day>
+  <Year>2015</Year>
+  <Title>Internet Maintenance</Title>
+  <Type>1</Type>
+  <Content>About 9:30-9:45 p.m. an internet failure near Dark Ages game service disconnected players. The internet service provider returned to service. 
+</Content>
+</NewsArticle>

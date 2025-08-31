@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>20</Day>
+  <Year>2015</Year>
+  <Title>On Frost Arrow</Title>
+  <Type>1</Type>
+  <Content>Frost Arrow affects more than just attack and movement speed, it specifically affects the monsters "actions" per second which would slow everything, attack, movement, regen, dispell rate, targeting, etc.
+
+
+Coming soon: New items for the itemshop, Pure Medenia Path Update (includes Archers), Medenia Spirit Worshipers
+</Content>
+</NewsArticle>

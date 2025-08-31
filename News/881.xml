@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>5</Day>
+  <Year>2017</Year>
+  <Title>Group Event + Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Group Event&lt;/b&gt;
+
+Starting May 5th Experience gained through monster kills will NOT be shared among group members. Each group members will gain the full Experience points of monster kills! 
+
+((This event is ONLY for registered accounts and will end on Monday, May 8th))
+
+&lt;b&gt;Updates&lt;/b&gt;
+
+We have added another feature to the "Daily Kill Quest". Players will now get a chance of receive a "no-kill" for a day and still receive the rewards of completing the quest.
+
+&lt;b&gt;Coming Soon&lt;/b&gt;
+
+*Adding new daily hunting events in specific areas
+*Option to use the "Daily Quest Token" for something useful...&lt;/t����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������extarea&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td colspan=2&gt;Note: Woo Hoo! &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td colspan=2 align=right&gt;&lt;br&gt;&lt;input type=submit value="Edit"&gt;     &lt;input type=button value="New" onclick="w_new();"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;input type=hidden name="f_main" value=0&gt;
+&lt;input type=hidden name="f_nexoncom" value=0&gt;
+&lt;/table&gt;
+&lt;/form&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+
+
+&lt;tr&gt;&lt;td&gt;
+&lt;table border=0 width=600 cellpadding=0 cellspacing=0&gt;
+&lt;tr&gt;&lt;td valign=top&gt;
+&lt;table cellpadding=1 cellspacing=1 border=0 width=600 bgcolor=#ffffff&gt;
+	&lt;tr&gt;
+		&lt;td width=80 align=center bgcolor=#eeeeee&gt;DATE&lt;/td&gt;
+		&lt;td width=300 align=center bgcolor=#eeeeee&gt;Subject&lt;/td&gt;
+		&lt;td width=30 align=center bgcolor=#eeeeee&gt;Type&lt;/td&gt;
+		&lt;td width=30 align=center bgcolor=#eeeeee&gt;Edit&lt;/td&gt;
+		&lt;td width=30 align=center bgcolor=#eeeeee&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;09.07.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=893"&gt;September Events&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=893"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(893);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;08.25.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=892"&gt;Chadul Army Invasion&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=892"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(892);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;08.18.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=891"&gt;Lost at Sea + Update&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=891"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(891);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;08.11.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=890"&gt;Paradise Luau&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;2&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=890"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(890);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;08.03.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=889"&gt;Double Exp/Ab + Paradise Event&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=889"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(889);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;07.28.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=888"&gt;Muisir Village and Quest Update&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=888"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(888);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;06.30.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=887"&gt;July Events + Skills/Spells Token Exchange&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=887"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(887);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;06.23.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=886"&gt;*Update* Daily Token Exchange&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=886"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(886);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;06.16.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=885"&gt;June Event + Daily Token Exchange&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=885"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(885);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		
+		&lt;td align=center&gt;05.26.17&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;    &lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=884"&gt;Memorial Day Events&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;1&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="news.asp?bbstype=1¤tpage=1&amp;no=884"&gt;Edit&lt;/a&gt;&lt;/td&gt;
+		&lt;td align=center&gt;&lt;a href="javascript:go_del(884);"&gt;Delete&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;!--	&lt;tr&gt;
+		&lt;td colspan=2&gt;&lt;img src="../img/bod_bot.gif" border=0&gt;&lt;/td&gt;
+	&lt;/tr&gt;--&gt;
+
+	&lt;tr&gt;
+		&lt;td colspan=6&gt;
+			&lt;table cellpadding=0 cellspacing=0 border=0&gt;
+				&lt;tr height=32&gt;&lt;td width=116 align=right&gt;
+ &lt;/td&gt;&lt;td width=330 align=center&gt;&lt;font color=#000000&gt;[&lt;u&gt;1&lt;/u&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=2&amp;bbstype=1 class=d&gt;2&lt;/a&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=3&amp;bbstype=1 class=d&gt;3&lt;/a&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=4&amp;bbstype=1 class=d&gt;4&lt;/a&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=5&amp;bbstype=1 class=d&gt;5&lt;/a&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=6&amp;bbstype=1 class=d&gt;6&lt;/a&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=7&amp;bbstype=1 class=d&gt;7&lt;/a&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=8&amp;bbstype=1 class=d&gt;8&lt;/a&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=9&amp;bbstype=1 class=d&gt;9&lt;/a&gt;]&lt;/font&gt;&lt;font color=#000000&gt;[&lt;a href=news.asp?currentpage=10&amp;bbstype=1 class=d&gt;10&lt;/a&gt;]&lt;/font&gt;&lt;/td&gt;&lt;td width=116 align=left&gt;&lt;a href=news.asp?currentpage=11&amp;bbstype=1 class=d&gt;NEXT&lt;/a&gt;
+				&lt;/tr&gt;&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;!--	&lt;tr&gt;&lt;td colspan=2&gt;&lt;a href="./news_insert.asp?bbstype=1"&gt;Add&lt;/td&gt;&lt;/tr&gt;--&gt;
+&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;/BODY&gt;
+&lt;/HTML&gt;</Content>
+</NewsArticle>

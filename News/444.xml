@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>27</Day>
+  <Year>2015</Year>
+  <Title>Medenia Server Maintenance</Title>
+  <Type>1</Type>
+  <Content>On Thursday May 3rd at approximately 12pm, the Medenia Server will be taken offline for maintenance. The server will be down for about 30 minutes. We apologzie for the inconvenience.
+
+DA Team</Content>
+</NewsArticle>

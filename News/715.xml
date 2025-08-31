@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>25</Day>
+  <Year>2015</Year>
+  <Title>Insect Tournament Extended</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Insect Tournament Extended&lt;/b&gt;
+
+The Insect Tournament has been extended until Friday, July 5th. Players will have an extra weekend to complete the event.</Content>
+</NewsArticle>

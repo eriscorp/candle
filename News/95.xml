@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>8</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages 3.73</Title>
+  <Type>1</Type>
+  <Content>This new version adds game server search ability. During connection you may notice a delay while the program searches for the game server.  This provides smooth transition with minimal delay and no need to re-download Dark Ages when the hosting service expands or relocates.&lt;p&gt;
+There are no other changes in this version.
+
+&lt;p&gt;
+We apologize for errors the new version introduced during the morning. Thanks to your detailed reports, Nexon fixed all reported errors as of 7 p.m. PST:&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt; Lag from relay connection.
+&lt;li&gt; Some spell graphics not appearing (pian, Iron Skin, Charge, etc.).
+&lt;li&gt; Some ground graphics corr����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������upted (Druid Circle in Enchanted Garden).
+&lt;li&gt; DNS look-up address.
+&lt;li&gt; DNS memory feature overrides DNS look-up.
+&lt;/ul&gt;
+
+Your knowledge of the details of the game and your kindness to write us touches us.&lt;p&gt;</Content>
+</NewsArticle>

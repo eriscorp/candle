@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>12</Day>
+  <Year>2015</Year>
+  <Title>Desert Dunes</Title>
+  <Type>1</Type>
+  <Content>A new area in Medenia has been discovered! The Desert Dunes is right next to the Desert of Fire. Be careful when exploring, it can get extremely hot.
+
+</Content>
+</NewsArticle>

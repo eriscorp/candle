@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>26</Day>
+  <Year>2015</Year>
+  <Title>4.51 test server Shutting down tonight at 5:00pm PST</Title>
+  <Type>1</Type>
+  <Content>The 4.51 Test Server is going to be shut down at 5:00pm PST today(02/26/02).  We thank everyone who participated in this test.  Watch the News Section for furthur updates on the implentation of 4.51 to the commerical server.
+
+Thanks again!!</Content>
+</NewsArticle>

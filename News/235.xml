@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>27</Day>
+  <Year>2015</Year>
+  <Title>Web Server Downtime Notice</Title>
+  <Type>1</Type>
+  <Content>This Saturday -- May 31, 2003 -- Nexon will be moving our web servers to a new service facility. Our web servers will be down from around 7AM to 12PM PST. If you need game information or would like to create or renew your account, please keep in mind the schedule for this downtime. Thank you for your understanding!</Content>
+</NewsArticle>

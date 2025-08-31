@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>22</Day>
+  <Year>2015</Year>
+  <Title>DA Patch 7.37</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;DA Version 7.37&lt;/b&gt;
+
+On Wednesday, May 22nd, Dark Ages will be patching to version 7.37
+
+Patching Issues with Vista &amp; Windows7/8:
+Please "right-click" your Darkages.exe icon and choose "Run as administrator"
+
+&lt;b&gt;Patch notes&lt;/b&gt;
+
+*Adding new items to the Itemshop
+*Rear Strike 4 &amp; 5 will be available</Content>
+</NewsArticle>

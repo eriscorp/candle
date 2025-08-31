@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>20</Day>
+  <Year>2015</Year>
+  <Title>Halloween Events</Title>
+  <Type>1</Type>
+  <Content>The Halloween events will begin on October 26th and end on November 1st.
+
+&lt;b&gt;Pet Ghost&lt;/b&gt;
+"Speak to the one who resurrects the dead. Only he can tame this undead spectre."
+
+
+&lt;b&gt;The Horseman&lt;/b&gt;
+"He appears randomly from town to town searching his head. If you dare attack him, he will hurl at you the face of a demon.
+
+
+&lt;b&gt;The Red Moon&lt;/b&gt;
+"The Red Moon has come to haunt the lands of Temuair. Many Deochs ago, a demon sorcerer was vanquished from Temuair. Before his defeat, the sorcerer placed a curse on the lands, the curse of the Red Moon. The Mundanes were worried at first, but after many Deochs, a red moon n����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ever appeared. It was assumed that there was no curse and no one ever spoke of it again. But today, a full red moon hovers the sky above Temuair. Legend has it, those who stare at the moon will succumb to its power."</Content>
+</NewsArticle>

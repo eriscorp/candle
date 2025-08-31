@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>13</Day>
+  <Year>2015</Year>
+  <Title>Server Problems</Title>
+  <Type>1</Type>
+  <Content>Recently there were some technical problems with the Dark Ages servers. We apologize for any inconvenience. Nexon will be crediting 1 additional day to all Dark Ages Accounts. The problem has been resolved. Again we apologize for any inconvenience.
+
+DA Team
+</Content>
+</NewsArticle>

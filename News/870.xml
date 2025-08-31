@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>25</Day>
+  <Year>2017</Year>
+  <Title>Tradeable Items</Title>
+  <Type>1</Type>
+  <Content>The following items will now be tradeable for registered characters:
+
+XMas Bonus Exp-Ap(x3
+XMas Bonus Exp-Ap(x10)
+XMas Bonus Exp-Ap(x5)
+XMas Double Exp-Ap(x5
+VDay Bonus Exp-Ap(x10)
+Double Bonus Exp-Ap(x5)
+
+DA Team</Content>
+</NewsArticle>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>4</Day>
+  <Year>2015</Year>
+  <Title>Server Maintenance </Title>
+  <Type>1</Type>
+  <Content>On August 5th between 3:00-4:00PM PST, there will be a scheduled server reset. The servers will be down for about 10-15 minutes. Thank you for your cooperation.
+
+DA Team</Content>
+</NewsArticle>

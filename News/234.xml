@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>23</Day>
+  <Year>2015</Year>
+  <Title>New Pets</Title>
+  <Type>1</Type>
+  <Content>"Hello Aislings, it's Areini the pet store owner in Tagor. I just got a shipment of new pets! So if you're bored with your current pet or it was eaten by some foul monster, come to my pet shop and make a new friend."
+
+Areini
+
+((Happy Memorial Weekend -DA Team))</Content>
+</NewsArticle>

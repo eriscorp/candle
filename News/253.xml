@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>27</Day>
+  <Year>2015</Year>
+  <Title>Server Resets</Title>
+  <Type>1</Type>
+  <Content>We would like to apologize for the frequent resets that occured yesterday Aug. 26th.  We will add one extra day to all accounts. We are currently making changes to the server to stablize the problem.
+
+DA Team</Content>
+</NewsArticle>

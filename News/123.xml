@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>3</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages 4.51 Launches On Monday</Title>
+  <Type>1</Type>
+  <Content>Effective Monday 03/04/2002 10:00am PST Dark Ages will upgrade to version 4.51.  Unfortunatly this upgrade is too large to patch so all users must download it directly from &lt;a href="http://www.darkages.com"&gt;http://www.darkages.com&lt;/a&gt;. Dark Ages 4.51 will be available for download on Monday 03/04/2002 8:30am PST. Users will not be able to log on with version 3.73 after 10:00am PST. 
+&lt;p&gt;
+&lt;center&gt;&lt;B&gt;&lt;u&gt;New Features in 4.51&lt;/U&gt;&lt;/B&gt;&lt;/center&gt;
+&lt;p&gt;
+&lt;b&gt;New Hair Styles&lt;/B&gt;
+Over &lt;i&gt;forty&lt;/i&gt; new and inventive hair styles that sets your character apart!  Simply go to a rogue with the hairstyle skill to try th�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������em out.
+
+&lt;center&gt;&lt;img src="http://www.darkages.com/webpages/images/hair%20styles/f1.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/hair%20styles/f2.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/hair%20styles/f3.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/hair%20styles/f4.gif"&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src="http://www.darkages.com/webpages/images/hair%20styles/m1.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/hair%20styles/m2.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/hair%20styles/m3.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/hair%20styles/m4.gif"&gt;&lt;/center&gt;
+
+&lt;B&gt;Previous Whisper History&lt;/B&gt;
+
+By pressing the up arrow while whispering, you can cycle through all the previous people you have whispered with.  
+
+&lt;B&gt;New Emotions&lt;/B&gt;
+
+Simply hold down ctrl + alt +(any key from 1-0 and -) for a new emotion
+1.	Rock
+2.	Paper
+3.	Scissors
+4.	Frustrated
+5.	Speechless
+6.	Glazed eyes
+7.	Blushing
+8.	In Love
+9.	Sweatdrop
+0.	Singing/Whistling
+-.       Angry
+&lt;center&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e1.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e2.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e3.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e4.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e5.gif"&gt;
+&lt;img src="http://www.darkages.com/webpages/images/emotions/e6.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e7.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e8.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e9.gif"&gt;&lt;img src="http://www.darkages.com/webpages/images/emotions/e-.gif"&gt;&lt;/center&gt;
+
+
+&lt;b&gt;Highlighting Group Members&lt;/b&gt;
+
+By pressing "h", all visible group members will be highlighted so you can spot them out in a crowd easier.
+
+&lt;b&gt;Different colored text&lt;/b&gt;
+
+Users may mow write in different colored text on the boards following this formula:
+{=[a-z]&lt;text&gt; 
+the text will change colors with respect to the first letter.  For example writing:
+{=bDark {=fAges
+on the board will appear as:
+&lt;font color=red&gt;Dark&lt;/font&gt; &lt;font color=blue&gt;Ages&lt;/font&gt;
+
+Here are all the colors you can use:
+{=b  Red 
+{=c  Yellow 
+{=d  Green 
+{=e  Sky Blue 
+{=f  Blue 
+{=G  White
+{=g  Silver
+{=h  Light Gray 
+{=i  Gray
+{=j  Dark Gray 
+{=k  A Darker Gray 
+{=l  Black 
+{=n  Black 
+{=o  Purple 
+{=p  Violet 
+{=q  Light Green 
+{=r  Green 
+{=s  Orange 
+{=t  Brown 
+{=u  White 
+{=v  Light Blue 
+{=w  Pink 
+
+
+
+</Content>
+</NewsArticle>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>8</Day>
+  <Year>2015</Year>
+  <Title>Server Maintenance</Title>
+  <Type>1</Type>
+  <Content>On June 8th, Dark Ages will perform a server maintenance which will take place from 1PM PST to 2PM PST. During this time, players will not be able to access Dark Ages for approximately 1 hour. We apologize for any inconvenience this may cause. Thank you for your understanding and support.
+
+DA Team</Content>
+</NewsArticle>

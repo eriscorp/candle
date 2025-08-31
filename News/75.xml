@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>2</Day>
+  <Year>2015</Year>
+  <Title>New Dark Ages Tech Support Site</Title>
+  <Type>1</Type>
+  <Content>A new tech support site, easier to navigate, easier to get solutions you need.
+
+&lt;a href=http://www.darkages.com/support/support.htm&gt;Get technical support&lt;/a&gt;</Content>
+</NewsArticle>

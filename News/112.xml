@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>23</Day>
+  <Year>2015</Year>
+  <Title>Nexon fixed Nigel Quest </Title>
+  <Type>1</Type>
+  <Content>Nexon fixed the potions segment of Nigel's Quest.  Players may now give Nigel all three potions and received a legend mark and reward.  Previously he did not take all poitions.  We apologize for any inconvience.</Content>
+</NewsArticle>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>3</Day>
+  <Year>2015</Year>
+  <Title>Stratics Chat Today!</Title>
+  <Type>1</Type>
+  <Content>Stratics will be hosting a brief developer chat with DA Team and Gaiden this afternoon at 2:15 Pacific Time. Have any questions about the exciting, new Dark Ages: Medenia? Now you have a chance to ask!
+
+IRC Chat Servers:
+irc.frws.com
+irc2.frws.com
+irc.glowfish.de
+
+Channel
+#dahoc
+
+We hope to see you there!
+
+</Content>
+</NewsArticle>

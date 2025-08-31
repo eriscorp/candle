@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>16</Day>
+  <Year>2015</Year>
+  <Title>7.10 bug fixes</Title>
+  <Type>1</Type>
+  <Content>-Groups can now enter the boss room in the Cursed home
+
+-Groups must all be in the same area in order to enter the doll rooms.
+
+-The Refresh effect from the Ice Bottle will now last about 15 minutes in the Desert Dunes.
+
+-The ability reward for the Dune Patrol quest has been increased from 1,500ap to 3,500
+
+-The "naked" animation will be fixed with the next patch for the item shop, which will be coming very soon.
+
+-DA Team</Content>
+</NewsArticle>

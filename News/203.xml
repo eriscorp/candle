@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>22</Day>
+  <Year>2015</Year>
+  <Title>Pet Store Coming Soon</Title>
+  <Type>1</Type>
+  <Content>&lt;I&gt;Greetings Aislings,
+
+I am pleased to announce my pet store opening soon in the town of Tagor. It is currently under construction and will be opening as soon as it is finished. I have a variety of pets to sell, so start saving up! I also have a pet that has never been seen in the lands of Temuair. Hope to see you all at the Grand Opening.
+
+Areini
+Pet Merchant&lt;I/&gt;
+
+((Opening on Friday the 24nd))</Content>
+</NewsArticle>

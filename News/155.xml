@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>3</Day>
+  <Year>2015</Year>
+  <Title>Another Week, Another New Poll!</Title>
+  <Type>1</Type>
+  <Content>Tell us why you play Dark Ages, or why you think you might like to play Dark Ages. It takes only a few seconds to make your voice heard! The poll on the front page of the Dark Ages website awaits you!</Content>
+</NewsArticle>

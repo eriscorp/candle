@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>7</Day>
+  <Year>2016</Year>
+  <Title>New Armors and Helms + Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Updates:&lt;/b&gt;
+
+* Release of AB95 Armors/Helms 
+* Royal Baem Scale Pendant: Increased HP/MP
+* Divinities Staff: will not break on death (no replacements will be given)
+* Hellreavers Blade: Increased CON
+* Inferno Blade: Fixed and updated
+
+Dark Ages Team </Content>
+</NewsArticle>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>28</Day>
+  <Year>2015</Year>
+  <Title>New Weekly Poll!</Title>
+  <Type>1</Type>
+  <Content>What do you feel about the overall direction of Dark Ages? Take a few moments to share your thoughts with us!</Content>
+</NewsArticle>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>6</Day>
+  <Year>2015</Year>
+  <Title>Scheduled Maintenance: Account System</Title>
+  <Type>1</Type>
+  <Content>We will be performing some maintenance on our account system today, May 6th, from 11:30am-3pm PST. During this time you will not be able to access or register your account, add/delete characters, or purchase Kruna. The games will be unaffected and you can continue to play them as normal.
+
+Thank you,
+KRU Interactive</Content>
+</NewsArticle>

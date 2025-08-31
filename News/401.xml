@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>15</Day>
+  <Year>2015</Year>
+  <Title>Horse of the Gods</Title>
+  <Type>1</Type>
+  <Content>The horse of each god has escaped their realm and are now wandering the terrestial lands of Temuair. It is up to you Aislings to bring these horses back to the gods. A great reward awaits!!
+
+Rules:
+
+1.Horses will tend to appear in the environment they are most comfortable.
+
+2.To a attract a horse, Aislings need to have in their inventory carrots or sugar beets. Sugar beets are 5x stronger than carrots.
+
+3.Aislings may obtain carrots and beets from a mundane, farming, or randomly plucking them.
+
+4.To steal a horse, Aislings must attack the horse but be within 1 tile from the horse. A horse will only follow the����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� Aisling with the most carrots and beets. 5 carrots is equal to 1 beet.
+
+5.A horse will not follow an Aisling with a town Song in their inventory.
+
+6.Aislings will receive a message when the horse is following you or is stolen from you.
+
+7. If a horse catches up to the Aisling it is following, it will devour one carrot or beet from their inventory. Beets are the first to be devoured.
+
+8.Cooperation is an Aislings best chance.
+(The event will begin sometime on June 15th and will end on June 20th.)</Content>
+</NewsArticle>

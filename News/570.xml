@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>13</Day>
+  <Year>2015</Year>
+  <Title>November Item Shop</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Item Shop Release November 20th.&lt;/b&gt;
+
+Included in this release will be hairstyles, hairpieces and formal wear.</Content>
+</NewsArticle>

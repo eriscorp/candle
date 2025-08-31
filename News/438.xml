@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>12</Day>
+  <Year>2015</Year>
+  <Title>Item Shop Page</Title>
+  <Type>1</Type>
+  <Content>&lt;a target=_new href=https://secure.kru.com/account/itemshop&gt;"Dark Ages Item Shop"&lt;/a&gt;</Content>
+</NewsArticle>

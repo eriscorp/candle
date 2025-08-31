@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>11</Day>
+  <Year>2015</Year>
+  <Title>New Poll of the Week!</Title>
+  <Type>1</Type>
+  <Content>When do you play Dark Ages? Before breakfast, just before bed, sometime in between...? Let us know the best time there is for you to play Dark Ages!</Content>
+</NewsArticle>

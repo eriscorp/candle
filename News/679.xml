@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>29</Day>
+  <Year>2015</Year>
+  <Title>DA Patch 7.36</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;DA Version 7.36&lt;/b&gt;
+
+On Monday, October 29th, Dark Ages will be patching to version 7.36
+
+Patching Issues with Vista &amp; Windows7:
+Please "right-click" your Darkages.exe icon and choose "Run as administrator"
+
+&lt;b&gt;Patch notes&lt;/b&gt;
+
+*New Itemhop
+
+Trick-or-Treat Bag 2:
+A NEW Trick-or-Treat Bag. The Trick-or-Treat Bag will contain NEW costumes for Halloween and a RARE chance to receive a "Light Necklace".
+
+&lt;img src="http://files.kru.com/DarkAges/Media/Images/TrickOrTreakBag2.bmp"&gt;
+
+((The costume bundle is tradeable, but once it's opened the content(s) inside are not. The NEW costumes will have the basic walk����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������, attack, spell and emotion animation.))
+</Content>
+</NewsArticle>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>25</Day>
+  <Year>2015</Year>
+  <Title>Version 5.51 delay</Title>
+  <Type>1</Type>
+  <Content>We regret to announce that the release of version 5.51 has been pushed back to Thursday October 30, 2003. 
+
+DA Team</Content>
+</NewsArticle>

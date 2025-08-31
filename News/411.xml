@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>6</Day>
+  <Year>2015</Year>
+  <Title>Suomi Troupe</Title>
+  <Type>1</Type>
+  <Content>The following Aislings have been accepted into the Suomi Troupe. More members will be added over time.
+
+Angelique
+Etna
+Wiko
+Kriistari
+Dyven
+Juvela
+Landon
+Dakeri
+Kivrin
+Parane
+Naze</Content>
+</NewsArticle>

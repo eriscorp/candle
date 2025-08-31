@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>25</Day>
+  <Year>2015</Year>
+  <Title>Recent Incidents</Title>
+  <Type>1</Type>
+  <Content>We are currently aware of the recent incidents that have occurred in Dark Ages. We are working to resolve the problem as soon as possible.
+
+DA Team</Content>
+</NewsArticle>

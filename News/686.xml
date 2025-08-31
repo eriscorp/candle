@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>17</Day>
+  <Year>2015</Year>
+  <Title>Balanced Arena Event</Title>
+  <Type>1</Type>
+  <Content>A NEW event is released to celebrate the reopening of the Balanced Arena.
+
+Please speak to Celesta for more information regarding rules and prizes!
+
+((This is a limited time event. Event will take place after the reset on November 16th 3:30PM PST))
+
+Reset Note:
+-Increased "Assassin Wolf Locks" drop-rate</Content>
+</NewsArticle>

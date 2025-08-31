@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>24</Day>
+  <Year>2015</Year>
+  <Title>Minor Update 2</Title>
+  <Type>1</Type>
+  <Content>-The Guild Banks should now be working, items can now be withdrawn or deposited into the Guild Bank.
+
+-The limit for the ignore list (F9) has been increased from 5 to 20.</Content>
+</NewsArticle>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>29</Day>
+  <Year>2015</Year>
+  <Title>Patch 7.18 and Window Client Beta</Title>
+  <Type>1</Type>
+  <Content>Dark Ages will patch to 7.18 on Wednesday, 10/31/07. The client should automatically patch when launching Dark Ages. If you experience problems, you can download the full client in the download section. Players can also patch by downloading the 7.17-7.18 patcher also in the download section.
+
+This patch will fix the color bug for items and weapon animation in the game.
+The patch will also include a Window Client Beta Version. Players will be able to choose from various window sizes: Full Screen, Small Window, or Large Window Mode through the "Dark Ages Display Selector." The Large Window Mode will be����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� the default display. If your computer does not support any window modes, it will automatically use the original Full Screen Mode.
+
+&lt;a target=_new href=http://files.kru.com/DarkAges/Media/Images/SmallWindowMode.jpg&gt;"Small Window Mode"&lt;/a&gt;
+
+&lt;a target=_new href=http://files.kru.com/DarkAges/Media/Images/LargeWindowMode.jpg&gt;"Large Window Mode"&lt;/a&gt;
+
+&lt;b&gt;Display Selector&lt;/b&gt;
+
+The display selector will be available for players to switch the display settings for Dark Ages.  
+
+1.	Go to your Dark Ages folder usually located in: "C:\Program Files\KRU\Dark Ages"
+2.	Double-Click on "DA-DisplaySelector.exe" to bring up the "Dark Ages Display Selector"
+3.	Select from the following 3 options: Full Screen Mode, Small Window Mode, or Large Window Mode.  Click OK.
+4.	Double-Click on "Darkages.exe" to launch with the selected display.
+</Content>
+</NewsArticle>

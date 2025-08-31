@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>6</Day>
+  <Year>2015</Year>
+  <Title>E-mail Address Update</Title>
+  <Type>1</Type>
+  <Content>Dark Ages customer support e-mail addresses moved, but the old ones still work. Please continue to refer Dark Ages messages to the appropriate e-mail addresses. 
+
+DA-Play@DarkAges.com: Suggestions, community relations, and non-technical feedback.
+DA-Bugs@DarkAges.com: Technical support, bug reports, and testing.
+DA-Win@DarkAges.com: Contests.
+
+
+Sending mail to wrong address creates a lot of problems for you and Dark Ages operation; it slows down response time and increases communication overhead. 
+
+The old e-mails still work and will continue to work indefinitely. The functions of the e-mail addresses did �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������not change. Please do not resend mail that you already sent to an old e-mail address. We have received your mail. 
+
+Old E-mail Address -&gt; New E-mail Address
+library@darkages.com -&gt; DA-Bugs@DarkAges.com
+aisling@darkages.com -&gt; DA-Play@DarkAges.com
+candle@darkages.com -&gt; DA-Win@DarkAges.com
+
+
+The new e-mails are easier to remember and make it easier to identify the function of that e-mail address. Example: "DA-Bugs" more easily identifies the function of tech support than the name "library" (which is an allusion to a "Library of Leng" that houses arcane knowledge). 
+</Content>
+</NewsArticle>

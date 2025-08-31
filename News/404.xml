@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>1</Day>
+  <Year>2015</Year>
+  <Title>Hwarone City Parliament</Title>
+  <Type>1</Type>
+  <Content>On August 7th a new political system will be released for the city of Hwarone. This is a completely different system than the one used in Mileth and Rucesion. Below describes in general how the system will work. Due to the complexity of this system, we do anticipate some problems and bugs arising upon release. We hope you will work with us in creating a more solid political system.
+
+&lt;b&gt;Hwarone Parliament&lt;/b&gt;
+
+Hwarone is the governing body of the Medenia regions of Alsaids and Noes. All areas within these regions fall under Hwarones jurisdiction.
+
+&lt;b&gt;Magistrate&lt;/b&gt;
+
+The magistrate is the head of the gover�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ning body. It is a position that can only be held by a Mundane. The magistrate oversees all operations of the Hwarone government.
+
+&lt;b&gt;Council&lt;/b&gt;
+
+The Council is the heart of the government. They are direct representatives of the Magistrate, making decisions on his behalf.
+
+Campaigning - To become a member on the council, an Aisling must first raise 100 million gold coins for the campaign fund. Contributions must come from citizens and are limited to 10 million gold per contributor. Contributions cannot come from the candidates own pouch, nor can it come from their own guild/fellowship members.
+
+Voting  Once enough gold has been raised, the voting session commences. The voting session will last two double-moons ((two weeks)). During this time, citizens can vote in favor or against the candidates election into the Council. By the end of the voting session, the candidate must receive a net of 5 votes in favor (5 votes more in favor than votes against). If the candidate meets the voting requirement they will receive a legend mark and an outfit as a member of the Hwarone Council.
+
+Duties:
+	
+	Budget   The city of Hwarone has a budget quota of 200 million gold. This means the city needs to have at least 200 million gold in order to import goods. 
+
+	Taxes  The Council can set a tax rate between 0-10,000 gold per double-moon on all citizens of Medenia. The gold from the tax will be applied to the city's budget. To set a tax rate, a councilman must first propose a tax rate. It is then up to the council to vote if they are in favor or against the proposed tax rate.
+
+	Import  The Council can use the money from the budget to import goods to Hwarone. Imported goods are special items sold only to citizens of Alsaids and Noes. A few items (currently 5) will be designated for Hwarone only. Only one item can be imported at one time, and is decided by the Council.
+
+	Wars  At random times, Hwarone will be at war with some race or nation. There are three outcomes to the war, victory, diplomacy, or defeat. Victory is achieved if soldiers of the Hwarone Army can defeat 300 of the enemy. A victory would result in 10 million gold for the budget. Members of the council can vote for diplomacy which will result in the loss of 20 million gold from the budget. A defeat in the war, (failing to kill 300 of the enemy in a specific amount of time) will result in the loss of  40 million gold from the budget.
+
+	Laws  Laws are written by Delegates. Pending legislature is submitted by Delegates for the Council to vote as official law.
+
+	Trials  Aislings that are arrested within Hwarone will have the opportunity for a trial. A trial is an investigation by the Council, after which a voting session is held determining the verdict. The punishment for a guilty verdict is a loss of ability points.
+
+&lt;b&gt;Delegates&lt;/b&gt;
+
+Delegates are representatives of the citizens.
+
+Campaigning - To become a delegate, an Aisling must first raise 100 million gold coins for the campaign fund. Contributions must come from citizens and are limited to 10 million gold per contributor. Contributions cannot come from the candidates own pouch, nor can it come from their own guild/fellowship members.
+
+Voting  Once enough gold has been raised, the voting session commences. The voting session will last two double-moons ((two weeks)). During this time, citizens of Alsaids and Noes can vote in favor or against the candidates election. By the end of the voting session, the candidate must receive a net of 3 votes in favor (3 votes more in favor than votes against). If the candidate meets the voting requirement they will receive a legend mark and an outfit.
+
+
+Duties:
+
+Legislation  It is the Delegates responsibility to create the laws for the citizens. All legislation must be submitted to the Council for approval.
+
+Council Removal  Delegates have the power to initiate the impeachment of a Council member.
+
+Delegates can be removed by the citizens.
+
+&lt;b&gt;Hwarone Military&lt;/b&gt;
+
+Soldier  Requires 200 war kills.
+
+Captain  Requires 500 war kills. Responsible for arresting Aislings who violate Hwarone Laws within the Alsaids and Noes Region. Can also remove soldiers. (purple guard tabard)
+
+General  Requires 1500 war kills. Responsible for arresting Aislings who violate Hwarone Laws within the Alsaids and Noes Region. Can also remove soldiers and captains. (red guard tabard)
+</Content>
+</NewsArticle>

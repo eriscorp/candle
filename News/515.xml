@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>16</Day>
+  <Year>2015</Year>
+  <Title>Security Reminder</Title>
+  <Type>1</Type>
+  <Content>Due to the rise in reports of players being hacked, this is a reminder to all players.
+Using third-party programs to play Dark Ages can compromise the security of your character's passwords. 
+
+Players are responsible for the protection of their computer(s) and their character's passwords.
+</Content>
+</NewsArticle>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>26</Day>
+  <Year>2015</Year>
+  <Title>Extending Group Hunting Event</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Group Hunting Event UPDATE!&lt;/b&gt;
+
+* Hunting in GROUPS will now give better experience points than before
+* Bonus Experience will depend on number of group members
+* BIG GROUPS = BETTER EXP!
+
+(( This event will last until the end of June! ))</Content>
+</NewsArticle>

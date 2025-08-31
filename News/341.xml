@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>27</Day>
+  <Year>2015</Year>
+  <Title>New Death Penalty Sytem</Title>
+  <Type>1</Type>
+  <Content>Upon death, characters will not drop items in their inventory. Items that break on death will still break. Gold and equipped items will still drop or break. So only items in your inventory, that would normally drop in a pile on death, will no longer drop. They will remain in your inventory. All items will still take a durability penalty.
+
+Also, the following items have been made into non-break items, which means that they will not disappear upon death.
+
+Black Pearl Ring
+Mythril Boots 
+Dark Belt
+Light Belt 
+Desert Dunes Necklaces
+Black Stone Rings
+Tristar Rings
+Cathonic Shield
+Andor salve earrings
+Rein����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������forced Spiked Greaves
+Emerald Bracers 
+All medenian gauntlets (Ruby/Saphire/etc..)
+
+</Content>
+</NewsArticle>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>11</Day>
+  <Year>2015</Year>
+  <Title>Free Trial Suspended</Title>
+  <Type>1</Type>
+  <Content>We are sorry for any inconvenience this causes but we have been forced to temporarily suspend the Free Trial until further notice.</Content>
+</NewsArticle>

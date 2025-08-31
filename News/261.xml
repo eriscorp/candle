@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>3</Day>
+  <Year>2015</Year>
+  <Title>Bug Fix Update</Title>
+  <Type>1</Type>
+  <Content>Some fixes have been made to some bugs.
+
+1) Courtney the Loures Jester responds to "The Love Letter" not "The Letter".
+
+2) The wizard clue in yard 2 for the pentagram quest should now be fixed. The rogue clue in cr 7 has been replaced to a more obvious spot.
+
+3) The portals to House Macabre has been re-located to appropriate fit the maps.
+
+We are working to fix the purchase of bundled items.
+
+DA Team</Content>
+</NewsArticle>

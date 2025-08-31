@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>20</Day>
+  <Year>2015</Year>
+  <Title>Name Purge on May 15th</Title>
+  <Type>1</Type>
+  <Content>On May 15th, 2012, Kru will be doing a purge to remove any inactive characters in order to free up names. The purge will affect characters that are on unregistered accounts that have not been registered since May 15th, 2011 and characters that are not on any account. Accounts that have been registered at any time during the last year and characters created within one month of the purge date will not be affected.</Content>
+</NewsArticle>

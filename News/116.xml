@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>6</Day>
+  <Year>2015</Year>
+  <Title>Nexon fixed Ranger Jail</Title>
+  <Type>1</Type>
+  <Content>Serving the given time in jail will now admit the players to leave.  Originally players were not given the option to leave.  Nexon apologizes for any inconvience this may have caused.
+
+</Content>
+</NewsArticle>

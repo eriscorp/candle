@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>9</Day>
+  <Year>2015</Year>
+  <Title>New Poll Online</Title>
+  <Type>1</Type>
+  <Content>What do you think of how this website presents Dark Ages? Let us know by simply entering your opinion on the poll to your right!</Content>
+</NewsArticle>

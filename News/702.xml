@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>15</Day>
+  <Year>2015</Year>
+  <Title>New Event - Green Ale</Title>
+  <Type>1</Type>
+  <Content>Visit my Tavern to try my Famous Green Ale while supplies last!
+
+-Franchesco's Tavern
+
+((This event will start on March 15th and finish on March 29th. Only registered accounts will be able to participate.)) </Content>
+</NewsArticle>

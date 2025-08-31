@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>19</Day>
+  <Year>2015</Year>
+  <Title>Server Problems</Title>
+  <Type>1</Type>
+  <Content>With the massive amounts of updates to the Dark Ages server, there are some technical issues that we are dealing with at the moment. The problem will be resolved as soon as possible. We apologize for any inconvenience. All Dark Ages accounts will be credited one extra day.
+
+DA Team</Content>
+</NewsArticle>

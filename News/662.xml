@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>13</Day>
+  <Year>2015</Year>
+  <Title>DA Patch 7.33 - Itemshop &amp; Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;DA Version 7.33&lt;/b&gt;
+
+On Wednesday, June 13th, Dark Ages will be patching to version 7.33
+
+Patching Issues with Vista &amp; Windows7:
+Please "right-click" your Darkages.exe icon and choose "Run as administrator"
+
+&lt;b&gt;Itemshop Release:&lt;/b&gt;
+Gender Potion - ability to change your Aisling's gender
+Third Accessory Slot - able to equip 3 accessory items at once
+New Teleport Scrolls - new locations 
+
+&lt;b&gt;Updates:&lt;/b&gt;
+Fixed Damage Overflow 
+Fixed Arena Circuit Spawning Issue 
+
+&lt;b&gt;New Payment:&lt;/b&gt;
+We have added additional international and mobile payment options through Paymentwall -- available ����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������now in the coupon shop </Content>
+</NewsArticle>

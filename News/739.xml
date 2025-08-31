@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>12</Day>
+  <Year>2015</Year>
+  <Title>Oren Ball Contest Winners</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Oren Ball Contest Winners&lt;/b&gt;
+
+Thank you to all that showed off their best attire as they strutted down the runway at the Oren Ball. 
+
+&lt;b&gt;Congratulations to our winners!&lt;/b&gt;
+
+1st - &lt;b&gt;RedRue&lt;/b&gt;  &lt;img src="http://files.kru.com/DarkAges/Media/Images/RedRue.bmp"&gt;
+
+2nd - &lt;b&gt;Dyven&lt;/b&gt;   &lt;img src="http://files.kru.com/DarkAges/Media/Images/Dyven.bmp"&gt;
+
+3rd - &lt;b&gt;Ninurta&lt;/b&gt; &lt;img src="http://files.kru.com/DarkAges/Media/Images/Ninurta.bmp"&gt;</Content>
+</NewsArticle>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>1</Day>
+  <Year>2015</Year>
+  <Title>Battle Server Bug</Title>
+  <Type>1</Type>
+  <Content>To resolve the Battle Server Bug,
+
+1) Delete the Dark Ages Folder in the KRU folder.
+
+2) Using the same installer you already downloaded, reinstall the client.
+
+3) delete the shortcut on the desktop.
+
+4) create a new shortcut using the executable in the ..\KRU\Dark Ages\ folder.
+
+or
+
+You can download the new client DA703a.exe in the download section of the website.</Content>
+</NewsArticle>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>5</Day>
+  <Year>2015</Year>
+  <Title>Item Shop Information</Title>
+  <Type>1</Type>
+  <Content>Warranty Bags
+Please keep in mind that Warranty Bags are consumed when players ascend.
+
+Armor Dye
+Only item shop armors that are designated as dyeable can be dyed. </Content>
+</NewsArticle>

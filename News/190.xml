@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>9</Day>
+  <Year>2015</Year>
+  <Title>Missing Greaves</Title>
+  <Type>1</Type>
+  <Content>&lt;I&gt;To Aislings,
+
+   If you haven't noticed, certain greaves have been disappearing in Temuair. Intially it was thought that thieves were responsible, but after much research I believe some sort of magic was used. Do not worry, your greaves will be returned to you in a couple days. I will investigate further.
+
+Eduardo&lt;I/&gt;</Content>
+</NewsArticle>

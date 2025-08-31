@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>8</Day>
+  <Year>2015</Year>
+  <Title>Erbie Giveaway</Title>
+  <Type>1</Type>
+  <Content>Here is your chance to receive a stuffed Erbie toy! Click the link for more information.
+
+&lt;a target=_new href=http://www.darkages.com/event/christmas/christmas.html&gt;Erbie Toy&lt;/a&gt;</Content>
+</NewsArticle>

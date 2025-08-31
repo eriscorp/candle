@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>12</Day>
+  <Year>2015</Year>
+  <Title>More News About Medenia!</Title>
+  <Type>1</Type>
+  <Content>More news about the awesome Medenia expansion is now being released! Want to see more new screenshots, more new features? Your wait is now over. Click this &lt;a href="http://www.darkages.com/2002/newsletter/newsletter1211.htm" target="_blank" class="link"&gt;link&lt;/a&gt; here! </Content>
+</NewsArticle>

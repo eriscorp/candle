@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>19</Day>
+  <Year>2015</Year>
+  <Title>Archer Update Edit</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Edit&lt;/b&gt;
+Shock Arrow - deals damage based on 1% of the target's current hit points. &lt;b&gt;0&lt;/b&gt; line cast delay and costs 4% of the caster's maximum mana points (effective against high HP monsters). Ability 10.
+
+&lt;b&gt;Additional&lt;/b&gt;
+Star Arrow 1-5 - damage will be increased by approximately 30%.</Content>
+</NewsArticle>

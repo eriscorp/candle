@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>1</Day>
+  <Year>2015</Year>
+  <Title>Player review of Dark Ages</Title>
+  <Type>1</Type>
+  <Content>"There is a lot of things in this game, too much to describe. The feel of it all is like no other, you'd have to play to catch my meaning."
+
+&lt;a href=http://www.girlsgametoo.com/gamereview/3.html target=_new&gt;Read it.&lt;/a&gt;</Content>
+</NewsArticle>

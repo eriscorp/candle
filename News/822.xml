@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>15</Day>
+  <Year>2015</Year>
+  <Title>Hunting Area &amp; Boss Drop Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Updates&lt;/b&gt;
+
+&lt;b&gt;Hunting Area Updates&lt;/b&gt;
+* Increased  Experience points and Gold drops in Nobis
+* Increased  Experience Points in Chaos
+* Increased  Experience and Ability points in Chadul Realms
+* Increased  Rate of Spawns, Number of Spawns, Experience points and Gold drops in CR
+* Increased  Rate of Spawns, Number of Spawns, Experience points in MTG
+
+&lt;b&gt;Boss Drops&lt;/b&gt;
+* Increased the chance of obtaining "Arcella's Stolen Bag" from the Boss Yowien Thief.
+* Increased the chance of obtaining "Upgrade Plans" from the Boss Law.
+
+</Content>
+</NewsArticle>

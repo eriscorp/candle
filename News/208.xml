@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>1</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages Newsletter v3!!</Title>
+  <Type>1</Type>
+  <Content>The latest news on the upcoming Medenia!
+
+
+&lt;a target=_new href=http://www.darkages.com/2002/newsletter/newsletter0131.html&gt;Newsletter v3&lt;/a&gt;
+</Content>
+</NewsArticle>

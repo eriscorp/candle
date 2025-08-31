@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>10</Day>
+  <Year>2015</Year>
+  <Title>7.28 Details</Title>
+  <Type>1</Type>
+  <Content>Dark Ages servers were reset for the following updates:
+
+3rd Party Programs
+We have made some changes that will hinder the use of third party programs in Dark Ages. We will continue to monitor this and make changes to the game in the coming months.
+
+Due to extensive abuse, players can no longer sub with items equipped.
+All current characters wearing inappropriate class items will have their items removed and placed in their inventory or bank.</Content>
+</NewsArticle>

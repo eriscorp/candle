@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>31</Day>
+  <Year>2015</Year>
+  <Title>Download and Install Problems</Title>
+  <Type>1</Type>
+  <Content>We are experiencing a high volume of downloads for Dark Ages 7.03, so the download will be slow. We recommend trying the mirror sites posted on the front page of www.planetda.net.
+
+If you are having problems installing Dark Ages...
+
+1) Delete your temporary internet files, you can do this in the Tools section of your browser.
+
+2) Download the client again from the website, www.darkages.com
+
+3) Verify that the size of the download matches what is stated on the website, roughly 169MB.
+
+4) Make sure you have sufficient space on your hard drive.
+
+5) Re-install the client.
+
+
+If you are getting the ����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������Battle Server window, make sure you delete/uninstall the current Dark Ages. Then re-install using the installer you just downloaded.
+
+DA Team
+</Content>
+</NewsArticle>

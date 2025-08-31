@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>29</Day>
+  <Year>2015</Year>
+  <Title>Andor Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Andor Updates&lt;/b&gt;
+
+*Andor Queen: Increased EXP/AP reward
+*Andor King: Increased EXP?AP reward
+*Completely removed ability drain from all monsters
+*Monster drop rates increased for all items
+*Group members will now have a chance to receive King &amp; Queen's Andor Chest
+*Both Andor Chests will give you the option to receive Items, Gold or EXP/AP
+*Once the Queen is killed, everyone in the group will be ported out</Content>
+</NewsArticle>

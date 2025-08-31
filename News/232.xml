@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>5</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages: Medenia Chat on Stratics</Title>
+  <Type>1</Type>
+  <Content>Coming up Wednesday, a chat is scheduled on Stratics IRC with the Dark Ages team. The topic for this discussion will be Introduction to Everything Dark Ages: Medenia. The chat will be on May 7th at 4:00 PM PDT in #DAHOC on Stratics IRC. You can connect to Stratics IRC servers by using mIRC, pirch, Ircle, or one of your favorite linux chat clients and connect to irc.stratics.com port 6667 or to a server closest to you:&lt;p&gt;
+
+stratics.frws.com port 6667 USA - Colorado
+irc.glowfish.de port 6667 EU - Germany
+irc.epaxsys.net port 6667 USA - Colorado
+</Content>
+</NewsArticle>

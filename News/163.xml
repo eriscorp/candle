@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>1</Day>
+  <Year>2015</Year>
+  <Title>New Weekly Poll Online!</Title>
+  <Type>1</Type>
+  <Content>Do you have ideas what youd like to see added to Dark Ages? Let us know by participating in this weeks Dark Ages poll on the right of your screen!</Content>
+</NewsArticle>

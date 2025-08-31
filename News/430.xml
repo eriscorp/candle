@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>13</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages 7.10 Preparation</Title>
+  <Type>1</Type>
+  <Content>Dark Ages is still on schedule to patch to version 7.10 on 03/14. Players who are currently using 7.05 will automatically update with the auto-patcher when starting up Dark Ages. Players also have the option of downloading the &lt;a href="http://files.kru.com/DarkAges/Client/Single/DarkAges705-710patch.exe"&gt;7.05-7.10 installer&lt;/a&gt; today. DO NOT use the installer until the Dark Ages servers have been updated (if you do, you will not be able to logon to Dark Ages until the servers are updated on 03/14). An in-game broadcast will be made minutes before the update, along with a website post.
+
+DA Team</Content>
+</NewsArticle>

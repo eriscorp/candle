@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>24</Day>
+  <Year>2015</Year>
+  <Title>Updates</Title>
+  <Type>1</Type>
+  <Content>The following changes and additions were made:
+
+1) The Tagor Pet Shop has been released with a variety of pets to choose from.
+
+2) New sounds to skills and spells were added.
+
+3) Changes to the game server were made to further reduce bandwidth usage and lag.
+
+DA Team</Content>
+</NewsArticle>

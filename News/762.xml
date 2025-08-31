@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>24</Day>
+  <Year>2015</Year>
+  <Title>2nd Itemshop Release</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Itemshop will be released on Friday October 24th&lt;/b&gt;
+
+Items will include:
+
+HATS
+COSTUMES
+WEAPONS</Content>
+</NewsArticle>

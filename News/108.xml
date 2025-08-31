@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>20</Day>
+  <Year>2015</Year>
+  <Title>Nexon fixed Nigel Quest Reward</Title>
+  <Type>1</Type>
+  <Content>Completing all parts of the Nigel quest now correctly offers a special item from his open chest.  You may need to wander around the chest to find the treasure.  Nigel quest had offered a reward from his chest.  However, until now, the chest was empty.  We apologize for the inconvenience and appreciate your detailed reports that helped identify the error.  </Content>
+</NewsArticle>

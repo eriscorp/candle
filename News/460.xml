@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>5</Day>
+  <Year>2015</Year>
+  <Title>Fiery Defender Bug</Title>
+  <Type>1</Type>
+  <Content>A fix has been added to prevent the Fiery Defender from attacking Aislings. If players experience further problems with this issue please submit a support ticket. All abusers of this bug will be blocked.
+</Content>
+</NewsArticle>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>26</Day>
+  <Year>2015</Year>
+  <Title>Server Maintenance - UPDATE</Title>
+  <Type>1</Type>
+  <Content>On May 26th between 8:00AM-8:30AM PST, there will be a scheduled server reset. The servers will be down for about 3 hours. Thank you for your cooperation.
+
+**The server maintenance is taking longer than expected, but we are working to minimize the downtime and hope to get the DA servers back up shortly.**
+
+DA Team</Content>
+</NewsArticle>

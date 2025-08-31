@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>9</Day>
+  <Year>2015</Year>
+  <Title>New Contest System</Title>
+  <Type>1</Type>
+  <Content>A new contest system will be implemented shortly. The new system will provide a better oppurtunity for each entry to receive an award. Here is a brief description of how it works.
+
+To enter a contest, Aisling must first attend classes at Mileth College. When attending a class, an Aisling will have a chance to earn an "Educated" mark. After receiving 5 marks, that Aisling will be eligible to post their entry (for any subject they wish) on the board in the Contest Hall. Judges (previous winners) will then review the entry and grade it by posting on the board. All the grades will be tallied by the Contest Host. The entr����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������y and the grades will be submitted to the Mundanes. We will review the entry as well and determine what award the Aisling will receive.
+
+Grading Scale:
+Aisling
+Kingdom
+Village
+Clave
+None
+
+Contest Host: Naze</Content>
+</NewsArticle>

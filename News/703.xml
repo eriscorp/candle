@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>28</Day>
+  <Year>2015</Year>
+  <Title>New Area - Capture The Flag </Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Capture the Flag&lt;/b&gt;
+
+The "Capture the Flag" map is being released today after this afternoon's reset ~4PM.
+
+LOCATION: 
+Suomi Village
+Please speak to Keane to gain access to the map.
+
+Games will be hosted by Suomi Troupes members. For more information contact Etna, Burgess of Suomi Troupe.
+
+CTF is still in Beta, some options may not available. Rules and features of the game may change at anytime.
+
+((This area is for registered players only, no level restrictions.))
+</Content>
+</NewsArticle>

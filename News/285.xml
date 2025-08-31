@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>23</Day>
+  <Year>2015</Year>
+  <Title>Update for 01/24/04</Title>
+  <Type>1</Type>
+  <Content>On Saturday, January 24th the following will be updated for Dark Ages:
+
+1)Fixed Arena Wins - Players no longer have to step on a tile to receive their wins. Once the host casts a win, players of the winning team will automatically receive their mark and teleport to their starting location. Losers will also be teleported as well.
+
+2) Fixed Filter Skipping - Using "Tab" within the text will no longer bypass the curse filter. However, any text that is part of the curse filter will delete any tab and space within the sentence. For example, "Lol that was funny" will result in "Amusingthatwasfunny".
+
+3) Loures Castle����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� - Since all of the towns got a face lift, King Bruce got jealous and decided to re-model Loures Castle.
+
+4) Loures Market Village - A new town will be added to Loures. Each building in this town will allow players to become a merchant behind a counter and sell items. Each building is labeled with categories showing what is for sale.
+
+Services: Can't do it by yourself? Find someone who can. We provide all types of Aisling services.
+
+Information: Want to know how strong your nemesis is? Have questions about Mastering your path? Pay to have someone explain.
+
+Clothing and Weaponry:  If you can wear it, we can sell it.
+
+Animal Commodities: Brought in from the deepest forest, murkiest swamps, and darkest crypts.  Find your animal parts here.
+
+Potions and Gems:  Find your valuable and not so valuable Potions and Gems here.
+
+Rare Artifacts: Anything worth more than 15,000,000 Gold can be sold here.
+
+Adventure Artifacts: For completing all of your questing and adventuring needs.
+
+
+
+Happy Lunar New Years,
+DA Team</Content>
+</NewsArticle>

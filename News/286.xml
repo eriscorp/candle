@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>30</Day>
+  <Year>2015</Year>
+  <Title>Update for 01/30/04</Title>
+  <Type>1</Type>
+  <Content>1.There will be a new Arena System when admitting combatants and spectators. Players must wait in the Arena Gauntlet. Once the Host sets the requirements and fee, Combatants will automatically be teleported to the Arena Underground, and Spectators will automatically be teleported to the Arena Coliseum as a spirit.
+
+2. Modifications have been made to Wizards spells to improve the class overall.
+
+DA Team</Content>
+</NewsArticle>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>20</Day>
+  <Year>2015</Year>
+  <Title>Server Downtime Compensation</Title>
+  <Type>1</Type>
+  <Content>We are holding a 60% extra EXP/AP event as compensation for the server downtime that occurred during August 4th. This event will begin on August 27th and END on August 30th. Registered accounts only. </Content>
+</NewsArticle>

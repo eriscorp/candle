@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>13</Day>
+  <Year>2015</Year>
+  <Title>Network Maintenance</Title>
+  <Type>1</Type>
+  <Content>Hi Everyone,
+On July 14, 2004, from 11:00 AM to 3:00 PM PST, our ISP will be upgrading their networks to improve the connection. During this period, we may expect some network issues such as delays and disconnections. We apologize for any inconveniences this may cause.
+
+</Content>
+</NewsArticle>

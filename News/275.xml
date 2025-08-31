@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>14</Day>
+  <Year>2015</Year>
+  <Title>Eingren Manor</Title>
+  <Type>1</Type>
+  <Content>"Some strange things lie within the heart of this island, evil things."
+
+"Near the village there was a peak and at the top was a large mansion called Eingren Manor."
+
+"Everyone eventually left the town leaving it barren. No one really knows what happened there."
+
+&lt;img src="http://www.darkages.com/2002/screenshots/images/EingrenManor.jpg"&gt;</Content>
+</NewsArticle>

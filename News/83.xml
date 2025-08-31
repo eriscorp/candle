@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>14</Day>
+  <Year>2015</Year>
+  <Title>New Web Site</Title>
+  <Type>1</Type>
+  <Content>Welcome to the new Dark Ages web site with all new graphics, style, and improved navigation.  Many sections are under construction.</Content>
+</NewsArticle>

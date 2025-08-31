@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>10</Day>
+  <Year>2015</Year>
+  <Title>Account System Maintenance: July 10th, 2013</Title>
+  <Type>1</Type>
+  <Content>We will be conducting some maintenance on the account system this morning from roughly 10am to 1pm. During this time renewal codes and coupons will not be able to be purchased, the itemshop will be down, and accounts cannot be renewed. The games will be otherwise unaffected.</Content>
+</NewsArticle>

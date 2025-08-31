@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>19</Day>
+  <Year>2015</Year>
+  <Title>Master Arena Host</Title>
+  <Type>1</Type>
+  <Content>A new position has been created to improve the Arena system, the Master Arena Host. The Master Host will have the ability to appoint new hosts, remove hosts, exile fighers, and unexile fighters. All hosts will also receive Arena Host Uniforms, so they may be distinguishable in battle. Through the recommendation of othert, Murdred has been appointed as the first Master Arena Host.
+</Content>
+</NewsArticle>

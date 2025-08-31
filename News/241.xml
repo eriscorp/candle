@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>10</Day>
+  <Year>2015</Year>
+  <Title>Web Servers</Title>
+  <Type>1</Type>
+  <Content>You may have noticed some downtime with, on or have difficulty connecting to, Nexon's websites. This is due to unscheduled maintenance on our web servers from Wednesday through today. Fully restored access should be available shortly. Thank you for your patience and understanding!
+
+Nexon Inc.</Content>
+</NewsArticle>

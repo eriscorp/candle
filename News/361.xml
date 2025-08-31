@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>26</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages 7.03</Title>
+  <Type>1</Type>
+  <Content>We are excited to announce that the next update for Dark Ages will be version 7.03. The delay of 6.0 was caused by the decision to update Dark Ages further to 7.03 which will include more features. The release date for Dark Ages 7.03 is set for Monday, October 31st. Below is the list of new features for 7.03. We would also like to remind you all about the Eulogy coming up around Thanksgiving next month.
+
+&lt;b&gt;Dark Ages 7.03&lt;/b&gt;
+
+&lt;b&gt;New Interface&lt;/b&gt;
+
+New login screen
+
+New Character Creation Screen
+
+Re-designed game interface
+
+Re-designed equipment and legend window
+
+Map Name and position Display(x,y)
+
+Full V�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������iew Mode - minimizes the game interface for a larger view of the map.
+
+Inventory Space - two rows of inventory space have been added.
+
+Trade Skill Window - beneath the character stats window(press the 'h' key), non-combat spells such as 'look' and 'nis' will be moved here.
+
+Mouse-Over Item text - hovering the mouse cursor over an item will display the item name and durability.
+
+Skill Delay Display - when using a skill, a delay meter will appear on the skill showing the delay time.
+
+Mundane Portrait - when speaking to some Mundanes, a special portrait will appear. Portraits for other mundanes will be added over time.
+
+Mundane Text window - when speaking to Mundanes the text window will appear at the bottom of the screen, instead of the middle.
+
+Hot Key window - shows what the hot keys are.
+
+Color Coded Object Map - the object map(pressing tab) will display characters, monsters, mundanes, and items in different colors.
+
+Item Sale Description - Items sold by Mundanes will have a description in the purchase window. This is a work-in-progress, descriptions of each item will be added over time.
+
+&lt;b&gt;Game Features&lt;/b&gt;
+
+New Emotions - Pressing 'Alt' and a number key, Alt+(1-0), will reveal a new set of character emotions.
+
+Graphic Updates - the graphics for some items, monsters, mundanes, and map tiles have been updated.
+	
+Night and Day - Temuair towns now have night and day, lamp posts have been placed in the towns providing light at night.
+	
+Group Management - can set the name, size, level, and class requirements of a group. If open, the group name will appear over the leader for others to click and join.
+	
+Guild Battles - Guilds and fellowships will have the oppurtunity to battle for 1 of 5 castles. Maintaining and defending control of a castle will yield gold. Each castle has a control point. When a control point is destroyed, the attacking guild gains control. There is also an attack point, if the attack point is destroyed the castle has been successfully defended. The attacking guild only has 60 minutes to attack a castle. Initially each castle will be unowned, and a free-for-all event will take place. Guild Battles will not be open upon release of DA703, it will open after the free-for-all event which will be scheduled shortly after release of DA703.
+
+
+&lt;b&gt;New Area&lt;/b&gt;
+
+Loures Sewer Canals - a new hunting area with mini-bosses and bosses that drop new items.</Content>
+</NewsArticle>

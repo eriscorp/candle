@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>12</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages Update</Title>
+  <Type>1</Type>
+  <Content>Hello Aislings,
+
+We would first like to apologize for the recent server problems that have occurred in the past couple of weeks. We have been implementing changes to the server and it took some time to test and ensure that the issue has been completely resolved. What happened was that some players were able to perform any quest script with any NPC character, and that was how they did what they did. The crashes was caused by overloading the NPC. Everything should be under control now. There are a few minor bugs that we are aware of such as fas nadur spells, legends, mantis kick, and etc. We are working to fix them and �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������some should be fixed as you read this. Rest assured that the people responsible for this will be reported to the fullest extent. 
+
+The security of our account database was never compromised. Your account and characters are well protected. However, you guys gotta be careful of the stuff you download onto your computer, especially if they are from other players.
+
+We will catch up with our support emails and then continue working on the many new projects we have in store for Dark Ages.
+
+DA Team</Content>
+</NewsArticle>

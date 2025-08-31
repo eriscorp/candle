@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>12</Month>
+  <Day>18</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages 7.26</Title>
+  <Type>1</Type>
+  <Content>On Friday, December 18th, Dark Ages will be patching to version 7.26</Content>
+</NewsArticle>

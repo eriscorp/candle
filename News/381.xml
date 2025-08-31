@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>5</Day>
+  <Year>2015</Year>
+  <Title>Bug Fixes</Title>
+  <Type>1</Type>
+  <Content>The Perferct Defense skill should now be working. Suain and Sleep Traps should now have the proper effect on all monsters.
+
+We are aware of the following bugs and we are currently working to fix them as soon as we can.
+
+Guild Bank access
+asgall faileas
+Assassin Strike with no disarm
+ghost bashing
+disconnections when accessing certain items from the bank or shop
+becoming stuck when initiating a trade window
+
+The Veltain Mines is scheduled to be released Wednesday, January 11. There will be many new items from within the mines aswell as new Medenia armors and the next Medenian skill/spell levels. The ability requiremen����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������t for some of the current Medenian skills and spells will be re-adjusted as well.</Content>
+</NewsArticle>

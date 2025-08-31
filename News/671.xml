@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>2</Day>
+  <Year>2015</Year>
+  <Title>DA Patch 7.35</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;DA Version 7.35&lt;/b&gt;
+
+On Thursday, August 2nd, Dark Ages will be patching to version 7.35
+
+Patching Issues with Vista &amp; Windows7:
+Please "right-click" your Darkages.exe icon and choose "Run as administrator"
+
+&lt;b&gt;Patch notes&lt;/b&gt;
+*Fixed swimming animation for male aislings
+</Content>
+</NewsArticle>

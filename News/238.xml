@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>20</Day>
+  <Year>2015</Year>
+  <Title>Character Passwords</Title>
+  <Type>1</Type>
+  <Content>This is a reminder to all players. Please do not give your password to anyone. Make sure your password is not guessable. Do not accept any email or download anything from another player you do not know. And check your computer for viruses regularly as well. This will ensure the security of your characters.
+
+DA Team</Content>
+</NewsArticle>

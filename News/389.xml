@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>1</Day>
+  <Year>2015</Year>
+  <Title>PlanetDA Dev Chat</Title>
+  <Type>1</Type>
+  <Content>PlanetDA and the DarkAges Team will be hosting a developer chat on Tuesday March 7th at 3pm pst (4pm MTN, 5pm Central, 6pm EST, 11pm GMT).
+
+Questions will be sent to a specific location where PDA Staff and DarkAges staff will choose appropriate and moderated questions to be asked to the main channel. The main channel will be moderated in order to avoid questions and answers scrolling, and members causing problems. More explanation will be provided during the chat.
+
+To connect to the IRC server, please visit PlanetDA.net and click the 'Live Chat' link on the top right corner of the website.
+
+If you have an ����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������IRC program, you may also reach the chat by connecting to any Dalnet IRC server.
+Known servers to be working:
+mesra.kl.my.dal.net
+serenity.ix.us.dal.net
+loyalty.ix.us.dal.net
+hotspeed.sg.as.dal.net
+jingo.ix.us.dal.net
+rangers.ix.us.dal.net
+
+Then joining the channel #planetda by typing
+/join #planetda
+
+We hope to see you all there!</Content>
+</NewsArticle>

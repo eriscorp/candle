@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>7</Day>
+  <Year>2016</Year>
+  <Title>Server Maintenance Complete</Title>
+  <Type>1</Type>
+  <Content>We have completed our server move and Dark Ages is back up and running! Thank you all for your patience during the downtime. While we've made every effort to make the move as seamless as possible, if you notice any issues don't hesitate to let us know by sending in a support ticket. 
+In case you experience an error popup when login, please run DarkAges.exe as an administrator once.
+Thanks!</Content>
+</NewsArticle>

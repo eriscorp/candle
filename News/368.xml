@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>7</Day>
+  <Year>2015</Year>
+  <Title>Labor Bug Fixed</Title>
+  <Type>1</Type>
+  <Content>The labor bug has been fixed. To reset your labor, please visit the Labor Mundanes. They will provide a ((labor fix)) option.</Content>
+</NewsArticle>

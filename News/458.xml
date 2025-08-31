@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>22</Day>
+  <Year>2015</Year>
+  <Title>Dye Bug with the Fit Bathing Armors</Title>
+  <Type>1</Type>
+  <Content>We are aware of a display bug with the Fit Bathing Armors when they are dyed. The equipped color will not display. This issue will be resolved with the next patch coming soon. If you have already dyed your Fit Bathing Armor, it will still have the dyed color information, and will display in the appropriate color once we patch. We apologize for any inconvenience. </Content>
+</NewsArticle>

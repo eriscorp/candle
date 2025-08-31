@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>6</Month>
+  <Day>24</Day>
+  <Year>2015</Year>
+  <Title>Bug Fix Week</Title>
+  <Type>1</Type>
+  <Content>This week the DA Team will be concentrating on fixing bugs for Dark Ages. We request the help of all players to report any valid bugs they are aware of to 
+da-bugs@nexon.net. This is for bugs only, please no ideas or suggestions. Thank you.
+
+DA Team</Content>
+</NewsArticle>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>14</Day>
+  <Year>2015</Year>
+  <Title>Patch Error</Title>
+  <Type>1</Type>
+  <Content>If you are experiencing problems patching, delete the "Patch" folder in your Dark Ages directory and run DarkAge.exe again.</Content>
+</NewsArticle>

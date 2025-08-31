@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>30</Day>
+  <Year>2015</Year>
+  <Title>7.11 patch on 04/05</Title>
+  <Type>1</Type>
+  <Content>On Thursday, April 5th, Dark Ages will patch to 7.11.
+
+The "naked" animation will be fixed for the new armor slot. The itemshop system will be implemented but will NOT be released. We need to test the system first and ensure there are no major problems. The release date for the itemshop is tentatively set for April 12th. New hairsytles, hair color, pets, formal clothing, and much more will be available for the initial release.
+
+The currency for the itemshop will be Kruna. Players can purchase kruna at the coupon shop (where you buy registration coupons). A kruna coupon will credit an account with 1000 kruna. Krun�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������a is not transferable between accounts. As a promotion for the itemshop release, Kru will be giving away kruna to each account that is registered from today to the release of the itemshop. The amount of kruna given is based on the year the account is registered.
+
+1999 = 700 kruna
+2000 = 600 kruna
+2001 = 500 kruna
+2002 = 400 kruna
+2003 = 300 kruna
+2004 = 250 kruna
+2005 = 200 kruna
+2006-2007 = 150 kruna</Content>
+</NewsArticle>

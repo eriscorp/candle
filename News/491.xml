@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>15</Day>
+  <Year>2015</Year>
+  <Title>Team Arena Release</Title>
+  <Type>1</Type>
+  <Content>On Wednesday, February 20th, Team Arena will be released. There are a few changes since beta.
+
+-The team balancing has been slightly changed.
+
+-The spawn area will be blocked off from the opposing team.
+
+-Winning teams, in a match with 10 or more participants, will receive ability points and experience based on their current ability and insight.
+
+-Winning matches (with 10 or more participants), will be recorded in the character's legend. Characters can purchase medals based on the number of wins.
+
+Champion Medals - 5000 wins
+Contender Medals - 2000 wins
+Battler Medals - 500 wins
+Fighter Medals - 100 wi����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ns</Content>
+</NewsArticle>

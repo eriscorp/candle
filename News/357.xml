@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>20</Day>
+  <Year>2015</Year>
+  <Title>Guild Updates</Title>
+  <Type>1</Type>
+  <Content>Guild Inventory - Guilds can now deposit items into their Guild Inventory. Only Leaders of the guild can withdraw items from the inventory. Players cannot deposit non-drop items.
+
+Guild Starting Point - After reaching 128 members, guilds have the option of purchasing their own starting point. The starting point must be in a house from any town (even Medenia). The cost of a starting point will be 200 million gold. Some houses may not be allowed depending on their use, in the end it is up to the Mundane's approval. Leaders must submit their request through the support ticket system.</Content>
+</NewsArticle>

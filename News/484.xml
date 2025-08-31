@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>23</Day>
+  <Year>2015</Year>
+  <Title>Dark Ages 7.19</Title>
+  <Type>1</Type>
+  <Content>On Wednesday, January 30th, Dark Ages will be patching to version 7.19
+
+Graphic and color bug has been fixed:
+
+Female Gold Kindjal displays the correct graphic.
+Bunny Polyp Puppet displays the correct color.
+Black Cape's inner trim is now dyeable.
+
+DA Team</Content>
+</NewsArticle>
