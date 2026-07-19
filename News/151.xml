@@ -1,10 +1,24 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>8</Month>
-  <Day>19</Day>
-  <Year>2015</Year>
-  <Title>Temuair Times 6</Title>
+  <Month>12</Month>
+  <Day>14</Day>
+  <Year>1999</Year>
+  <Title>Maintenance</Title>
   <Type>1</Type>
-  <Content>&lt;a target=_new href=http://www.darkages.com/newsletter/issue6/TemuairTimesIssue6.htm   
-The Temuair Times - Issue 6&lt;/a&gt;</Content>
+  <Content>- 12.13 11:59 p.m. pst - 12.14 02:00 a.m. pst
+
+On Monday night (1999/12/13), all servers will be offline from 11:59 p.m.
+until 1999/12/14 2:00 a.m. Nexon
+upgrades hardware capacity to expand our worlds.
+
+- Dark Ages: Online Roleplaying
+
+- Nexus: The Kingdom of the Winds
+
+- All Web Servers
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
+</Content>
 </NewsArticle>

@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>11</Day>
-  <Year>2015</Year>
-  <Title>Suomi Troupe Open House</Title>
+  <Month>5</Month>
+  <Day>2</Day>
+  <Year>2002</Year>
+  <Title>Oren Island Coming Soon</Title>
   <Type>1</Type>
-  <Content>Citizens of Suomi, tell your friends about our upcoming Open House! This will be an excellent opportunity for us to demonstrate to the curious aisling just why our fair community is such a great place to live. Light refreshments will be served.
+  <Content>Oren Island will be open to all Aislings on 05/10/02. New quests, new creatures, new armor, and a whole new town! So be prepared!
 
-((Open House will be held on June 14th 12PM PST.))
-Location: Suomi Fountain
-
--Suomi Troupe
-
-&lt;img src="http://files.kru.com/DarkAges/Media/images/TroupeGathering.jpg"&gt;</Content>
+            -Posted Around Rucesion and Abel
+&lt;a target=_new href=http://www.darkages.com/webpages/images/Oren/Oren1.jpg&gt;"Oren Island 1"&lt;/a&gt;
+&lt;a target=_new href=http://www.darkages.com/webpages/images/Oren/Oren2.jpg&gt;"Oren Island 2"&lt;/a&gt;
+&lt;a target=_new href=http://www.darkages.com/webpages/images/Oren/Oren3.jpg&gt;"Oren Island 3"&lt;/a&gt;
+</Content>
 </NewsArticle>

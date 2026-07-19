@@ -1,9 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>2</Day>
-  <Year>2015</Year>
-  <Title>Temuair Fair</Title>
+  <Month>2</Month>
+  <Day>14</Day>
+  <Year>2000</Year>
+  <Title>Network Error</Title>
   <Type>1</Type>
-  <Content>The Temuair Fair is now open, come join the festivities! The fair will be open for about a week. Don't miss out.</Content>
+  <Content>02.14 16:44 - 18:28 pst
+
+ Dark Ages was unavailable because of our network error during a network upgrade. We apologize. Service is available now.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
+</Content>
 </NewsArticle>

@@ -1,15 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>10</Day>
-  <Year>2015</Year>
-  <Title>Guild Battle Changes</Title>
+  <Month>1</Month>
+  <Day>12</Day>
+  <Year>2001</Year>
+  <Title>All Contests for Year 2000 are Completed</Title>
   <Type>1</Type>
-  <Content>These changes will take place sometime on Friday, November 11.
+  <Content>After a large blacklog of contests and working around the various events and updates, all contests for the year 2000 have been judged and placed upon the website. All awards for these contests have been handed out. NOTE: The Event contest has been postponed indefinitely.
 
-Guilds can only attack 2 times every 4 hours.
-
-Attack Points will have a defense mechanism.
-
-Price to attack is now 2 million coins.</Content>
+The contests for January 2001 will be judged and worked on this month, keeping the contest winners current.
+</Content>
 </NewsArticle>

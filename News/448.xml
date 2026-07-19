@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>6</Day>
-  <Year>2015</Year>
-  <Title>Missing Items</Title>
+  <Month>11</Month>
+  <Day>16</Day>
+  <Year>2001</Year>
+  <Title>Board Locations Fixed</Title>
   <Type>1</Type>
-  <Content>All missing items from the morning reset on 06/06 have been returned to all affected characters. We apologize for the inconvenience. If you have a character that did not receive their missing item(s). Please submit a support ticket and we will resolve the issue as soon as we can.
-
-DA Team </Content>
+  <Content>Boards are in their correct locations. From approximately 11/15 1 p.m. PST through 11/16 1 p.m. most boards, such as Rucesion Community and Mileth Justice, were accessed from the location of what should be a different board. We apologize for your temporary inconvenience. 
+</Content>
 </NewsArticle>

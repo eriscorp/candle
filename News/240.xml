@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>12</Day>
+  <Year>2000</Year>
+  <Title>Journal</Title>
+  <Type>1</Type>
+  <Content>Save a special moment, an inspired spontaneous poem or story, a romantic moment, a wonderful event at the fair or elsewhere. Use your journal.
+
+Please be respectful and considerate with how you use the journal. Gain permission of others if quoting them. &lt;i&gt;Respect the privacy of others,&lt;/i&gt; or you will quickly find yourself friendless and untrusted by all.
+
+Since a journal is an easily edited text file, do not believe a journal entry to be proof.
+
+The journal is only stored on &lt;i&gt;your&lt;/i&gt; Dark Ages program folder. It is private and not available to anyone else unless you choose to make it available.
+
+&lt;b&gt;Journal Instructions&lt;/b&gt;
+
+- View your Dark Ages conversation window.
+
+- Press &lt;b&gt;&lt;tt&gt;&lt;Alt&gt; j&lt;/tt&gt;&lt;/b&gt; to turn on/off Journal.
+
+- The red words "Start recording/End recording" will appear in your conversation window.
+
+- All conversation before "Start recording" message is &lt;i&gt;not&lt;/i&gt; recorded.
+
+- When you are done, exit Dark Ages.
+
+- Enter your Dark Ages program folder.
+
+- Enter your character's folder.
+
+- A text file will be there with your character's name and a long number, which is the month, day, hour, and minute that you began recording in.
+</Content>
+</NewsArticle>

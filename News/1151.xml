@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>10</Month>
+  <Day>23</Day>
+  <Year>2015</Year>
+  <Title>Reset Notes</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Reset Notes&lt;/b&gt;
+
+- Monster Stats
+* Updated monsters in Shinewood with proper EXP
+
+- Boss Drops
+* Updated Lost Ruins Boss "Law" with higher percentage of drops. Upgrade plans will be easier to obtain. 
+
+- Troupe Event
+* Suomi Troupe event information can be found in the in-game boards.
+
+Dark Ages Team </Content>
+</NewsArticle>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>3</Day>
-  <Year>2015</Year>
-  <Title>Support Email Delay</Title>
+  <Month>8</Month>
+  <Day>8</Day>
+  <Year>2000</Year>
+  <Title>ISP Connection</Title>
   <Type>1</Type>
-  <Content>Greetings,
+  <Content>14:30, An Internet Service Provider near Dark Ages servers suffers network degradation. We are pressing the ISP to fix their error. It will affect some connections to Dark Ages servers. Be safe with your characters. Restorals of losses due to internet latency are not made.
 
-Due to the holidays, email responses will be delayed. We will eventually get to every email. Thank you for your patience.
-
-DA Team</Content>
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

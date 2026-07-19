@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>19</Day>
+  <Year>1999</Year>
+  <Title>Portrait</Title>
+  <Type>1</Type>
+  <Content>&lt;i&gt;Create your image to display to others&lt;/i&gt;
+
+ Create your unique image. Logon to &lt;i&gt;Dark Ages,&lt;/i&gt; and any player
+ you meet can see your image.
+
+ See [portrait feature](http://www.darkages.com/2000/play/s_portrait.html)
+ screenshot, and all feature [screenshots.](http://www.darkages.com/2000/pics/index_feature.html)
+</Content>
+</NewsArticle>

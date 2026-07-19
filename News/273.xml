@@ -1,9 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>3</Day>
-  <Year>2015</Year>
-  <Title>Day Added to All Dark Ages Accounts</Title>
+  <Month>7</Month>
+  <Day>25</Day>
+  <Year>2000</Year>
+  <Title>Axes, Armor, and Corpses</Title>
   <Type>1</Type>
-  <Content>Due to the server maintenance issues last Friday, all Dark Ages players will have a day of playtime added to their accounts.</Content>
+  <Content>Goblins and other races reveal axes, other new weapons, and some new armor that they have coveted.
+
+Mundanes reveal how to extract interesting parts of the corpses of several natural and supernatural creatures.
+
+[Screenshot](http://www.darkages.com/2000/pics/s_cthonic.html)
+</Content>
 </NewsArticle>

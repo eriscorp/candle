@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>18</Day>
+  <Year>1999</Year>
+  <Title>New Features</Title>
+  <Type>1</Type>
+  <Content>&lt;i&gt;&lt;/i&gt;Dark Ages&lt;i&gt; adds several features during beta test&lt;/i&gt;
+
+- Religions
+
+- Politics
+
+- Guilds
+
+- Love
+
+- Portraits
+
+- Bulletins
+
+- Herbalism
+
+- Treasure Chests
+
+- Elemental Nodes
+
+- Martial Forms
+
+- Smithing
+
+- Tailoring
+
+- Mentoring
+
+- Enchantment
+
+- Research
+
+See [screenshots](http://www.darkages.com/2000/pics/index_feature.html) and descriptions of these features and more.
+</Content>
+</NewsArticle>

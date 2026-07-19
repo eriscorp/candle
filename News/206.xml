@@ -1,10 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>27</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages servers down</Title>
+  <Month>3</Month>
+  <Day>8</Day>
+  <Year>2000</Year>
+  <Title>Maintenance</Title>
   <Type>1</Type>
-  <Content>The Dark Ages servers are currently down due to another network attack. We are working on the problem, and hope to have it fixed soon.
+  <Content>03.08 11:44
+
+ Operator maintained Dark Ages. Service resumed after 34 minutes.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
 </Content>
 </NewsArticle>

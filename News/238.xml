@@ -1,11 +1,29 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>20</Day>
-  <Year>2015</Year>
-  <Title>Character Passwords</Title>
+  <Month>5</Month>
+  <Day>10</Day>
+  <Year>2000</Year>
+  <Title>Version 3.5</Title>
   <Type>1</Type>
-  <Content>This is a reminder to all players. Please do not give your password to anyone. Make sure your password is not guessable. Do not accept any email or download anything from another player you do not know. And check your computer for viruses regularly as well. This will ensure the security of your characters.
+  <Content>at 7 a.m. PDT&lt;/i&gt;
 
-DA Team</Content>
+Some new features will appear immediately and others will be finished later in May, in June, and in July.
+
+Check [www.darkages.com/news](http://www.darkages.com/news) for new feature details and schedules.
+
+&lt;b&gt;Installation Support&lt;/b&gt;
+
+But first, you will need to download the full client one time, because the auto-update system itself has been enhanced. After this one-time download, you can auto-update.
+
+- Wait until 00.05.10 at 7 a.m. PDT
+
+- Uninstall Dark Ages 2.27
+
+- [Download](http://www.darkages.com/2000/download) full Dark Ages 3.5 (it will not be available until the download page reads: Version 3.50)
+[www.darkages.com/download](http://www.darkages.com/download)
+
+- Install Dark Ages 3.5
+
+If you have any problem: [www.darkages.com/support/support.htm](http://www.darkages.com/support/support.htm)
+</Content>
 </NewsArticle>

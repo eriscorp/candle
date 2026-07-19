@@ -1,30 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>26</Day>
-  <Year>2015</Year>
-  <Title>Eulogy</Title>
+  <Month>1</Month>
+  <Day>25</Day>
+  <Year>2000</Year>
+  <Title>System Update</Title>
   <Type>1</Type>
-  <Content>The Eulogy 
+  <Content>A routine system update to the Dark Ages Game Servers will be happening during the early morning of Friday, January 26th, 2001. Between the hours of 12am and 3am PST, the system will go offline for approximately 20 minutes. We apologize for any inconvience this may cause.
 
-Kalliope, survivor of The Sacrifice, writes of the ceremony: 
-
-&lt;I&gt;The 32nd  anniversary of Danaan's sacrifice is upon us. The woods near Undine are restless with fear. Rat-like eyes infiltrate the night. 
-
-Traveling bards tell me that it is the same near Pravat and Mehadi. The world is aflame for the worship of the thirty-second  anniversary of Her sacrifice. The fervor concerns me. Each day the worshippers grow more hostile to those they consider unbelievers. 
-
-In Pravat the Grimlok worship Adranuch, their Lady of Gold. In Astrid the Kobolds worship Arpina, their All-Mother. In Mehadi the Mukul worship Matri�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ka, their Goddess of the Sun-heart. 
-
-Perhaps a gentle Aisling may worship alongside at any of these, provided she does not slay one of their race and is devote, so has not worshipped at one of the other two sites. 
-
-Kalliope
-Bard of Undine&lt;I/&gt; 
-
-((
-Preparation: 02.11.22
-First Rite: 02.11.24
-Second Rite: 02.11.25 4 p.m. PST 
-Eulogy: 02.11.26  530 p.m. PST
-))
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
 </Content>
 </NewsArticle>

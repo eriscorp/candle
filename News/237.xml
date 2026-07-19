@@ -1,9 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
+  <Month>5</Month>
   <Day>10</Day>
-  <Year>2015</Year>
-  <Title>Account Solutions for International Players</Title>
+  <Year>2000</Year>
+  <Title>Special Menus Fix</Title>
   <Type>1</Type>
-  <Content>Nexon is aware of international players needing alternative payment options for Dark Ages. We are working on an answer to this concern and anticipate being able to offer a new option to our international players by early July. In the meantime, for a limited time we have brought back the Friends and Family Package by popular demand. The Friends and Family Package can offer international players a way to extend their game account conveniently and easily -- without using a credit card! Check the Nexon Account Manager link &lt;a href="https://secure.nexon.net/account/default.asp?f1_frame=AcM" target=0����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������&gt;here&lt;/a&gt; for more information </Content>
+  <Content>00.05.11 at 11 a.m., we fixed an error that affected some menus, such as Treasure Chests, Herbalism, and the Tutorial on 00.05.10. Due to external internet error, fixes could not be installed on 00.05.10.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

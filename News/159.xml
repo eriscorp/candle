@@ -1,9 +1,28 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>9</Month>
-  <Day>9</Day>
-  <Year>2015</Year>
-  <Title>New Poll Online</Title>
+  <Month>1</Month>
+  <Day>5</Day>
+  <Year>2000</Year>
+  <Title>Guild: Private Tablet</Title>
   <Type>1</Type>
-  <Content>What do you think of how this website presents Dark Ages? Let us know by simply entering your opinion on the poll to your right!</Content>
+  <Content>A motley or guild with 16 or more members will have a guild letters
+ tablet made for the guild. The guild must be in Temuairan taste, according
+ to mundanes. The guild leader must write the mundanes when membership
+ is 16 or greater ((Submit event at: [www.darkages.com/community/news/index.html](http://www.darkages.com/community/news/index.html))).
+
+ The tablet is viewable and writable anywhere that mail is available
+ by a guild member. Only the motley or guild leader may administer the
+ tablet.
+
+ Private Tablets available immediately:
+
+- Aingeal Aire
+
+- Runic Terra
+
+- Tuatha de Deo
+
+ View [all
+ features screenshots.](http://www.darkages.com/pics/index_feature.html)
+</Content>
 </NewsArticle>

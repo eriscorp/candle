@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>20</Day>
+  <Year>2000</Year>
+  <Title>Server Upgrade</Title>
+  <Type>1</Type>
+  <Content>Text
+
+ &lt;i&gt;Nexon&lt;/i&gt; will be installing new hardware at our Internet Service Provider. This upgrade will
+ benefit all of Nexon's games. The upgrade will take place at 1:00 AM PST on Wednesday, September 20th, 2000.
+ We expect service to be unavailable for approximately two hours.
+ ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
+</NewsArticle>

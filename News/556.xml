@@ -1,11 +1,21 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>29</Day>
-  <Year>2015</Year>
-  <Title>Fireworks!</Title>
+  <Month>12</Month>
+  <Day>3</Day>
+  <Year>2002</Year>
+  <Title>Stratics Chat Today!</Title>
   <Type>1</Type>
-  <Content>Suffering from boredom, King Bruce has requested a fireworks show from one of the court jesters. Francis, the fireworks jester, will appear in front of Loures Castle and perform a fireworks show once every Temuairian day (every 3 hours). Francis will also be selling fireworks (for in-game gold).
+  <Content>Stratics will be hosting a brief developer chat with DA Team and Gaiden this afternoon at 2:15 Pacific Time. Have any questions about the exciting, new Dark Ages: Medenia? Now you have a chance to ask!
 
-((This event will begin on July 2nd and will end on July 9th.)) </Content>
+IRC Chat Servers:
+irc.frws.com
+irc2.frws.com
+irc.glowfish.de
+
+Channel
+#dahoc
+
+We hope to see you there!
+
+</Content>
 </NewsArticle>

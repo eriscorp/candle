@@ -1,13 +1,9 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>29</Day>
-  <Year>2015</Year>
-  <Title>Ability &amp; Experience Event</Title>
+  <Month>11</Month>
+  <Day>11</Day>
+  <Year>2002</Year>
+  <Title>New Poll of the Week!</Title>
   <Type>1</Type>
-  <Content>Starting February 6th, all registered accounts will receive 50% Extra Experience and Ability Points gained through monster kills, quest rewards, etc.
-
-This event to will begin on February 6th and END on February 9th 12PM PST.
-
-Register your accounts to take advantage of this special event!</Content>
+  <Content>When do you play Dark Ages? Before breakfast, just before bed, sometime in between...? Let us know the best time there is for you to play Dark Ages!</Content>
 </NewsArticle>

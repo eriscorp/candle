@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>12</Day>
+  <Year>1999</Year>
+  <Title>Dark Ages Interview by DarkNews Productions</Title>
+  <Type>1</Type>
+  <Content>&lt;i&gt;Dark Ages interview with the director, Dave Kennerly, covering an
+ introduction, society, new development, technology, and network by DarkNews
+ Productions.&lt;/i&gt;
+
+ &lt;i&gt;DarkNews&lt;/i&gt; - Excellent. Glad to be speaking with you.
+
+ &lt;i&gt;Dave Kennerly&lt;/i&gt; - My pleasure as well. I enjoy taking a break to
+ speak about Dark Ages.
+
+ &lt;i&gt;DN&lt;/i&gt; - Okay, for starters, would you mind giving a short rundown
+ on what Dark Ages is, the storyline behind it?
+
+ &lt;i&gt;Dave&lt;/i&gt; - Dark Ages, in short, is a world of faeries and dark horrors.
+ In the world, Temuair, the players are the 'tuatha de danaan' or the Children
+ of the Goddess of Light. They are 'Aislings': imaginative spirits whose
+ world is threatened by shadow, both without in the form of horrorific
+ creatures, and within, in the form of corruption and power lust.
+
+ &lt;i&gt;DN&lt;/i&gt; - You mentioned that players are called "Aislings". Could you
+ explain on where this name came from, and what it means?
+
+ &lt;i&gt;Dave&lt;/i&gt; - 'Aisling' is an old Gaelic name that translates as 'visionary,
+ dreamer'. For the world of Dark Ages, it separates the players, the imaginative
+ spirits, from the NPCs, the 'mundanes.' In Dark Ages, imagination is the
+ greatest attribute one could have. It is the root of all roleplaying.
+ Dark Ages is inspired by imagination and inspires imagination, through
+ in-depth social features, intriguing locales, interactive objects, and
+ contests of art, literature, lore, philosophy, and history.
+
+ &lt;i&gt;DN&lt;/i&gt; - After playing Dark Ages for some time, I have noticed that
+ the game mainly consists of killing various forest creatures to gain experience.
+ Is there an actual storyline or plotline that the players will eventually
+ follow?
+
+ &lt;i&gt;Dave&lt;/i&gt; - Yes. Killing various creatures is one way of gaining experience
+ and playing. One could also craft, research, worship, and more, depending
+ on the player's chosen class. There are a few quests that illustrate the
+ theme, and more are being developed. During development and beta-test
+ several ground-breaking features were developed, such as religions that
+ do provide miracles, politics that a player can participate in, and more.
+ During service, I spend much more time developing interactive epics, which
+ are grand plotlines that the players will participate in.
+
+ &lt;i&gt;DN&lt;/i&gt; - Also during my playtime, I have noticed that the difficultly
+ level for an area tends to go up very quickly the farther you go, an example
+ being the Crypt in Mileth, where the first level proves rather easy to
+ a 9th level character, the 2nd more of a challenge, yet the third is almost
+ impossible. Could you explain why this system was implemented?
+
+ &lt;i&gt;Dave&lt;/i&gt; - The first magical creatures exist on the third level. The
+ first two levels may be explored alone. After that, it's almost impossible
+ to adventure alone, and not easy when in a group. This stresses the need
+ for group cooperation. Other factors include synergistic experience totals
+ for a group, potions that revive a fallen companion, group communication,
+ and group spells. Dark Ages stresses social interaction.
+
+ &lt;i&gt;DN&lt;/i&gt; - But what of people who would far rather hunt solo, and journey
+ to that level only to be killed rather quickly by the powerful monsters?
+
+ &lt;i&gt;Dave&lt;/i&gt; - They will have to be very good to survive. Some players
+ do this. Yet, if that is their only purpose, they could be as happy playing
+ a stand-alone game. Adventuring in a group, helping each other and being
+ helped is fun. It can be as entertaining as real-life interaction.
+
+ &lt;i&gt;DN&lt;/i&gt; - As this is a massively multiplayer game, lag would of course
+ be a constant, overwhelming issue. How did your team deal with this inherent
+ problem?
+
+ &lt;i&gt;Dave&lt;/i&gt; - Our server team began programming in 1994. Since then, they
+ continue to optimize the code to be fast, stable, reliable, and lag-free.
+ Our servers operate well under maximum load and suffer 0 lag on a good
+ internet connection. Of course, the internet is largely out of our control.
+ There are up to a dozen or more hops that connect a player on one end
+ of the country to our servers. If any one of these hops is lagged, that
+ player will be lagged. Yet we monitor our base connection 24 hours a day
+ 7 days a week. At any sign of lag near our servers, we contact our ISPs
+ immediately.
+
+ &lt;i&gt;DN&lt;/i&gt; - I've noticed that the game uses a 2D sprite based engine,
+ similar to what is seen in Diablo. Could you explain why this was used,
+ when most of the industry is leaning towards games which take advantage
+ of 3D acceleration?
+
+ &lt;i&gt;Dave&lt;/i&gt; - Players like it. Players enjoy the isometric view (the 3/4th
+ overhead view) the most. In a roleplaying game it is important to see
+ yourself, all your possessions, and your companions. The overhead view
+ allows you to do this. In a sense, you are seeing the whole scene. First
+ person, and other views, offer a different perspective that can be as
+ entertaining, especially in action games, but our players tell us that
+ they enjoy seeing the beautiful scenery, their customized headgear, boots,
+ weapons, shield, and clothing, and all their fellows at the same time,
+ all the time.
+
+ &lt;i&gt;DN&lt;/i&gt; - Also on the graphics note, the game seems to have a predominantly
+ Anime style, which results in a game which looks rather similar to older
+ Final Fantasy games. Was the Final Fantasy series an inspiration for Dark
+ Ages, or did the visual style of Dark Ages develop similarly to that of
+ Final Fantasy out of sheer coincidence?
+
+ &lt;i&gt;Dave&lt;/i&gt; - The Dark Ages graphic designers love Final Fantasy and several
+ anime styles. They are native Korean. There are many games, of which Final
+ Fantasy is the most well-known, that have this style in Asia. Nexon's
+ first project: The Kingdom of the Winds is authentic Korea. Dark Ages
+ is the designer's view of a fantastic world that is loosely based on Mythic
+ Europe. It is unique, though. This is Temuair's Dark Ages, not Earth's
+ Dark Ages.
+
+ &lt;i&gt;DN&lt;/i&gt; - Going back somewhat, you mentioned that the area where the
+ game takes place is called Temuair. Where did this name come from, and
+ what does it mean?
+
+ &lt;i&gt;Dave&lt;/i&gt; - It is very loosely taken from Gaelic words for "Earth or
+ hill" and "sea". The charming world map (seen at the screenshots page)
+ depicts a world of many a delicate peninsula, brooks, bays, and large
+ seas. The history of Temuair is long and epic, leaving room for several
+ Aislings to write legendary epics about Temuair's past, and many seeds
+ of adventure for future epics that players will participate in (seen at
+ the Aisling Library's History wing).
+
+ &lt;i&gt;DN&lt;/i&gt; - You mentioned earlier that the players could become involved
+ in the local politcs of the game world. Could you expand on that, perhaps
+ provide a few specific details?
+
+ &lt;i&gt;Dave&lt;/i&gt; - Temuairan politics is a blend of democracy (power of the
+ vote) and meritocracy (power of the most qualified). Aislings (players)
+ may give support to another Aisling. Once you gain enough support, you
+ can take offices, starting out from Respected Citizen, and advancing to
+ Guard, Guard Captain, or Demagogue, Burgess, which is somewhat like the
+ mayor of a town. A Demagogue or Burgess writes laws of a village. For
+ example, walk to the gate of Mileth and you will see a posting of all
+ the laws of Mileth. Each of these was written by a player Demagogue. Player
+ guards enforce the laws, including banishing law breakers from Mileth.
+ With growth, the other villages and towns will come to Aisling control.
+ Then one could be banished or exiled from one town and still have a chance
+ at being accepted into another town. The individual citizen has the power
+ to live where he wants, under the laws he finds most favorable. There
+ are advanced political features, too. An Aisling may also transfer some
+ of his political power to another Aisling, or attack another Aisling.
+ In this manner an Aisling can be put into office or removed from office
+ if viewed as corrupt or tyrannical.
+
+ &lt;i&gt;DN&lt;/i&gt; - In my course of playing, I've noticed that many of the games'
+ advanced features hang on reaching the 11th insight. Could you explain
+ why this was done?
+
+ &lt;i&gt;Dave&lt;/i&gt; - There is no easy way to ensure that a person has experience.
+ Voting for example, is only possible at the 11th insight. Previously,
+ unscrupulous politicians used a new player's naitivite to get a vote,
+ and thereby stay in office; whereas, had the Aisling been around long
+ enough to realize what the vote really meant, he would have made an informed
+ decision. 11th insight is a convenient way to say: this Aisling knows
+ what she is doing; she is making an informed decision.
+
+ &lt;i&gt;DN&lt;/i&gt; - Regarding the class system incorporated into the game, I have
+ noticed that more advanced classes like Rogue, Priest, and Wizard require
+ a higher-level character to initiate new characters. Why was this done,
+ and how did it affect the inital open beta-tests, where all players would
+ be incapable of initiating one another?
+
+ &lt;i&gt;Dave&lt;/i&gt; - Being initiated by another player gets you started in the
+ right direction. You, for at least a moment, stop thinking in terms of
+ a points and game, and start thinking in terms of society and community.
+ It's fun for the initiate to get advanced knowledge, money, and help.
+ It's fun for the mentor to gain social recognition. Each Aisling has a
+ legend of deeds they have done, including mentoring and guiding. In the
+ first phase of beta there was no player-initiation. Each player chose
+ a class from the mundane (NPC). After that, they initiated new players.
+ I'm impressed and gladdened by the nice mentors and guides of Temuair.
+
+ &lt;i&gt;DN&lt;/i&gt; - Somewhat off-topic, but perhaps an interesting theory that
+ may see the light of day.. Dark Ages, I'm told, supports a somewhat advanced
+ "marriage" style option which can be preformed. Would it be possible,
+ perhaps not in the game, but a later one, for the two people joined thus
+ to procreate and generate a new NPC for the world?
+
+ &lt;i&gt;Dave&lt;/i&gt; - In the future, yes. Currently, there are two forms of love-bonding:
+ Faerie Love and Marriage. The former represents passionate love and the
+ latter represents conventional marriage. Each one is role-played differently
+ and offers different legends. Unique to Dark Ages, player Priests perform
+ the ceremony. The mundane (NPC) does not marry you and your love. A player
+ does. This heightens the communal bond, and also makes some priests or
+ bride and grooms popular. A famous priest would be requested for a Faerie
+ Love bond or a marriage. Having a child would have to be for the future.
+ Other interesting features along that line are planned: a familiar. Having
+ a little faerie, demon, or other creature that follows you. It is really
+ not very intelligent, but it is incredibly adorable to see a faerie at
+ your shoulder that performs some actions.
+
+ &lt;i&gt;DN&lt;/i&gt;- You mentioned earlier that you are working to include large-scale
+ epics for the players to preform. Do you have any sort of timeline on
+ when these will be introduced to the world?
+
+ &lt;i&gt;Dave&lt;/i&gt; - This Fall, Earth time. My duties are very broad, so I cannot
+ develop it more rapidly. Also, there are several other projects coming
+ up. There will be 40 new clothing variations this month, 40 more new regional
+ clothing variations next month, and more. My labor applies to several
+ features, and to several mundane tasks every day. This means that will
+ take time to also sculpt the epics.
+
+ &lt;i&gt;DN&lt;/i&gt; - You mentioned other projects. Would these be new, upcoming
+ games, or just extensions to Dark Ages?
+
+ &lt;i&gt;Dave&lt;/i&gt; - All Dark Ages. New clothing as mentioned, new quests, new
+ realms, expanding other towns to allow Aisling politics within. And less
+ glamorous projects: new tutorial, refining and improving, daily duties,
+ monitoring internet connection, society, server status, development status,
+ testing, and so on.
+
+ &lt;i&gt;DN&lt;/i&gt; - Given that 2 other, well-known online RPGs are already on
+ the market, being Everquest and Ultima Online, how do you think Dark Ages
+ will stand up to these two games? Do you believe Dark Ages will take off,
+ or stay with more of a cult following?
+
+ &lt;i&gt;Dave&lt;/i&gt; - In between cult and 'taking off'. Dark Ages has the technology
+ to support the most players in the same world. In Korea, Legend of Darkness
+ (the same game which Dark Ages was developed from) hosts over 3000 simultaneous
+ users in the same distributed server system. That means you and all your
+ friends can always adventure together. There are no 'shards', cloned worlds,
+ or server numbers to remember. Your character is stored in the same world,
+ that has been refined to be technically expanded for thousands of simultaneous
+ players. However, Dark Ages is a unique locale on the map of online roleplaying
+ games. Roleplaying, society, and community take precedence with the majority
+ of our players, and with my direction. Dark Ages has a very fine society,
+ and will continue to get better. This disallows rapid expansion from just
+ anyone who is rude and harassing. The society doesn't tolerate it.
+
+ &lt;i&gt;DN&lt;/i&gt; - A game like Dark Ages would have to be in development for
+ quite a while. Could you tell me when development for all aspects of the
+ game officially started, and what the original vision of the final product
+ was?
+
+ &lt;i&gt;Dave&lt;/i&gt; - In 1994, Nexon began coding an online-only server that would
+ become the basis for 'The Kingdom of the Winds'. The server architecture
+ applies to Legend of Darkness, too. Legend of Darkness officially began
+ development in 1996. It went commercial in Korea in January 1998. The
+ original vision for Legend of Darkness was a hardcore online RPG. Tough,
+ demanding social cooperation, and intelligent gameplay. In December 1998,
+ I stopped directing 'The Kingdom of the Winds' (US version), and began
+ planning and preparing Dark Ages ( the US version of Legend of Darkness).
+ My vision for Dark Ages extended further. I saw and see a society in motion.
+ I've dreamt, since teenage years of seeing a society controlled by the
+ players. A game and a social experiment all-in-one. An entertaining world,
+ where the politics and religion were as real as the combat. I envisioned
+ a true roleplaying environment online. A way for imaginative spirits to
+ connect with other Aislings all over the world. Many times we move or
+ are moved-from in real-life and cannot control who are neighbors are.
+ Here is a gathering of Aislings. Since December 1998, I have developed
+ the features I discussed above to make Dark Ages the worthy home of Aislings
+ everywhere.
+
+ &lt;i&gt;DN&lt;/i&gt; - Okay, and final, oddball question - What is your development
+ teams' favorite beverage, and approximately how much do they consume in
+ any given week?
+
+ &lt;i&gt;Dave&lt;/i&gt; - We're multicultural. It's a split between Coke and soju
+ (korean distilled rice liquor). Several a can of soda leaves its circular
+ mark upon the slate gray desk.
+
+ &lt;i&gt;DN&lt;/i&gt; - Haha. I'd like to thank for taking the time out of your hectic
+ schedule for this interview.
+
+ &lt;i&gt;Dave&lt;/i&gt; - *smiles. Shakes his hand* Thank you for asking me about
+ what I love and taking the moment to listen.
+
+ &lt;hR&gt;
+
+ For those of you seeking more information, Dark Ages is a recently released,
+ free to download, massively multiplayer online game. Information, registration,
+ and more can be found at their website, [Dark
+ Ages](http://www.darkages.com/). This is a very nice, highly addictive game. I wholly advise you
+ to check it out.
+
+ Copyright © 1999, [DarkNews
+ Productions.](http://www.darknews.8m.com/) All rights reserved.
+</Content>
+</NewsArticle>

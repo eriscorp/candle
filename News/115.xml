@@ -1,9 +1,32 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>30</Day>
-  <Year>2015</Year>
-  <Title>Nexon includes one of the world's largest player libraries</Title>
+  <Month>10</Month>
+  <Day>29</Day>
+  <Year>1999</Year>
+  <Title>Client 2.27</Title>
   <Type>1</Type>
-  <Content>Nexon includes one of the world's largest player libraries.  It contains everything from art, guides to various aspects of the game, to literature with everything you need to know about Temuair's rich history.  Check it out at &lt;a target = _new href = "http://www.darkages.com/webpages/community/library.html"&gt;http://www.darkages.com/webpages/community/library.html&lt;/a&gt;</Content>
+  <Content>New Dark Ages client with new features:
+
+- Connection Indicator. An indicator of your internet connection will appear.
+
+- Automatic Reconnection. Dialogue to reconnect appears when connection is lost.
+
+- Task Switching. Press alt-tab to task switch. Be warned: the game continues while you are away.
+
+- Internal Optimization. Client speeds up on &lt;i&gt;some&lt;/i&gt; slower machines. It has little or no effect on faster machines.
+
+- Citizenship Flag. Flag of your village is displayed by your name on the Aisling view. Each village has a unique flag that is based on the religious symbol of the god whose shrine is by that village.
+
+- Logout Signal. Pressing 'Exit Game' now gives a dialogue. This is something else to click on, but it also verifies that you logged out. If you don't see the logout message stating 'It is now safe to exit.' your character is still logged in and could be killed.
+
+- Wheel-mouse use. Use a wheel mouse to scroll conversation log or bulletin messages.
+
+- Conversation History View. When looking back through the conversation history and someone speaks, the conversation log stays still. Thus, you may easily view something previously said.
+
+The client will auto-update when the new client is available. The server will be down for upgrade for up to 15 minutes at the time of the update.
+
+If auto-update does not work, you will be able to download the update manually at the update page. Do not try until you see that Version 2.27 is available. If you need help, look at the help and links on the update page:
+
+[www.darkages.com/download/update.html](http://www.darkages.com/download/update.html)
+</Content>
 </NewsArticle>

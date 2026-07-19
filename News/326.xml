@@ -1,15 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>10</Month>
-  <Day>14</Day>
-  <Year>2015</Year>
-  <Title>New Customer Support System</Title>
+  <Day>11</Day>
+  <Year>2000</Year>
+  <Title>Registration Maintenance</Title>
   <Type>1</Type>
-  <Content>In an effort to improve our customer communication we have implemented a new customer support system. The new system will replace our email support which will no longer be accepting inquires. All questions, comments, and technical issues should be addressed through our new support system. To access the new system, please visit
+  <Content>Registration site will be offline for up to 4 hours during registration maintenance; the exact time is unpredictable. At that time no registration changes may be processed. Thank you for your patience.
 
-&lt;a target=_new href=https://support.nexon.net&gt;https://support.nexon.net&lt;/a&gt;
-
-
-Thank you.
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
 </Content>
 </NewsArticle>

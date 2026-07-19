@@ -1,13 +1,18 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>4</Month>
-  <Day>1</Day>
-  <Year>2015</Year>
-  <Title>Astrid Redemption Catastrophe(updated)</Title>
+  <Month>11</Month>
+  <Day>13</Day>
+  <Year>1999</Year>
+  <Title>Beware of Portal</Title>
   <Type>1</Type>
-  <Content>Due to Server Error, and user exploitation, every user who participated in Astrid Remdemption and abused the bug will be reset to their character on 4/01/02 12:00am PST. I apologize in advance for any trouble this may cause, but this is the only way to fix the error. &lt;B&gt;Note:&lt;/B&gt; Any user who will use this situation to attempt to dupe items, or gold will have their account placed jeopardy.
+  <Content>Do not stand beside a portal.
 
-Astrid Redemption Will be rescheduled to 4/02/02 at 1:00pm PST.
+Portals will suck in a character that stands directly beside it for 30 seconds. This prevents a harasser from blocking a portal.
 
-Once Again I apologize.</Content>
+In the past, some menaces spawned by a gross region of cyberspace had infiltrated Temuair and stood in front of a portal for no other purpose than to keep another character from passing.
+
+Guards and others were given the Throw ability, which throws the harasser through the portal. However, sometimes a guard is not available, or the refuse that is thrown through returns. Now, the refuse is thrown away after 30 seconds.
+
+View [all features screenshots.](http://www.darkages.com/pics/index_feature.html)
+</Content>
 </NewsArticle>

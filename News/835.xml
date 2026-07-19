@@ -1,11 +1,18 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>4</Month>
-  <Day>7</Day>
-  <Year>2016</Year>
-  <Title>Server Maintenance Complete</Title>
+  <Month>12</Month>
+  <Day>11</Day>
+  <Year>2007</Year>
+  <Title>The Birdman's Missing Eggs </Title>
   <Type>1</Type>
-  <Content>We have completed our server move and Dark Ages is back up and running! Thank you all for your patience during the downtime. While we've made every effort to make the move as seamless as possible, if you notice any issues don't hesitate to let us know by sending in a support ticket. 
-In case you experience an error popup when login, please run DarkAges.exe as an administrator once.
-Thanks!</Content>
+  <Content>Calling all Aislings!
+
+Oh no! Pieydagnelle's eggs have disappeared from his nest!
+Will you help find them? All Aislings are invited to attend and help find the eggs!
+
+- Fishfood (Suomi Troupe)
+
+
+((This is a role playing event starting on 12/15 at 2PM PST at the Suomi Town Board. Details will be given shortly after the event begins.))
+</Content>
 </NewsArticle>

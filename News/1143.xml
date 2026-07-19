@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>7</Month>
+  <Day>29</Day>
+  <Year>2015</Year>
+  <Title>Reset Notes/Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Reset Notes/Updates&lt;/b&gt;
+
+-Skills/Spells Update
+* Increase Damage of Unholy Explosion
+
+-Item Update
+* Increased Damage of Single/Double/Triple Fire Arrows
+* Heavy Veltain Treasure Chest prize will include 50+ Million EXP Points
+
+-Mount Giragan
+* Increased EXP on all Monsters
+* Increased spawn on all Monsters
+* 99% of maps will now spawn Monsters 
+
+-Shinewood Forest
+* Increased spawns on SW 36-43
+
+-Balance Arena
+* Removing PVP option
+* Updated Mech AI</Content>
+</NewsArticle>

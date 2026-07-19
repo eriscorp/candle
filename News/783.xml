@@ -1,23 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>4</Month>
-  <Day>10</Day>
-  <Year>2015</Year>
-  <Title>Updates</Title>
+  <Month>1</Month>
+  <Day>25</Day>
+  <Year>2007</Year>
+  <Title>Updates 01/25</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Updates&lt;/b&gt;
+  <Content>-A fix has been implemented for the board access exploit. We have kept a list of all players who have abused this exploit, and their accounts will be permanently blocked.
 
-- Updated Skills/Spells
-* Updated Damage of Hail of Feathers 
-* Supernova Shot - Increased Damage, Lower cooldown
-* ard deo searg - Updated to 2 line cast
-* ard ioc colmha - Updated to 2 line cast
-* Increased Regeneration - usable in Loures Battle Ring
+-Starting on 01/26, each Knight will have the ability to widdle a town official's clout by 10.
 
-- New Rare Monster Item Drop from Dhubh Seud
-* Ring Item in Cthonic Remains 56
-
-More updates to follow...
-
-Dark Ages Team</Content>
+-On 01/26, the "Perfect Hairstyle" quest will be implemented at Suomi Village.</Content>
 </NewsArticle>

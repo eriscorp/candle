@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>6</Day>
+  <Year>2016</Year>
+  <Title>Dark Ages moving servers!</Title>
+  <Type>1</Type>
+  <Content>Tomorrow morning we are moving Dark Ages to newer, faster servers! This means that we are going to take the servers down completely between 2-3hrs, although we're going to make the move as fast as possible. This will be occurring at 2AM PST/5AM EST tomorrow, Thursday, April 7th. We will make a post on the website when the move is complete and we apologize in advance for the inconvenience.</Content>
+</NewsArticle>

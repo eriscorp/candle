@@ -1,19 +1,32 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>9</Month>
-  <Day>26</Day>
-  <Year>2015</Year>
-  <Title>Arena Update</Title>
+  <Month>7</Month>
+  <Day>4</Day>
+  <Year>2000</Year>
+  <Title>The Rebellion</Title>
   <Type>1</Type>
-  <Content>Some changes have been made for the Arena:
+  <Content>Kalliope, bard of Undine and saved daughter of The Sacrifice, writes:
 
-1)All dark items are allowed.
+&lt;i&gt;Aislings! We pray for your aid. If you'll but see these documents, you will not believe in the justness of Hadrian's exile. Nor in the righteousness of Loures' rule over Undine.
 
-2)Options for insight ranges 1-50 and 51-99 are available.
+Kalliope
 
-3)Coliseum Mundanes Tor, Tyr, and Tur have repair and bank options.
+Bard of Undine&lt;/i&gt;
 
-These updates will be available on the morning of 09/27. There will be more updates later. We are also working on other updates and areas.
+A letter from Marlin, Loures-imprisoned scholar of The Heart, reads:
 
-DA Team</Content>
+&lt;i&gt;Citizens, pray listen and know the reason of the goblin's call to Undine.
+
+As I slept in my cell, I dreamt of the awful rites at Astrid, and those in the Heart of Loures. But worse, I remembered court documents and pieced bits together: Loures' ship that had set sail for Undine supposedly bearing human troops hid several Goblin troops.
+
+Worse still, a loyal scribe informs me that several items from a Hunt of the Kings' have been used to fund Orc and Champion mercenaries.
+
+Marlin
+
+Scholar&lt;/i&gt;
+
+Incited by this, several Undine citizens have called secret, illegal meetings purporting a rebellion against Loures.
+
+((The Rebellion: 2000/07/04 - 2000/07/13))
+</Content>
 </NewsArticle>

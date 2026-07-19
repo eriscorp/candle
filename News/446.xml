@@ -1,44 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>5</Month>
-  <Day>23</Day>
-  <Year>2015</Year>
-  <Title>7.12 Patch (May 31st)</Title>
+  <Month>11</Month>
+  <Day>14</Day>
+  <Year>2001</Year>
+  <Title>Service Move</Title>
   <Type>1</Type>
-  <Content>The 7.12 patch is scheduled for May 31st and will include the following bug fixes and updates.
+  <Content>Wednesday 11/14 about 2 a.m. PST Dark Ages game servers will move to a new physical location. During the transfer, the service will be offline for up to 3 hours. 
 
-&lt;b&gt;Bugs&lt;/b&gt;
+During the server relocation, all Nexon servers, including all Dark Ages servers, will be temporarily unavailable. We estimate the downtime for the server relocation to be fairly short and expect to have everything moved in 3 hours. However, as uncertainties may arise, the downtime may be longer than expected. Rest assured that Nexon is doing everything possible to ensure the smoothest transition for all our customers. Please be advised that upon logging into ou����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������r server for the first time after the move, you may experience a delay as the client updates with the latest server information. You will only experience this delay once and subsequent log-ins will connect as normal. 
 
--The hit point bar will no longer overlap with the user name.
-
--The weapon animation bug, where the weapon would appear behind the character, will be fixed.
-
--Druid form spells will act as an on/off switch, where the user can cast or uncast the form instantly. While in Druid form, the druid cannot equip or unequip items.
-
-&lt;b&gt;Pure Medenia Skills/Spells&lt;/b&gt;
-
-Intimidate - causes any neighboring enemy to turnaround in the opposite direction. The rate a monster turns back around is based on the monste�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������r's speed. 15 second cooldown. Pure Gladiator skill only.
-
-Volley - Casts any arrow spell (star,frost,life,shock) 15 times simultaneously, randomly hitting the area around a target. A target can potentially be hit 0-15 times. 0 cast lines, 10 second cooldown. Mana cost is equal to each successful hit of the arrow spell. Pure Archers spell only.
-
-Set Volley - Specifies which arrow spell the volley spell will cast. Pure Archers spell only.
-
-Mana Ward - Summons an immobile ward that regenerates the mana of the caster and the caster's group in a 3 tile radius. The amount of mana regenerated per second is equal to 5 times caster ability (5xability). Lasts 60 seconds, 0 cast lines, 2 minute cooldown. Mana cost is 150 times caster ability. Pure Summoners spell only.
-
-Salvation - Fully restores a targets hit points. 0 cast lines, 3 minute cooldown, completely drains caster's current mana. Pure Bard spell only.
-
-Puncture - Attack skill that deals an initial damage of 100 times ability, and bleed damage of 1% target total hp per second for 10 seconds. 25 second cooldown. Pure Druid skill only.
-
-
-&lt;b&gt;Komodas Form Update&lt;/b&gt;
-
-Cold Blood - Will be changed to healing the caster 500 times caster ability, but costing 250 times caster ability in mana. 1 cast line.
-
-Tail Slam (new) - Attack skill that deals damage of 200 times caster ability and pushes the target 2 tiles backwards. 20 second cooldown.
-
-&lt;b&gt;Current Spell changes&lt;/b&gt;
-
--mor strioch pian gar will now have a 5 second cooldown after each cast.
-
--After casting fas spiorad, the caster will be silenced from casting heal spells for 15 seconds.</Content>
+The exact service move schedule is subject to change by Internet Service Providers. Check news daily for updates.
+</Content>
 </NewsArticle>

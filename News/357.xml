@@ -1,11 +1,54 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>7</Month>
-  <Day>20</Day>
-  <Year>2015</Year>
-  <Title>Guild Updates</Title>
+  <Month>12</Month>
+  <Day>7</Day>
+  <Year>2000</Year>
+  <Title>No Change to Level Up Points</Title>
   <Type>1</Type>
-  <Content>Guild Inventory - Guilds can now deposit items into their Guild Inventory. Only Leaders of the guild can withdraw items from the inventory. Players cannot deposit non-drop items.
+  <Content>I had received a total of 99 email in response to the question about whether or not to limit the number of level up points that you can transfer with when rededicating your class.
 
-Guild Starting Point - After reaching 128 members, guilds have the option of purchasing their own starting point. The starting point must be in a house from any town (even Medenia). The cost of a starting point will be 200 million gold. Some houses may not be allowed depending on their use, in the end it is up to the Mundane's approval. Leaders must submit their request through the support ticket system.</Content>
+53 want to limit it - with 17 of those suggesting no points being transferred
+
+39 want to keep it as it is
+
+7 were undecided.
+
+Here are some of the basic reasons that I got from both the Pros (Keeping it as is) and the Cons (Changing it):
+
+Pros:
+People who save their level up points are at a disadvantage during their first path. They do not increase their stats during the 'saving' time and it impacts their ability to level and progress.
+
+It still takes twice the experience points to reach level 99 in the second class.
+
+Some items from previous classes are lost ((Wizard's Research ability))
+
+ Some skills and spells maximum levels change - most of the time for the worse.
+
+ All skills, spells and experience are reset to 0.
+
+ Others have already done it, it wouldn't be fair to now limit it.
+
+ Cons:
+
+ Maximum stats are skewed. Example, someone who reaches level 99 has 198 level up points. If they save 100 of these points and then switch class, they will have earned 298 level up points when they reach level 99 in the second class. While the person who didn't change only has 198.
+
+ Sub path characters have a mixture of spells and skills from both classes ((A Wizard with Maiden Traps)).
+
+ Sub path characters advance much quicker in their new path as they have the increased stats and already usable skills and spells form their old class.
+
+ The end result of my findings in this matter is that although it may cause a nuisance in the beginning, sub path characters that continue to play soon outweigh solo path characters in abilities, spells and overall power. 54% of the votes want the amount of level up points to be restricted, or removed all together, when you sub path. However, the sub pathing 'problem' has been in the game for so long that I would only feel comfortable removing it if it was a 75% vote.
+
+ Since so many wanted to keep it, and it has been in the game for a long time, I have decided to keep it in the game.
+
+ At the same time, though, I feel that there is definitely an advantage to sub pathing. So, to help offset this, I will begin to create quests and other such things that are only obtainable to those of the pure paths. As it stands now, all of the current projects on the boards (Master Class, Necromancy and Underwater areas) will be accessible to both sub path and pure path characters. Some future projects though will have areas that are only accessible to those of a pure path ((Perhaps a 'Pure Master' or other such ideas)).
+
+ I want to thank you all for your suggestions and responses. I hope that the compromise I have come up with is to your liking.
+
+ Sincerely,
+
+ Mark
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

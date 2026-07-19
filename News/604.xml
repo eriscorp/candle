@@ -1,24 +1,11 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>9</Month>
-  <Day>9</Day>
-  <Year>2015</Year>
-  <Title>Oren Fair and Event</Title>
+  <Month>6</Month>
+  <Day>20</Day>
+  <Year>2003</Year>
+  <Title>Character Passwords</Title>
   <Type>1</Type>
-  <Content>The Oren Fair will open on September 17th and end on October 1st. During the Fair, Aislings may purchase clothing from Ertha.  Hope everyone can join in on the festivities!
+  <Content>This is a reminder to all players. Please do not give your password to anyone. Make sure your password is not guessable. Do not accept any email or download anything from another player you do not know. And check your computer for viruses regularly as well. This will ensure the security of your characters.
 
-This fair will also be visited by a member of the Temuairian Merchant's Guild.
-Gillam will be present at the Oren Fair, to send Aislings on a scavenger hunt for rare Temuairian Goods, in exchange for imported clothing for the fair. Aislings of insight 11 or higher may participate. Please speak to the 'Fair Ticket Seller' for more information.
-
-Prizes will include:
-Oufits
-Experience Points
-Abilty Points
-Legend Mark
-
-&lt;b&gt;Openin����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������g Day of Oren Fair&lt;/b&gt;
-
-&lt;img src="http://files.kru.com/DarkAges/Media/Images/OrenStart.jpg"&gt;
-
-((Only registered characters will be allowed to enter the Oren Fair and participate in the events.))</Content>
+DA Team</Content>
 </NewsArticle>

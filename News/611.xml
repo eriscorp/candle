@@ -1,39 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>13</Day>
-  <Year>2015</Year>
-  <Title>Loures Pig Chase &amp; Eulogy Information</Title>
+  <Month>7</Month>
+  <Day>30</Day>
+  <Year>2003</Year>
+  <Title>Server Problems Resolved</Title>
   <Type>1</Type>
-  <Content>"Bored with just sitting on his throne, King Bruce has decided to host a pig chasing event in the Lover's Maze Garden. Any Aisling that can successfully capture a male and female piglet will receive a legend mark, Star Medal, a chance to get an Ability and Experience Gift and other prizes."
+  <Content>Recently there was a minor problem with the communication between the game server and game clients. Unfortunately some players exploited this problem. We have since resolved the problem with the server and dealt with all players involved. We would like to thank the community of Dark Ages for sending in reports of the problems that occurred and the players involved. We will be extending every account 1 day for the inconvenience. Players affected by this can contact the DA Team through the support page on the website. Thank you
 
-&lt;b&gt;**Experience and Ability reward has been increased from last year**&lt;/b&gt;
+In addition, because of the increasing size of Dark Ages, we will be moving Medenia t����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������o another server. There will be no noticieable difference in-game once the server is added. Players can logon and play normally as it is now.
 
-((Ability and Experience Gift will be removed from unregistered characters))
-((Pig Tokens will be removed after the event is over.))
-
--Jay, Loures Court Jester
-
-((This event will begin on Wednesday, November 17th and END on �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������Monday, December 6th. For registered players only. Event is repeatable.)) 
-
-&lt;img src="http://files.kru.com/DarkAges/Media/Images/PigEvent.bmp"&gt;
-
-
-
-&lt;b&gt;Eulogy Ability Points&lt;/b&gt;
-
-For the Eulogy, Medenia class Aislings will receive ability points in addition to the standard experience points when performing the Eulogy. The amount of points, like experience, will be based on the amount of Eulogies the Aisling has performed with one specific priest of the Trinity.
-
-1x (1st time performing Eulogy) 50,000 ability points
-2x 100,000 ability points
-3x 200,000 ability points
-4x 375,000 ability points
-5x 450,000 ability points
-6x 550,000 ability points
-7x 675,000 ability points
-8x 800,000 ability points
-9x 1,500,000 ability points
-10x+ 2,000,000 ability points 
-
-((Eulogy will start on Friday, November 17th and end on December 6th.))</Content>
+DA Team</Content>
 </NewsArticle>

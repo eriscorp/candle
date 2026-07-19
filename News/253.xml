@@ -1,11 +1,20 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>8</Month>
-  <Day>27</Day>
-  <Year>2015</Year>
-  <Title>Server Resets</Title>
+  <Month>6</Month>
+  <Day>12</Day>
+  <Year>2000</Year>
+  <Title>Fair: Auction of the King's Pet Dog</Title>
   <Type>1</Type>
-  <Content>We would like to apologize for the frequent resets that occured yesterday Aug. 26th.  We will add one extra day to all accounts. We are currently making changes to the server to stablize the problem.
+  <Content>King Bruce will auction his one and only pet dog, Ghislain, to the highest bidder at the next Fair.
 
-DA Team</Content>
+Fair Auction details will be posted when Fair details are available.
+
+&lt;b&gt;About the Dog&lt;/b&gt;
+
+The pet dog is pure-bred, fed on the finest meats and grains, with a brilliant white coat of fur. He has never been outside of Piet.
+
+The pet dog will faithfully follow you by your side wherever you go and can travel anywhere you can. The dog stays on a short leash. The king's dog is very loyal. It will stay with you even into Sgrios' realm. When you don't want to walk the dog, he will quietly sit in a cage in your inventory until you let him out again.
+
+The pet dog's leash prevents the owner from holding a weapon while walking the dog. The pet dog may not be left with a merchant. The pet dog does not perform tricks or come when you call it. The pet dog can die if you allow it to be hurt too much while you are in combat.
+</Content>
 </NewsArticle>

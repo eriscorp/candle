@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>15</Day>
-  <Year>2015</Year>
-  <Title>The Eulogy: Ceremony</Title>
+  <Month>8</Month>
+  <Day>20</Day>
+  <Year>2001</Year>
+  <Title>The Contest of Light and Chaos Begins</Title>
   <Type>1</Type>
-  <Content>Kalliope writes:
-
-&lt;I&gt;A priest of each member of the Trinity appeared at dawn and began long chants of the tales of their arch-deity.
-
-In Pravat the Grimlok worship Adranuch, their Lady of Gold. In Astrid the Kobolds worship Arpina, their All-Mother. In Mehadi the Mukul worship Matrika, their Goddess of the Sun-heart.
-
-Kalliope
-Bard of Undine&lt;I/&gt;</Content>
+  <Content>The sides have chosen their Champions, and these, in turn, have chosen their
+ supporters. And now the first quest is underway. As Aislings enter
+ Temuair, a select few will find in their possession a Chrysalis - a round
+ crystal that represents the spark that is in all Aislings. The sides must
+ collect them and whichever side has the most at the end of one Double Moon
+ has scored the first victory in this contest.
+</Content>
 </NewsArticle>

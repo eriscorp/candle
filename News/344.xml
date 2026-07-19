@@ -1,17 +1,28 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>3</Month>
-  <Day>8</Day>
-  <Year>2015</Year>
-  <Title>Alsaids News</Title>
+  <Month>11</Month>
+  <Day>6</Day>
+  <Year>2000</Year>
+  <Title>Philosophers Recognized</Title>
   <Type>1</Type>
-  <Content>Alsaids is currently in the testing phase and will be released at the end of March. Besides the quests, hunting areas, and some items there will also be a few additional features.
+  <Content>[Philosophers Recognized](http://www.darkages.com/2000/community/phi/index.html) :
 
-Combo Skill - Druids will be given the combo skill. A combo skill will allow players to set an order of moves using their current skills. Pure Druids will get 3 moves for their combo skill while Sub Druids will get 2 moves. When using the combo skill, the moves will execute in the order they were set. Each move will use 1500 mana. There is a 2 minute cooldown after the completion of a combo.
+- Aisling
 
-Bard's Tunes - This is a roleplaying skill that wil����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������l allow bards to play notes for others to hear. There are 6 notes in total, how they are played is up to the player. Bards will also get to play complete wedding tunes with this skill.
+- Rasputen, "Depths of Society"
 
-Thanks for your support and patience,
+- Folk
 
-DA Team</Content>
+- LatentAura, "Psychology of the Classes"
+
+- Village
+
+- Wyrmo, "Treatise on the Elements and Their Functions"
+
+Visit Egil in Abel to discover which mundane offers you your recognition, legend, experience, coins, and political clout. Village or greater recognized Aislings may teach classes in their recognized subject in Mileth College, which is just beside Glioca's shrine. The Aisling-recognized gain a one mark of nobility. With additional marks, one may gain the most noble garments in all Temuair. Speak with Jean in Loures for details.
+
+Some, but not all, of the works are posted in the Library of Loures archive ((online: [www.darkages.com/community/temuair](http://www.darkages.com/community/temuair))). Mundane Loures librarian Blaise requests that Aislings, winning Village or greater recognition, scribe their works at the Library of Loures, and any other library that they wish to. You must be recognized for a full Temuairan week ((one real-life day)) before you may write there.
+
+Mundanes thank all Aislings that shared their spark of imagination, and invites Aislings to share (([www.darkages.com/community/contest.html](http://www.darkages.com/community/contest.html)))
+</Content>
 </NewsArticle>

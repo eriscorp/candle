@@ -1,15 +1,27 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>18</Day>
-  <Year>2015</Year>
-  <Title>Assault on Loures</Title>
+  <Month>8</Month>
+  <Day>25</Day>
+  <Year>2000</Year>
+  <Title>Internet Connection</Title>
   <Type>1</Type>
-  <Content>The worst has come, our scouts report that the defensive lines at the Grass Fields are failing.  The Goblin Army has become overwhelming, we cannot hold them much longer. What I say will seem staggering, but... they will be upon Loures shortly. Do not be dismayed, we are preparing for their assault. Defensive points will be placed at three locations, the Front Gate, at the center of Loures Market, and at the Rear Gate. King Bruce...,no, all of Loures ask that any able Aisling, come help protect the capitol city of Temuair.
+  <Content>A major Internet Service Provider reports:
 
-Dealos,
-Loures General
+ Originally posted on Fri Aug 25 16:34:35 PDT 2000
 
+ FRIDAY AUG. 25th:
 
-((This event will take place on Wednesday, June 23rd starting at���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� 4pm pst. Access to Loures Castle and Loures Market, and the Knight Hall will not be available during this event. Players must protect three control points as specified above.)) </Content>
+ We are currently experiencing an outage on two cross-country
+ circuits(OC12 &amp; OC48). The source of the problem has not been determined.
+
+ All traffic has been re-routed through a redundant OC48 from San Jose, Ca.
+ to
+ Seattle turned up just today.
+
+ AT this time we do not have an ETR for the downed circuits and latency may
+ be experienced at this time due to re-routing.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

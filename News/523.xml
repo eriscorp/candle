@@ -1,11 +1,9 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>9</Month>
-  <Day>16</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages 7.22</Title>
+  <Day>3</Day>
+  <Year>2002</Year>
+  <Title>Another Week, Another New Poll!</Title>
   <Type>1</Type>
-  <Content>On Tuesday, September 16th, Dark Ages will be patching to version 7.22
-
-DA Team</Content>
+  <Content>Tell us why you play Dark Ages, or why you think you might like to play Dark Ages. It takes only a few seconds to make your voice heard! The poll on the front page of the Dark Ages website awaits you!</Content>
 </NewsArticle>

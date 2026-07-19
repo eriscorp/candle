@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>10</Day>
-  <Year>2015</Year>
-  <Title>Nexon fixed The Pentagram</Title>
+  <Month>10</Month>
+  <Day>17</Day>
+  <Year>1999</Year>
+  <Title>Shrine Entrances</Title>
   <Type>1</Type>
-  <Content>The Pentagram quest is fully-functional. Nexon fixed the error that prevented a clue from being given during the first macabre invocation. We apologize for the inconvenience during the period when it was unavailable.
+  <Content>Shrine exits become five times as large in response to the growing numbers of worshippers, especially at mass. Mundanes rebuilt the Shrine of Glioca, whose fellowship is by far the largest, to be slightly larger.
 
-To learn more about the Pentagram, visit the Library of Loures. 
+[Click here](http://www.darkages.com/2000/play/s_religion.html) and speak to shrine attendants and priests to learn more about religions.
 </Content>
 </NewsArticle>

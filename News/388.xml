@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>2</Month>
-  <Day>24</Day>
-  <Year>2015</Year>
-  <Title>Minor Update 2</Title>
+  <Month>5</Month>
+  <Day>8</Day>
+  <Year>2001</Year>
+  <Title>Server Down for Upgrade</Title>
   <Type>1</Type>
-  <Content>-The Guild Banks should now be working, items can now be withdrawn or deposited into the Guild Bank.
-
--The limit for the ignore list (F9) has been increased from 5 to 20.</Content>
+  <Content>Because of an earlier installation of equipment and the lower load rate, the reset was moved ahead to 2:15 am PST on Tuesday, May 8th. Server will be available after 3am.
+</Content>
 </NewsArticle>

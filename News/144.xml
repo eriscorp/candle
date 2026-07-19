@@ -1,12 +1,32 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>7</Month>
-  <Day>22</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages Poster Giveaway</Title>
+  <Month>12</Month>
+  <Day>1</Day>
+  <Year>1999</Year>
+  <Title>Lifelong Mentor</Title>
   <Type>1</Type>
-  <Content>Thank you for registering in the Dark Ages Poster Giveaway.  As stated in the rules, the registration period has now closed. Please check back on 8/2/02 for the announcement of the first winner!
+  <Content>Mentorship encourages teaching a new Aisling. However, students desire and deserve long-term Mentoring. Also, a few Mentors have ignored the intention of Mentorship for the quick reward reached at level 11.
 
-Thank you.
-The DA Team</Content>
+The previous Mentorship system: Mentorship completed at level 11 is replaced.
+
+- Now Mentorship may be performed once per week on each student. For example, if you have 5 students, you may Mentor 5 times, one time to each student. If you are a student, you may only be Mentored once, although that doesn't prevent you from Mentoring your students.
+
+- Mentoring a student takes 1 point of Craft time of the total 18 available per day.
+
+- Now a Mentor may accept a student at any time and any level. Now a student may leave his Mentor at any time.
+
+- The legend that counts Mentorship, now counts the number of times the Mentorship ritual was performed instead of the number of students.
+
+- The number of Sgrios scars is no longer an effect.
+
+- In order to allow Mentorship to be repeated so often, the full effect of Mentorship is divided by 10. Yet, this ritual can be repeated forever. The students you've already Mentored may be Mentored again by you, if the student decides to continue studying under you.
+
+- The experience given to the Mentor is reduced if the Mentor has a low level. The maximum experience for Mentoring is reached at level 40. This is necessary to prevent fast leveling of an Aisling by making him a Mentor.
+
+- As before, the student and Mentor must be registered. Otherwise a mentor could gain infinite experience from free trial characters.
+
+For details, see 'Help' in the Mentorship ritual. The new Mentorship is subject to alteration in the beginning. If it pleases you, the Guidance ritual will likewise change.
+
+View [all features screenshots.](http://www.darkages.com/pics/index_feature.html)
+</Content>
 </NewsArticle>

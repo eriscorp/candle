@@ -1,22 +1,11 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>3</Month>
-  <Day>28</Day>
-  <Year>2015</Year>
-  <Title>New Area - Capture The Flag </Title>
+  <Month>12</Month>
+  <Day>8</Day>
+  <Year>2004</Year>
+  <Title>Erbie Giveaway</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Capture the Flag&lt;/b&gt;
+  <Content>Here is your chance to receive a stuffed Erbie toy! Click the link for more information.
 
-The "Capture the Flag" map is being released today after this afternoon's reset ~4PM.
-
-LOCATION: 
-Suomi Village
-Please speak to Keane to gain access to the map.
-
-Games will be hosted by Suomi Troupes members. For more information contact Etna, Burgess of Suomi Troupe.
-
-CTF is still in Beta, some options may not available. Rules and features of the game may change at anytime.
-
-((This area is for registered players only, no level restrictions.))
-</Content>
+&lt;a target=_new href=http://www.darkages.com/event/christmas/christmas.html&gt;Erbie Toy&lt;/a&gt;</Content>
 </NewsArticle>

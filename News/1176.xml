@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>31</Day>
+  <Year>2016</Year>
+  <Title>DA Patch 7.41</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;DA Version 7.41&lt;/b&gt;
+
+On Thursday, March 31st, Dark Ages will be patching to version 7.41
+
+&lt;b&gt;Patching Issues with Vista &amp; Windows7/8/10:&lt;/b&gt;
+
+If you are having problems with the automatic patch, please &lt;b&gt;"right-click"&lt;/b&gt; on your &lt;b&gt;Darkages&lt;/b&gt; icon and choose &lt;b&gt;"Run as administrator"&lt;/b&gt;</Content>
+</NewsArticle>

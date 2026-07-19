@@ -1,21 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>16</Day>
-  <Year>2015</Year>
-  <Title>Eulogy: Octave</Title>
+  <Month>1</Month>
+  <Day>22</Day>
+  <Year>2003</Year>
+  <Title>Pet Store Coming Soon</Title>
   <Type>1</Type>
-  <Content>Kalliope writes a new octave in remembrance of Danaan and the cycle that has begun:
+  <Content>&lt;I&gt;Greetings Aislings,
 
-&lt;I&gt;One gave us our eyes and taught us how to see.
-Two comforted our sight.
-Three showed us the beauty of the world.
-Four gave a glimpse of knowledge.
-Five protected our gift with reason.
-Six revealed the hidden.
-Seven showed us the battle.
-Eight made us wish we had never seen at all.
+I am pleased to announce my pet store opening soon in the town of Tagor. It is currently under construction and will be opening as soon as it is finished. I have a variety of pets to sell, so start saving up! I also have a pet that has never been seen in the lands of Temuair. Hope to see you all at the Grand Opening.
 
-Kalliope
-Bard of Undine &lt;I/&gt;</Content>
+Areini
+Pet Merchant&lt;I/&gt;
+
+((Opening on Friday the 24nd))</Content>
 </NewsArticle>

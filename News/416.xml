@@ -1,20 +1,10 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>30</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages Down Time 10/28-10/30</Title>
+  <Month>8</Month>
+  <Day>9</Day>
+  <Year>2001</Year>
+  <Title>System Maintenance</Title>
   <Type>1</Type>
-  <Content>We apologize for the unexpected down-time that occurred between 10/28 and 10/30. The problem has been resolved and Dark Ages is now up and running. The Halloween Events will be extended to November 6th. We will be adding 2 extra days to all accounts that were registered during that time. All auto-renewal accounts will receive an in-game bonus. If your account was on auto-renewal during the downtime, you will receive 5 million gold and a choice of one of the following pets. These pets will be exclusive to this auto-renewal compensation. Please submit a ticket to Dark Ages Support specifying which character����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� will receive this compensation.
-
-Auto-renewal pets:
-Succubus
-Green Dragon (single-head)
-Horse
-
-If your account was registered during this down-time and you did not receive the extra 2 days, please submit a ticket to Dark Ages support.
-
-Accounts on auto-renewal are receiving the in-game compensation because they do not benefit from the extra day bonus.
-
-The distribution of the gold and pets will take few days and possibly a week. Sending multiple tickets will only delay your request (tickets are merged and then sent down the list as a recent ticket.)</Content>
+  <Content>A sudden flood of greenish skeletal warriors has been invading the various towns and villages of Temuair. Although weak at the moment, it is feared by the Druid Coibhi that more powerful entities are on their way. Eduardo, Burgess of Rucesion, has talked with the Rangers about the possibility that Aislings are allying themselves with the spirit, Chadul, in an attempt to bring his chaos into the realm.
+</Content>
 </NewsArticle>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>10</Day>
+  <Year>1999</Year>
+  <Title>Internet Connection</Title>
+  <Type>1</Type>
+  <Content>An Internet Service Provider near the &lt;i&gt;Dark Ages&lt;/i&gt; servers was unstable
+ for 10 minutes.
+
+ The Dark Ages servers are fast and stable; running well below maximum
+ load.
+
+ [Learn
+ more](http://www1.darkages.com/support/trace_route.htm)
+</Content>
+</NewsArticle>

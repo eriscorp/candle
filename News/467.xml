@@ -1,23 +1,22 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>14</Day>
-  <Year>2015</Year>
-  <Title>The Eulogy: Octave</Title>
+  <Month>12</Month>
+  <Day>6</Day>
+  <Year>2001</Year>
+  <Title>Nexon fixed Carnun Quest</Title>
   <Type>1</Type>
-  <Content>The Eulogy: Octave
-
-Kalliope writes a new octave in remembrance of Danaan and the cycle that has begun:
-
-&lt;I&gt;One gave us our eyes and taught us how to see.
-Two comforted our sight.
-Three showed us the beauty of the world.
-Four gave a glimpse of knowledge.
-Five protected our gift with reason.
-Six revealed the hidden.
-Seven showed us the battle.
-Eight made us wish we had never seen at all.
-
-Kalliope
-Bard of Undine &lt;I/&gt;</Content>
+  <Content>Baki, the goblin, leads warriors to the correct glade of the East Woodland.
+&lt;p&gt;
+Some of the options for Nightmare of Carnun quest led the questing warrior to the wrong glade of the East Woodland. We humbly apologize for misleading you and thank you for your kind reports.
+&lt;p&gt;
+More information:
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target=_new href=http://www.darkages.com/news/000221.html&gt;Nightmare Introduction&lt;/a&gt;
+  &lt;li&gt;&lt;a target=_new href=http://www.darkages.com/news/000221_2.html&gt;Nightmare of Carnun&lt;/a&gt;
+  &lt;li&gt;&lt;a target=_new href=http://www.darkages.com/news/000224.html&gt;Nightmare of the Cthonic Discipline&lt;/a&gt;
+  &lt;li&gt;&lt;a target=_ne����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������w href=http://www.darkages.com/news/000222.html&gt;Nightmare of the Marauder&lt;/a&gt;
+  &lt;li&gt;&lt;a target=_new href=http://www.darkages.com/news/000224_2.html&gt;Nightmare of Morrigu&lt;/a&gt;
+  &lt;li&gt;&lt;a target=_new href=http://www.darkages.com/news/000225.html&gt;Nightmare of the Pattern Walker&lt;/a&gt;
+&lt;p&gt;
+</Content>
 </NewsArticle>

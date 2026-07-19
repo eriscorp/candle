@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>9</Day>
+  <Year>1999</Year>
+  <Title>Registration Enhancements</Title>
+  <Type>1</Type>
+  <Content>Writing on a bulletin or writing a letter, displaying your portrait,
+ picking up rare and expensive items (including prayer necklaces) or large
+ amounts of coins, and shouting are now possible immediately after registering.
+ Previously you also had to reach level 11.
+
+ See [features
+ screenshots.](http://www.darkages.com/pics/index_feature.html)
+</Content>
+</NewsArticle>

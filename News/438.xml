@@ -1,9 +1,18 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>4</Month>
-  <Day>12</Day>
-  <Year>2015</Year>
-  <Title>Item Shop Page</Title>
+  <Month>10</Month>
+  <Day>18</Day>
+  <Year>2001</Year>
+  <Title>Light wins the Light-Chaos contests</Title>
   <Type>1</Type>
-  <Content>&lt;a target=_new href=https://secure.kru.com/account/itemshop&gt;"Dark Ages Item Shop"&lt;/a&gt;</Content>
+  <Content>After a series of three contests, the side of Light, headed by the Priestess of Cail, Pashura, has won all three events in a row.
+
+The first event was a hunt for Chrysalis, small gems that would randomly appear with Aislings entering Temuair. To which the side of Light found nearly 50 while the side of Darkness only 3.
+
+The second event was a Kelberoth hunt - to find this mythical beast depending upon where it decided to show itself, and then to be slain by one of the disciples. Each side slew one and therefore a contest between two champions was held. Victorious and Kezril were for the sides of Light and Dark, respectively, and Victorious held true to his name, winning the second event for the Light.
+
+The third event was called "Kick the Kobold". In it, Kobolds were beaten to the other team's side and 5 Kobolds to the opponent's side meant victory. The best out of 5 matches was held and after a shakey start, where both side won one event, the final two matches were won by the side of Light.
+
+Now, the winning side, Light, has earned the right to submit three boons to the Mundanes. These boons will be found within Temuair as soon as they are completed. What exactly they are are up to them.
+</Content>
 </NewsArticle>

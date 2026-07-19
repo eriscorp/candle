@@ -1,14 +1,26 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>8</Day>
-  <Year>2015</Year>
-  <Title>Nexon hosts Dark Ages Story Contest </Title>
+  <Month>9</Month>
+  <Day>24</Day>
+  <Year>1999</Year>
+  <Title>The Sacrifice: Loures Forces in Undine</Title>
   <Type>1</Type>
-  <Content>Send us your original Dark Ages: Online Roleplaying story for a chance to win permanent fame and recognition that even change your status and power in the game. 
+  <Content>&lt;b&gt;Loures Troop Travel&lt;/b&gt;
 
-Entry Deadline: 2001/12/12, 11:59 p.m. PST
-Winners Announced: 2001/12/19
+Loures soldiers travelled the fresh road 'tween Piet and Pravat Cave. They then set sail for Undine. They were speaking of defending the land, and left in a haste most drastic for the soldiers of Loures.
 
-&lt;a href=http://www.darkages.com/community/contest.html target=_new&gt;How to Enter and other details&lt;/a&gt;</Content>
+&lt;b&gt;Loures Denies Arms in Undine&lt;/b&gt;
+
+&lt;i&gt;
+Loures will not tolerate any arms within its territory of Undine. It is well known that a rebellion must be avoided at all costs. We are aware of Goblin troops in the proximity of Undine. We have dispatched Loures' finest soldiers to prevent a siege upon Undine. Mundanes and Aislings alike, do not bring arms into Undine. Our soldiers are ordered to stop all who attempt do so, for treason to Ardmagh and defiance of the Court of Loures.
+
+We will post guards to enforce this law if necessary. It is for the protection of Undine and Ardmagh that we command.
+
+Cyril
+
+Councilor of Loures
+&lt;/i&gt;
+
+Enter &lt;b&gt;Dark Ages,&lt;/b&gt; listen to the Events of Temuair and talk to Hesperos in Undine Tavern for details.
+</Content>
 </NewsArticle>

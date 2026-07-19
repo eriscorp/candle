@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>5</Month>
-  <Day>22</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages 7.05 Patch Coming Soon</Title>
+  <Day>27</Day>
+  <Year>2001</Year>
+  <Title>System Troubles</Title>
   <Type>1</Type>
-  <Content>7.05 patch - soon after the Adoration, Dark Ages will be patching from 7.04 to 7.05. This patch will address minor bugs within the client.
+  <Content>Due to technical difficulties, there was a period this weekend that caused many characters from being playable within the game as well as some patrons from being able to connect to the game. These issues have been resolved.
 
-Horses of the Gods - This event will take place soon after the patch. The horse of each god has escaped their realm and are now wandering the terrestial lands of Temuair. It is up to you Aislings to bring these horses back to the gods. A great reward awaits!!
-
-Summoner Spells - new summoner spells will be coming after the patch as well.</Content>
+Because of this, and other recent system errors, we are in the process of crediting all current accounts in Dark Ages with 3 free days.
+</Content>
 </NewsArticle>

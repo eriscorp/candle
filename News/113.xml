@@ -1,9 +1,19 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>2</Month>
-  <Day>5</Day>
-  <Year>2015</Year>
-  <Title>Nexon fixed  temporary log on problem</Title>
+  <Month>10</Month>
+  <Day>28</Day>
+  <Year>1999</Year>
+  <Title>The Pact: Death of a Councilor</Title>
   <Type>1</Type>
-  <Content>Nexon fixed a temporary auto renewal problem that had caused some problems in logging on to the game for the users on auto renewal.  Nexon quickly reacted and fixed the problem within a half hour.  We apologize for any inconviences this may have caused.</Content>
+  <Content>Cyril, Councilor of Loures, who has addressed ["The Entreaty"](http://www.darkages.com/2000/news/990921.html) and ["The Sacrifice"](http://www.darkages.com/2000/news/990924.html) died.
+
+All of Loures Castle knew of his death by the scream of a servant woman. His corpse was found in his room, mutilated almost beyond recognition.
+
+His servant, Paulin, still stands guard by his daughter's room, and sadly remembers his master, our councilor, Cyril. The servant seems unnerved by the death so near his daily station, in the normally quiet hall of the second floor of Loures Castle.
+
+His daughter, Jacqueline is as sick as ever. Members of Loures pray that Aislings will be able to go to Mehadi and find her cure.
+
+&lt;/i&gt;
+(( Tulsi blooms 99.10.29 through 99.10.31 ))
+</Content>
 </NewsArticle>

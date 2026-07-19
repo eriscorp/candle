@@ -1,18 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>21</Day>
-  <Year>2015</Year>
-  <Title>Skill/Spell Leveling Bonus &amp; 50% Bonus Exp Event</Title>
+  <Month>10</Month>
+  <Day>7</Day>
+  <Year>2004</Year>
+  <Title>Fashion Show</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Skill/Spell Leveling Bonus &amp; 50% Bonus Exp Event&lt;/b&gt;
+  <Content>"Attention Aislings!
 
-Starting November 21st, all registered characters will receive DOUBLE the leveling rate of Skills and Spells.
+It has come time to show and commend the most fashionable Aislings in Temuair.  The Fashion Show will take place ((Sunday, October 10th at 6pm PST, 9pm EST)) at the Garamonde Theatre in Suomi.  I will ask for all Aislings to come on their best behavior; any aislings causing disturbances will be removed without hesitation. We will also be featuring clothes for the upcoming Oren Ball!.
 
-Using the leveling bonus item from the itemshop will QUADRUPLE the rate!!!
+((Please note that this date is different than the one sent out in any mails via DA.  That date is incorrect, this is the updated one.))
 
-Registered accounts will also receive 50% Extra Experience gained through monster kills, quest rewards, etc.
-
-((This event will begin on November 21st and END on November 26th.
-Register your accounts to take advantage of this special event!))</Content>
+Thank you for all of your support,
+ -Vindication"</Content>
 </NewsArticle>

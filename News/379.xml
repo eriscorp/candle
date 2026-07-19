@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>16</Day>
+  <Year>2001</Year>
+  <Title>fas nadur spell problems</Title>
+  <Type>1</Type>
+  <Content>Due to an upgrade in the game server, the fas nadur spell has stopped affecting the defensive nature of the target creatures. The server team is looking into the matter and we hope to have it corrected very soon.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
+</NewsArticle>

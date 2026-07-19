@@ -1,9 +1,44 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>11</Day>
-  <Year>2015</Year>
-  <Title>New Poll of the Week!</Title>
+  <Month>1</Month>
+  <Day>18</Day>
+  <Year>2000</Year>
+  <Title>Ascension</Title>
   <Type>1</Type>
-  <Content>When do you play Dark Ages? Before breakfast, just before bed, sometime in between...? Let us know the best time there is for you to play Dark Ages!</Content>
+  <Content>Kiril, Undine Master of Magic, unearths an [ancient Aosdic scroll,](http://www.darkages.com/community/his) which Torgny, great dwarf below, had given him:
+
+&lt;i&gt;
+The one of great insight
+
+after having proven his metal of Hybrasyl, Mythril, or Talgonite,
+
+after a great offering of [untranslated] to the gods,
+
+died.
+
+He entered the land of the dead,
+
+but instead of submitting to his fate,
+
+he searched among the rubble and found
+
+way that his spirit might cross the Abyss
+
+and arrive at a forbidden home of the gods.
+
+There his soul was bare.
+
+There he became fiery and great.
+
+There he became deep and great.
+
+He returned to world, more powerful now
+
+than before he had died.
+
+Abhul
+&lt;/i&gt;
+
+Kiril continues to attempt to translate it.
+</Content>
 </NewsArticle>

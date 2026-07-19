@@ -1,11 +1,38 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>2</Month>
-  <Day>14</Day>
-  <Year>2015</Year>
-  <Title>Monk Forms validation technique improved</Title>
+  <Month>10</Month>
+  <Day>29</Day>
+  <Year>1999</Year>
+  <Title>The Pact</Title>
   <Type>1</Type>
-  <Content>Nexon improved the validation for Monk Forms.  This increases the stability of the Monk Forms(Draco, White Bat, Scorpion, and Kelberoth). Thank you for your reports. 
+  <Content>.10.31&lt;/i&gt;
 
-For more information on Monk Forms, check out this overview on them at &lt;a target = _new href = "http://www.darkages.com/webpages/community/lore/Randolf_Monastica.html"&gt;http://www.darkages.com/webpages/community/lore/Randolf_Monastica.html&lt;/a&gt;</Content>
+Cyril, Councilor of Loures, who has addressed ["The Entreaty"](http://www.darkages.com/2000/news/990921.html) and ["The Sacrifice"](http://www.darkages.com/2000/news/990924.html) now writes:
+
+&lt;i&gt;
+Aislings,
+
+Jacqueline, my daughter, is gravely ill.
+
+I have conferred with our leading council, including the wizened Jean. There is hope for Jacqueline. A flower might cure her. This flower, the Tulsi, will be in full bloom late this Fall, about the same time as most crop harvests. But it grows in no known garden of Temuair. Legend has it that the flower grows in the heart of Mehadi swamp.
+
+The native race of Mehadi swamp, the Mukul, worship this holy flower. Theirs is a secretive and long-lived culture.
+
+Their roots touch the ancient ways of Piet, and their swamp nearly borders the village of Piet. Some scholars connect ancient parts of Piet's sewers to former sites of Mukul civilization.
+
+Loures formed a pact with the Rishi Mukul, the druids of the Mehadi swamp. I have personally visited the Rishi. We have come to an agreement that will allow us to harvest their sacred flower, the Tulsi, in exchange for an offering at a ceremony of their dread god, to appease It from anger of the massive disturbance of Its sacred ground; from harvesting the flower that has been sacrificed to It; to prevent It from awakening.
+
+Loures calls on an expedition of Aislings to collect and ensure the safe return of large quantities of the Tulsi. Most mundanes will be tied to their land, harvesting their crops before bleak ice winds and frosted earth ruin them. Excesses of the flower will be used to cure others in Loures suffering from the same malady as beloved Jacqueline.
+
+Perhaps with the bright summer sun, Jacqueline will become strong enough to allow visits or at least gifts at her chamber door. For now, none, save my servant Paulin, may visit her.
+
+Sincerely,
+
+Cyril
+
+Councilor of Loures
+
+&lt;/i&gt;
+(( Tulsi blooms 99.10.29 through 99.10.31 ))
+</Content>
 </NewsArticle>

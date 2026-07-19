@@ -1,11 +1,20 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>20</Day>
-  <Year>2015</Year>
-  <Title>Registration Error</Title>
+  <Month>8</Month>
+  <Day>10</Day>
+  <Year>2000</Year>
+  <Title>Service Interruption</Title>
   <Type>1</Type>
-  <Content>Over the weekend there was a problem with the accounts database. The problem prevented a few players from registering their account. The problem has been fixed and all affected accounts have been compensated. We apologize for any inconvenience.
+  <Content>Dark Ages is available now. The internet connection error is now fixed.
 
-DA Team</Content>
+Dark Ages was offline this afternoon. We were greatly frustrated to watch
+our world run, but have no players to play in it. There was an internet
+error that prevented players from entering the world for a few hours.
+
+The day is free, on us. Your registered account has been credited. We'll do all
+things in our power to ensure Dark Ages is connected all the time.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

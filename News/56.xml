@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>8</Day>
+  <Year>1999</Year>
+  <Title>Mentor Enhancement</Title>
+  <Type>1</Type>
+  <Content>Mentoring may be begun when the student is level 2 through 8. Previously it was level 2 through 5.
+
+Mentoring experience award for the mentor increased 33%-100%, the highest possible being 750,000.
+
+Mentors and Guides may use a smaller amount of their time to mentor or guide. Mentoring gives 1000 experience (Guiding 500 experience) to the student each time. Previously it was only possible once per six Temuairan days. Now, if no other crafts were desired, it may be done up to 18 times in six Temuairan days. However, it directly decreases the time available for other crafts.
+
+See [social](http://www.darkages.com/pics/index_feature.html) features screenshots.
+</Content>
+</NewsArticle>

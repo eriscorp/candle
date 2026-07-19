@@ -1,14 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>3</Month>
-  <Day>14</Day>
-  <Year>2015</Year>
-  <Title>Reminder: Character purge on 03/19/2002!</Title>
+  <Month>11</Month>
+  <Day>11</Day>
+  <Year>1999</Year>
+  <Title>Server Maintenance</Title>
   <Type>1</Type>
-  <Content>On Tuesday morning, the 19th of March Nexon will be doing a character purge of the Dark Ages user database. All characters that have been unregistered for a month will be removed from our database, and the game server.
+  <Content>- 11.11 04:52 PST
 
-If you wish to save your characters please make sure you register them again between now and 2002/03/19! Any characters purged CANNOT be restored; the only way to keep your character safe during this purge it to make sure the character is on a registered account!
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers shut down for server operations maintenance.
 
- 
+ At that time, a client would receive the message "Can't connect to the server at this time"
+
+ Dark Ages servers are fine at this time. If the "Can't connect..." message is seen, please [check your connection.](http://www.darkages.com/support/trace_route.htm)
 </Content>
 </NewsArticle>

@@ -1,11 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>8</Month>
-  <Day>12</Day>
-  <Year>2015</Year>
-  <Title>Desert Dunes</Title>
+  <Month>9</Month>
+  <Day>10</Day>
+  <Year>2000</Year>
+  <Title>Maintenance</Title>
   <Type>1</Type>
-  <Content>A new area in Medenia has been discovered! The Desert Dunes is right next to the Desert of Fire. Be careful when exploring, it can get extremely hot.
+  <Content>Dark Ages servers will be offline for up to 30 minutes sometime between 9 - 11 p.m. on 9/10 for scheduled maintenance.
 
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
 </Content>
 </NewsArticle>

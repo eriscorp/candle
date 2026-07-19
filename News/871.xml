@@ -1,13 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>2</Month>
-  <Day>2</Day>
-  <Year>2017</Year>
-  <Title>Loures Soccer Field</Title>
+  <Month>7</Month>
+  <Day>25</Day>
+  <Year>2008</Year>
+  <Title>Kruna Bonus Reminder</Title>
   <Type>1</Type>
-  <Content>"King Bruce is proud to introduce a new sport! He has been hard at work on his new soccer field!"
+  <Content>Kruna coupons purchased on the month of July and used before August 1st will receive an additional 50% bonus. You have less than 1 week left to take advantage of this offer. Time is running out, stock up now! 
 
-Location: Next to Gramail Temple
+$10 Kruna Coupon = 1500 Kruna
+$30 Kruna Coupon = 5000 Kruna
 
-Error &amp; DA Team</Content>
+**This offer will not be repeated again this year.**</Content>
 </NewsArticle>

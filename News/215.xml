@@ -1,15 +1,17 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>3</Month>
-  <Day>7</Day>
-  <Year>2015</Year>
-  <Title>The Second Battle</Title>
+  <Month>4</Month>
+  <Day>4</Day>
+  <Year>2000</Year>
+  <Title>Server Reboot</Title>
   <Type>1</Type>
-  <Content>"Scattered Dark Aislings from the First Battle have gathered once again at the Battle Fields. We request that all willing and able Aislings come help fight."
+  <Content>04.04 11:55 PDT
 
-Dealos
+ A Dark Ages server rebooted unexpectedly. Service resumed immediately, but rebooted unexpectedly a few times until stabilized at 20:16 PDT.
 
-((This battle will last all weekend. Also, Violet, the descendant of the legendary armorer will be able to repair/replace your Grand Armor. Simply say the name of the legendary armorer.))
+ This is the first unexpected Dark Ages reboot in over 4 months (last unexpected reboot: [99.11.28](http://www.darkages.com/2000/news/991128t.html)), which may be an graphic online game stability world record.
 
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
 </Content>
 </NewsArticle>

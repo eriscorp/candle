@@ -1,13 +1,17 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>7</Month>
-  <Day>6</Day>
-  <Year>2015</Year>
-  <Title>Adoration Legend Mistake</Title>
+  <Month>8</Month>
+  <Day>30</Day>
+  <Year>2000</Year>
+  <Title>Internet Connection</Title>
   <Type>1</Type>
-  <Content>Hello,
+  <Content>The ISP fixed their problem.
 
-Whoops, sorry about the "Hacker" legend. We left it from the incident last Summer. All "Hacker" legends will be removed. If you still have the legend by the end of the day please contact us. Sorry again.
+7 a.m. - 9:15 a.m. PDT: An Internet Service Provider near Dark Ages servers is suffering network degradation. We are pressing the issue with the ISP to fix their problem.
 
-DA Team</Content>
+Do not risk loss of items or character's life. If you experience lag or the internet connection gem above the inventory button is yellow or red, then play only in areas that you know you will be safe in even if you are disconnected by the internet.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

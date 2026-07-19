@@ -1,16 +1,20 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>21</Day>
-  <Year>2015</Year>
-  <Title>The Merriest of Dreams</Title>
+  <Month>11</Month>
+  <Day>3</Day>
+  <Year>2000</Year>
+  <Title>Religion Expansion</Title>
   <Type>1</Type>
-  <Content>Tired and weary from a long day? Come take a nice nap at the inns of Mileth, Rucesion, and Noam. And may your dreams be merry.
+  <Content>Thank you for your good feedback on Religion Expansion. We made the following improvements to what is already the most interactive and feature-rich religion system in any online RPG:
 
-&lt;img src="http://www.darkages.com/2002/screenshots/images/Christmas.jpg"&gt;
+- Legend date for initiations is the first initiation instead of the most recent, so that priests may proudly display their long-standing faith.
 
+- Prayer and Summon secret given at "Fellowship" if the priest had accidentally forgotten it.
 
-((This is a Christmas event that takes place outside the world of Dark Ages.
-Merry Christmas and Happy Holidays,
-DA Team))</Content>
+- A priest may admit a guest ((even if unregistered)) into the temple by assuming responsibility for the guest's good behavior.
+
+- An Aisling-recognized talent may advance into fellowship by oneself.
+
+- We eliminated all reported bugs, including special conditions that may affect: leaving fellowship, shifting faith, staff or symbol consecration, and giving mass.
+</Content>
 </NewsArticle>

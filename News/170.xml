@@ -1,9 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>28</Day>
-  <Year>2015</Year>
-  <Title>New Weekly Poll!</Title>
+  <Month>1</Month>
+  <Day>13</Day>
+  <Year>2000</Year>
+  <Title>Uniform</Title>
   <Type>1</Type>
-  <Content>What do you feel about the overall direction of Dark Ages? Take a few moments to share your thoughts with us!</Content>
+  <Content>Mundanes take uniforms from anyone entering Aisling territory (currently Mileth and Rucesion) who is not an official. Realize that the uniform cannot be handed to another Aisling for any reason. AT ENTRY into Aisling territory, if the Aisling is out of office, the uniform is taken away, no questions asked. No redress. This is the only time a mundane may effectively examine the Aisling's official status.
+
+In accordance with Aisling citizen's [vote.](http://www.darkages.com/2000/news/991212.html)
+
+View [all features screenshots.](http://www.darkages.com/pics/index_feature.html)
+</Content>
 </NewsArticle>

@@ -1,13 +1,10 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>9</Month>
-  <Day>5</Day>
-  <Year>2015</Year>
-  <Title>Item Shop Information</Title>
+  <Month>11</Month>
+  <Day>28</Day>
+  <Year>2001</Year>
+  <Title>Nexon Improved Stat Reallocation Validation</Title>
   <Type>1</Type>
-  <Content>Warranty Bags
-Please keep in mind that Warranty Bags are consumed when players ascend.
-
-Armor Dye
-Only item shop armors that are designated as dyeable can be dyed. </Content>
+  <Content>Nexon improved validation routines in Stat Reallocation, which is offered to extremely advanced players. Now there are additional confirmations and protections from a player's accident or an internet disconnection. 
+</Content>
 </NewsArticle>

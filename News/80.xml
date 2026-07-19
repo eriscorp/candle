@@ -1,10 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>7</Day>
-  <Year>2015</Year>
-  <Title>Internet Maintenance</Title>
+  <Month>9</Month>
+  <Day>27</Day>
+  <Year>1999</Year>
+  <Title>Guards List</Title>
   <Type>1</Type>
-  <Content>Friday 12/07 internet service provider will perform maintenance for up to 30 minutes. This will prevent you from accessing the Nexon web sites and the Nexon download sites. This will not affect game service. 
+  <Content>A list of all political and legal offices is sent to the highest ranking politician of each town. If there are two or more of equal rank, the list is sent to the first in the alphabet. This list is sent at 6 a.m. every day.
+
+Mundanes request that the politician then post it on the Law board or otherwise inform their citizens who is in office now.
 </Content>
 </NewsArticle>

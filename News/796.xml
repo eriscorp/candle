@@ -1,17 +1,33 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>7</Month>
-  <Day>21</Day>
-  <Year>2015</Year>
-  <Title>Renaissance Faire</Title>
+  <Month>4</Month>
+  <Day>19</Day>
+  <Year>2007</Year>
+  <Title>Updates and Announcements</Title>
   <Type>1</Type>
-  <Content>Hear Ye! Hear Ye!
+  <Content>&lt;b&gt;Archer Update (April 26th)&lt;/b&gt;
 
-Tis tyme for ye olde Renaissance Faire!
+Life Arrow - revives a skulled Aisling at any distance within the Archer's visible range. 1 line cast delay, 3 minute cooldown, and costs 3000 mana. For pure Archers only. Ability 1.
 
-What be this madness ye ask? Its a gaggle of games and a tournament to boot! Time for brave Aisling Knights to joust on their trusty steeds, rescue the Fool from his idiocy, prove thine might and mettle in the melee, and mind in a challenge of bardic rhyme!
+Frost Arrow 1 - slows a monsters attack and movement speed by a factor of 2 for 3 seconds. 1 line cast delay and costs 600 mana. Ability 1.
 
-&lt;img src="http://files.kru.com/DarkAges/Media/Images/Renaissance Faire.jpg"&gt;
+Frost Arrow 2 - slows a monsters attack and movement speed by a factor of 2 for 4 seconds. 1 line cast delay and costs 700 mana. Ability 15.
 
-((Break up the drear, grab your friends, and join in the festivities with the Suomi Troupe in the Loures Yard on Saturday, July 25th at 3 PM EST / 12 PM PST / 8 PM GMT. This is a Troupe event, so please be on you����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������r best behavior.))</Content>
+Frost Arrow 3 - slows a monsters attack and movement speed by a factor of 3 for 3 seconds. 1 line cast d�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������elay and costs 800 mana. Ability 35.
+
+Frost Arrow 4 - slows a monsters attack and movement speed by a factor of 3 for 4 seconds. 1 line cast delay and costs 900 mana. Ability 60.
+
+Frost Arrow 5 - slows a monsters attack and movement speed by a factor of 4 for 4 seconds. 1 line cast delay and costs 1000 mana. Ability 90.
+
+Shock Arrow - deals damage based on 1% of the target's current hit points. 1 line cast delay and costs 4% of the caster's maximum mana points (effective against high HP monsters). Ability 10.
+
+Blinding Bolt - has been updated with shorter line cast and longer duration.
+
+At the release of the Archer Update, Archer spells will require a Bow item to be equipped when casting.
+
+&lt;b&gt;Itemshop Announcements&lt;/b&gt;
+
+Kruna Coupons - Starting on April 23rd, players will have the option to purchase 3300 kruna for $29.85. Players can still purchase the standard 1000 kruna for $9.95.
+
+Trading Items - this is a reminder to players that only Event Items(currently Bunny Polyp and Bunny Muffs) will become tradeable after they are no longer sold at the itemshop. All other itemshop items are NOT and will NOT be tradeable.</Content>
 </NewsArticle>

@@ -1,17 +1,22 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>1</Day>
-  <Year>2015</Year>
-  <Title>Server Down Time - Resolved</Title>
+  <Month>9</Month>
+  <Day>25</Day>
+  <Year>2000</Year>
+  <Title>Arena</Title>
   <Type>1</Type>
-  <Content>Hello,
+  <Content>Fight the way you want to fight: from a brawl to a colossal championship.
 
-As of 8:11 PM (PST) we believe that the issues with the ISP have been resolved for the most part, and the game should be working correctly now.
+- Player-hosted Coliseum: The host may configure what class, level range, and spectator and combatant entry fee. The host divides teams, judges battles, and determines winners. Winners receive public legends.
 
-We will be adding 1 day to all the active accounts to compensate for this down time.
+- Spontaneous Team Battle: Self-organized team battles in a moat-surrounded arena. No host or other specifications required.
 
-We are sorry for any inconvenience this may have caused.
+- Ring Battle: Free for all battles outside the moat.
 
-DA Team</Content>
+Arenas appear in isolated locations about Temuair, so they will not disturb other Aislings. The first will appear near Piet.
+
+Mundanes are currently not accepting Arena host applications. Stay tuned to learn when they will be and how to become one. Mundanes will select initial hosts from the arena experts, who applied from a letter in the Dark Ages news mailing list.
+
+For arena details, get help from a mundane inside the arena.
+</Content>
 </NewsArticle>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>14</Day>
+  <Year>2015</Year>
+  <Title>Updates and Itemshop</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Updates&lt;/b&gt;
+
+- Monster Boss AI 
+* Fixed players from being stuck in the quest after killing Lost Ruins Boss "Law" 
+* Increased drop-rate of Lumen Amulet from Muisir Boss
+
+- Lower level Monsters
+* Individually increased EXP from more low-level monsters 
+
+- Itemshop Release
+* Experience Gem - Sell your experience from anywhere!
+* 25% Bonus EXP/AP - Increases EXP/AP received by 25%
+* 50% Bonus EXP/AP - Increases EXP/AP received by 50%
+
+- Future Release
+* Muisir Extension
+* New AB Armors/Weapons etc.
+
+Please continue sending in your requests and suggestions. 
+
+Dark Ages Team</Content>
+</NewsArticle>

@@ -1,11 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>10</Month>
-  <Day>22</Day>
-  <Year>2015</Year>
-  <Title>Gone Fishing</Title>
+  <Day>11</Day>
+  <Year>2000</Year>
+  <Title>Maintenance</Title>
   <Type>1</Type>
-  <Content>By popular demand and in appreciation of the recent Peasant Day, fishing is now a standard feature in Dark Ages. It is a tedious hobby but the rewards can be profitable. There are a few types fishes, many more will be added later. You can purchase fishing equipment, somewhere in Temuair. Sometimes you may not even catch a fish, you'll never what's in the mysterious waters. Good luck.
+  <Content>Dark Ages servers will be offline for up to several minutes between 10:00 and 11:59 a.m. PDT for routine hardware maintenance.
 
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
 </Content>
 </NewsArticle>

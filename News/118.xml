@@ -1,9 +1,33 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>2</Month>
-  <Day>12</Day>
-  <Year>2015</Year>
-  <Title>Nexon fixed Server Validation Techniques</Title>
+  <Month>11</Month>
+  <Day>2</Day>
+  <Year>1999</Year>
+  <Title>The Pact: Conclusion</Title>
   <Type>1</Type>
-  <Content>Nexon improved the validation for Skills, and improved the stability of the quests.  This increases the stability of the game and guarantees a more enjoyable gaming experience.</Content>
+  <Content>&lt;i&gt;
+Dear Aislings,
+
+Thank you for your kind attention. I would have died, I'm sure, had you not brought your cure, your love.
+
+I weep for my father who died. I have heard awful rumors about him and I cannot refute them or know them. I do not know him--I will never know him--well enough.
+
+I weep for Matthieu, too. He is my love, a simple messenger of Loures. Matthieu, if you can read this, write to me, bring one last flower to brighten my face.
+
+I have left the chamber so that mundanes from all over Temuair may have a chance to be cured of the dark malady that afflicted me. Although I am cured, my months of infirmery have taught me to care for others, and to seek out the sick elsewhere. The hall is still named in honor of my father, our faithful servant is still there, and so is our physician who brews what he can for the sick children.
+
+If you have brought flowers to my chamber door when I was ill, please stop by and talk to my servant, Paulin, again. He will reward you greatly for your generoscity and love.
+
+Jacqueline
+
+Noble Orphan of Loures
+
+&lt;/i&gt;
+
+(( Jacqueline's recovery, and the future epic events of Temuair, were chosen by you, the Aislings, and your actions.
+
+ Reward from Paulin &lt;i&gt;greatly&lt;/i&gt; differs depending on &lt;i&gt;how&lt;/i&gt; you participated (maximum possible is 1,000,000 experience, political clout, and a legend).
+
+ Not all was, or is, as some mundanes said it would be. Everything there is a clue to what is really evolving, beginning with "The Entreaty," and continuing through "The Sacrifice," "The Pact," and epic events to come. Your collective actions here determine the next epic event. ))
+</Content>
 </NewsArticle>

@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>8</Month>
+  <Month>6</Month>
   <Day>1</Day>
-  <Year>2015</Year>
-  <Title>Attack of the Giant Ants</Title>
+  <Year>2000</Year>
+  <Title>Maintenance</Title>
   <Type>1</Type>
-  <Content>Any character that died in the Loures Throne room can be restored to July 30th. Please contact us through the support page to request this.
+  <Content>11:50 - 11:59 a.m., Dark Ages was offline for scheduled maintenance and internal structure upgrades.
 
-We are continuing to add fixes to the game Servers to further prevent any more problems. Thank you.
+Please report abnormal software behavior: [www.darkages.com/contact](http://www.darkages.com/contact)
 
-DA Team</Content>
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

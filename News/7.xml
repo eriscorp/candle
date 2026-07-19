@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>2</Month>
+  <Day>24</Day>
+  <Year>1999</Year>
+  <Title>New Testers Accepted</Title>
+  <Type>1</Type>
+  <Content>&lt;i&gt;Applications accepted through St. Patrick's Day&lt;/i&gt;
+
+&lt;I&gt;Dark Ages&lt;/I&gt; continues accepting applications for role-playing beta testers through 99.03.17, honoring St. Patrick's Day.
+
+Private beta-testing for talented role-players will be offered on these dates:
+
+- &lt;i&gt;99.03.17:&lt;/i&gt; Test Application final deadline
+
+- &lt;i&gt;Spring, 1999:&lt;/i&gt; Dark Ages release
+
+Apply: [www.darkages.com/test](http://www.darkages.com/test/index.html).
+</Content>
+</NewsArticle>

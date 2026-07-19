@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>10</Day>
+  <Year>2015</Year>
+  <Title>Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Updates&lt;/b&gt;
+
+- Updated Skills/Spells
+* Updated Damage of Hail of Feathers 
+* Supernova Shot - Increased Damage, Lower cooldown
+* ard deo searg - Updated to 2 line cast
+* ard ioc colmha - Updated to 2 line cast
+* Increased Regeneration - usable in Loures Battle Ring
+
+- New Rare Monster Item Drop from Dhubh Seud
+* Ring Item in Cthonic Remains 56
+
+More updates to follow...
+
+Dark Ages Team</Content>
+</NewsArticle>

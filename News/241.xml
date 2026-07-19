@@ -1,11 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>7</Month>
-  <Day>10</Day>
-  <Year>2015</Year>
-  <Title>Web Servers</Title>
+  <Month>5</Month>
+  <Day>13</Day>
+  <Year>2000</Year>
+  <Title>New, Unique Noble Garment</Title>
   <Type>1</Type>
-  <Content>You may have noticed some downtime with, on or have difficulty connecting to, Nexon's websites. This is due to unscheduled maintenance on our web servers from Wednesday through today. Fully restored access should be available shortly. Thank you for your patience and understanding!
+  <Content>The Loures Lady and Loures Lord garment is offered only to the most noble Aislings. There is no other source of this garment.
 
-Nexon Inc.</Content>
+The garment is tailored to your body, so may not be worn by anyone else, nor may be deposited with a mundane.
+
+Nobility is gained through imagination and education. Aisling works in the [library](http://www.darkages.com/2000/community/temuair) and teaching college classes increase your nobility. See Jean in Loures to learn details on nobility as well as information on [teaching college classes.](http://www.darkages.com/2000/news/990923_2.html)
+</Content>
 </NewsArticle>

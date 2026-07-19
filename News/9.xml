@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>24</Day>
+  <Year>1999</Year>
+  <Title>New Client Progress</Title>
+  <Type>1</Type>
+  <Content>&lt;i&gt;New &lt;/i&gt;Dark Ages&lt;i&gt; Client Program&lt;/i&gt;
+
+Graphics are being drawn for the new client as we read. Bear in mind that new client is 8-directions, which means there are 2 times as many animation frames to draw. It's a lot of work for our excellent character designer: "Loadman". We're as eager for you to test it as you are, so it will be coming with the bare minimum of graphics. Therefore some of the more powerful items will not appear correctly or perhaps &lt;i&gt;not at all.&lt;/i&gt; While testing and debugging this all &lt;i&gt;new&lt;/i&gt; client, more of the missing graphics are being drawn.
+
+The 3-d rendered characters have been in the works since Fall 1998 and are nearing completion. They are retouched, to retain their hand-drawn look, that too many games decide that players' won't notice the difference of. The weapons and shields will be designed soon.
+
+Since it is from a 3-d model, the proportions and motions of the characters are more life-like. The hairstyles (20 for each gender) will be different from the ones currently available, also from 3-d rendered models.
+
+The emotional expressions are more life-like and contain some full body gestures.
+
+Several comments and suggestions have been incorporated into the design and animation of the new characters. At &lt;i&gt;Nexon&lt;/i&gt; it has been and continues to be a big project.
+
+When it comes to test, some elements of gameplay will be addressed. For example, you could surround a creature with six players. Conversely, you could be surrounded by six creatures. This will reward intelligent play more, yet I'll have both eyes watching for unexpected shifts of balance created.
+
+&lt;i&gt;Dave Kennerly&lt;/i&gt;
+
+Director
+</Content>
+</NewsArticle>

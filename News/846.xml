@@ -1,15 +1,22 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>8</Month>
-  <Day>30</Day>
-  <Year>2016</Year>
-  <Title>Updates</Title>
+  <Month>2</Month>
+  <Day>15</Day>
+  <Year>2008</Year>
+  <Title>Team Arena Release</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Updates:&lt;/b&gt;
+  <Content>On Wednesday, February 20th, Team Arena will be released. There are a few changes since beta.
 
-* Increased Bomb Game entrance fee from 5K to 50K. This will increase the prize as well
+-The team balancing has been slightly changed.
 
-* Increased drop-rate of Skulls in Chadul hunting area.
+-The spawn area will be blocked off from the opposing team.
 
-Dark Ages Team </Content>
+-Winning teams, in a match with 10 or more participants, will receive ability points and experience based on their current ability and insight.
+
+-Winning matches (with 10 or more participants), will be recorded in the character's legend. Characters can purchase medals based on the number of wins.
+
+Champion Medals - 5000 wins
+Contender Medals - 2000 wins
+Battler Medals - 500 wins
+Fighter Medals - 100 wi����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ns</Content>
 </NewsArticle>

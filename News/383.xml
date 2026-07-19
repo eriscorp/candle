@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>2</Month>
-  <Day>1</Day>
-  <Year>2015</Year>
-  <Title>Bugs Fixed</Title>
+  <Day>21</Day>
+  <Year>2001</Year>
+  <Title>Current Development Status</Title>
   <Type>1</Type>
-  <Content>-Assassin Strike should now disarm the target.
+  <Content>A new 'hack' out on the internet has allowed players to force the game client to operate at 8 times the normal speed. This has the effect of allowing characters to use skills and spells at an increased rate. As this is a violatin of the user agreement, many of those using the hack have had their accounts blocked for one week.
 
--Veltain Staff and Veltain Swords can now be worn by anyone of the appropriate class and has at least 15 ability. These items no longer requires specific skills.
-
--Guild members can now whisper to each other between Medenia and Temuair.</Content>
+There is work being done to stop this from being used as well as a script to find those who are using the hacked program. If anyone is found using the hack in the future, their account will be terminated.
+</Content>
 </NewsArticle>

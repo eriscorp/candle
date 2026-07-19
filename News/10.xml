@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>12</Day>
+  <Year>1999</Year>
+  <Title>Connection Upgraded</Title>
+  <Type>1</Type>
+  <Content>&lt;i&gt;&lt;/i&gt;Dark Ages&lt;i&gt; connection moves out of the test bay&lt;/i&gt;
+
+&lt;i&gt;Dark Ages&lt;/i&gt; server internet connection is being upgraded to greater bandwidth now;
+therefore, the server machine is not accessible. The hardware is being
+physically moved so the server is down for some time. We expect it up by
+midnight pst 99.04.13, although we cannot directly control the internet
+service provider's installation performance.
+
+Dark Ages server incorporates relay technology; therefore, you do not need a
+client patch to connect to the new location. That will be done
+automatically.
+</Content>
+</NewsArticle>

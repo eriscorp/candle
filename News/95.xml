@@ -1,22 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>8</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages 3.73</Title>
+  <Month>10</Month>
+  <Day>9</Day>
+  <Year>1999</Year>
+  <Title>Circle 4 Armor Quests</Title>
   <Type>1</Type>
-  <Content>This new version adds game server search ability. During connection you may notice a delay while the program searches for the game server.  This provides smooth transition with minimal delay and no need to re-download Dark Ages when the hosting service expands or relocates.&lt;p&gt;
-There are no other changes in this version.
+  <Content>Mundanes report of a Sylvan deep within the woods who remembers the legendary garments whose secret weaving and construction has been keep alive over the millenia by the fae.
 
-&lt;p&gt;
-We apologize for errors the new version introduced during the morning. Thanks to your detailed reports, Nexon fixed all reported errors as of 7 p.m. PST:&lt;p&gt;
-&lt;ul&gt;
-&lt;li&gt; Lag from relay connection.
-&lt;li&gt; Some spell graphics not appearing (pian, Iron Skin, Charge, etc.).
-&lt;li&gt; Some ground graphics corr����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������upted (Druid Circle in Enchanted Garden).
-&lt;li&gt; DNS look-up address.
-&lt;li&gt; DNS memory feature overrides DNS look-up.
-&lt;/ul&gt;
+Likewise mundanes report of a Dwarf deep in the caves under Abel's Isle who keeps alive the secrets of smith the legendary armors, including Emerald Platemail.
 
-Your knowledge of the details of the game and your kindness to write us touches us.&lt;p&gt;</Content>
+These armor quests can only be attempted at level 71 (and level 56 for Warriors who have additional sets of armor), because the armor can only be worn at level 71 or greater.
+
+Noble versions of these garments can also be gained by recognition for outstanding creativity. [Click here](http://www.darkages.com/2000/atavism/contest.html) to learn about gaining noble garments by your creativity. Noble versions can be worn as low as level 11-31 and do &lt;i&gt;not&lt;/i&gt; offer the combat protection.
+</Content>
 </NewsArticle>

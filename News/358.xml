@@ -1,14 +1,11 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>8</Month>
-  <Day>24</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages 6.0</Title>
+  <Month>12</Month>
+  <Day>8</Day>
+  <Year>2000</Year>
+  <Title>Beggars abroad</Title>
   <Type>1</Type>
-  <Content>Click on the link below for a sneak peek of the next Dark Ages update.
-
-&lt;a target=_new href=http://www.darkages.com/newsletter/DA_news.html&gt;"Dark Ages 6.0"&lt;/a&gt;
-
-
+  <Content>Beggars have worked their way into the society of Temuair. However, they seem to be a bit more behaved than your common variety panhandler. In fact, they have offered to take any of your unused or unwanted items.
+ They have strategically placed themselves at locations where many Aislings tend to collect such useless items. Feel free to enrich their days and keep Temuair clean.
 </Content>
 </NewsArticle>

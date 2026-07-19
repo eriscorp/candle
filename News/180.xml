@@ -1,26 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>23</Day>
-  <Year>2015</Year>
-  <Title>Eulogy: Octave</Title>
+  <Month>1</Month>
+  <Day>26</Day>
+  <Year>2000</Year>
+  <Title>Server maintenance on Friday at 11am</Title>
   <Type>1</Type>
-  <Content>The Eulogy: Octave 
+  <Content>Due to unforseen technical troubles, the upgrade scheduled for early this morning did not take place. We are currently performing the maintenance and the system will be available at 12pm PST.
 
-Kalliope writes a new octave in remembrance of Danaan and the cycle that has begun: 
-
-&lt;I&gt;One gave us our eyes and taught us how to see.
-Two comforted our sight.
-Three showed us the beauty of the world.
-Four gave a glimpse of knowledge.
-Five protected our gift with reason.
-Six revealed the hidden.
-Seven showed us the battle.
-Eight made us wish we had never seen at all. 
-
-Kalliope
-Bard of Undine &lt;I/&gt;
-
-  
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
 </Content>
 </NewsArticle>

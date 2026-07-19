@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>4</Day>
+  <Year>1999</Year>
+  <Title>Dark Ages Interview: Client and Society</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Mide
+ Province's Interview with Dave Kennerly - Round Three&lt;/b&gt;
+
+On May 4, Mide Province interviewed Dave Kennerly, the director of the Dark Ages project, for the third time. The subjects of this interview range from the discussion of the new client to the direction that DA will take with regards to religion and socia
+l developments.
+
+Mide Province: First of all, to you at least, what are the main features of the new client?
+
+Dave Kennerly: Mp3 music; fixed bugs; optimized memory usage.
+
+MP: I noticed you've mentioned an mp3 player - is this for mp3 music in the form of an in-game soundtrack, or for players to play whatever music they like?
+
+DK: In-game soundtrack. We've contracted an mp3 composer. ...
+
+MP: Since the new client will have a number of bug fixes, can you tell us what features we can expect to develop over the next months? (w/ regards to the client?)
+
+DK: Currently the client, which is all-new code and therefore has some new bugs, is projected to be stable enough for beta-test 99.06.01 without all of the features that will appear in the commercial release. It will have some Mp3 sound eff
+ects, some fixed bugs, and some optimized memory usage. The rest of testing will be removing the bugs that are discovered in the new code, and adding what was mentioned above.
+
+MP: Along with the development of the client, can you give us an idea of the societal developments that will follow in the coming months?
+
+DK: One feature of the client will be clickable bulletins. For example, clicking on a sign that acts as a single-subject bulletin board. These will appear in association with several guilds, and social organizations.
+
+In the past week and this week I'm developing prototypes for religious organization and some simple interactions with your deity, i.e. prayer, donation, blessing, etc. Guilds are becoming stabilized, therefore once religions are fairly stable, new variet
+ies of guilds will appear. Guilds with larger memberships, more exclusive guilds, and guilds that are oriented towards the leaders. For example, a Priest will be able to begin a "fellowship", a Warrior will be able to form a sort of military structure,
+a Wizard a "Coven" and so on.
+
+Then each town will become a social organization. Aislings will be given a chance, albeit one in which the Aisling must be dedicated and in some justifiable way, qualified, to take social office in the town. For example, becoming a Judge, a Guard, and o
+n a more casual basis, becoming a Jury Member for a civil trial. All trials will be civil, guided by the laws of the town. The laws must meet Dark Ages approval, but in cases where it does not become un-entertaining, the laws will be set by Aisling offi
+ce-holders, who in turn may be put into power and taken out of power by the citizens of that town. The office holders will receive a sort of tax-stipend depending on the number of Aislings in the town, although it not be deducted from the Aisling. It is
+ conveniently assumed that each Aisling in a town attracts enough tax-paying mundanes to fund the political machine.
+
+It will take me time.
+
+MP: This all sounds incredible. It seems like you are trying to simulate an online society in every aspect - economics, religion, interaction between players...It all sounds, well, incredible.
+
+DK: For example, I expect only religions to be relatively stable this month. Each in its time. That's an area where my fingers and testing cannot keep up with my imagination.
+
+MP: As a corollary to the want for stability of the different facets of the society, do you have any idea when Dark Ages will reach a production state; or rather, a state in which you are satisfied to open it to the public?
+
+DK: That's largely controlled by marketing, which I don't get involved in when given the choice. Once our client is in the hands of you, the beta-testers, we can predict when it will be ready. The social features are an on-going project. They will not
+lose speed or focus at any time in the life of Dark Ages.
+
+MP: I must say, I am very impressed by the features and abilities you've spoke of so far. Related to being able to "live" in a certain town, will players be able to purchase land, or buildings? Will they be able to modify the landscape by building improv
+ements?
+
+DK: They will not be able to modify the landscape. Land is in very high demand. It's technically not a good idea to have idle land. That is, all land should be used where there will be lots of persons interacting in it. Idle land creates demands for m
+ore hardware. Therefore, there will be very limited land available for purchase. Inn rooms, guild halls, some government locations, for examples.
+
+MP: Do you have any idea what the requirements will be for a guild to establish a hall?
+
+DK: I'd have to give it much more thought. It is planned to be a moderate challenge to a cooperative guild that is large enough to make good use of the land. There is also a moderately challenging maintenance requirements to the land. There are ideas a
+bout the details to this, but I'd rather not let my tongue say something that will take more months than you're willing to wait to see.
+
+MP: Well, I'm sure it will be well worth the wait. I have here a few questions from various Aislings, if you would like to answer them?
+
+DK: My pleasure.
+
+MP: "Are there going to be any more cities or towns or new places to hunt for 50+ people coming soon?" (perhaps, better restated as, will there be more opportunities for advanced Aislings in the future)
+
+DK: New areas can be designed. There will be no new areas with the client, nor plans for new areas besides some inn rooms and lands for some guilds before commercial service. I believe you would rather have me designing the social features than designin
+g new lands when less than 50% of the current lands have ever been seen by Aisling eyes.
+
+MP: What new features will be added to make Dark Ages especially unique from its conterpart, Legend of Darkness? (Which stand out most that is)
+
+DK: The social features. Already, Dark Ages incorporates 95% unique interactive crafts, social features, and the ilk. For example, Priests creating beothaich deum, which is the elixir of life. Motleys. In LoD, one needs to be level 99 and have more go
+ld than I can remember to begin a guild. All the previously mentioned social features are a Dark Ages first. Because of the language barrier and different tastes in Korean vs. US role-players, it is likely that the advanced social features will remain u
+nique in Dark Ages, although I have no desire to not allow my counterparts to entertain Korea with these features.
+
+MP: With regards to the development of the social features and the online society we are seeing develop, are you happy with the progress you've made, and the participation of the current Aislings?
+
+DK: Very. I'm extremely pleased each day when announcing new features, and moderately content to state that such-and-such was fixed. I'm childishly joyous to have the high-quality testers that are the Aislings of Temuair. I share their desires, frustra
+tions, and sense of entertainment. If I could ask for anything it would be for the faith of Aislings during the periods when work necessarily causes progress to appear slow, such as when 8 religions are being produced.
+
+&lt;i&gt;Some miscellaneous questions&lt;/i&gt;:
+
+MP: I'm wondering if you can tell me anything about what the deal is with the King of Loures, and why he seems to have been demonized lately? It seems like he's being portrayed as a tyrant. (intentional, or simply coincidence?)
+
+DK: There are no coincidences, of that magnitude.
+
+MP: It seems that the players are defining the "roles" and "character" of the mundanes - is this intentional?
+
+DK: Yes. It's better to say, that's my goal...When playing RPGs, I believe a significant amount of enjoyment comes from personifying everything possible, especially the mundanes or NPCs of other games.
+
+My goal is to breathe life into the mundanes; that is, to give each a reason for being. The same goes for all the areas and realms. More so in an interactive manner. A simple example being the faerie ground that allows a priest to mix an elixir. When
+there is time, I will delve into my first and highest purpose which relates to Lovecraft.
+
+MP: Do you think the contests will continue into production, as a way to distance those who contribute little to the fabric of society to those that contribute much?
+
+DK: Yes. I do not like the mentality that combat power is equivocal to social power.
+
+MP: A corollary to that: will the contests expand beyond their current definition?
+
+DK: Albeit, it's an Atlasian challenge to offer alternatives to. They physically cannot expand, or that is, I cannot physically expand my time to handle more contests. I have vague hopes of providing a way for Aislings to host contests. It's not a simp
+le problem, and again, a detraction from other social developments. I only have so many hours in a day.
+
+MP: I see that the desire and perhaps purpose behind DA is to create a player-maintained society. Do you see any limits to this?
+
+DK: I see the obvious ones, which for the people that care about Dark Ages is not that much of a limitation: no PK; harassment is not accepted; tyrannies &lt;i&gt;likely&lt;/i&gt; wouldn't be popular.
+
+MP: related to the no-PK, i remember you mentioning a "duel" system? are you still planning on developing that?
+
+DK: Yes. It has two parts. One is a war system. Guild vs. Guild. The other would be technically similar to an arena; that is it an isolated area. The similarities end there. The duel would be about like it sounds, with unwelcome shame and detriment
+to the loser.
+
+MP: So the duel wouldn't lead to say, permanent death or anything like that?
+
+DK: No. That can be another limitation I didn't mention. There's no permanent death anywhere in Dark Ages.
+
+MP: How big will Temuair eventually get?
+
+DK: The physical capacity for the current landscape entertains 1000 simultaneously. New additions will likely be on the same area, that is: the Eastern Lands. A new cavern, for example, could be discovered along the Kasmanium ridge, or an icy wasteland
+at the northern edge of view.
+
+MP: Can you tell me how many Aislings there are in Temuair?
+
+DK: There are about 1000 Aislings at this time.
+
+MP: Related to this - do you have any idea when the next atavism age will start, or how many ages there will be?
+
+DK: Atavism Age III is the highest. Each week I review and admit more testers. They are all admitted as Atavism Age III testers. The actual Temuairan date of becoming Aisling lets you know when the Aisling was born.
+
+MP: Will there be any way to illustrate your birth as a mundane? for instance, to establish an exact age for your character? (i.e. I was born in Danaan XXXX, where XXXX is a number that doesn't make you ridiculously old)
+
+DK: That's not hard. It's also not easy to translate; given, for this purpose, my awkwardly decided dating of the first Aisling as Deoch 1. It would raise endless questions of : Danaan 3209 = when?
+
+MP: Well I assumed that the timelines simply ended and started over; like BC and AD - kind of.
+
+DK: That kind of display would be relatively easy to work with and use. E.g. "Born 23 Before Deoch". That's easy enough to create.
+
+MP: Along with that, a lot of people have mentioned the ability to create a "family tree". Will such a thing be possible?
+
+DK: Well, it's the error-checking that is difficult to do. Checking whether so-and-so's ancestors are related already, or some impossible family tree relationship. The Legend is better used for significant events, as a finite number of Legends can be st
+ored for purposes of the server.
+
+MP: Is the new client relatively the same with regards to the interface?
+
+DK: All the same. There are some sketches, but it's likely those would be incorporated into a future upgrade, no charge. It's more important to fix and optimize than to add or alter the interface.
+
+MP: Along with customization of characters; will you ever be able to dye clothing, or pick different colors of the same clothing?
+
+DK: Not in the foreseeable future. I know how important it is for defining an identity, but I can't realistically expect that to be done now.
+
+MP: Also; are there any plans to allow wizards to learn minor healing spells, such as beag ioc and ao puinsein?
+
+DK: Wizards presently are the most populous, and quickest to advance class. I have to look at the other classes first. Giving a wizard even the minor abilities of a priest endangers what little the priest has.
+
+MP: What are your plans with regards to class balance? (i.e. do you have any changes planned for other classes?)
+
+DK: A swift and final boost to each of the classes, and then as they are balanced, just making each of them more interesting without increasing the power substantially. The boosts in mind are: Religious Priesthood, Certain Doctrines for a Monk, and some
+combat or meta-combat advantages for a warrior. Some trap ingenuity or other ingenuities for the Rogue. At that point the process has to halt, in order for other things to be done. At some point we have to say: close enough.
+
+MP: About religions, can we expect to see religions develop around the gods of Temuair as described by the Fae priestess in Suomi?
+
+DK: Exactly as described. There will be a very interesting subjective definition to each god. Each one will the be best by it's own definition. Each one will be a member of a "Trinity", which includes only two of the other gods. It's all related to the octagram.
+
+Interview text (C) 1999 Mide Province. All rights reserved. May not be used, reprinted, or retransmitted in any form without written permission of the authors.
+</Content>
+</NewsArticle>

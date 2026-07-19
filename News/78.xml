@@ -1,10 +1,39 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>13</Day>
-  <Year>2015</Year>
-  <Title>Internet Stability</Title>
+  <Month>9</Month>
+  <Day>27</Day>
+  <Year>1999</Year>
+  <Title>The Sacrifice: Suomi Unstruck</Title>
   <Type>1</Type>
-  <Content>Internet service is stable at this time. At 7-8 p.m. PST, an internet service provider near Nexon game service failed, which caused some Internet users to fail to reach Nexon game service. 
+  <Content>Suomi had prepared for Goblin siege earlier:
+
+&lt;i&gt;
+Suomi is prepared to repel invaders. We will meet them before they reach Deoch's hallowed shrine's foot.
+
+They shall fall prey to every tactic we have. Our spears are sharpened, our resolve is hardened. We shall not wither. As in days before the gentle footfall of friendly neighbors, Suomi shall be defended with valor.
+
+Gerhard
+
+Guard Captain of Suomi&lt;/i&gt;
+
+Yet, now Gerhard writes that there is no sign of Goblins near Suomi:
+
+&lt;i&gt;
+There has been no sign of goblinkind from our borders. It calls into question if there is any plan of attack at all.
+
+I do not doubt the plight and reports of Undine, but we can see no trace of goblinkind near Suomi.
+
+In fact, indigenous Kobolds of Suomi have stopped harassing our livestock and farms. They have moved away, perhaps running from the goblins that landed.
+
+Gerhard
+
+Guard Captain of Suomi
+
+&lt;/i&gt;
+The Sacrifice: 99.10.01 - 99.10.03
+
+ The 7th Year of Deoch begins 99.10.01. Undine's movement begins 99.10.01 5 p.m. Ends 99.10.03 7 p.m.
+
+Enter &lt;b&gt;Dark Ages,&lt;/b&gt; listen to the Events of Temuair and talk to Hesperos in Undine Tavern for details. Read "Wood Goblin Social Structure" in Loures Library Philosophy wing: [www.darkages.com/atavism/phi](http://www.darkages.com/atavism/phi)
 </Content>
 </NewsArticle>

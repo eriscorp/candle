@@ -1,16 +1,17 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>24</Day>
-  <Year>2017</Year>
-  <Title>Baem Missive Decoding</Title>
+  <Month>7</Month>
+  <Day>14</Day>
+  <Year>2008</Year>
+  <Title>Itemshop Release!</Title>
   <Type>1</Type>
-  <Content>&lt;I&gt;Would you like to help me decode some Baem Missives? I feel decoding these new Wind Baem Missives will reveal something exciting that will benefit the both of us. I'll be in Plamit waiting for you...
+  <Content>New items will be released in the Itemshop on Thursday July 17th. 
 
-~Gisaem
-&lt;I/&gt;
+Take advantage of the July Bonus Kruna Event!
+$10 Kruna Coupon = 1500 Kruna
+$30 Kruna Coupon = 5000 Kruna
 
-((This quest will be released on Wednesday 25th))
+** Coupons must be purchased starting July 3rd through July 31st and used before August 1st. **
 
-Error &amp; DA Team</Content>
+DA Team </Content>
 </NewsArticle>

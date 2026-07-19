@@ -1,13 +1,20 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>22</Day>
-  <Year>2015</Year>
-  <Title>Ability &amp; Experience Event</Title>
+  <Month>3</Month>
+  <Day>3</Day>
+  <Year>2003</Year>
+  <Title>Loures Harbor</Title>
   <Type>1</Type>
-  <Content>Starting January 29th, all registered accounts will receive 50% Extra Experience and Ability Points gained through monster kills, quest rewards, etc.
+  <Content>"As a token of our appreciation to all Aislings and to Cedric. The construction of Loures Harbor has begun. The harbor will be dedicated to Mundane Cedric with a memorial. Once complete, ships will soon journey from the harbor to the mysterious land of Medenia."
 
-This event will begin on January 29th 1PM PST and END on February 2nd.
+Ariston
 
-Register your accounts to take advantage of this!</Content>
+
+"Some remenants of Law's army still lingers around the battle field. We request any willing Aisling to fight once again."
+
+Dealos
+
+((Another battle will take place this Friday for those who missed out or want another crack at those Dark Aislings. Law will not be there this time. Battle fields will be seperated by insight. So Aislings of higher in����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������sight cannot go into a battle field for low insights and vice versa.))
+
+</Content>
 </NewsArticle>

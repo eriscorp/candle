@@ -1,11 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>25</Day>
-  <Year>2015</Year>
-  <Title>Version 5.51 delay</Title>
+  <Month>7</Month>
+  <Day>14</Day>
+  <Year>2000</Year>
+  <Title>Rebel's Needs</Title>
   <Type>1</Type>
-  <Content>We regret to announce that the release of version 5.51 has been pushed back to Thursday October 30, 2003. 
+  <Content>The mercenaries orcs, goblins, and Champions have laid siege to Undine.
 
-DA Team</Content>
+Hali, higgler of Undine, said, "We're dying on our feet to defend our village and our way of life from the tyrannical onslaught. We desparately need your help and supplies. Help us, this moon, o! help us."
+
+((Levels 49 or less))
+</Content>
 </NewsArticle>

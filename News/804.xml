@@ -1,15 +1,11 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>9</Month>
-  <Day>25</Day>
-  <Year>2015</Year>
-  <Title>Guild Hunting Event</Title>
+  <Month>6</Month>
+  <Day>6</Day>
+  <Year>2007</Year>
+  <Title>Missing Items</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Guild Hunting Event&lt;/b&gt;
+  <Content>All missing items from the morning reset on 06/06 have been returned to all affected characters. We apologize for the inconvenience. If you have a character that did not receive their missing item(s). Please submit a support ticket and we will resolve the issue as soon as we can.
 
-To promote hunting with your guildmates, we're putting in a new feature that gives groups of 5 people or more from the same guild a 25% experience bonus. Grab 4 (or more!) of your best friends from your guild and enjoy the bonus experience.
-
-This event will Start on September 25th and END on September 30th. We hope you enjoy this event since this feature might be added permanently (with lower EXP bonus). Applies ONLY to registered players. :)
-
-Dark Ages Team</Content>
+DA Team </Content>
 </NewsArticle>

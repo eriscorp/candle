@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>20</Day>
-  <Year>2015</Year>
-  <Title>Internet Maintenance</Title>
+  <Month>10</Month>
+  <Day>13</Day>
+  <Year>1999</Year>
+  <Title>New Quests</Title>
   <Type>1</Type>
-  <Content>On Tuesday, 11/20 3 a.m. through 6 a.m. PST the internet service provider that hosts Dark Ages game service may undergo maintenance that may last up to fifteen minutes. During that brief time, the game service will not respond or may become unavailable. We apologize for your temporary inconvenience. 
+  <Content>New quests are offered by several mundanes, about six new quests in all. New quests were added on various days, some as early as 99.10.07 through 99.10.11. This is in addition to "The Letter."
 </Content>
 </NewsArticle>

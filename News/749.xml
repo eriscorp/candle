@@ -1,23 +1,27 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>5</Month>
-  <Day>14</Day>
-  <Year>2015</Year>
-  <Title>Mileth Fair</Title>
+  <Month>3</Month>
+  <Day>1</Day>
+  <Year>2006</Year>
+  <Title>PlanetDA Dev Chat</Title>
   <Type>1</Type>
-  <Content>                           Hear ye, hear ye!                 
-                                                               
-It is with great excitement that I announce a Mileth Fair is upon us! We have been dusting off the booths, sweeping and cleaning the stages and  watering the flowers in the Fairgrounds.         
-                                                               
-                The doors to the Mileth Fair will open:        
-                                                               
-                       (( Saturday, May 17th ))                 
-                                               �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������                
-Any individuals or Guilds who wish to host events at the Fair please contact Eurayle by mail with the details. We have many great things planned with help from the Suomi Troupe as well as other talented Aislings that will surely be fun for everyone!     
-                                                               
-There will be a detailed parchment posted the morn of the Fair with details about the events to be held, so be sure to look for that.           
-                                                   
-Until then, I say let's all come out to the Mileth Fair and have a great time..              
+  <Content>PlanetDA and the DarkAges Team will be hosting a developer chat on Tuesday March 7th at 3pm pst (4pm MTN, 5pm Central, 6pm EST, 11pm GMT).
 
-                           See everyone there!</Content>
+Questions will be sent to a specific location where PDA Staff and DarkAges staff will choose appropriate and moderated questions to be asked to the main channel. The main channel will be moderated in order to avoid questions and answers scrolling, and members causing problems. More explanation will be provided during the chat.
+
+To connect to the IRC server, please visit PlanetDA.net and click the 'Live Chat' link on the top right corner of the website.
+
+If you have an ����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������IRC program, you may also reach the chat by connecting to any Dalnet IRC server.
+Known servers to be working:
+mesra.kl.my.dal.net
+serenity.ix.us.dal.net
+loyalty.ix.us.dal.net
+hotspeed.sg.as.dal.net
+jingo.ix.us.dal.net
+rangers.ix.us.dal.net
+
+Then joining the channel #planetda by typing
+/join #planetda
+
+We hope to see you all there!</Content>
 </NewsArticle>

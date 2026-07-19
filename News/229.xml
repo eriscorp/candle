@@ -1,9 +1,17 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>4</Month>
-  <Day>29</Day>
-  <Year>2015</Year>
-  <Title>Nexon Shop News!</Title>
+  <Day>24</Day>
+  <Year>2000</Year>
+  <Title>Maintenance</Title>
   <Type>1</Type>
-  <Content>A wide range of cool new items have been added to the Dark Ages shop, such as carry bags, caps and shirts! Prices have been cut for most current items too! Click &lt;a href="http://www.nexon.net/2003/store_da.html"&gt;here&lt;/a&gt; to check it out!</Content>
+  <Content>04.24 10:00 a.m. PDT
+
+ Dark Ages server will be offline for 10 minutes of scheduled maintenance. Dark Ages might unexpectedly reboot through noon, PDT. The servers will stabilize then.
+
+ Once service returns, please immediately report what seem to be errors: [www.darkages.com/contact](http://www.darkages.com/contact)
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

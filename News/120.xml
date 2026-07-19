@@ -1,11 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>2</Month>
-  <Day>26</Day>
-  <Year>2015</Year>
-  <Title>4.51 test server Shutting down tonight at 5:00pm PST</Title>
+  <Month>11</Month>
+  <Day>3</Day>
+  <Year>1999</Year>
+  <Title>Political Exile</Title>
   <Type>1</Type>
-  <Content>The 4.51 Test Server is going to be shut down at 5:00pm PST today(02/26/02).  We thank everyone who participated in this test.  Watch the News Section for furthur updates on the implentation of 4.51 to the commerical server.
+  <Content>Political Exile is now possible on members of another village. This helps a village enforce their law. Previously, exile was only possible on a citizen of the village. Being exiled prevents one from entering that specific village only, unless unregistered. If unregistered, it sends the exilee to Salachar, the kingdom of filth.
 
-Thanks again!!</Content>
+If the ability is abused it will have to be reverted.
+
+See [screenshots](http://www.darkages.com/2000/play/s_politics.html) and brief descriptions of political features. See [all screenshots.](http://www.darkages.com/pics/index_feature.html)
+</Content>
 </NewsArticle>

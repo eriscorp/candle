@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>3</Month>
-  <Day>31</Day>
-  <Year>2016</Year>
-  <Title>DA Patch 7.41</Title>
+  <Month>11</Month>
+  <Day>30</Day>
+  <Year>2007</Year>
+  <Title>Team Arena Beta</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;DA Version 7.41&lt;/b&gt;
+  <Content>On December 5th, Team Arena Beta will open. This will be a new pvp feature for Dark Ages. The feature is still in development and requires the participation of players to help resolve any bugs or balance issues. This beta testing is limited to characters at level 99.
 
-On Thursday, March 31st, Dark Ages will be patching to version 7.41
+Overview:
+Players join one of two teams (Fire vs Water), with about 20-30 per team. Each team will be balanced based on character attributes. At the start of a match, players are transported to the main battle area in their respective team corners. The objective is to score as many points for your team within the match time. Points can be scored by killin����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������g a member of the opposing team, or by capturing a control point. A team will earn more points by holding a control point. A character killed in battle will remain a spirit for a limited time before being resurrected. The results of a match will be posted on a board showing the winning team as well as the top 10 combatants of the match.
 
-&lt;b&gt;Patching Issues with Vista &amp; Windows7/8/10:&lt;/b&gt;
-
-If you are having problems with the automatic patch, please &lt;b&gt;"right-click"&lt;/b&gt; on your &lt;b&gt;Darkages&lt;/b&gt; icon and choose &lt;b&gt;"Run as administrator"&lt;/b&gt;</Content>
+</Content>
 </NewsArticle>

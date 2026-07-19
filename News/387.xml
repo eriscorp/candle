@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>2</Month>
-  <Day>17</Day>
-  <Year>2015</Year>
-  <Title>Minor Update</Title>
+  <Month>4</Month>
+  <Day>19</Day>
+  <Year>2001</Year>
+  <Title>Change to Subpathing</Title>
   <Type>1</Type>
-  <Content>-The Bomb Game at the fair will now spread out players through out the map.
+  <Content>On Thursday, April 19th, any character subpathing will only be allowed to carry over a maximum of 20 level up points to the new subpath character. All others the character will have to allocate before subpathing. When the vote and decision was made in December not to limit the number of level up points, there were only about 6 people who had severely abused this 'loophole' with another 6 or so that had saved up over 20 level up points. Currently, there are over 100 characters with over 30 level up points saved. By saving the points, the characters are no longer being developed the way it was designed for within the game.
 
--The success rate of Monk combo skills has been increased.</Content>
+To offset this, Master characters will now be allowed to purchase statistic points. For every 150 health points spent, the character will be able to raise a statistic one point. The process will not allow you to go below the level of health points that was required for you to reach master. Each class has a different maximum of the statistics that you can reach. If any subpathed character is currently over the maximum level, they will not be able to purchase any statistic points in any category. There will be the option for the subpath character to 'reallocate' their points to other statistics in order to get below the maximum number and then be able to purchase other statistic points.
+</Content>
 </NewsArticle>

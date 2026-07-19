@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>4</Month>
-  <Day>27</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages Update 4/27/06</Title>
+  <Month>5</Month>
+  <Day>22</Day>
+  <Year>2001</Year>
+  <Title>Server Upgrade</Title>
   <Type>1</Type>
-  <Content>Click the link to see what has been added to Dark Age!
-
-&lt;a target=_new href=http://www.darkages.com/newsletter/da_news.html&gt;"Dark Ages Update"&lt;/a&gt;</Content>
+  <Content>A server upgrade will take place on May 22nd, 2001 at approximately 12pm PST. A half hour and 5 minute warning will be given before the reset is to take place. If all goes well, the reset should take less than one minute to implement.
+</Content>
 </NewsArticle>

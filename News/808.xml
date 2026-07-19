@@ -1,12 +1,9 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>26</Day>
-  <Year>2015</Year>
-  <Title>Reset Notes</Title>
+  <Month>8</Month>
+  <Day>10</Day>
+  <Year>2007</Year>
+  <Title>Dark Ages 7.13 patch</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Reset Notes&lt;/b&gt;
-
-- Dropping Gold
-* Fixing a bug that affects certain players from dropping gold.</Content>
+  <Content>On Tuesday, August 14th, Dark Ages will be patching to version 7.13. This will be in preparation for the next itemshop release as well as the next Medenia hunting area coming soon.</Content>
 </NewsArticle>

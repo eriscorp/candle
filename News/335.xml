@@ -1,10 +1,147 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
+  <Month>10</Month>
   <Day>19</Day>
-  <Year>2015</Year>
-  <Title>Master Arena Host</Title>
+  <Year>2000</Year>
+  <Title>Religion Expansion</Title>
   <Type>1</Type>
-  <Content>A new position has been created to improve the Arena system, the Master Arena Host. The Master Host will have the ability to appoint new hosts, remove hosts, exile fighers, and unexile fighters. All hosts will also receive Arena Host Uniforms, so they may be distinguishable in battle. Through the recommendation of othert, Murdred has been appointed as the first Master Arena Host.
+  <Content>New religious ranks, fellowship features, miracles, status, initiation,
+ and holy items. And enhancements to some already existing religious features.
+
+ Join a religion, gain faith, pray to gods, and create miracles. Attend
+ ceremonies held by player priests. And now more!
+
+ While it is still in development, here are as many details as I can
+ provide at this time. All of these are subject to change, for necessary
+ technical or play balance reasons.
+
+ Ultimately, of course, religion is what faith you, the Aisling, place
+ into it.
+
+ Dave Kennerly
+
+ Creator of Dark Ages Religion
+
+ Screenshots
+
+ [Religious
+ Features](http://www1.darkages.com/play/s_religion.html)
+
+ [Glioca
+ Mass](http://www1.darkages.com/pics/s_glolica.html)
+
+ [Cail Mass](http://www1.darkages.com/pics/s_valoth.html)
+
+ Information
+
+ [Reflections
+ on Interactions between the Gods](http://www1.darkages.com/library/phi/Chloe_Theology.html)
+
+ [The
+ Art of the Priest](http://www1.darkages.com/library/lore/Felicity_Priest/index.html)
+
+ [A
+ Guide to Conducting a Religious Mass](http://www1.darkages.com/library/lore/Tarrant_Mass.html)
+
+&lt;b&gt; New Ranks&lt;/b&gt;
+
+ &lt;b&gt;Acolyte
+
+ &lt;/b&gt; Class: Any
+
+ Dedicated worshipper. May summon holy guardian. May receive a consecrated
+ symbol. If a priest or wizard, may a receive a consecrated staff. Acolyte
+ may also perform lesser desecration. Acolyte may also attempt heresy against
+ a priest.
+
+ &lt;b&gt;Cleric
+
+ &lt;/b&gt; Class: Priest
+
+ Devout priest who is very faithful and has initiated many worshippers.
+ A cleric may Consecrate a Holy Symbol.
+
+ &lt;b&gt;Minister
+
+ &lt;/b&gt; Class: Priest
+
+ Devout cleric who has initiated many worshippers. A minister may Consecrate
+ a Holy Staff and Consecrate a Holy Symbol.
+
+ &lt;b&gt;High Priest
+
+ &lt;/b&gt; Class: Priest
+
+ Highest priest of the religion.
+
+&lt;b&gt; New Miracles&lt;/b&gt;
+
+ &lt;b&gt;Lesser Desecration
+
+ &lt;/b&gt; Remove the religious consecration of an enemy god's holy item and
+ receive some faith.
+
+ &lt;b&gt;Consecrate Holy Symbol
+
+ &lt;/b&gt; Consecrate a holy symbol. This symbol may only be worn by the worshipper
+ who receives it.
+
+ &lt;b&gt;Consecrate Holy Staff
+
+ &lt;/b&gt; Consecrate a holy staff. This staff has the symbol of the god. The
+ staff may only be held by the worshipper who receives it.
+
+&lt;b&gt; Changes to Existing Miracles&lt;/b&gt;
+
+ &lt;b&gt;Give Thanks
+
+ &lt;/b&gt; Giving thanks increases faith at least three times as much. Giving thanks is possible more than once per day, and uses labor. That is, your character prays for some amount of virtual time.
+
+ &lt;b&gt;Praise Worshipper
+
+ &lt;/b&gt; Praising another worshipper increases the worshipper's faith more. Praising a worshipper is possible more than once per day, and uses labor.
+
+ &lt;b&gt;Mass
+ &lt;/b&gt;
+ After experiencing divine presence, worshipper is teleported to the
+ threshold nearest to the temple. This prevents some congestion during
+ the very large masses.
+
+ &lt;b&gt;Summon Holy Guardian
+
+ &lt;/b&gt; A separate secret, learnable by acolytes. Not possible in temple.
+ Not possible while shifting realms.
+
+&lt;b&gt;Desecration&lt;/b&gt;
+
+ Desecration is possible more than once per day, and uses labor.
+
+ &lt;b&gt;Changes to Existing Elements&lt;/b&gt;
+
+ &lt;b&gt;Banish
+
+ &lt;/b&gt; Banishment may be forgiven by higher priest.
+
+ &lt;b&gt;Board Administration
+
+ &lt;/b&gt; Only the highest priest of the religion will be able to administer
+ the board. All other priests and worshippers, and non-worshippers may
+ write at the board, but must walk to the board to do so. Being able to
+ write from a distance is impossible, except for a board administrator.
+ It is a necessary technical limitation beyond my control.
+
+ &lt;b&gt;Temple&lt;/b&gt;
+
+ Only registered characters may enter.
+
+ Ask the Mundane about 'Fellowship' and then 'Exit Temple' to quickly travel from the temple to the nearest village threshold.
+
+ [Details!](http://www.darkages.com/2000/library/lore/Religion_Expansion.html)
+
+ Notes: Initiation requirements will be proportioned to religion's size.
+ If a religion has 1/2 as many active members, then it will require 1/2
+ as many initiations for a priest to advance to cleric.
+
+ Further details will be published as soon as possible.
 </Content>
 </NewsArticle>

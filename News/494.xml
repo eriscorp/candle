@@ -1,15 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>3</Month>
-  <Day>10</Day>
-  <Year>2015</Year>
-  <Title>Leprechaun Event</Title>
+  <Day>4</Day>
+  <Year>2002</Year>
+  <Title>Dark Ages 4.51 available for download</Title>
   <Type>1</Type>
-  <Content>Hello Aislings!
+  <Content>Dark Ages 4.51 is now available for download.  Also the new music files are available for download.  Note that the music files for version 3.73 are not compatible with 4.51. The Server will be accepting version 4.51 only at 10:00am pst.  
 
-Is it Leprechaun Season? I just caught a glimpse of one lurking around my shop. I heard other Aislings seeing them around other villages as well. If you have never seen one before, come drop by in the "Suomi Weapon Shop." I might be able to help you if you want to try and catch one.
-
-Torbjorn, Suomi Weapon Smith 
-
-((This event will start on March 14th and finish on March 28th. Only registered accounts will be able to participate.))</Content>
+&lt;a href="http://www.darkages.com/webpages/download/main.html"&gt;Download version 4.51&lt;/a&gt;
+&lt;a href="http://www.darkages.com/webpages/download/music.html"&gt;Music Files&lt;/a&gt;</Content>
 </NewsArticle>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>10</Day>
+  <Year>1999</Year>
+  <Title>Network Maintenance</Title>
+  <Type>1</Type>
+  <Content>An ISP performed network maintenance between 12:45 and 13:00 PDT. This affect service for those 15 minutes.
+
+The &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum load.
+</Content>
+</NewsArticle>

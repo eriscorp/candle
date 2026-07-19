@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>19</Day>
+  <Year>1999</Year>
+  <Title>Clear Passage</Title>
+  <Type>1</Type>
+  <Content>Mundanes react to a rash of rotten Aislings blocking passages, teaching
+ the skill 'Throw.' Throw moves an Aisling one pace back. If the pace behind
+ the Aisling is a portal, the player is transported through.
+
+ Bodil in Abel teaches Throw to rogues and monks. Guards learn Throw
+ when beginning their term.
+
+ See [political features](http://www.darkages.com/2000/play/s_politics.html)
+ screenshot and all [features.](http://www.darkages.com/2000/pics/index_feature.html)
+</Content>
+</NewsArticle>

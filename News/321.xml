@@ -2,19 +2,12 @@
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>10</Month>
   <Day>4</Day>
-  <Year>2015</Year>
-  <Title>Scheduled Down Time</Title>
+  <Year>2000</Year>
+  <Title>Internet Maintenance</Title>
   <Type>1</Type>
-  <Content>The Dark Ages server will be down at 9:00pm today for about 1 hour to completely resolve the ISP issues and to prevent further ISP issues. After the down time the following skills will have a lower delay time.
+  <Content>Dark Ages may be offline any time between 10:00 and 11:59 p.m. PDT tonight for scheduled internet maintenance. Be careful, although the game may be operating, you will not be connected to it. Therefore, do not do anything that requires fast internet reaction at that time. For example: combat.
 
-Mass Strike
-Double Rake
-Beak Pierce
-Sneak Flight
-Tail Sweep
-Claw Slash
-Instrumental Attack
-
-DA Team
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
 </Content>
 </NewsArticle>

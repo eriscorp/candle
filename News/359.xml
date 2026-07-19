@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>14</Day>
-  <Year>2015</Year>
-  <Title>Peasant Day</Title>
+  <Month>12</Month>
+  <Day>11</Day>
+  <Year>2000</Year>
+  <Title>Warrior's Honor Field</Title>
   <Type>1</Type>
-  <Content>Raylan, minor crystal miner of Mt. Girigan writes,
+  <Content>Since the Coliseum had opened its doors, the warriors of Temuair have felt that something was missing. That the true test of combat was never felt there. That there was no fear of death and, therefore, no real thrill of victory.
 
-"My eyes have been playing tricks on me lately. I could swear that pile of snow moved. Some tree sauntered! Honest! I guess an ordinary boy with mundane eyes like me lacks the insight to tell what's real from what's snow-blind illusion. I bet chasing down illusions is work for dreamers, for Aislings. Sounds like a great way for an Aisling of the utmost insight to prove their metal, if you ask me."
+ Then, a Stranger happened upon an isolated coast, and enlisting the help of the lonly shopkeeper, Ase, had begun to put together secret Pit fights. These fights are for warriors only, and are to test the skill of one on one combat. The fight is not over until one of them are dead.
 
-
-
-((We are still busy working on the update for Dark Ages, there are many new features that need to be worked on, we apologize for the delay.))</Content>
+ So, if you are of warrior blood and wish to make combat within the pit, for the ultimate challenge against another, find an opponent of close insight to you ((3 levels)), make both of your ways to Ase's shop and ask to be put upon the Honor Field of your insight ((say "Honor Field [Insight level]")).
+</Content>
 </NewsArticle>

@@ -1,16 +1,11 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>5</Month>
-  <Day>4</Day>
-  <Year>2015</Year>
-  <Title>Andor Revised</Title>
+  <Day>23</Day>
+  <Year>2001</Year>
+  <Title>Shadows of Temuair Release</Title>
   <Type>1</Type>
-  <Content>-The ability points from monsters in Andor have been doubled.
-
--30 new Medenia items have been added to Andor.
-
--The Ant Queen and Ant King will be waiting at the throne for Aislings with Ability Level 40 or higher.
-
-
-Coming Soon: Adoration on May 29.</Content>
+  <Content>Shadows of Temuair will be open for Beta testing on May 23rd, 2001. A patch will occurr to the client in order to facilitate this and then you will be able to choose which game you would like to play on.
+If you wish to participate in the beta test, a copy of your character will be available in Shadows of Temuair. These character copies may be greatly altered, missing items, skills, spells and legends. If you do not wish to participate, you can continue playing Dark Ages. Once again, the actions of your character in Shadows of Temuair will have no effect on the character in Dark Ages.
+</Content>
 </NewsArticle>

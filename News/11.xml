@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>4</Month>
+  <Day>16</Day>
+  <Year>1999</Year>
+  <Title>Distributed World Online</Title>
+  <Type>1</Type>
+  <Content>Dark Ages&lt;i&gt; begins testing distributed server&lt;/i&gt;
+
+ Testers are now playing in an expandable server architecture. This same
+ architecture is currently supporting 1900 simultaneous players in Korea's
+ most popular RPG [The
+ Kingdom of the Winds,](http://www.nexon.net/kingdom) which is Nexon's first title.
+
+ Gloriously and gratefully there has been no problem from going to distributed
+ server mode. Testers logged back on within five minutes after the server
+ went down for the upgrade. No one could feel a difference.
+
+ Distributed server mode, in short, allows thousands of players to play
+ in the same world. Any character you meet in Dark Ages can exist in the
+ same world. There will be no question of which server you play on. They
+ are all interconnected, like the islands of Temuair. Going to another
+ server will be about as simple as taking a ship from Abel to Rucesion.
+
+ [Read the
+ full press-release.](http://www.darkages.com/press/menu02.html)
+</Content>
+</NewsArticle>

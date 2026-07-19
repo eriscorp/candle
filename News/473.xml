@@ -1,20 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>19</Day>
-  <Year>2015</Year>
-  <Title>Fashion Contest Winners!</Title>
+  <Month>12</Month>
+  <Day>12</Day>
+  <Year>2001</Year>
+  <Title> New Guild Requirements </Title>
   <Type>1</Type>
-  <Content>The winners of the Fashion Contest are Ekei and BioMagus. Congratulations! They were each awarded a sparkling Engagement Ring for winning. Not only did they look stunning, they had to answer the difficult question, "Why did you choose that oufit?"
+  <Content>In Dark Ages, players may independently form guilds. Players have created over 50 independent guilds, which are recognized by the game and offer guild-exclusive features, such as a private chat channel, organization tools, and guild quests. 
 
-Question Responses:
+The requirements for starting a guild or motley are unchanged. 
 
-Ekei: Well..I put on the most elaborate outfit I could, because I have a face only a mother could love.
-
-BioMagus: I dressed as a Fae Queen. I used earth reds and matching blues. Under my crown is a lovely coronet with a phoenix necklace, passion rings of flame, and a friend Fae to finish. 
-
-&lt;img src="http://files.kru.com/DarkAges/Media/Ima����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ges/shazam.bmp"&gt;
-
-Thank you to all who participated!
+A guild or motley requires 64 members and a maintained web site in order to gain a guild board. The increased membership requirement is necessary to ensure every guild's board may be supported and securely stored on Nexon's game service. The requirements for guilds who already have a guild board are unchange����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������d. 
 </Content>
 </NewsArticle>

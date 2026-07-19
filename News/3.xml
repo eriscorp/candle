@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>11</Day>
+  <Year>1999</Year>
+  <Title>Testing Begins</Title>
+  <Type>1</Type>
+  <Content>&lt;i&gt;First phase of testing begins&lt;/i&gt;
+
+ &lt;I&gt;Dark Ages&lt;/I&gt; continues accepting applications for role-playing beta
+ testers through 99.02.10.
+
+ Private beta-testing for talented role-players will be offered on these
+ dates:
+
+- &lt;i&gt;99.01.11:&lt;/i&gt; Chaos Age
+
+- &lt;i&gt;99.01.17:&lt;/i&gt; Chaos Age application deadline
+
+- &lt;i&gt;99.01.30:&lt;/i&gt; Atavism Age application deadline
+
+- &lt;i&gt;99.02.01:&lt;/i&gt; Atavism Age
+
+- &lt;i&gt;99.02.01:&lt;/i&gt; Final Application deadline
+
+- &lt;i&gt;Spring, 1999:&lt;/i&gt; Dark Ages release
+
+ Apply: [www.darkages.com/test](http://www.darkages.com/test/index.html).
+</Content>
+</NewsArticle>

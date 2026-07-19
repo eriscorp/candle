@@ -1,13 +1,18 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>20</Day>
-  <Year>2015</Year>
-  <Title>Holiday Schedule for Nexon Game Support</Title>
+  <Month>10</Month>
+  <Day>22</Day>
+  <Year>1999</Year>
+  <Title>Server Reboot</Title>
   <Type>1</Type>
-  <Content>Nexon staff will be observing December 24-25th and December 31st -- January 1st as holidays. Dark Ages customer support personnel will still be working as quickly and thoroughly as possible to answer your questions, before and after the holiday season.
+  <Content>- 10.22 21:59 PDT
 
-We wish you all the very best the holiday season has to offer!
+ A &lt;i&gt;Dark Ages&lt;/i&gt; server rebooted unexpectedly. Service resumed immediately.
 
+ At all other times all &lt;i&gt;Dark Ages&lt;/i&gt; servers are stable.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
 </Content>
 </NewsArticle>

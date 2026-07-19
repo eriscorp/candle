@@ -1,9 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>4</Day>
-  <Year>2015</Year>
-  <Title>Item Shop Update June 7th</Title>
+  <Month>11</Month>
+  <Day>15</Day>
+  <Year>2001</Year>
+  <Title>Shadows of Temuair Maintenance</Title>
   <Type>1</Type>
-  <Content>The item shop will be updated with new items on June 7th. All registered accounts on June 7th will receive 100 Kruna. Auto-renewal accounts will receive an additional 100 Kruna for a total of 200 Kruna. Some items from the initial release will be removed from the shop.</Content>
+  <Content>Shadows of Temauir service is online. Shadows of Temuair service was offline from 11/14 2 a.m. PST through 11/15 5 a.m. PST. We apologize for the inconvenience during this service move. 
+
+Shadows of Temuair is the alternative beta server of Dark Ages. Dark Ages service has been online during this time. 
+</Content>
 </NewsArticle>

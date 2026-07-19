@@ -1,11 +1,18 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>26</Day>
-  <Year>2015</Year>
-  <Title>New Dark Ages Sites, Google Web Directory, and Web Search</Title>
+  <Month>9</Month>
+  <Day>29</Day>
+  <Year>1999</Year>
+  <Title>New Web Site Design</Title>
   <Type>1</Type>
-  <Content>Powered by DMOZ and Google.
+  <Content>New design and easier to navigate. It also includes:
 
-&lt;a href=http://www.darkages.com/webpages/community/fansite.html&gt;Visit the fan sites.&lt;/a&gt;</Content>
+- A completely in-character site:
+
+[www.darkages.com/atavism](http://www.darkages.com/atavism) Click 'In Temuair.'
+
+- A [site map](http://www.darkages.com/sitemap)
+
+- Arrows on each screenshot to easily tour other [screenshots](http://www.darkages.com/pics)
+</Content>
 </NewsArticle>

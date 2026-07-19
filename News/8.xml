@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>3</Month>
+  <Day>19</Day>
+  <Year>1999</Year>
+  <Title>Interview</Title>
+  <Type>1</Type>
+  <Content>On Friday, March 19, Mide Province [www.mideprovince.com](http://www.mideprovince.com/)
+ conducted an interview with Dave Kennerly, the director of the Dark Ages
+ project. The interview covered topics such as role-playing, the development
+ of Dark Ages, future plans, and other questions raised by members of the
+ Dark Ages Mailing List.
+
+ Mide Province: First of all, let me thank you for taking the time to let
+ me interview you; I know you have a busy schedule.
+
+ Mide Province: This interview is basically for the readers to get an idea
+ of what the minds behind Dark Ages are thinking.
+
+ Mide Province: OK, first question: How do you see Dark Ages evolving over
+ the next couple of months?
+
+ Dave Kennerly: The society will blossom. Social activities will appear.
+ Characters will become involved in the world, in the form of religious fellowships,
+ guilds, armies, political entities, and semi-governing organizations.
+
+ MP: With such complexity, Dark Ages seems to have an emphasis on creating
+ a true online virtual world. How will you strive to maintain that atmosphere
+ once the game goes into production?
+
+ DK: Dark Ages staff spends and will spend all their energy in infusing the
+ game with the "magic" of the Dark Ages atmosphere. This comes about effectively
+ in keeping the features, mundanes, quests, and creatures true to the theme.
+ It also comes about through epic events within the world. The world will
+ breathe, with as much breath as I have to put into it.
+
+ MP: In the "Dark Ages is Different" letter, you mentioned role-playing is
+ required - how will this be enforced? Will people be removed for being out
+ of character?
+
+ DK: Dark Ages is a community, and has smaller communities within it. Players
+ will "remove" non-roleplayers from their communities. A great feat of testing,
+ and one I've wanted to see in an online world for several years, is the
+ subtle balance of power and responsibility required to maintain the atmosphere
+ by actual members of the community.
+
+ MP: The thought being that the community as a whole will not respect or
+ interact with non-roleplayers?
+
+ DK: There will be several communities. For example, a person may be exiled
+ from Mileth for being extremely rude, hostile, and harassing to most he
+ comes into contact with. He could go to Abel, or Rucesion, if he has not
+ been exiled from there as well.
+
+ MP: Also, on the topic of the community: Will there be any justice system
+ in Dark Ages?
+
+ DK: Yes. This is intertwined. There will be an OOC justice system and an
+ IC justice system. OOC will only occur for gross contract violations (which,
+ for example, sexual harassment is). IC justice will be moved into the hands
+ of responsible players at the consent of the community they belong to. There
+ will be a Mileth Justice system, an Abel Justice system... and so on. The
+ OOC justice system will be hard, simple, swift, and rare. It has a rationale
+ in Temuair: the "Shadow Hunger". When a character has become so evil, then
+ the Shadow Hunger stalks him or her. It is a tough opponent at best. Yet
+ (presuming it is technically possible) it can be made to spawn a second
+ "Shadow Hunger" if a respected member of one of the communities chooses
+ to do so. If the person is hated by a few persons and guilt is obvious,
+ then death will be immediate.
+
+ MP: So in general, justice will be handled by respected members of the community
+ rather than an archon/constable system such as Nexus:TK. (i.e. will we see
+ "immortals" to the same extent that we do in Nexus:TK?)
+
+ DK: Yes. There will not be divinely-ordained positions. There will be no
+ immortals. There may be something such as a Bailiff of Mileth, who has the
+ power to fine, accost, or exile a character for a short duration from Mileth.
+ The Bailiff, though is selected by mature qualities which can be recorded
+ on a character, and will be selected by the community of Mileth.
+
+ MP: A lot of players have enjoyed the true role-playing atmosphere that
+ Dark Ages provides. Will there be advancement in Dark Ages based on role-playing?
+ (i.e. will there be higher roles to assume, with organization?)
+
+ DK: Yes. Previously I mentioned religious fellowships, guilds, armies, and
+ politics. Real Temuairan societies, fully role-played. They will appear
+ from the bottom-up. That is the lowest levels of the society, such as a
+ local guild will appear, be tested and balanced, before going further. This
+ is critical to maintaining balance. Balance is the best platform for roleplaying.
+
+ MP: Related to that, what is your vision for these societies? (i.e. what
+ do you expect from the players in regards to starting one, and maintaining
+ it)?
+
+ DK: The founder of one of the communities has to be the most dedicated,
+ and best member for the role. The qualities that matter the most are: role-playing
+ maturely, and having social organizational skills that are required to make
+ that community come alive.
+
+ MP: So as to the actual "function" of the community, it might be anything
+ as long as it is related to the Dark Ages theme.
+
+ DK: That depends on the specific organization. For example, a priest may
+ at some advanced moment, begin a church fellowship. He'll have to pay rent
+ on the church, defend the church and its people. Prove his worth to any
+ followers, and continue to attract and hold followers and disciples. The
+ role-playing of the priest is determined by which god he worships.
+
+ MP: In the same way that the wizard is determined by his choice of a specific
+ element?
+
+ DK: A little more tightly, as gods have moral requirements, and elements,
+ have loose personality requirements. You expect a Fire Mage to have an explosive
+ personality. However, you expect the priest of Ceannlaidir to stand up,
+ lead his followers to war against Undine and not stop until all are dead
+ or enslaved.
+
+ MP: How will the community start these societies? Will it be completely
+ up to the players?
+
+ DK: Leaders will have to display maturity and convince the would-be community
+ that they are right for the position. Leaders will have to do this on a
+ periodic basis. A mundane will, for example, be the head priest of Ceannlaidir's
+ Temple. It's the would-be leader's challenge to outdo the ambitious mundanes
+ not just once, but regularly, such as on a bi-weekly basis. Specifics will
+ be determined by things that may be recorded on a character that exemplify
+ their qualifications.
+
+ MP: OK, continuing with the development of Dark Ages, where do you see Dark
+ Ages a year from now?
+
+ DK: Big. Dark Ages vision is: engrossing entertainment. Role-playing is
+ the most engrossing form of entertainment. The online entertainment industry
+ is just waking up. The world and features will progress delivering constant
+ updates every month. The society will be stunning. A new Aisling will be
+ stunned to see older Aislings with real histories viewable at a click of
+ the mouse, and amazing personalities, more roles being played by real people.
+ The literature and other culture is enough for a small library. It will
+ feel alive, complex, and above all a magical place to be.
+
+ MP: Related to this, how big do you see the Dark Ages world becoming? How
+ do you plan to deploy the "distributed world" architecture?
+
+ DK: It's already deployed in Nexon Korea for their game "Barami Nara" which
+ is the original 'The Kingdom of the Winds'. "Barami Nara" doubled it's peak
+ user level in six months, now topping 1400 simultaneous players. They are
+ using 3 or 4 local servers currently. The mastermind programmer of distributed
+ world technology, "Maisy" Min Seo, has programmed it like Unix. That means,
+ it is flexible, expandible. It has no tested limitations. Practically, we
+ expect 6 with no problems.
+
+ MP: And these six separate servers will be interlinked into one world? (For
+ instance, will the different servers be transparent, or will you move from
+ one to another just as you would travel from one kingdom to another?)
+
+ DK: Yes. For example, Mileth can be one local server. As a player travels
+ to Rucesion, he could be going to another local server. It isn't noticeable
+ to him. All characters are stored in the global server. Therefore, you won't
+ hear things like "Which shard do you play on?" "Which server is your character
+ on?" or "Sorry, I don't have a good character on that server." One world.
+
+ MP: So for instance, there could be a new town whose server was based in
+ Europe, and another kingdom whose server was in Asia?
+
+ DK: If you're talking about in the real-world Asia and Europe, that would
+ not be an efficient configuration. However, there are some ways to bring
+ opposite ends of Earth into the same virtual world, given this technology
+ and communications technology. Distributed server technology solves first
+ and foremost the problem of how many real people can inhabit the same virtual
+ world.
+
+ MP: But, with other games, the "shards" are created because current Internet
+ technology makes it troublesome for players in Europe to connect to a server
+ in America, and therefore give the game worldwide appeal. (Basically, does
+ the distributed architecture refer to network load distribution, or computational
+ load distribution?)
+
+ DK: I suppose they could be. However there are communications (not server
+ software) solutions to that problem. I don't have insight as to why other
+ online games are not using those solutions, such as private virtual circuits,
+ which give the equivalent of having a presence in another location. Computational
+ load distribution. The world itself.
+
+ MP: OK. Related to the technology behind Dark Ages, some players have asked
+ if Dark Ages will ever be ported to Linux or MacOS.
+
+ DK: No plan at this time. We'd love doing it on both platforms, as our programs
+ swear by unix, and respect MacOS. However, currently both combined represent
+ less than 5% of potential players. It will have to be delayed until 5% is
+ a large number to cover costs of development, and more importantly, maintenance
+ of that code.
+
+ MP: Also, are there any plans to upgrade Dark Ages' engine to support 3Dfx
+ or more advanced rendering technologies?
+
+ DK: No. Dark Ages is created with the role-player in mind. We demand as
+ much from the player as the machine. Dark Ages is a role-playing experience.
+ It's also pre-rendered sprites, so there is miminal requirements on the
+ player's PC. Nexon does have another game in the works that is 3D.
+
+ MP: Related to upgrades, what we can expect to see next in the way of features
+ and new developments?
+
+ DK: Refurbished interface panel. Optimized (faster!) client.
+
+ MP: There has been much talk about how customizable Dark Ages is. Can you
+ elaborate on how players will be able to customize their appearance (i.e.
+ will there be dyes, ways to customize clothing, etc)
+
+ DK: One can customize his/her hair style, hair color, clothing, weapon,
+ shield, footgear, and 7 accessory items. There will not be clothing dyes.
+ There may be ways to dye your hair later.
+
+ MP: I have here two miscellaneous questions from the DAML, if you'd like
+ to answer them?
+
+ DK: My pleasure.
+
+ MP: First: "What is the category 'Master' for on the who list?"
+
+ DK: An extremely advanced Aisling. Dark Ages' Korean counterpart "Legend
+ of Darkness" plans to use this feature for a player that has progressed
+ through 2 or more of the classes, from level 1-99. In "Dark Ages" it will
+ be left unspecified until there some players near that kind of character
+ power.
+
+ MP: Second: "Will you ever implement arenas in Dark Ages? And will there
+ be any player-killing at all?"
+
+ DK: A deadly dueling system between players is being considered. This won't
+ be joy-killing. Dueling will be a serious event, reserved for disputes of
+ love and war. There is a plan and function for guilds to declare war. Doing
+ so, the two guilds may slay each other. Again, it is a grim event. Any Aisling
+ not up to that can decided to not duel, and can remove themself from the
+ warring guild.
+
+ MP: And lastly, do you have anything that you would like to say to the Aisling
+ community as a whole?
+
+ DK: Thank you. Thank you for role-playing. Thank you for writing to me every
+ day with your detailed reports and thoughtful insights. Your legend begins
+ here.
+
+ MP: I'd like to thank you once again for taking the time to allow me to
+ interview you.
+
+ DK: Again, my pleasure. The questions are excellent, and show that we care
+ about the same goal.
+
+ &lt;i&gt;
+
+ Interview text (C) 1999 Mide Province. All rights reserved. May not be
+ used, reprinted, or retransmitted in any form without written permission
+ of the authors.&lt;/i&gt;
+</Content>
+</NewsArticle>

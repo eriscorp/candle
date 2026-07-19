@@ -1,24 +1,15 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>2</Day>
-  <Year>2016</Year>
-  <Title>Updates</Title>
+  <Month>6</Month>
+  <Day>20</Day>
+  <Year>2008</Year>
+  <Title>Kruna Give Away &amp; Itemshop Release!</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Skills/Spells&lt;/b&gt;
+  <Content>Kruna Give Away
 
-- Star Arrow: requires an equipped bow
-- Raging Attack: cooldown similar to Cyclone Kick, increased damage
-- Dune Swipe 7-8: fixed bug damage, also increased damage
-- Strikedown: Increased damage
-- Talon Kick: Decreased damage
+All registered accounts on June 27 will receive 100 Kruna, autorenewal accounts will receive 200 Kruna. 
 
-&lt;b&gt;Castle Battle&lt;/b&gt;
+New items in the Itemshop will also be released. 
 
-- Removed 3 Castles. Only 2 Castles can now be accessed (Caisteal Bailceach &amp; Caisteal Eagna)
-- More Castle Battle updates in the future
-
-For comments and suggestions, please send a support ticket to Dark Ages or contact Error/Listen.
-
-DA Team</Content>
+DA Team </Content>
 </NewsArticle>

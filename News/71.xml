@@ -1,11 +1,14 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>1</Day>
-  <Year>2015</Year>
-  <Title>Player review of Dark Ages</Title>
+  <Month>9</Month>
+  <Day>22</Day>
+  <Year>1999</Year>
+  <Title>Craft Time 33% Faster</Title>
   <Type>1</Type>
-  <Content>"There is a lot of things in this game, too much to describe. The feel of it all is like no other, you'd have to play to catch my meaning."
+  <Content>Crafts are very popular, yet it is frustrating to remember what time of the day crafts were begun at yesterday, and sometimes not possible to perform a craft at another time.
 
-&lt;a href=http://www.girlsgametoo.com/gamereview/3.html target=_new&gt;Read it.&lt;/a&gt;</Content>
+While it is not practical to set crafting to some times per real-life day, because of time-zone differences of players all over the world, the time for a full cycle has been reduced from 18 hours to 12 hours. This means that if you begin any craft at 3 p.m. your crafting cycle can begin as early as 3 a.m. Of course your cycle does not rebegin until you begin using a craft again, and you can perform up to 18 crafts in your cycle. Any shorter would make it too likely for one to use crafts twice a day; thereby achieving an unfair advantage over you.
+
+Crafts include: Tailoring, Gem Polishing, Elemental Node Cultivation, Enchanting, Herbalism, Higgling, Sword Smithing, Soori Smithing, Ring Smithing, Mentoring, Guiding, Wizardry Research, Hairstyling, Teaching, Worshipping, and Unskilled Labor.
+</Content>
 </NewsArticle>

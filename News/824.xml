@@ -1,24 +1,17 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>22</Day>
-  <Year>2016</Year>
-  <Title>Hunting Area, Item Durability &amp; Monster Drop Updates</Title>
+  <Month>11</Month>
+  <Day>15</Day>
+  <Year>2007</Year>
+  <Title>The Eulogy: Ceremony</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Updates&lt;/b&gt;
+  <Content>Kalliope writes:
 
-&lt;b&gt;Hunting Area Updates&lt;/b&gt;
-* Increased  Experience points in East Woodlands
-* Increased  Experience points in West Woodlands
-* Increased  Experience points in Mileth Crypt
+&lt;I&gt;A priest of each member of the Trinity appeared at dawn and began long chants of the tales of their arch-deity.
 
-&lt;b&gt;Item Updates&lt;/b&gt;
-* Braided Vines are less likely to break 
-* Crystal Orbs are not as fragile anymore
+In Pravat the Grimlok worship Adranuch, their Lady of Gold. In Astrid the Kobolds worship Arpina, their All-Mother. In Mehadi the Mukul worship Matrika, their Goddess of the Sun-heart.
 
-&lt;b&gt;Monster Drops&lt;/b&gt;
-* Yowien Tress will give out 2 Yowien Vines per kill (Blue or Yellow)
-
-
-((This Change will take place after the reset on &lt;b&gt;Friday January 22nd, 2016))</Content>
+Kalliope
+Bard of Undine&lt;I/&gt;
+</Content>
 </NewsArticle>

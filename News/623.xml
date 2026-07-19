@@ -1,38 +1,17 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>3</Month>
-  <Day>11</Day>
-  <Year>2015</Year>
-  <Title>March Events</Title>
+  <Month>9</Month>
+  <Day>12</Day>
+  <Year>2003</Year>
+  <Title>Dark Ages Update</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Catch a Leprechaun&lt;/b&gt;
-Is it Leprechaun Season? I just caught a glimpse of one lurking around my shop. I heard other aislings seeing them around other villages as well. If you have never seen one before, come drop by in the "Suomi Weapon Shop." I might be able to help you if you want to try and catch one.
-Torbjorn, Suomi Weapon Smith
+  <Content>Hello Aislings,
 
-&lt;b&gt;Lucky Clover&lt;/b&gt;
-Lucky Clovers are sprouting in Temuair. You might be able to find one if you are lucky. You will be rewarded with prizes and a new Legend Mark.
+We would first like to apologize for the recent server problems that have occurred in the past couple of weeks. We have been implementing changes to the server and it took some time to test and ensure that the issue has been completely resolved. What happened was that some players were able to perform any quest script with any NPC character, and that was how they did what they did. The crashes was caused by overloading the NPC. Everything should be under control now. There are a few minor bugs that we are aware of such as fas nadur spells, legends, mantis kick, and etc. We are working to fix them and �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������some should be fixed as you read this. Rest assured that the people responsible for this will be reported to the fullest extent. 
 
-&lt;img src="http://files.kru.com/DarkAges/Media/Images/Leprechaun.bmp"&gt;
+The security of our account database was never compromised. Your account and characters are well protected. However, you guys gotta be careful of the stuff you download onto your computer, especially if they are from other players.
 
-*After the event, the initial use of a clover �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������will be reduced from 50 Million to 5 Million. The ability and experience rewarded for repeat usage, however, has been increased by 10%. *Clovers will be removed from unregistered characters.*
+We will catch up with our support emails and then continue working on the many new projects we have in store for Dark Ages.
 
-&lt;b&gt;Find Locky's Charms&lt;/b&gt;
-A leprechaun named Locky has lost his magical charms in Temuair. Will you help him find them? Look for him standing next to a lamp post in Mileth Village. You will be rewarded with rewards depending on the number charms you find.
-Charms to find:
-
-Heart Charm
-Star Charm
-Horseshoe Charm
-Clover Charm
-Blue Moon Charm
-Pot of Gold Charm
-Rainbow Charm
-Red Balloon Charm
-
-&lt;img src="http://files.kru.com/DarkAges/Media/Images/MissingCharms.jpg"&gt;
-
-
-((Events will start on March 17th and finish on April 4th. Only registered accounts will be able to participate.)) 
-
-</Content>
+DA Team</Content>
 </NewsArticle>

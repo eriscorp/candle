@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>20</Day>
+  <Year>1999</Year>
+  <Title>Client 2.25</Title>
+  <Type>1</Type>
+  <Content>- 40 new clothing variations
+
+- Improved compatibility with Windows 95, which prevents some Invalid Page Faults
+
+- Mail deletion fix
+
+- Random hair/hair color at create screen
+
+Client 2.25 is available for download &lt;b&gt;now,&lt;/b&gt; as of 3 a.m. PDT. If you have been playing, logon to Dark Ages now for the fastest auto-update.
+</Content>
+</NewsArticle>

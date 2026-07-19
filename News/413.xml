@@ -1,17 +1,18 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>16</Day>
-  <Year>2015</Year>
-  <Title>The Suomi Inn</Title>
+  <Month>7</Month>
+  <Day>9</Day>
+  <Year>2001</Year>
+  <Title>Current Technical Status of Dark Ages</Title>
   <Type>1</Type>
-  <Content>Greetings, Aislings. My name is Eeva, and I was recently approached by the Suomi Troupe to host the new Suomi Inn. I am excited and look forward to meeting all of you who come to visit me in my humble inn Once it is complete.
+  <Content>Here is a brief update of some of the recent troubles in Dark Ages:
 
-Several calamities have struck our workers, and the preparations are falling behind schedule! Vedar, a kind man who has offered to build the inn needs strong Aislings to help him with some jobs. I also require energetic Aislings to visit the inns of Mileth, Rucesion and Tagor to examine their plans and help create a new design. Finally, Bertil and Hadrian have prepared holy blessing and magical pr����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������otection rituals for Aislings to memorize, to bless the land the inn shall be built on.
+A glitch in the database for the web survey caused it to be unaccessible. This has been corrected and a new survey with a new link has been sent out.
 
-Thank you for your help, Aislings! I look forward to seeing you in my cozy inn, once it is completed.
+There has been some techincal difficulties with the 'Free Week' service. Many first time players were unable to log onto the system. This problem has been corrected.
 
-Eeva, Suomi Innkeeper
+The "Free Week" will be ending either Monday or Tuesday, where registration will return. Nexon will not process credit card subscriptions via mail or fax, only by online registration. Nexon will continue to process check and money orders through the mail.
 
-((The event will begin on Wednesday, October 18th and will end on Tuesday, October 24th))</Content>
+There will be a new client released within the month of July, the features of which will be listed in greater detail later on in the week.
+</Content>
 </NewsArticle>

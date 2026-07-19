@@ -1,24 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>20</Day>
-  <Year>2015</Year>
-  <Title>Customer Support Update</Title>
+  <Month>7</Month>
+  <Day>11</Day>
+  <Year>2000</Year>
+  <Title>Copy and Paste</Title>
   <Type>1</Type>
-  <Content>1) Due to player abuse, name changes will no longer be offered for heretical names.
+  <Content>Client copy and paste is not available. It will be available in the next client.
 
-2) Due to player abuse, we will not edit any character stats unless a bug has occurred.
-
-3) For faster responses... 
-
-All emails pertaining to bugs, technical issues, website issues, and character sharing should be sent to da-bugs@darkages.com
-
-All emails pertaining the game-play, in-game issues, comments and suggestions should be sent to da-play@darkages.com
-
-All emails pertaining to account info, registration, renewal, and coupons should be sent to accounts@nexon.net
-
-Emails sent to the incorrect address will have de����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������layed responses.
-
-Thank you for your support,
-DA Team</Content>
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

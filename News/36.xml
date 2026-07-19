@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>8</Month>
+  <Day>22</Day>
+  <Year>1999</Year>
+  <Title>Server Reboot</Title>
+  <Type>1</Type>
+  <Content>- 08.22 22:13 PDT
+
+ A &lt;i&gt;Dark Ages&lt;/i&gt; server rebooted unexpectedly due to a software error.
+ Service resumed immediately.
+
+ At all other times all &lt;i&gt;Dark Ages&lt;/i&gt; servers are stable.
+
+ The &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below
+ maximum load.
+</Content>
+</NewsArticle>

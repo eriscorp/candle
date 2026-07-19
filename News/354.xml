@@ -1,18 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>30</Day>
-  <Year>2015</Year>
-  <Title>Adoration</Title>
+  <Month>11</Month>
+  <Day>16</Day>
+  <Year>2000</Year>
+  <Title>Free day added to all subscriptions</Title>
   <Type>1</Type>
-  <Content>Carnig, Solada, and Sunreet reappear to consumate the adoration of Arpina, Adranuch, and Matrika. 
+  <Content>Due to a server error, some people were unable to connect to the game from 10pm to 6am on Thursday, 11/16/00. The problem has been corrected and all registered accounts will be credited one day. We apologize for any inconvience.
 
-Through the sacrifice of the three relics by a trinity worshippers who have consecrated their spirit by Redemption, each may invoke the spirit of Danaan within their own heart. Come and worship in threes throughout this Temuairan Moon. 
-
-As a scripture says, &lt;I&gt;May our actions be Danaan's smile, may our thoughts be Danaan's brilliance, may Danaan's smile appear upon each that you meet, for she resides in each Aisling's heart. You can only find Her--beginning with faith--or deny Her in whomever you meet.&lt;/I&gt; 
-
-Blaise
-Librar����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ian of Loures 
-
-((The adoration will last through the July 4th weekend ending on the 6th.))</Content>
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

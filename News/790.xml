@@ -1,69 +1,22 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>12</Day>
-  <Year>2015</Year>
-  <Title>June Events &amp; Updates</Title>
+  <Month>3</Month>
+  <Day>30</Day>
+  <Year>2007</Year>
+  <Title>7.11 patch on 04/05</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Group Hunting Event&lt;/b&gt;
+  <Content>On Thursday, April 5th, Dark Ages will patch to 7.11.
 
-* Hunting in GROUPS will now give better experience points than before
-* Bonus Experience will depend on number of group members
-* Additional Bonus Experience will be awarded to groups w/ peasants!
+The "naked" animation will be fixed for the new armor slot. The itemshop system will be implemented but will NOT be released. We need to test the system first and ensure there are no major problems. The release date for the itemshop is tentatively set for April 12th. New hairsytles, hair color, pets, formal clothing, and much more will be available for the initial release.
 
-(( This event will Start on June 12th and End on June 26th. If we received positive player-base response, we will consider keeping this as a permanent feature (with minor adjustments) ))
+The currency for the itemshop will be Kruna. Players can purchase kruna at the coupon shop (where you buy registration coupons). A kruna coupon will credit an account with 1000 kruna. Krun�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������a is not transferable between accounts. As a promotion for the itemshop release, Kru will be giving away kruna to each account that is registered from today to the release of the itemshop. The amount of kruna given is based on the year the account is registered.
 
-&lt;b&gt;Updates&lt;/b&gt;
-
-- Skills/Spells Updates
-* Whirlwind Attack: Increased damage
-* Keeter 10-12: Increased damage
-* Groo 10-12: Increased damage
-* Torch 10-12: Increased damage
-* pian na �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������dion: Increased damage
-* mor pian na dion: Increased damage
-
-- New prize for Insect Tournament Event (see below for more details)
-
-
-&lt;b&gt;|----------------------------Tournament Information----------------------------|&lt;/b&gt;
-
-&lt;b&gt;*Restricted to Registered Accounts and Insight 40+&lt;/b&gt; 
-
-&lt;b&gt;*4 hunting grounds, each containing 5 different types of Insects per map&lt;/b&gt;
-
-  &lt;img src="http://files.kru.com/DarkAges/Media/images/Hunt1.jpg"&gt;
-  &lt;img src="http://files.kru.com/DarkAges/Media/images/Hunt2.jpg"&gt;
-  &lt;img src="http://files.kru.com/DarkAges/Media/images/Hunt3.jpg"&gt;
-  &lt;img src="http://files.kru.com/DarkAges/Media/images/Hunt4.jpg"&gt;
-
-&lt;b&gt;*20 Different types of insects to catch&lt;/b&gt;
-
-  &lt;img src="http://files.kru.com/DarkAges/Media/images/Insects.jpg"&gt;
-
-
-&lt;b&gt;*Prizes upon completion: (Varies on insight)&lt;/b&gt; 
-  Experience points 
-  Ability points (Medenian path only)
-  Legend mark
-  Prize ribbon
-
-&lt;b&gt;Prizes&lt;/b&gt;
-  Players can choose a variety of prizes such as a chance to obtain a Light Necklace. Description of each prize can be found in the "Tournament Information" from Gunnar.
-NEW PRIZE: &lt;b&gt;Qty 2 - Lumen Amulet Raffle(x5)&lt;/b&gt;
-
-&lt;b&gt;EXP &amp; AP Distribution&lt;/b&gt;  
-  Insight 40-59: 65,000,000 experience points
-  Insight 60-79: 70,000,000 experience points
-  Insight 80-99: 80,000,000 experience points + 800,000 ability points (Medenian path only)
-   
-Visit Gunnar in Piet Weapon Shop for more details.
-
-This event will Start on June 12th and End on June 26th. (2 weeks to complete)
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-&lt;b&gt;Monthly Kruna Giveaway&lt;/b&gt;
-
-We'll be giving out 200 Kruna to autorenewal accounts and 100 Kruna to registered accounts on Monday, June 15th.</Content>
+1999 = 700 kruna
+2000 = 600 kruna
+2001 = 500 kruna
+2002 = 400 kruna
+2003 = 300 kruna
+2004 = 250 kruna
+2005 = 200 kruna
+2006-2007 = 150 kruna</Content>
 </NewsArticle>

@@ -1,24 +1,27 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
+  <Month>10</Month>
   <Day>16</Day>
-  <Year>2015</Year>
-  <Title>Eulogy: Octave</Title>
+  <Year>2000</Year>
+  <Title>Titles</Title>
   <Type>1</Type>
-  <Content>The Eulogy: Octave
+  <Content>&lt;i&gt;
+... Coming Soon&lt;/i&gt;
 
-Kalliope writes a new octave in remembrance of Danaan and the cycle that has begun:
+&lt;b&gt;Political&lt;/b&gt;: Each active political office displays a title on the Temuair-wide Aislings list.
 
-&lt;I&gt;One gave us our eyes and taught us how to see.
-Two comforted our sight.
-Three showed us the beauty of the world.
-Four gave a glimpse of knowledge.
-Five protected our gift with reason.
-Six revealed the hidden.
-Seven showed us the battle.
-Eight made us wish we had never seen at all.
+&lt;b&gt;Creative&lt;/b&gt;: Winners of Aisling-level award for any creative contest may use their nobility to purchase a noble title for any of the four noble professions: Artist, Bard, Historian, Lorekeeper, or Philosopher. The title appears for a Double-Moon.
 
-Kalliope
-Bard of Undine &lt;I/&gt;
+&lt;b&gt;Event&lt;/b&gt;: Arena Hosts may purchase Arena Host title for a large sum of coins for a Double-Moon. Aisling-recognized Event Hosts may similarly purchase an Event Host title for a Double-Moon.
+
+An Aisling may only have one title at a time, in this order:
+
+- Political position.
+
+- Event position.
+
+- Creative Nobility; Aislinghood.
+
+Title is bestowed and removed at the Threshold to each village. Thereat mundanes will entitle or remove titles based on your active position. This is the most practical way that mundanes can publicize Aisling titles.
 </Content>
 </NewsArticle>

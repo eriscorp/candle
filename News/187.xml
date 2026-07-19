@@ -1,9 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>28</Day>
-  <Year>2015</Year>
-  <Title>UnknownPlayer.com Chat Log</Title>
+  <Month>2</Month>
+  <Day>14</Day>
+  <Year>2000</Year>
+  <Title>Internet Connection</Title>
   <Type>1</Type>
-  <Content>For those who missed the UnknownPlayer.com chat earlier this evening, you can read all the juicy details at this link &lt;a href="http://www.unknownplayer.com/archive/02/11/27/1254.php"&gt;here&lt;/a&gt;.</Content>
+  <Content>02.18 15:18 pst
+
+ An internet service provider near Dark Ages servers reports that they are having a router issue, and that they are fixing it.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
+</Content>
 </NewsArticle>

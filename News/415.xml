@@ -1,20 +1,24 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>20</Day>
-  <Year>2015</Year>
-  <Title>Halloween Events</Title>
+  <Month>7</Month>
+  <Day>31</Day>
+  <Year>2001</Year>
+  <Title>System Maintenance</Title>
   <Type>1</Type>
-  <Content>The Halloween events will begin on October 26th and end on November 1st.
+  <Content>Internet Maintenance
 
-&lt;b&gt;Pet Ghost&lt;/b&gt;
-"Speak to the one who resurrects the dead. Only he can tame this undead spectre."
+ 2001/07/31 1 p.m. - 5 p.m. PST
 
+Internet Service Provider (ISP) maintenance interrupts service (including
+ the game and web site) for up to 30 minutes any time between 1 p.m. and 5
+ p.m. Hours after this maintenance you will probably experience a slow
+ connection to the game.
 
-&lt;b&gt;The Horseman&lt;/b&gt;
-"He appears randomly from town to town searching his head. If you dare attack him, he will hurl at you the face of a demon.
+If you notice internet latency while playing, do not risk death. Character
+ losses due to internet latency are not restored.
 
-
-&lt;b&gt;The Red Moon&lt;/b&gt;
-"The Red Moon has come to haunt the lands of Temuair. Many Deochs ago, a demon sorcerer was vanquished from Temuair. Before his defeat, the sorcerer placed a curse on the lands, the curse of the Red Moon. The Mundanes were worried at first, but after many Deochs, a red moon n����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ever appeared. It was assumed that there was no curse and no one ever spoke of it again. But today, a full red moon hovers the sky above Temuair. Legend has it, those who stare at the moon will succumb to its power."</Content>
+The game servers are fast and stable; running well below maximum load with 0
+ server lag at peak volume. If you do experience latency, [test your
+ connection](http://www1.darkages.com/support/trace_route.htm)
+</Content>
 </NewsArticle>

@@ -1,38 +1,19 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>5</Month>
-  <Day>22</Day>
-  <Year>2015</Year>
-  <Title>Memorial Day Events</Title>
+  <Month>3</Month>
+  <Day>16</Day>
+  <Year>2007</Year>
+  <Title>7.10 bug fixes</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Capture The Fowl Prize Update&lt;/b&gt;
+  <Content>-Groups can now enter the boss room in the Cursed home
 
-In addition to the LN Raffle, we have added &lt;b&gt;LA Raffle(x5)&lt;/b&gt;.
-LA Raffle(x5) will give players 5 chances to obtain the Lumen Amulet.
-LA Raffle(x5) IS trade-able while the single LA Raffle IS NOT.
+-Groups must all be in the same area in order to enter the doll rooms.
 
-Please open all the LA Raffles ASAP since they will be removed from the game on June 8th. NO EXCEPTIONS!
+-The Refresh effect from the Ice Bottle will now last about 15 minutes in the Desert Dunes.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-&lt;b&gt;25% Experience/Ability Event&lt;/b&gt;
+-The ability reward for the Dune Patrol quest has been increased from 1,500ap to 3,500
 
-For the Memorial Day holiday, all registered accounts will receive 25% Bonus Experience/Ability gained through monster kills, quest rewards, etc.
+-The "naked" animation will be fixed with the next patch for the item shop, which will be coming very soon.
 
-~~~~~~~~~~~~~~~~~~~~~�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-&lt;b&gt;Skill &amp; Spell Leveling Bonus&lt;/b&gt;
-
-All registered characters will receive &lt;b&gt;3X&lt;/b&gt; the leveling rate of Skills and Spells ONLY in &lt;b&gt;Training Dojo 1-9.&lt;/b&gt;
-
-Using the "Skill/Spell Leveling Bonus" from the itemshop will produce &lt;b&gt;6X&lt;/b&gt; leveling rate.
-
-Using the "Skill/Spell Triple Bonus" from the itemshop will produce &lt;b&gt;9X&lt;/b&gt; leveling rate.
-
-((This event will begin on May 22nd and END on June 8th. Register your accounts to take advantage of this special event!))
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We are working on MORE updates based on your suggestions. Thank you to all that submitted a suggestion request. :)
-</Content>
+-DA Team</Content>
 </NewsArticle>

@@ -1,18 +1,15 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>11</Month>
-  <Day>25</Day>
-  <Year>2015</Year>
-  <Title>Eulogy: Ceremony</Title>
+  <Day>10</Day>
+  <Year>2005</Year>
+  <Title>Guild Battle Changes</Title>
   <Type>1</Type>
-  <Content>Eulogy: Ceremony
+  <Content>These changes will take place sometime on Friday, November 11.
 
-Kalliope writes:
+Guilds can only attack 2 times every 4 hours.
 
-&lt;I&gt;A priest of each member of the Trinity appeared at dawn and began long chants of the tales of their arch-deity.
+Attack Points will have a defense mechanism.
 
-In Pravat the Grimlok worship Adranuch, their Lady of Gold. In Astrid the Kobolds worship Arpina, their All-Mother. In Mehadi the Mukul worship Matrika, their Goddess of the Sun-heart.
-
-Kalliope
-Bard of Undine&lt;I/&gt;</Content>
+Price to attack is now 2 million coins.</Content>
 </NewsArticle>

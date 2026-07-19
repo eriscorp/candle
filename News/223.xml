@@ -1,13 +1,19 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>4</Month>
-  <Day>11</Day>
-  <Year>2015</Year>
-  <Title>The Journey to Medenia</Title>
+  <Day>18</Day>
+  <Year>2000</Year>
+  <Title>Maintenance</Title>
   <Type>1</Type>
-  <Content>"The journey to Medenia will soon begin for most Aislings. But be warned, Medenia is a dangerous place with many unknowns. There is no guarantee of your safety. Even the voyage across the seas will be dangerous. Once there you will be far from your home country, so leave your valuables behind. When sent to Sgrios it will be almost impossible to retrieve your items. Good luck to you all"
+  <Content>04.18 11:44 a.m. PDT
 
-Decasco
+ Dark Ages server was down for 30 seconds for scheduled maintenance. Dark Ages again warned players and rebooted to complete maintenance at 12:48 p.m PDT.
 
-((Only Aislings 40 insight and up may go to Medenia. Ships will leave every 3 hours starting at 3am pst. Aislings may purchast tickets 1 hour prior to departure. Players explore Medenia at their own risk. It is almost ����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������impossible to retrieve deathpiles unless you are a citizen of Medenia or you are of the new path.))</Content>
+ We fixed the temporary errors: infinite player-killing time on Sgrios summoner, erratic damage, and restored automatic political office list. On 04/19 at 6 a.m. PDT, we fix the temporary political range error.
+
+ Once service returns, please immediately report what seem to be errors: [www.darkages.com/contact](http://www.darkages.com/contact)
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

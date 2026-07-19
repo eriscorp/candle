@@ -1,10 +1,23 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>26</Day>
-  <Year>2015</Year>
-  <Title>Nexon fixed Necromancy Summoning Spell</Title>
+  <Month>10</Month>
+  <Day>11</Day>
+  <Year>1999</Year>
+  <Title>The Letter</Title>
   <Type>1</Type>
-  <Content>Nexon fixed wizard's necromancy summoning spell "Spion Torradh". Now it is set to two-lines of casting incantations and no additional delay to cast again. Previously, attempting to edit the spell's incantation caused the game to quit, and casting the spell caused the spell disabled the spell for a long time. We apologize for this inconvenience. 
+  <Content>, Afternoon&lt;/i&gt;
+
+A few friends of a heart-stricken woman remark:
+
+&lt;i&gt;My good friend is deeply in grief about her lost love. I cannot help but wonder if you, an Aisling, can help her.
+
+She hasn't known a happy morning since the last letter she received from him. She's been in an awful state all this time.
+&lt;/i&gt;
+
+Learn about her lost love; discover his dark past, the letter he was never able to send to her, and why it could not be sent.
+
+Bring someone special. This multi-player quest may only be initiated by a man; it may only be completed by a man and a woman. "The Letter" may be performed by any level; you'll need roses and wits, not swords and spells in this romantic quest. Variant stages in "The Letter" make your quest unique. As you may discover, the fate of this lost love has befallen more than one.
+
+To find out more, explore Temuair for the mundanes that speak of "The Letter."
 </Content>
 </NewsArticle>

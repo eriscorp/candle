@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>7</Month>
-  <Day>4</Day>
-  <Year>2015</Year>
-  <Title>Ability &amp; Experience Event</Title>
+  <Month>6</Month>
+  <Day>24</Day>
+  <Year>2002</Year>
+  <Title>Bug Fix Week</Title>
   <Type>1</Type>
-  <Content>Starting July 11th, all registered accounts will receive 50% Extra Experience and Ability Points gained through monster kills, quest rewards, etc.
+  <Content>This week the DA Team will be concentrating on fixing bugs for Dark Ages. We request the help of all players to report any valid bugs they are aware of to 
+da-bugs@nexon.net. This is for bugs only, please no ideas or suggestions. Thank you.
 
-This event to will begin on July 11th and END on 12PM PST July 14th.
-
-Register your accounts to take advantage of this special event!</Content>
+DA Team</Content>
 </NewsArticle>

@@ -1,11 +1,15 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>16</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages 7.23</Title>
+  <Month>9</Month>
+  <Day>9</Day>
+  <Year>2002</Year>
+  <Title>Guild Member List</Title>
   <Type>1</Type>
-  <Content>On Thursday, October 16th, Dark Ages will be patching to version 7.23
+  <Content>A Guild Member List has now been added to the Guild section of the website.
+
+&lt;a target=_new href=http://www.darkages.com/guildlist/&gt;Guild List&lt;/a&gt;
+
+
 
 DA Team</Content>
 </NewsArticle>

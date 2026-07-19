@@ -1,9 +1,53 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>19</Day>
-  <Year>2015</Year>
-  <Title>Purged Character Restoration Ends Oct. 29</Title>
+  <Month>7</Month>
+  <Day>17</Day>
+  <Year>2001</Year>
+  <Title>Credit Card-Pay Pal System</Title>
   <Type>1</Type>
-  <Content>We will process all requests submitted by this date. Any requests received after this date will not be honored.</Content>
+  <Content>Recently we, Nexon as a business, were having a rather serious problem in
+working with credit card processing companies because of our high chargeback
+ratio. What is a chargeback? Chargeback happens when you, as a credit card
+user, contact your credit card company and claims 'I didn't buy this product
+or service'.
+
+Then the merchant, Nexon, in this case, has to prove to the credit card
+company that the purchase actually happened and was made by the legitimate
+owner of the credit card. This is relatively easy when delivery of physical
+goods is made, but for services like Dark Ages, it is tricky, very much time
+consuming and sometimes difficult to prove.
+
+What happens when chargeback occurs? Not only the credit card processing
+company takes back our sales money, they charge penalty of about 3 months'
+Dark Ages subscription amount, and sometimes they lock our sales money for
+months. You can easily see what chargebacks can do to a business like ours.
+
+While Nexon has been trying very hard to maintain the security of our
+network and data system, it's been housing relatively simple and convenient
+credit card approval system, for the convenience of our players, and in an
+effort to accommodate players from overseas.
+
+But this convenience and easy access also meant Nexon approval system being
+an easy target for credit card fraud, stolen card numbers, and unauthorized
+use. As a result, Nexon has been suffering and being victimized
+tremendously. Recently it has come to a point where the very own existence
+of Nexon is seriously threatened by this, and the change of our online
+transaction approval has become an absolute necessity for Nexon to survive.
+
+The reason that I am posting this message is so that our players understand
+why we had to do what we did, and what will happen.
+
+We are currently evaluating and working on other approval systems. Each
+system has its own strengths and weaknesses. We plan to bring more more
+transaction options in our payment system, perhaps one by one, so our
+players can have choices, convenience and security all at the same time.
+
+So in short, what we have today isn't everything we are going to have.
+Please be patient with us and help us move forward. Your patience,
+understanding, and support is appreciated and needed more than ever. Help
+us maintain our honesty, integrity and decency as a business, so we can
+continue to provide you with the joy of Dark Ages.
+
+Thank you for reading, and thank you for just being a part of Dark Ages.
+</Content>
 </NewsArticle>

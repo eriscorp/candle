@@ -1,48 +1,21 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>23</Day>
-  <Year>2015</Year>
-  <Title>Mech Invasion &amp; 25% Bonus Ability/Exp Event</Title>
+  <Month>11</Month>
+  <Day>1</Day>
+  <Year>2005</Year>
+  <Title>Battle Server Bug</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Mech Invasion&lt;/b&gt;
+  <Content>To resolve the Battle Server Bug,
 
-Can you survive the Mech Invasion?
-Mechs are spawning in the Balanced Arena starting Wednesday, October 23rd. They will continue to spawn until Halloween Events are over.
+1) Delete the Dark Ages Folder in the KRU folder.
 
-&lt;b&gt;Mechs Info:&lt;/b&gt;
+2) Using the same installer you already downloaded, reinstall the client.
 
-* 2 Mech Bosses
-* 5 Mech Troops
+3) delete the shortcut on the desktop.
 
-&lt;b&gt;Mech Godzin&lt;/b&gt;
+4) create a new shortcut using the executable in the ..\KRU\Dark Ages\ folder.
 
-&lt;img src="http://files.kru.com/DarkAges/Media/Images/Mechs1.jpg"&gt;
+or
 
-&lt;b&gt;Mech Volkain&lt;/b&gt;
-
-&lt;img src="http://files.kru.com/DarkAges/Media/Images/Mechs.jpg"&gt;
-
-&lt;b&gt;Prizes:&lt;/b&gt;
-
-* Experience/Ability
-* Legend Mark
-* Chance of winning: LN Raffle (x5), Double Bonus Exp-Ap, Skill/Spell Leveling Bonus or Useless Coal
-
-&lt;b�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������&gt;25% Bonus Ability &amp; Experience Event&lt;/b&gt;
-
-Starting October 23rd, all registered accounts will receive 25% Bonus Experience and Ability Points gained through monster kills, quest rewards, etc. Bonus event will last until 12PM October 28th.
-
-&lt;b&gt;Reset Notes&lt;/b&gt;
-
-* Fixed Garamonde Theatre graphic tiles (updated background music)
-* Updated Balanced Arena background music
-* Guild Board requirement changed to 64 members minimum
-
-&lt;b&gt;First Day of Halloween Events&lt;/b&gt;
-
-&lt;img src="http://files.kru.com/DarkAges/Media/Images/MechCrowd.jpg"&gt;
-
-
-</Content>
+You can download the new client DA703a.exe in the download section of the website.</Content>
 </NewsArticle>

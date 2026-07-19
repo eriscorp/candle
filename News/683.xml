@@ -1,18 +1,17 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>14</Day>
-  <Year>2015</Year>
-  <Title>Eulogy: Ceremony</Title>
+  <Month>10</Month>
+  <Day>1</Day>
+  <Year>2004</Year>
+  <Title>Server Down Time - Resolved</Title>
   <Type>1</Type>
-  <Content>Eulogy: Ceremony
+  <Content>Hello,
 
-Kalliope writes:
+As of 8:11 PM (PST) we believe that the issues with the ISP have been resolved for the most part, and the game should be working correctly now.
 
-A priest of each member of the Trinity appeared at dawn and began long chants of the tales of their arch-deity.
+We will be adding 1 day to all the active accounts to compensate for this down time.
 
-In Pravat the Grimlok worship Adranuch, their Lady of Gold. In Astrid the Kobolds worship Arpina, their All-Mother. In Mehadi the Mukul worship Matrika, their Goddess of the Sun-heart.
+We are sorry for any inconvenience this may have caused.
 
-Kalliope
-Bard of Undine </Content>
+DA Team</Content>
 </NewsArticle>

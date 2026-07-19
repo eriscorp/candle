@@ -1,21 +1,24 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>17</Day>
-  <Year>2015</Year>
-  <Title>Nexon Accounts purge on the 18th of November</Title>
+  <Month>7</Month>
+  <Day>10</Day>
+  <Year>2000</Year>
+  <Title>Lorekeepers Recognized</Title>
   <Type>1</Type>
-  <Content>Hello everybody,
+  <Content>[Lorekeepers](http://www.darkages.com/2000/community/lore/index.html) Recognized:
 
-On Tuesday, the 18th of November, Nexon will be doing an account database purge. At this time we will be removing all inactive accounts from our database. Inactive accounts are any account that has not been active in the last 30 days leading up to the purge date.
+- Folk
 
-This purge will free up any unused character names so that they will be available to other players to use in the future.
+- Taurlos, "Ainmhidh de Temuair (Bestiary)" (Bestiary)
 
-When an account is purged all characters on the account will be deleted from our servers, along with any items, abilities, stats and experience the character may have. 
+- Village
 
-We will not be a�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ble to restore any account or character that has been purged! To avoid the loss of your character you must make sure your account is actively registered some time between now and then 18th of November.
+- Hollie-Kob, "Hosting and Planning an Aisling Fair"
 
-If you plan on re-registering your character and account before the 18th we recommend that you do it in advance to avoid any possible complications or delays that may result in the loss of your characters.
+Visit Egil in Abel to discover which mundane offers you your recognition, legend, experience, coins, and political clout. Village or greater recognized Aislings may teach classes in their recognized subject in Mileth College, which is just beside Glioca's shrine. The Aisling-recognized gain a one mark of nobility. With additional marks, one may gain the most noble garments in all Temuair. Speak with Jean in Loures for details.
 
-Nexon News</Content>
+Some, but not all, of the works are posted in the Library of Loures archive ((online: [www.darkages.com/community/temuair](http://www.darkages.com/community/temuair))). Mundane Loures librarian Blaise requests that Aislings, winning Village or greater recognition, scribe their works at the Library of Loures, and any other library that they wish to. You must be recognized for a full Temuairan week ((one real-life day)) before you may write there.
+
+Mundanes thank all Aislings that shared their spark of imagination, and invites Aislings to share (([www.darkages.com/community/contest.html](http://www.darkages.com/community/contest.html)))
+</Content>
 </NewsArticle>

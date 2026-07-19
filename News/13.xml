@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>5</Month>
+  <Day>6</Day>
+  <Year>1999</Year>
+  <Title>Client Screenshot</Title>
+  <Type>1</Type>
+  <Content>[Screenshot](http://www.darkages.com/2000/image/screen/client_990504.gif)
+and a synopsis of the features that are to be included in the commercial
+release of Dark Ages:
+
+&lt;i&gt;What's new about the interface in this screenshot:&lt;/i&gt;
+
+- New health and mana display (purely graphical, yet more cool).
+
+- The box on the right will be for displaying a portrait of yourself or the person you click on.
+
+- Alternatively the box on the right will be for displaying an object that you click on.
+
+- Help button (same as pressing F1)
+
+- When you walk behind an object, you see yourself translucently.
+
+&lt;i&gt;Other things being added for commercial release:&lt;/i&gt;
+
+- Original MP3s
+
+- Original sound effects (about 3 dozen sound effects for actions and spells)"
+</Content>
+</NewsArticle>

@@ -1,27 +1,24 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>10</Month>
-  <Day>31</Day>
-  <Year>2015</Year>
-  <Title>Download and Install Problems</Title>
+  <Month>12</Month>
+  <Day>21</Day>
+  <Year>2000</Year>
+  <Title>Bards Recognized</Title>
   <Type>1</Type>
-  <Content>We are experiencing a high volume of downloads for Dark Ages 7.03, so the download will be slow. We recommend trying the mirror sites posted on the front page of www.planetda.net.
+  <Content>[Bards Recognized](http://www.darkages.com/2000/community/lit/index.html) :
 
-If you are having problems installing Dark Ages...
+- Folk
 
-1) Delete your temporary internet files, you can do this in the Tools section of your browser.
+- Cedrik, "Impact"
 
-2) Download the client again from the website, www.darkages.com
+- Village
 
-3) Verify that the size of the download matches what is stated on the website, roughly 169MB.
+- Raeven, "An Herbalist's Misfortune"
 
-4) Make sure you have sufficient space on your hard drive.
+Visit Egil in Abel to discover which mundane offers you your recognition, legend, experience, coins, and political clout. Village or greater recognized Aislings may teach classes in their recognized subject in Mileth College, which is just beside Glioca's shrine. The Aisling-recognized gain a one mark of nobility. With additional marks, one may gain the most noble garments in all Temuair. Speak with Jean in Loures for details.
 
-5) Re-install the client.
+Some, but not all, of the works are posted in the Library of Loures archive ((online: [www.darkages.com/community/temuair](http://www.darkages.com/community/temuair))). Mundane Loures librarian Blaise requests that Aislings, winning Village or greater recognition, scribe their works at the Library of Loures, and any other library that they wish to. You must be recognized for a full Temuairan week ((one real-life day)) before you may write there.
 
-
-If you are getting the ����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������Battle Server window, make sure you delete/uninstall the current Dark Ages. Then re-install using the installer you just downloaded.
-
-DA Team
+Mundanes thank all Aislings that shared their spark of imagination, and invites Aislings to share (([www.darkages.com/community/contest.html](http://www.darkages.com/community/contest.html)))
 </Content>
 </NewsArticle>

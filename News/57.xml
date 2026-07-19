@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>9</Month>
+  <Day>9</Day>
+  <Year>1999</Year>
+  <Title>Server Maintenance</Title>
+  <Type>1</Type>
+  <Content>- 09.09 00:01 PDT
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers shutdown for scheduled maintenance and returned
+ to service after 5 minutes.
+
+ During 99.09.09, herbs may only be found in the Enchanted Garden, and
+ Nadurra (the elemental source) may not be found anywhere, due to quality
+ assurance monitoring. It will return 99.09.11.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
+</Content>
+</NewsArticle>

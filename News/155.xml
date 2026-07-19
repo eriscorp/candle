@@ -1,9 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>9</Month>
-  <Day>3</Day>
-  <Year>2015</Year>
-  <Title>Another Week, Another New Poll!</Title>
+  <Month>12</Month>
+  <Day>17</Day>
+  <Year>1999</Year>
+  <Title>Religious Mass Update</Title>
   <Type>1</Type>
-  <Content>Tell us why you play Dark Ages, or why you think you might like to play Dark Ages. It takes only a few seconds to make your voice heard! The poll on the front page of the Dark Ages website awaits you!</Content>
+  <Content>On 99.12.17, religious Mass temporarily requires a prayer necklace to be &lt;i&gt;worn&lt;/i&gt; in order to worship. This update is necessary, which I discovered on 99.12.16. I apologize for the sudden alteration. It is necessary.
+
+As of 99.12.18, prayer necklace is not needed to be worn for religious Mass.
+
+See your priest to join a religion. Afterward, also see your priest to politely request an additional prayer necklace if you no longer have your original necklace.
+
+View [all features screenshots.](http://www.darkages.com/pics/index_feature.html)
+</Content>
 </NewsArticle>

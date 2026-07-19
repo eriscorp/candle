@@ -1,9 +1,18 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>12</Month>
-  <Day>19</Day>
-  <Year>2015</Year>
-  <Title>Dark Ages 5.21 Download!!</Title>
+  <Month>2</Month>
+  <Day>22</Day>
+  <Year>2000</Year>
+  <Title>Web Service</Title>
   <Type>1</Type>
-  <Content>You can now download Dark Ages 5.21 in the download section. The server will be down in for a few minutes while we upgrade. Please be patient.</Content>
+  <Content>Web service interrupted. We are investigating and fixing [www.darkages.com](http://www.darkages.com/). In the interim use "[www1.darkages.com](http://www1.darkages.com/)" address. Online registration services are temporarily unavailable. Registration actions may be delayed several hours.
+
+ Estimated time of fix is a few days right now. Check back for updates in a few days.
+
+ Game server is unaffected.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
+</Content>
 </NewsArticle>

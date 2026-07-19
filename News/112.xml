@@ -1,9 +1,18 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>1</Month>
-  <Day>23</Day>
-  <Year>2015</Year>
-  <Title>Nexon fixed Nigel Quest </Title>
+  <Month>10</Month>
+  <Day>28</Day>
+  <Year>1999</Year>
+  <Title>Server Reboot</Title>
   <Type>1</Type>
-  <Content>Nexon fixed the potions segment of Nigel's Quest.  Players may now give Nigel all three potions and received a legend mark and reward.  Previously he did not take all poitions.  We apologize for any inconvience.</Content>
+  <Content>- 10.28 16:19 PDT
+
+ A &lt;i&gt;Dark Ages&lt;/i&gt; server rebooted unexpectedly. Service resumed immediately.
+
+ At all other times all &lt;i&gt;Dark Ages&lt;/i&gt; servers are stable.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
+</Content>
 </NewsArticle>

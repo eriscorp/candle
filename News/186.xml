@@ -1,15 +1,16 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>27</Day>
-  <Year>2015</Year>
-  <Title>UnknownPlayer.com chat</Title>
+  <Month>2</Month>
+  <Day>12</Day>
+  <Year>2000</Year>
+  <Title>Internet Connection</Title>
   <Type>1</Type>
-  <Content>Hot on the heels of the Planet DA chat and the announcement of the expansion, The DA Team will be participating in a chat at UnknownPlayer.com. Have questions about the exciting changes coming to Dark Ages, or questions we did not answer about Dark Ages last night? Do not miss your chance to ask!
+  <Content>02.12 22:30 - 04:30
 
-Chat Details:
-Server: Irc.Sorcery.Net 
-Room: #up.com 
-Time: 4:00 PM Pacific, 5:00 PM Mountain, 6:00 PM Central, 7:00 Eastern 
-Date: Wednesday 11/27/02 </Content>
+ An internet service provider near Dark Ages server had a serious internet problem. The ISP's problem temporarily slowed Dark Ages game play nearly to a halt. The ISP fixed their fault.
+
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, [test
+ your connection.](http://www.darkages.com/support/trace_route.htm)
+</Content>
 </NewsArticle>

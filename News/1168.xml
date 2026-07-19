@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>1</Month>
+  <Day>22</Day>
+  <Year>2016</Year>
+  <Title>Hunting Area, Item Durability &amp; Monster Drop Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;Updates&lt;/b&gt;
+
+&lt;b&gt;Hunting Area Updates&lt;/b&gt;
+* Increased  Experience points in East Woodlands
+* Increased  Experience points in West Woodlands
+* Increased  Experience points in Mileth Crypt
+
+&lt;b&gt;Item Updates&lt;/b&gt;
+* Braided Vines are less likely to break 
+* Crystal Orbs are not as fragile anymore
+
+&lt;b&gt;Monster Drops&lt;/b&gt;
+* Yowien Tress will give out 2 Yowien Vines per kill (Blue or Yellow)
+
+
+((This Change will take place after the reset on &lt;b&gt;Friday January 22nd, 2016))</Content>
+</NewsArticle>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>11</Month>
+  <Day>18</Day>
+  <Year>2016</Year>
+  <Title>New Skills/Spells &amp; Updates</Title>
+  <Type>1</Type>
+  <Content>&lt;b&gt;New tiered Medenia Skills and Spells&lt;/b&gt;
+
+&lt;b&gt;Warrior&lt;/b&gt;
+*Dune Swipe 8 - 25 Wind Baem Missives, 1 Band of Gales, 1 Hellreavers Blade, 11.5m Gold, 100m Exp, 9.5k ap
+*Dune Swipe 9 - 50 Wind Baem Missives, 2 Band of Gales, 2 Hellreavers Blade, 14.5m Gold, 120m Exp, 11.5k ap
+*Dune Swipe 10 - 75 Wind Baem Missives, 3 Band of Gales, 3 Hellreavers Blade, 17.5m Gold, 140m Exp, 13.5k ap
+
+*Strikedown 9 - 25 Silver Baem Egg, 1 Band of Gales, 1 Hellreavers Blade, 20m Gold, 100m Exp, 10k ap
+*Strikedown 10 - 50 Silver Baem Egg, 2 Band of Gales, 2 Hellreavers Blade, 25m Gold, 115m Exp, 11.5k ap
+*Striked�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������own 11 - 75 Silver Baem Egg, 3 Band of Gales, 3 Hellreavers Blade, 30m Gold, 130m Exp, 13k ap
+
+*Wheel Kick 8  - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Hellreavers Blade, 15m gold, 150m Exp, 11k ap
+*Wheel Kick 9 -  50 Wind Baem Missives, 50 Silver Baem Egg, 2 Hellreavers Blade, 20m gold, 180m Exp, 13k ap
+*Wheel Kick 10 - 75 Wind Baem Missives, 75 Silver Baem Egg, 3 Hellreavers Blade, 25m gold, 200m Exp, 15k ap
+
+&lt;b&gt;Rogue&lt;/b&gt;
+*Arrow Shot 10 - 25 Silver Baem Egg, 1 Band of Storms, 1 Inferno Blade, 14m gold, 80m Exp, 10k ap
+*Arrow Shot 11 - 50 Silver Baem Egg, 2 Band of Storms, 2 Inferno Blade, 16m gold, 100m Exp, 12k ap
+*Arrow Shot 12 - 75 Silver Baem Egg, 3 Band of Storms, 3 Inferno Blade, 18m gold, 120m Exp, 14k ap
+
+*Rear Strike 6 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Inferno Blade, 6.5m Gold, 120m Exp, 30k ap
+*Rear Strike 7 - 50 Wind Baem Missives, 50 Silver Baem Egg, 2 Inferno Blade, 7.5m Gold, 140m Exp, 35k ap
+*Rear Strike 8 - 75 Wind Baem Missives, 75 Silver Baem Egg, 3 Inferno Blade, 8.5m Gold, 160m Exp, 40k ap
+
+*Star Arrow 9 - 25 Wind Baem Missives, 1 Band of Storms, 1 Thunderfury, 13m gold, 69m Exp, 9k ap
+*Star Arrow 10 - 50 Wind Baem Missives, 2 Band of Storms, 2 Thunderfury, 14m gold, 70m Exp, 10k ap
+*Star Arrow 11 - 75 Wind Baem Missives, 3 Band of Storms, 3 Thunderfury, 15m gold, 71m Exp, 11k ap
+
+*Frost Arrow 7 - 25 Silver Baem Egg, 1 Band of Storms, 1 Thunderfury, 9m gold, 65m Exp, 7k ap
+*Frost Arrow 8 - 50 Silver Baem Egg, 2 Band of Storms, 2 Thunderfury, 10m gold, 70m Exp, 8k ap
+*Frost Arrow 9 - 75 Silver Baem Egg, 3 Band of Storms, 3 Thunderfury, 11m gold, 75m Exp, 9k ap
+
+&lt;b&gt;Monk&lt;/b&gt; 
+
+&lt;b&gt;Feral Druid&lt;/b&gt;
+*Mass Strike 10 - 25 Silver Baem Egg, 25 Wind Baem Missives, 1 Eagles Grasp, 13m gold, 65m Exp, 8k ap
+*Mass Strike 11 - 50 Silver Baem Egg, 50 Wind Baem Missives, 2 Eagles Grasp, 15m gold, 75m Exp, 10k ap
+*Mass Strike 12 - 75 Silver Baem Egg, 75 Wind Baem Missives, 3 Eagles Grasp, 17m gold, 85m Exp, 12k ap
+
+*Double Rake 8 - 25 Silver Baem Egg, 1 Band of Gales, 1 Eagles Grasp, 6.5m Gold, 75m Exp, 8k ap
+*Double Rake 9 - 50 Silver Baem Egg, 2 Band of Gales, 2 Eagles Grasp, 7.5m Gold, 85m Exp, 10k ap
+*Double Rake 10 - 75 Silver Baem Egg, 3 Band of Gales, 3 Eagles Grasp, 8.5m Gold, 95m Exp, 12k ap
+
+*Pounce 8 - 25 Wind Baem Missives, 1 Band of Gales, 1 Eagles Grasp, 55m Gold 180m Exp, 10k ap
+*Pounce 9 - 50 Wind Baem Missives, 2 Band of Gales, 2 Eagles Grasp, 65m Gold 200m Exp, 12k ap
+*Pounce 10 - 75 Wind Baem Missives, 3 Band of Gales, 3 Eagles Grasp, 75m Gold 220m Exp, 14k ap
+
+&lt;b&gt;Komodas Druid&lt;/b&gt;
+*Tail Sweep 10 - 25 Silver Baem Egg, 25 Wind Baem Missives, 1 Eagles Grasp, 27m gold, 80m Exp, 10k ap
+*Tail Sweep 11 - 50 Silver Baem Egg, 50 Wind Baem Missives, 2 Eagles Grasp, 29m gold, 90m Exp, 12k ap
+*Tail Sweep 12 - 75 Silver Baem Egg, 75 Wind Baem Missives, 3 Eagles Grasp, 31m gold, 100m Exp, 14k ap
+
+*Claw Slash 8 - 25 Silver Baem Egg, 1 Band of Gales, 1 Eagles Grasp, 35m Gold, 85m Exp, 10k ap
+*Claw Slash 9 - 50 Silver Baem Egg, 2 Band of Gales, 2 Eagles Grasp, 45m Gold, 95m Exp, /12k ap
+*Claw Slash 10 - 75 Silver Baem Egg, 3 Band of Gales, 3 Eagles Grasp, 55m Gold, 105m Exp, 14k ap
+
+*Venom Attack 6 - 25 Wind Baem Missives, 1 Band of Gales, 1 Eagles Grasp, 45m Gold 370m Exp, 10k ap
+*Venom Attack 7 - 50 Wind Baem Missives, 2 Band of Gales, 2 Eagles Grasp, 50m Gold 380m Exp, 12k ap
+*Venom Attack 8 - 75 Wind Baem Missives, 3 Band of Gales, 3 Eagles Grasp, 55m Gold 390m Exp, 14k ap
+
+&lt;b&gt;Karura Druid&lt;/b&gt;
+*Beak Pierce 9 - 25 Silver Baem Egg, 25 Wind Baem Missives, 1 Eagles Grasp, 16.5m gold, 80m Exp, 9k ap
+*Beak Pierce 10 - 50 Silver Baem Egg, 50 Wind Baem Missives, 2 Eagles Grasp, 17m gold, 85m Exp, 10k ap
+*Beak Pierce 11- 75 Silver Baem Egg, 75 Wind Baem Missives, 3 Eagles Grasp, 17.5m gold, 90m Exp, 11k ap
+
+*Sneak Flight 8 - 25 Silver Baem Egg, 1 Band of Gales, 1 Eagles Grasp, 7m Gold, 70m Exp, 10k ap
+*Sneak Flight 9 - 50 Silver Baem Egg, 2 Band of Gales, 2 Eagles Grasp, 7.5m Gold, 75m Exp, 12k ap
+*Sneak Flight 10 - 75 Silver Baem Egg, 3 Band of Gales, 3 Eagles Grasp, 8m Gold, 80m Exp, 14k ap
+
+*Talon Kick 6 - 25 Wind Baem Missives, 1 Band of Gales, 1 Eagles Grasp, 55m Gold 300m Exp, 10k ap
+*Talon Kick 7 - 50 Wind Baem Missives, 2 Band of Gales, 2 Eagles Grasp, 65m Gold 310m Exp, 12k ap
+*Talon Kick 8 - 75 Wind Baem Missives, 3 Band of Gales, 3 Eagles Grasp, 75m Gold 320m Exp, 14k ap
+
+*Hail of Feathers 8 - 25 Wind Baem Missives, 1 Band of Storms, 1 Eagles Grasp, 7m Gold, 70m Exp, 10k AP
+*Hail of Feathers 9 - 50 Wind Baem Missives, 2 Band of Storms, 2 Eagles Grasp, 7.5m Gold, 75m Exp, 11k AP
+*Hail of Feathers 10 - 75 Wind Baem Missives, 3 Band of Storms, 3 Eagles Grasp, 8m Gold, 80m Exp, 12k AP
+
+&lt;b&gt;Summoner&lt;/b&gt;
+*Groo 13 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Dragon Infused Staff, 9m Gold, 9m Exp, 6.5k AP 
+*Groo 14 - 50 Wind Baem Missives, 50 Silver Baem Egg, 2 Dragon Infused Staff, 9.5m Gold, 9.5m Exp, 7k AP 
+*Groo 15 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Dragon Infused Staff, 10m Gold, 10m Exp, 7.5k AP 
+
+*Torch 13 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Dragon Infused Staff, 9m Gold, 9m Exp, 6.5k AP 
+*Torch 14 - 50 Wind Baem Missives, 50 Silver Baem Egg, 2 Dragon Infused Staff, 9.5m Gold, 9.5m Exp, 7k AP 
+*Torch 15 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Dragon Infused Staff, 10m Gold, 10m Exp, 7.5k AP 
+
+*Keeter 13 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Dragon Infused Staff, 9m Gold, 9m Exp, 6.5k AP 
+*Keeter 14 - 50 Wind Baem Missives, 50 Silver Baem Egg, 2 Dragon Infused Staff, 9.5m Gold, 9.5m Exp, 7k AP 
+*Keeter 15 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Dragon Infused Staff, 10m Gold, 10m Exp, 7.5k AP
+
+*Mermaid 13 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Dragon Infused Staff, 9m Gold, 9m Exp, 6.5k AP 
+*Mermaid 14 - 50 Wind Baem Missives, 50 Silver Baem Egg, 2 Dragon Infused Staff, 9.5m Gold, 9.5m Exp, 7k AP 
+*Mermaid 15 - 25 Wind Baem Missives, 25 Silver Baem Egg, 1 Dragon Infused Staff, 10m Gold, 10m Exp, 7.5k AP 
+
+&lt;b&gt;Bard&lt;/b&gt;
+*Instrumental Attack 10 - 25 Silver Baem Egg, 1 Band of Storms, 1 Dragon Emberwood Staff, 12m Gold, 55m Exp, 8.5k AP
+*Instrumental Attack 11 - 50 Silver Baem Egg, 2 Band of Storms, 2 Dragon Emberwood Staff, 13m Gold, 60m Exp, 9k AP
+*Instrumental Attack 12 - 75 Silver Baem Egg, 2 Band of Storms, 3 Dragon Emberwood Staff, 14m Gold, 65m Exp, 9.5k AP
+
+*Counter Attack 9 - 25 Wind Baem Missives, 1 Band of Storms, 1 Dragon Emberwood Staff, 7m Gold, 75m Exp, 10k AP
+*Counter Attack 10 - 50 Wind Baem Missives, 2 Band of Storms, 2 Dragon Emberwood Staff, 8m Gold, 80m Exp, 11k AP
+*Counter Attack 11 - 75 Wind Baem Missives, 3 Band of Storms, 3 Dragon Emberwood Staff, 9m Gold, 85m Exp, 12k AP
+
+*Cursed Tunes 10 - 25 Wind Baem Missives, 1 Band of Storms, 1 Divinities Staff, 12m Gold, 75m Exp, 10k AP
+*Cursed Tunes 11 - 50 Wind Baem Missives, 2 Band of Storms, 2 Divinities Staff, 13m Gold, 80m Exp, 11k AP
+*Cursed Tunes 12 - 75 Wind Baem Missives, 3 Band of Storms, 3 Divinities Staff, 14m Gold, 85m Exp, 12k AP
+
+*Regeneration 8 - 25 Silver Baem Egg, 1 Band of Storms, 1 Dragon Emberwood Staff, 9m Gold, 70m Exp, 10k AP
+*Regeneration 9 - 50 Silver Baem Egg, 2 Band of Storms, 2 Dragon Emberwood Staff, 10m Gold, 75m Exp, 11k AP
+*Regeneration 10 - 75 Silver Baem Egg, 3 Band of Storms, 3 Dragon Emberwood Staff, 11m Gold, 80m Exp, 12k AP
+
+&lt;b&gt;Balancing Updates&lt;/b&gt;
+
+* Modified Sneak Flight damage multiplier
+* Updated Hail of Feathers damage
+* Updated Stab Twice damage
+* Updated Talon Kick damage
+* Updated Keeter damage
+* Updated Groo damage
+* Updated Torch damage
+* Updated Mermaid damage
+
+&lt;b&gt;Updates&lt;/b&gt; 
+
+* Druid Helms updated to -10AC
+* Perish Lore requirements has been updated
+* New AB90 Bow added to Satchel of Goods
+* Increase damage of Inferno Blade
+* Increased "drop rate" Silver Baem Egg from monsters
+
+&lt;b&gt;All updates will take effect on Monday 21st. Capture the Fowl will replace Mech Event in Balanced Arena.&lt;/b&gt;
+
+More updates to come in the future!
+
+- Error &amp; DA Team
+
+</Content>
+</NewsArticle>

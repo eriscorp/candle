@@ -1,16 +1,13 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Month>10</Month>
-  <Day>7</Day>
-  <Year>2015</Year>
-  <Title>Fashion Show</Title>
+  <Day>9</Day>
+  <Year>2000</Year>
+  <Title>Server Maintenance</Title>
   <Type>1</Type>
-  <Content>"Attention Aislings!
+  <Content>Dark Ages servers are online. Dark Ages servers were offline 08:25 - 10:13 PDT for unscheduled server and accounts system synchronization maintenance. We apologize for the inconvenience.
 
-It has come time to show and commend the most fashionable Aislings in Temuair.  The Fashion Show will take place ((Sunday, October 10th at 6pm PST, 9pm EST)) at the Garamonde Theatre in Suomi.  I will ask for all Aislings to come on their best behavior; any aislings causing disturbances will be removed without hesitation. We will also be featuring clothes for the upcoming Oren Ball!.
-
-((Please note that this date is different than the one sent out in any mails via DA.  That date is incorrect, this is the updated one.))
-
-Thank you for all of your support,
- -Vindication"</Content>
+ &lt;i&gt;Dark Ages&lt;/i&gt; servers are fast and stable; running well below maximum
+ load with 0 server lag at peak volume. If you do experience latency, test your connection ( [http://www.darkages.com/support/trace_route.htm](http://www.darkages.com/support/trace_route.htm) ).
+</Content>
 </NewsArticle>

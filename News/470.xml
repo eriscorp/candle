@@ -1,16 +1,10 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>11</Month>
-  <Day>15</Day>
-  <Year>2015</Year>
-  <Title>Oren Ball Fashion Contest</Title>
+  <Month>12</Month>
+  <Day>7</Day>
+  <Year>2001</Year>
+  <Title>Internet Maintenance</Title>
   <Type>1</Type>
-  <Content>Attention all Aislings,
-
-There will be a Fashion Contest held outside of the Oren Main Hall during the last portion of the Oren Ball.  Fantastic prizes will be given out to the best dressed male and female.
-
-- Riagan, the "Retired Ant Hunter"
-
-((This will be a role playing event hosted by the Suomi Troupe on 11/16 at 5pm PST))
+  <Content>About 9:30-9:45 p.m. an internet failure near Dark Ages game service disconnected players. The internet service provider returned to service. 
 </Content>
 </NewsArticle>

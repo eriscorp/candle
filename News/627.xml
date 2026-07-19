@@ -1,13 +1,19 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>5</Month>
-  <Day>12</Day>
-  <Year>2015</Year>
-  <Title>Chadul Rising - Help from the Gods</Title>
+  <Month>10</Month>
+  <Day>3</Day>
+  <Year>2003</Year>
+  <Title>Bug Fix Update</Title>
   <Type>1</Type>
-  <Content>In fears that Chadul cannot be kept at bay, the mundanes for each town have reconstructed each temple to strengthen the power of the Gods.  Architects have sought inspiration from both Temuair and Medenia in this renovation.
+  <Content>Some fixes have been made to some bugs.
 
-All aislings that follow a faith can attend mass more often and are encouraged to do so.
+1) Courtney the Loures Jester responds to "The Love Letter" not "The Letter".
 
-Reports have been seen that certain aislings being granted powerful items from the deity they follow and any of his or her allies.</Content>
+2) The wizard clue in yard 2 for the pentagram quest should now be fixed. The rogue clue in cr 7 has been replaced to a more obvious spot.
+
+3) The portals to House Macabre has been re-located to appropriate fit the maps.
+
+We are working to fix the purchase of bundled items.
+
+DA Team</Content>
 </NewsArticle>

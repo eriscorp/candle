@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>6</Month>
-  <Day>4</Day>
-  <Year>2015</Year>
-  <Title>New Items at the DA Store</Title>
+  <Month>5</Month>
+  <Day>7</Day>
+  <Year>2000</Year>
+  <Title>Dark Ages vote on CNET</Title>
   <Type>1</Type>
-  <Content>New items have been added to the Dark Ages online store. Click on the link below to view the lastest Dark Ages merchandise.
+  <Content>To support online roleplaying and adventure, please take a moment to vote for Dark Ages. With your added support, even more new features are possible.
 
-&lt;a target=_new href=http://www.nexon.net/2003/store_da.html&gt;"Dark Ages Online Store"&lt;/a&gt;
+[CNet Downloads](http://download.cnet.com/downloads/0-10035-100-1808271.html?tag=st.dl.10035_106_1.lst.td): Click 'Yes' then 'Submit.'
 </Content>
 </NewsArticle>

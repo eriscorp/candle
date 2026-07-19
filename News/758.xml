@@ -1,13 +1,9 @@
 <?xml version="1.0"?>
 <NewsArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Month>9</Month>
-  <Day>19</Day>
-  <Year>2015</Year>
-  <Title>Bonus Kruna</Title>
+  <Month>6</Month>
+  <Day>14</Day>
+  <Year>2006</Year>
+  <Title>Dark Ages 7.05 Patched</Title>
   <Type>1</Type>
-  <Content>&lt;b&gt;Bonus Kruna&lt;/b&gt;
-
-* From today through the end of the month of September all kruna purchased will have 20% bonus! Anyone who purchased kruna today will have the bonus applied to their account.
-
-* New Itemshop release next week.</Content>
+  <Content>The Dark Ages servers will be down at 3pm pst today for approximately 1 hour or less. During this time Dark Ages will be patched from 7.04 to 7.05. When the servers are up, players can use the auto-patcher by simply launching Dark Ages 7.04. If problems or errors occur, players can manually download the "7.04 tp 7.05" installer in the download section of the Dark Ages website. New players will need to download the entire client using the single installer(149MB) or the multiple installers(15MB each).</Content>
 </NewsArticle>
