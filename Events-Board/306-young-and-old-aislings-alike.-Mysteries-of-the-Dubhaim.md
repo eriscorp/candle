@@ -1,0 +1,50 @@
+# young and old aislings alike.)) Mysteries of the Dubhaim
+
+_Posted by Eduardo — 9th Moon, 7th Sun · Post #306_
+
+<pre style="background:#12100c; color:#e8e0cc; padding:1em; border-radius:6px; white-space:pre-wrap; font-family:monospace;">
+Mysteries of the Dubhaim 
+
+Since the breaking of the Seal of Temuair there have been strange occurrences 
+in the world of the Dubhaim. Loures scholar Lucius Gaius, an expert on the 
+dubhaim, writes:
+
+"With the breaking of the Seal of Temuair the creatures of Dubhaim appear to 
+have become more hostile and show increased devotion to their dark lord. The 
+fervor concerns me; it would appear the breaking of the seal has opened their 
+spirits to something that was cast out of Temuair. Something that is very old 
+and forgotten has again penetrated Temuair. What exactly this is remains a 
+mystery. If we do not find out what is causing this there is no telling what 
+actions they could take.
+
+-Lucius Gaius
+Scholar of Loures"
+
+Several important figures have been actively researching this but require 
+additional assistance due to the vastness of this mystery. Novus Imperia will 
+be coordinating efforts to get aislings groups to help solve this mystery. I 
+am told that three seems to be an important number from several sources that 
+must be utilized to solve this mystery. 
+
+The group that successfully solves the mystery shall have their legends show 
+record of this great deed. We will be coordinating and starting research of 
+the groups in several double moons. To solve this mystery will require 
+wisdom, strength, and courage. Good luck to all to who try.    
+
+-Lord Ramanayan Caesar
+Novus Imperia Guild Leader
+
+((Mysteries of Dubhaim will be held on Friday May 2nd at 5:45 PM PST starting 
+at the Dubhaim Castle courtyard. Aislings will form groups of 3, but all in 
+the groups must be within one of the following three insight ranges: 11-40, 
+41-71, and 71+. Each group -must- sign up with Ramanayan prior to the start 
+of the event. The groups will be required to find different locales across 
+Temuair, engage in puzzle solving, adventure, task completion and some combat 
+if needed. 
+
+The first group that successfully completes the entire mystery will be 
+rewarded with a unique legend mark. Unlike previous Novus Imperia events this 
+event is scripted and planned differently and should provide a challenge to 
+both young and old aislings alike.)) 
+
+</pre>

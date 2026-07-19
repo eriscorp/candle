@@ -1,0 +1,14 @@
+# Temuair Times Issue 2 Page 1
+
+_Posted by Eduardo — 9th Moon, 24th Sun · Post #317_
+
+<pre style="background:#12100c; color:#e8e0cc; padding:1em; border-radius:6px; white-space:pre-wrap; font-family:monospace;">
+***********Survey Says? , "Outlook not so good"*****************             
+     This latest review of Temuairian exchanges these past moons can leave one with only a feeling of dissolution and confusion, such as that of being a young student once again. Between recent depressions and illusions of better days the market is in general ruin.      
+     Prices have both skyrocketed back to normal for some and jettisoned far below normal for others. These daily battles of the exchange only add aggravation to the already dead goblin that we lovingly call the market. No one single event can be pinned to the current state, as Aislings, Medenia and the introduction of new treasures from Chaos have put a foot hold on the catastrophy.     
+     As for most Aislings, we drown in the fevered rants to take advantage of the still-crashed market by selling items from reasonable to exceedingly high profit and turning then to purchasing that final Grand Master item or those shiny new hy-brasyl boots for jaw dropping bargains.      One of the grandest ventures of our race yet, Medenia, lays claim to a piece of the tragedy as well. Since its discovery and settlement the items flowing into the arteries of Temuair are nothing less immaculate conception. Treasures such as Emerald Gauntlets and Reef Greaves take the place of many previous trades of Temuair. These creations of splendor give us not only better defense but power and less strain on our magical gifts as well. However, in one fell swoop, they took the place of any 3 sellable items of Temuair past.      
+     Lastly, our beloved lords and ladies of Chaos have certainly affected the market through no fault of their own. In our past, monopolists have sold singular rare items and then dropped their profits on others in order to collect the final pieces of their collections. In these latest Deochs, most of those blessed Aislings have already managed to horde the objects of their desire. Their part in this mess is merely choosing to trade only with other Chaos hunters for a fine set of black pearl rings or the latest in home defense decor, Cthonic Shields, a practice which has been keeping the big bucks "In the family," so to speak.     
+     For the most part, I must sadly say that I do not see a light at the end of the tunnel for Deoch 40. Possibly the only comforts may be in newly discovered artifacts in Medenia, or Chaos perhaps. However, I myself have manage to wade through this flood and achieve my needs; Now I'm just plain tired, and plan to vacation in Lynith. For you all my advice is this: toughen up or take a vacation.    
+
+Happy Hunting, Sir JaceKaos Tulane
+</pre>

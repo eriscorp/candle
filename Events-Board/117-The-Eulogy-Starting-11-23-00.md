@@ -1,0 +1,14 @@
+# The Eulogy ((Starting 11/23/00))
+
+_Posted by Mundane Gossip — 2nd Moon, 24th Sun · Post #117_
+
+<pre style="background:#12100c; color:#e8e0cc; padding:1em; border-radius:6px; white-space:pre-wrap; font-family:monospace;">
+Kalliope, survivor of The Sacrifice, writes of the ceremony: 
+The Sixteenth anniversary of Danaan's sacrifice is upon us. The woods near Undine are restless with fear. Rat-like eyes infiltrate the night. 
+Travelling bards tell me that it is the same near Pravat and Mehadi. The world is aflame for the worship of the sixteenth anniversary of Her sacrifice. The fervor concerns me. Each day the worshippers grow more hostile to those they consider unbelievers. 
+In Pravat the Grimlok worship Adranuch, their Lady of Gold. In Astrid the Kobolds worship Arpina, their All-Mother. In Mehadi the Mukul worship Matrika, their Goddess of the Sun-heart. 
+Perhaps a gentle Aisling may worship alongside at any of these, provided she does not slay one of their race and is devote, so has not worshipped at one of the other two sites. 
+Kalliope
+Bard of Undine 
+
+</pre>

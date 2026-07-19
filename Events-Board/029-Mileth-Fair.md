@@ -1,0 +1,37 @@
+# Mileth Fair
+
+_Posted by Mundane Gossip — 12th Moon, 8th Sun · Post #29_
+
+<pre style="background:#12100c; color:#e8e0cc; padding:1em; border-radius:6px; white-space:pre-wrap; font-family:monospace;">
+The Mileth Fair coordinators announce the 2nd Mileth Fair to be held in the Year of Cail ((April 28 - 30, 2000)). Mundanes have been working hard again to improve the fairgrounds and committee members have been working together to bring this fair to you for your enjoyment. 
+We have several events planned which include events from the previous Mileth Fair as well as new events. We need contestants for many of these events and in some cases, assistance is needed in hosting these events. A few of the events planned are as follows: 
+
+Mileth Fair King and Queen 
+Style show 
+Aisling Auction 
+Mr. &amp; Mrs. Temuair contest 
+Story telling, poetry reading, plays 
+Trivia contest 
+Scavenger hunt 
+Games, Throw contest, aisling spin, summoning battle and others 
+Shop at the Flea Market 
+Guild Presentations/Entertainment 
+
+
+Schedule
+The festival will be held during the planting season ((Fri., April 28, 3:00 PM pst, to Sun April 30th just before 10 PM pst.)) A reminder will be sent out closer to that time. The fair will be closed during the wee week ((from 10 PM to 6 AM pst)) unless several people wish to sign to host those times. It will also be closed whenever there is a lack of hosts for events. 
+Information and Involvement
+Any general festival questions can be directed to Hollie as well as the hosts of each event. Any additional event suggestions are appreciated and can be sent to either Hollie or the appropriate contact. You also may join the Mileth Fair discussion group to offer help and make any suggestions. The discussion group is open to the public (( http://www.egroups.com/group/mileth-fair/ )). For more information on the Mileth Fair and scheduled events, please visit our house (( http://www.crosswinds.net/~milethfair )). 
+
+Mileth Official Seals
+The stages and booths require an aisling to purchase a seal in order to host an event or booth. It is the duty of the Mileth officials to issue these seals, if you would like to have more information on this and possibly a demonstration--if it can be arranged--prior to the fair, please contact Hollie or Manipulator. 
+
+Guild Leaders
+If you wish to have your guild honored during a day of the fair and have not yet requested a day, please do so. Also, several of the guilds have planned entertainment during their day, please update your plans and speak with Hollie about scheduling stage time convenient for your guild members. 
+
+We hope you all enjoy your time at the Fair! 
+
+-Mileth Fair Committee 
+
+
+</pre>

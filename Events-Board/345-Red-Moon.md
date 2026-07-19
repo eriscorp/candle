@@ -1,0 +1,7 @@
+# Red Moon
+
+_Posted by Eduardo — 8th Moon, 23rd Sun · Post #345_
+
+<pre style="background:#12100c; color:#e8e0cc; padding:1em; border-radius:6px; white-space:pre-wrap; font-family:monospace;">
+The Red Moon has come to haunt the lands of Temuair. Many Deochs ago, a demon sorcerer was vanquished from Temuair. Before his defeat, the sorcerer placed a curse on the lands, the curse of the Red Moon. The Mundanes were worried at first, but after many Deochs, a red moon never appeared. It was assumed that there was no curse and no one ever spoke of it again. But today, a full red moon hovers the sky above Temuair. Legend has it, those who stare at the moon will succumb to its power.
+</pre>

@@ -1,0 +1,51 @@
+# Mileth Fair: Opening
+
+_Posted by Mundane Gossip — 2nd Moon, 15th Sun · Post #1_
+
+<pre style="background:#12100c; color:#e8e0cc; padding:1em; border-radius:6px; white-space:pre-wrap; font-family:monospace;">
+Mileth Fair: Opening
+The day is finally upon us.  Both aisling and mundane have worked hard to
+bring this to ye and we are pleased to announce a first in this land.  The
+First Mileth Festival will commence.  This is really to test it at first,
+but if all goes well, the mundanes have promised to continue to upkeep it.
+So please help all ye can.  Whether it be volunteering to host an event or
+simply participating in those events we have offered, we hope this hard work
+pays off.
+An general event schedule will be listed outside of the Mileth office.
+Schedules for the wares or booths for events will be posted in the Events
+square entrance.  Theatre events will be posted outside the theatre
+building.  When ye are scheduled to work, please find a Mileth demagogue or
+burgess who can give ye a seal for a special booth that allows only that
+person access.  If any times are listed as "Open" and ye wish to volunteer
+an event, simply notify an official and meet in the Fair Office; they will
+filled ye for that time.  Minimum time for the seal is 8 temuairan hours ((1
+real life hour)) but ye may work as long as ye wish provided ye can pay for
+the booth rentals.  The cost is not that hindering and ye can add your own
+personal flair to make this festival great.
+On-going events availible (if number of volunteers allow)
+Gaming
+Craft demonstrations and discussions
+Tours
+Sumo Tournaments
+Creature vs. Creature arena
+Race Tournaments
+Kissing booths
+Bazaar/specialty wares selling
+Fortunetelling
+Storytelling
+Other events
+
+Special "one-time only" event times: ((Times are all OOC))
+Event Title         Type    Place       Time                 Host/Director
+"Dark Tides"        Play    Theatre     Sat, 1/8 7-? PM PST  Dartanian
+Skills and Auction  Auction Events      Sat, 1/8 3-5 PM PST  Sarc
+Fashion Show        Event   Theatre     Sat, 1/8 4-6 PM PST  Jesie
+((Festival opens at 1/7/2000 at 5:00 PM PST and runs until 1/9/2000 at 10:00
+PM PST as long as people are there to volunteer for it.  It will be closed
+midnight to 8 AM PST unless people are availible to volunteer to work events
+at those times, as well as any time there is a lack of workers.))
+
+-Dartanian Lestor, Diamanda, Pasha, Quidlan Stedwinn, Rhiamon, Sarc Meatha,
+and Xilan Horidre
+Mileth Festival Coordinators
+</pre>
