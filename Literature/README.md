@@ -52,7 +52,7 @@ with us._
 | Collins            | [Moonlight over Temuair (or A Walk Home at Night)](Collins-Moonlight-over-Temuair.md)                                            |
 | Contra             | [Dear Glioca](Contra-Dear-Glioca.md)                                                                                             |
 | Creek              | [The Mighty Battle](Creek-The-Mighty-Battle.md)                                                                                  |
-| Cynix              | ![This work has been lost](../images/questionmark.png) [Lost Temuairan Love](Cynix-Lost-Temuairan-Love.md)                                                                              |
+| Cynix              | [Lost Temuairan Love](Cynix-Lost-Temuairan-Love.md)                                                                                                                                     |
 | Dantine            | ![This work has been lost](../images/questionmark.png) [A Mythic Quest](Dantine-A-Mythic-Quest.md)                                                                                      |
 | Daravon            | [Blades of Misery](Daravon-Blades-of-Misery.md)                                                                                  |
 | Daravon            | [Memories of Midnight](Daravon-Midnight.md)                                                                                      |
@@ -70,7 +70,7 @@ with us._
 | Elfette            | [Speaking with a Goddess](Elfette-Speaking-with-a-Goddess.md)                                                                    |
 | Eliya              | [The Sounds of Demise](Eliya-The-Sounds-of-Demise.md)                                                                            |
 | Elmo               | [The Frog at the Swamp](Elmo-The-Frog-at-the-Swamp.md)                                                                           |
-| Engelyn            | ![This work has been lost](../images/questionmark.png) [Engelyn S'phire mcGregoure](Engelyn-Engelyn-S-phire-mcGregoure.md)                                                              |
+| Engelyn            | [Engelyn S'phire mcGregoure](Engelyn-Engelyn-S-phire-mcGregoure.md)                                                                                                                     |
 | Etienne            | ![Treasure of Temuair](../images/octagram.png) [Dream Debris](Etienne-Dream-Debris.md)                                                                                          |
 | Etienne            | [Elise](Etienne-Elise.md)                                                                                                        |
 | Etienne            | [Fireflies](Etienne-Fireflies.md)                                                                                                |
@@ -83,7 +83,7 @@ with us._
 | Finn               | [The Faces of Dubhaim Castle](Finn-The-Faces-of-Dubhaim-Castle.md)                                                               |
 | Flyss              | [Among the Faeries](Flyss-Among-the-Faeries.md)                                                                                  |
 | Fyie               | [A Maiden's Tale](Fyie-A-Maidens-Tale.md)                                                                                        |
-| Galena             | ![This work has been lost](../images/questionmark.png) [Godly Impressions](Galena-Godly-Impressions.md)                                                                                 |
+| Galena             | [Godly Impressions](Galena-Godly-Impressions.md)                                                                                                                                        |
 | Gilly              | [The Mummy](Gilly-The-Mummy.md)                                                                                                  |
 | Gradd              | [I, Aisling](Gradd-I-Aisling.md)                                                                                                 |
 | Greiz              | [Places in Temuair](Greiz-Places-in-Temuair.md)                                                                                  |
@@ -114,7 +114,7 @@ with us._
 | Kylan              | [For the Children of Suomi](Kylan-For-the-Children-of-Suomi.md)                                                                  |
 | LadyKyra           | [A Temuairian Warrior Standing Tall and Proud](LadyKyra-A-Temuairian-Warrior-Standing-Tall-and-Proud.md)                         |
 | Laila              | ![Treasure of Temuair](../images/octagram.png) [Innocence of Undine](Laila-Innocence-of-Undine.md)                                                                              |
-| Lethalia           | ![This work has been lost](../images/questionmark.png) [The Path I Walk](Lethalia-The-Path-I-Walk.md)                                                                                   |
+| Lethalia           | [The Path I Walk](Lethalia-The-Path-I-Walk.md)                                                                                                                                          |
 | Levinia            | [A Man Of Reason](Levinia-A-Man-Of-Reason.md)                                                                                    |
 | Lobokia            | ![Treasure of Temuair](../images/octagram.png) [Mighty Gramail](Lobokia-Mighty-Gramail.md)                                                                                      |
 | Logoth             | [Dreamer](Logoth-Dreamer.md)                                                                                                     |
@@ -155,7 +155,7 @@ with us._
 | Rhaxephon          | ![This work has been lost](../images/questionmark.png) [The Mask](Rhaxephon-The-Mask.md)                                                                                                |
 | Rhianna            | ![Treasure of Temuair](../images/octagram.png) [The Eulogy](Rhianna-The-Eulogy.md)                                                                                              |
 | Rookerin           | [To See With Eyes Unclouded](Rookerin-To-See-With-Eyes-Unclouded.md)                                                             |
-| Rose               | ![This work has been lost](../images/questionmark.png) [Ceannlaidir's Treaty](Rose-Ceannlaidir-s-Treaty.md)                                                                             |
+| Rose               | [Ceannlaidir's Treaty](Rose-Ceannlaidir-s-Treaty.md)                                                                                                                                    |
 | Rykoffe            | [Where is the Compassion?](Rykoffe-Where-is-the-Compassion.md)                                                                   |
 | Seara              | [Dark Seduction](Seara-Dark-Seduction.md)                                                                                        |
 | Silverfox          | [Two Minds, One Love](Silverfox-Two-Minds-One-Love.md)                                                                           |
