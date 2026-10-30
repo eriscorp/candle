@@ -1259,4 +1259,5 @@ hy-brasyl ornaments, dyed with spirulina.
 
 This entry has been heavily edited to conform to Library formatting. The
 original can be found at
-http://www.darkages.com/community/lore/Raeven_Color/toc.html . ```
+http://www.darkages.com/community/lore/Raeven_Color/toc.html .
+```

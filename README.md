@@ -100,6 +100,4 @@ a URL where it used to live is often enough to find it in the Wayback Machine.
 
 ## To-Do
 
-* Correct kru idiocy re: news dates; anything labeled 2015 is most likely not
-* Import Dark Ages 2000! News posts
 * Find more lost things
