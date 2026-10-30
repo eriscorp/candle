@@ -1,6 +1,6 @@
 # Guide to Feline Menagerie
 
-_by Cittikat in_ ___Dark Ages___
+_by Cittikat in **Dark Ages**_
 
 ![](images/cittikat_feline_1.png)
 

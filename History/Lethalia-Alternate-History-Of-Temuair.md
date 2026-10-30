@@ -1,6 +1,6 @@
 # Alternate History of Temuair
 
-_By Lethalia, Priestess of Deoch, in_ ___Dark Ages___
+_by Lethalia in **Dark Ages**_
 
 ## Preface 
 
@@ -171,6 +171,8 @@ In late fall of Deoch, 7, Natesh awakens. Because of the harvest of Tulsi flower
 Very late fall, near winter of Deoch, 7, Jacqueline sent out a message to all of Temuair. She thanked all for their help in gathering the Tulsi flower that saved her life and said that the flower would continue to be used to help others. She offered a reward for all that helped. She, however, has gone off to help others in need. During her illness, she realized that it is her destiny to help others and not stay within the noble walls of the Castle of Loures.
 
 As for now, thank Deoch there are no new events happening. It is spring, Deoch, 8, 1st moon, 27th sun, 5 am. As me mind begins to catch up with me guided hand, and the visions begin to cloud me maddened mind, I must depart...
+
+_Lethalia, Priestess of Deoch_  
 
 ***
 

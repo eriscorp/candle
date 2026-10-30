@@ -1,6 +1,6 @@
 # The Journals of Tenes
 
-_By NitroTFD in_ ___Dark Ages___
+_by NitroTFD in **Dark Ages**_
 
 The following is the chronicle of Tenes, the man responsible for the Anaman Pact and the League of Darkness. I discovered his journal while walking through Loures. I walked into the bedroom and was pulled into some sort of maze by a dark force. I ran as quickly as my legs could carry me to find an exit, but I ran directly into a Dubhaimid. It grabbed me and threw me speeding into the wall. I believed that I was going to hit it with a thud and end my life there, but I smashed right through the decayed wall and ended up in a small corridor that lead to other corridors, much like a catacomb of some sorts. I ran through corridor after corridor, as fast as my legs could carry me. I stumbled on what I believed was a rock. 
 
@@ -71,7 +71,7 @@ Our allies have split apart and we are in trouble. Suomi and I are in an argumen
 
 ## Danaan 2921; 3rd moon; 9th sun: 
 
-This is to be our last battle. Treacherous Suomi has joined Ainmeal and his 3 allies. Massai and Glaic have been assassinated and I am left alone with a small army to defend myself. This will not stop me. I will reach from death itself before I let him destroy the memory of Hybrasyl. I can hear them at my very door at this moment. From this moment on I curse Danaan, Loures and Suomi. Danaan shall die in a few hundred years from now. So, I have seen it, so it shall come to pass. Loures and Suomi will never again find peace within each other’s embrace. This war will once again be relived soon after my death, but the Dubhaimid shall replace my army to battle Danaan.
+This is to be our last battle. Treacherous Suomi has joined Ainmeal and his 3 allies. Massai and Glaic have been assassinated and I am left alone with a small army to defend myself. This will not stop me. I will reach from death itself before I let him destroy the memory of Hybrasyl. I can hear them at my very door at this moment. From this moment on I curse Danaan, Loures and Suomi. Danaan shall die in a few hundred years from now. So, I have seen it, so it shall come to pass. Loures and Suomi will never again find peace within each other's embrace. This war will once again be relived soon after my death, but the Dubhaimid shall replace my army to battle Danaan.
 Finally... I shall return. I draw my sword for they will enter my room shortly...
 
 >The rest of it is smudged and blood stained. I believe this is the lost journals of Tenes and I may soon put it in the Loures Library. His predictions did come true. Danaan sacrificed herself in Danaan 3292. Suomi now rejects Loures and will not allow their ways. The Shadows War was fought and it was Danaan against the Dubhaimid. His return to this realm has yet to be seen. If he does return, he will seek vengeance upon us, and so I pray that he does not.

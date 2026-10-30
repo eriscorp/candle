@@ -1,5 +1,7 @@
 # The Temple Circles
 
+_by Virgil in **Dark Ages**_
+
 > _The thin nub of the quill scrapes along the fine grain of the thick
 > parchment arrayed before a tall man in priestly robes, the golden length of
 > his hair falling to his lower back even with his head bowed over the table in

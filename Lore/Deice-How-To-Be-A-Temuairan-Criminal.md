@@ -1,8 +1,8 @@
 # How to be a Temuairan Criminal
 
-_by Deice in_ ___Dark Ages___
+_by Deice in **Dark Ages**_
 
-# Foreword
+## Foreword
 
 This is a light-hearted look at the dilemmas of criminality, from the perspective of a would-be career criminal. The intention of writing such a lore, apart from entertainment, is to give the Aisling official some insight into common criminal thought processes. Knowing the way criminals can think is useful in many different circumstances that the average official may find themselves in.
 

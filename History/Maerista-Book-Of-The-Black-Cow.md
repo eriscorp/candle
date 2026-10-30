@@ -1,6 +1,6 @@
 # The Book of the Black Cow: Aosdan Mythology of the 2nd Aeon
 
-_by Maerista in_ ___Dark Ages___
+_by Maerista in **Dark Ages**_
 
 ## Introduction
 

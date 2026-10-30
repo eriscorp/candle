@@ -1,6 +1,6 @@
 # Temuair Subpath Guides
 
-_by Gabrel in_ ___Dark Ages___
+_by Gabrel in **Dark Ages**_
 
 ## An Introduction to Subpathing
 

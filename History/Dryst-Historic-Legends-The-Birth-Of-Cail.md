@@ -1,6 +1,6 @@
 # Historic Legends: The Birth of Cail
 
-_by Dryst in_ ___Dark Ages___
+_by Dryst in **Dark Ages**_
 
 Ceannlaidir had long been scorned by Glioca, and he returned the scorn with ravenous wars across her precious lands. Destroying the lives which she held dear to protecting. However, deep down Ceannlaidir knew that the art of war could not fully prevail across the land with Glioca's protection over it. Ceannlaidir brooded for countless nights like an ever vulture over his prey, awaiting the moment of death. But Glioca was a God just like he. He knew she could not cease to exist, so the wheels of deceit turned in his head. 
 

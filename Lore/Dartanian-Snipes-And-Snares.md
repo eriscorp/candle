@@ -1,6 +1,6 @@
 # Snipes and Snares
 
-_by Dartanian in_ ___Dark Ages___
+_by Dartanian in **Dark Ages**_
 
 As ye may have guessed, this manual as well as the manuals to come are intended to be read by rogues and rogue hopefuls only.  Those of other paths may try to read the contents within, however it will assist them not.  A rogue that knows his skills well may better employ them to dispatch of dark creatures within.  The word "vulpio" is in an older tongue, meaning "one cunning as a fox" (That is if I looked it up correctly.  I've never been one for these old volumes).  So, a fitting name for a series of books for a rogue by a rogue.  This first volume, "Snipes and Snares" is intended to describe the different traps, how to best employ them to dispatch your foe, and, most importantly, how to well conceal them.
 
@@ -67,6 +67,8 @@ These traps are practical for ground-based foes, but flying creatures are a bit 
 Another drawback to this method is that at night, your traps basically become useless if they're all enchanted.  Use this method sparingly if ye plan on hunting at night.  Another drawback is that this trap becomes useless underground.  The athar method is getting the trap enchanted so that it detects a disturbance in the air around it.  If there is a disturbance, the trap triggers.  This is good because ye can use it to hunt at night as well as the fact that it needs less adjusting than the light method.  However, a strong gust of wind can also ruin your strategy.  These are best for use indoors where there is no wind.
 
 I hope that this volume is useful for rogues who wish to increase their knowledge of the traps that they may acquire.  Always keep enough materials on hand to make more in case ye run out of them.  Knowledge of your traps is vital to the odds of your survival.  Know your limitations, strengths and weaknesses.  I shall continue working on the next volumes of me manual to describe more of the rogue craft in detail.
+
+***
 
 ```
 *Librarian Notes*

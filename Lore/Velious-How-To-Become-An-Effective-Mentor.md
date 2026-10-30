@@ -1,6 +1,6 @@
 # How to Become an Effective Mentor 
 
-_by Velious in_ ___Dark Ages___
+_by Velious in **Dark Ages**_
 
 ## Prelude - MY Experience...
 
@@ -42,7 +42,7 @@ Great! Ye've got yourself a student! Now, what to do with the young Aisling unde
 
 ## Part III - Giving Lessons
 
-The first time ye mentor your student, ye will be told that ye must wait a double-moon until ye can pour your knowledge into your student’s mind. Don't worry about this, as the experience to do so is well worth the wait. `Great rewards go to the Aislings that be patient. ` Patients is a virtue, and will serve ye well in giving help to your student. Here are some things to remember...
+The first time ye mentor your student, ye will be told that ye must wait a double-moon until ye can pour your knowledge into your student's mind. Don't worry about this, as the experience to do so is well worth the wait. `Great rewards go to the Aislings that be patient. ` Patients is a virtue, and will serve ye well in giving help to your student. Here are some things to remember...
 
 1. As before, stay patient. Your student will ask allot of questions.   
 2. Do your best to answer his/her questions. If ye can't, don't be ashamed to ask for help yourself. Helping one another is what being an Aisling is all about, so your student might just see ye as an even bigger hero in their eyes.  

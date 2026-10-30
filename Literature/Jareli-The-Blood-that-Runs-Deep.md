@@ -280,3 +280,11 @@ She looked over at her sister. Akeiba smiled. She smiled back.
 
 Yes, it was the beginning.
 
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

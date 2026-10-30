@@ -1,6 +1,6 @@
 # Iksander Deathstalker
 
-_by Wintereagle of **Dark Ages**_
+_by Wintereagle in **Dark Ages**_
 
 Through dark like night,  
 stalked the stalker of death.  

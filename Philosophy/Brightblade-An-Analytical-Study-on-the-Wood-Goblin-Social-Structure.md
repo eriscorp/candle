@@ -1,6 +1,6 @@
 # An Analytical Study on the Wood Goblin Social Structure
 
-_By Brightblade in **Dark Ages**_  
+_by Brightblade in **Dark Ages**_
 
 Many of you may have seen them. Theyre ugly, stinky, mottled green skin
 creatures called the wood goblin or goblin for short. Some love them, some hate

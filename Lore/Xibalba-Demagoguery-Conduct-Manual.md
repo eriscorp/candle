@@ -1,6 +1,6 @@
 # Demagoguery Conduct Manual
 
-_by Xibalba of_ ___Dark Ages___
+_by Xibalba in **Dark Ages**_
 
 The purpose if this manual is to give existing and aspiring demagogues a view into their duties and how they should act in accordance to their station. This document is incorporated into Mileth law for informational purposes, and is not in itself a law. As such, violations of these rules are not necessarily violations of law. Burgesses are members of the demagoguery, and as such all references to the duties of demagogues will also include the burgesses.  
 
@@ -117,7 +117,7 @@ state any extenuating circumstances that do not fall into another section of the
 Documentation - 
 
 Signatures will be listed followed by the author of the law, and any assistants or editors in conjunction 
-with the writer’s work. It also will list the date the document was passed into law. 
+with the writer's work. It also will list the date the document was passed into law. 
 
 ---------------   
 (Example) Heresy 
@@ -147,7 +147,7 @@ Written by: Drake Duvon 5th moon, 23rd sun, Deoch 18
 
 Demagoguery Misconduct
 
-As a member of the demagoguery it is your obligation to be a role model citizen and perform all your duties in a proficient manner. Failure to maintain your bearings or perform your stated duties will be taken into consideration by the other members of the demagoguery and in accordance with the Mileth Official's Code of Conduct. Upon determination of misconduct a member of the demagoguery will be put on probation from a demagogue’s duties until such time as their term of office has expired. Further misconduct under probation will be cause for removal and possible barring from office. Criminal misconduct, (the actual infraction of a stated law) is not acceptable as an official of Mileth. If convicted of a crime, an official will be removed from office in addition to Punishments carried out as determined by Mileth Law. In certain circumstances, determined by the current demagoguery and the crime, the official may be barred from taking office as well.
+As a member of the demagoguery it is your obligation to be a role model citizen and perform all your duties in a proficient manner. Failure to maintain your bearings or perform your stated duties will be taken into consideration by the other members of the demagoguery and in accordance with the Mileth Official's Code of Conduct. Upon determination of misconduct a member of the demagoguery will be put on probation from a demagogue's duties until such time as their term of office has expired. Further misconduct under probation will be cause for removal and possible barring from office. Criminal misconduct, (the actual infraction of a stated law) is not acceptable as an official of Mileth. If convicted of a crime, an official will be removed from office in addition to Punishments carried out as determined by Mileth Law. In certain circumstances, determined by the current demagoguery and the crime, the official may be barred from taking office as well.
 
 ***
 

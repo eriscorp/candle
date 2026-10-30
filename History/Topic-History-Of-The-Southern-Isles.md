@@ -1,5 +1,7 @@
 # A History of the Oren and Nobis Islands and Their Connection to the World Abroad
 
+_by Topic in **Dark Ages**_
+
 ## Foreword
 
 During the preparation of this paper, I found that it was necessary to break apart major themes concerning the development of history in Oren and Nobis. I purposefully wrote in this manner rather than throwing the entire history onto a single timeline and having the reader guess which events were important in terms of cause and effect for each of the two major themes. Because of this segmented nature of my approach, you may find that most of the subsections in the following history will either resume a previous chronology or jump fairly far backwards in time in order to express the start of a fresh and specific time line so that it may begin at the earliest point of note for that particular concept. Do not fret, I have included approximate dates in an attempt to keep the history as clear as possible. I believe that it becomes a less confusing read this way. To reiterate, the temporal juggling was intended by design and not happened upon by sloppiness.
@@ -168,7 +170,7 @@ Naturally, it was not long before the horrible news made it back to Oren. The ki
 
 Since these sad events, the mundanes that live on the islands of Oren and Nobis attempt to keep a sense of normalcy despite the constant threat of pirate attacks and twisted beasts coming down from the ruined temple. Though Oren commanded a strong sense of culture, beautiful architecture, and an abundance of wealth not long ago, many of its homes and shops lay in ruins or simply abandoned. Perhaps it is the will of Gramail that these mundanes continue to follow the path of their ancestors when they abandoned the plains of Ardmagh so long ago, moving on to other lands in the hopes of finding peace and simplicity during desperate times.
 
-# Citation
+## Citation
 
 Mundane testimony from|citizens of Oren and Nobis:
 -----------------------|---------------------------

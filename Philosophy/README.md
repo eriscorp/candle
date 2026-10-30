@@ -4,7 +4,7 @@ Here are some of the greatest philosophical works in Temuair - theology, magic
 theory, racial sociology, inter-village economics, music theory, psychology and
 more are treated here.
 
-Most of these works have been edited to conform to the Library’s display
+Most of these works have been edited to conform to the Library's display
 formats. Where possible, a link to the original work has been included.
 
 _Works with a octagram ![octagram](../images/octagram.png) displayed next to
@@ -37,7 +37,7 @@ you have these works, by all means, get in touch with us._
 | Callesto           | [Solar Eclipses](Callesto-Solar-Eclipse.md)                                                                                      |
 | Callinthos         | ![This work has been lost](../images/questionmark.png) [The Philosophy of Common Decency, Politeness, and Respect](Callinthos-The-Philosophy-of-Common-Decency-Politeness-and-Respect.md) |
 | Cazbrileth         | [On the Elemental Nature of Politics](Cazbrileth-On-the-Elemental-Nature-of-Politics.md)                                         |
-| Cedrik             | ![This work has been lost](../images/questionmark.png) [Beag Nadurra](Cedrik-Beag-Nadurra.md)                                                                                           |
+| Cedrick            | ![This work has been lost](../images/questionmark.png) [Beag Nadurra](Cedrick-Beag-Nadurra.md)                                                                                          |
 | Chaltier           | [Analysis of the Darkness, Light, and Soul](Chaltier-Analysis-of-the-Darkness-Light-and-Soul.md)                                 |
 | Chloe              | ![Treasure of Temuair](../images/octagram.png) [Reflections on Interactions between the Gods](Chloe-Reflections-on-the-Interactions-Between-the-Gods.md)                        |
 | Chult              | [Philosophical Treatise on the Celtic Goddess Pantheon](Chult-Philosophical-Treatise-on-the-Celtic-Goddess-Pantheon.md)          |
@@ -53,17 +53,19 @@ you have these works, by all means, get in touch with us._
 | Dartanian          | [Exploits of the Deep](Dartanian-Exploits-of-the-Deep.md)                                                                        |
 | Dartanian          | ![This work has been lost](../images/questionmark.png) [Fallen Gods](Dartanian-Fallen-Gods.md)                                                                                          |
 | Dartanian          | [The Holy Star](Dartanian-The-Holy-Star.md)                                                                                      |
+| Dasar              | ![This work has been lost](../images/questionmark.png) [Where Darkness Lives](Dasar-Where-Darkness-Lives.md)                                                                            |
 | Deksar             | [The Society of the Dubhaimid: The final notes of Teirsaes](Deksar-Society-of-the-Dubhaimid.md)                                  |
 | Deksar             | [The Force of Magick: A Dreamer's Will](Deksar-The-Force-Of-Magick.md)                                                           |
+| Dionia             | [Semitas Arcana Temuair - The Paths of the Secrets of Temuair](Dionia-Semitas-Arcana-Temuair.md)                                 |
 | DkPheonix          | ![This work has been lost](../images/questionmark.png) [Aisling's Mind and Body](DkPheonix-Aislings-Mind-and-Body.md)                                                                   |
 | Dominique          | [Dance With Me!](Dominique-Dance-With-Me.md)                                                                                     |
 | DoomHealer         | [The Philosophy of Power](DoomHealer-The-Philosophy-of-Power.md)                                                                 |
 | Dryst              | [Schisms of Temuairan Religion](Dryst-Schisms-of-Temuairan-Religion.md)                                                          |
 | Enclave            | [The Aisling Belief of Evil](Enclave-The-Aisling-Belief-of-Evil.md)                                                              |
-| Etienne            | ![Treasure of Temuair](../images/octagram.png) [De Obscurité et Lumière](Etienne-De-Obscurite-et-Lumiere.md)                                                                  |
+| Etienne            | ![Treasure of Temuair](../images/octagram.png) [De Obscurité et Lumière](Etienne-De-Obscurite-et-Lumiere.md)                                                                    |
 | Etienne            | ![Treasure of Temuair](../images/octagram.png) [Economia](Etienne-Economia.md)                                                                                                  |
 | Etienne            | [Humans](Etienne-Humans.md)                                                                                                      |
-| Etienne            | [Pénombre](Etienne-Penombre.md)                                                                                                 |
+| Etienne            | [Pénombre](Etienne-Penombre.md)                                                                                                  |
 | Etna               | [Ridireacht (Chivalry)](Etna-Ridireacht.md)                                                                                      |
 | FalconZero         | [Theory of Hidden Power](FalconZero-Theory-of-Hidden-Power.md)                                                                   |
 | Fascinum           | [Journey Through the Circles](Fascinum-Journey-Through-the-Circles.md)                                                           |
@@ -80,14 +82,14 @@ you have these works, by all means, get in touch with us._
 | Jabedin            | ![This work has been lost](../images/questionmark.png) [The Philosophy About Our Philosophy](Jabedin-The-Philosophy-About-Our-Philosophy.md)                                            |
 | Jakkal             | [Revelation of the Goblin and Kobold Gateway to the East](Jakkal-Gateway-to-the-East.md)                                         |
 | Kailieann          | [Lagorah Dubhaimid](Kailieann-Lagorah-Dubhaimid.md)                                                                              |
-| Kandolo            | [The Theory of Temuarian Music and its relation to Elemental Magic](Kandolo-Theory-of-Temuairan-Music.md)                        |
+| Kandolo            | [The Theory of Temuairan Music and its relation to Elemental Magic](Kandolo-Theory-of-Temuairan-Music.md)                        |
 | Kasmanan           | [The Beauty of The Spark](Kasmanan-The-Beauty-of-the-Spark.md)                                                                   |
 | Katrionah          | [Darkness and the Dubhaimid](Katrionah-Darkness-and-the-Dubhaimid.md)                                                            |
 | Katrionah          | [Timeless](Katrionah-Timeless.md)                                                                                                |
 | Kedian             | [Aosdic Mystic Theory](Kedian-Aosdic-Mystic-Theory.md)                                                                           |
 | Kedian             | [Wizards and their Magick](Kedian-Wizards-and-Magick.md)                                                                         |
 | Khay               | [The Tenets of Oran](Khay-Tenets-of-Oran.md)                                                                                     |
-| Klaisya            | ![This work has been lost](../images/questionmark.png) [The Philosophy of Punishment](Klaisya-The-Philosophy-of-Punishment.md)                                                          |
+| Klaisya            | [The Philosophy of Punishment](Klaisya-The-Philosophy-of-Punishment.md)                                                          |
 | Klaudaryn          | [The Coming Dawn - Signs and Portents of a New Age?](Klaudaryn-The-Coming-Dawn.md)                                               |
 | Korda              | [A Utopian Society](Korda-A-Utopian-Society.md)                                                                                  |
 | LatentAura         | [Psychology of the Classes](LatentAura-Psychology-of-the-Classes.md)                                                             |
@@ -108,8 +110,8 @@ you have these works, by all means, get in touch with us._
 | NitroTFD           | [Gods de Temuair](NitroTFD-Gods-de-Temuair.md)                                                                                   |
 | Paladine           | [The Conix Stone & Faith](Paladine-The-Conix-Stone-and-Faith.md)                                                                 |
 | Perihelion         | [On the Nature of Heresy](Perihelion-On-the-Nature-of-Heresy.md)                                                                 |
-| Phalos             | [Introduction](Phalos-Revelations-of-Druidic-Prophecies.md)                                                                      |
-| Platina            | ![This work has been lost](../images/questionmark.png) [On an Aisling’s Hair Color](Platina-On-an-Aislings-Hair-Color.md)                                                             |
+| Phalos             | [Revelations of Druidic Prophecies](Phalos-Revelations-of-Druidic-Prophecies.md)                                                 |
+| Platina            | ![This work has been lost](../images/questionmark.png) [On an Aisling's Hair Color](Platina-On-an-Aislings-Hair-Color.md)                                                               |
 | Pyotr              | [De Iuris (of law)](Pyotr-Of-Law.md)                                                                                             |
 | Raen               | [The Spark, Innocence and Manners](Raen-The-Spark-Innocence-and-Manners.md)                                                      |
 | Ramanayan          | [Grimlok & Goblin Society, Social Structures, and Lore](Ramanayan-Grimlok-And-Goblin-Society.md)                                 |
@@ -117,18 +119,20 @@ you have these works, by all means, get in touch with us._
 | Rasputen           | [Depths of Society](Rasputen-Depths-of-Society.md)                                                                               |
 | Relg               | [Arena Behavior](Relg-Arena-Behavior.md)                                                                                         |
 | Reynnard           | [Fiosachd and His Place in the World](Reynnard-Fiosachd-and-His-Place-in-the-World.md)                                           |
-| Saki               | ![This work has been lost](../images/questionmark.png) [Way of the Sea](Saki-Way-of-the-Sea.md)                                                                                         |
+| Sabrael            | [Concordantia Divinitatis](Sabrael-Concordantia-Divinitatis.md)                                                                  |
+| Saki               | [Way of the Sea](Saki-Way-of-the-Sea.md)                                                                                         |
 | Samael             | ![This work has been lost](../images/questionmark.png) [A Fauceted Euthyphro Dilemma](Samael-A-Fauceted-Euthyphro-Dilemma.md)                                                           |
 | Shanira            | ![This work has been lost](../images/questionmark.png) [Treatise on the Faiths](Shanira-Treatise-on-the-Faiths.md)                                                                      |
 | Skar               | [In Depth with the Cthonic Disciple](Skar-In-Depth-with-the-Cthonic-Disciple.md)                                                 |
 | Slothien           | [The Sgreataidh Helm](Slothien-The-Sgreataidh-Helm.md)                                                                           |
 | Solanalein         | [Ceannlaidir's Truest Nature](Solanalein-Ceannlaidirs-Truest-Nature.md)                                                          |
-| Somae              | [Peace of Mind , A study of Aisling nature in faith](Somae-Peace-of-Mind.md)                                                     |
+| Somae              | [Peace of Mind](Somae-Peace-of-Mind.md)                                                                                          |
 | Sophocles          | [An Essay Concerning the Principles of the Beag Magical Arts](Sophocles-An-Essay-Concerning-the-Principles-of-the-Beag-Magical-Arts.md) |
 | Sophocles          | [Thoughts on Temuairan Existence: Planar Theory](Sophocles-Thoughts-on-Temuairan-Existence.md)                                   |
 | Stella             | [Marble Figures](Stella-Marble-Figures.md)                                                                                       |
+| Suspected          | [Temuair Astronomy](Suspected-Astronomy.md)                                                                                      |
 | Synnovea           | [The Malformed Spark Manifesto](Synnovea-The-Malformed-Spark-Manifesto.md)                                                       |
-| Therisa            | ![This work has been lost](../images/questionmark.png) [The Aisling Family](Therisa-The-Aisling-Family.md)                                                                              |
+| Therisa            | [The Aisling Family](Therisa-The-Aisling-Family.md)                                                                              |
 | Thissus            | [Prospects of Darkness](Thissus-Prospects-of-Darkness.md)                                                                        |
 | Thubub             | [The Ties That Bind](Thubub-The-Ties-that-Bind.md)                                                                               |
 | Topic              | [A Treatise on Leadership](Topic-A-Treatise-on-Leadership.md)                                                                    |

@@ -1,6 +1,6 @@
 # Temuairan Warfare
 
-_By Daravon Ragnar in **Dark Ages**_
+_by Daravon in **Dark Ages**_
 
 ## Introduction
 

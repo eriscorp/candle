@@ -1,6 +1,6 @@
 # The Last Warrior
 
-_By Kullan in **Dark Ages**_
+_by Kullan in **Dark Ages**_
 
 `((NOTE: I have used a mixture of different Gaelic languages as some did not
 have the needed words.))`

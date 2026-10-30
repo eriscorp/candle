@@ -1,6 +1,6 @@
 # Dracontas Ynsagh: Draco Lore
 
-_By Vlak in_ ___Dark Ages___
+_by Vlak in **Dark Ages**_
 
 ![A draco](images/vlak_draco_1.png)
 

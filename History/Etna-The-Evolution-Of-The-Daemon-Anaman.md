@@ -1,6 +1,6 @@
 # The Evolution of the Daemon Anaman
 
-_by Etna in_ ___Dark Ages___
+_by Etna in **Dark Ages**_
 
 _The Journal of Johan_
 

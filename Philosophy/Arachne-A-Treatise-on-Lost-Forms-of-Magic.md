@@ -1,6 +1,6 @@
 # A Treatise on Lost Forms of Magic
 
-_by Arachne of Mileth, Wizard Adept_
+_by Arachne in **Dark Ages**_
 
 _On one of my many trips throughout Temuair, I happened upon an odd mundane in
 Suomi. This mundane was clothed in a simple robe of an unidentifiable black
@@ -111,7 +111,7 @@ these lost magics. Hopefully, my treatise will inspire other wizards to help me
 in my search._
 
 _Submitted Humbly,_  
-_Arachne of Mileth_  
+_Arachne of Mileth, Wizard Adept_  
 
 ***
 

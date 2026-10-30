@@ -1,6 +1,6 @@
 # L'Imperatore 
  
-_by Etienne in_ ___Dark Ages___
+_by Etienne in **Dark Ages**_
  
 _History books are contradictory when defining the birthplace of Ainmeal. Some say he was natural from Finach, the Mileth of our days, basing this idea on observations about his youth and on his cult of Danaan, whose presence is strong in the region even today. Other authors, however, insist in placing Ainmeal's birthplace in Suomi, having behind them the ease with which he gained the support of this kingdom during that which was called "Struggle for Loures". There are also those who firmly believe the First Emperor was not natural of any of the kingdoms, due to his affinity to the fae races._
 

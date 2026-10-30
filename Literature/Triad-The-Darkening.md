@@ -1,6 +1,6 @@
 # The Darkening
 
-_By Triad in **Dark Ages**_
+_by Triad in **Dark Ages**_
 
 _Dedicated To Angelic, who is always worthy of praise, and Bentic, who is her
 wonderful compliment._

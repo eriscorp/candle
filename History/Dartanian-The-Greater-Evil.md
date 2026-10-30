@@ -1,6 +1,6 @@
 # The Greater Evil
 
- _By Dartanian in_ ___Dark Ages___
+_by Dartanian in **Dark Ages**_
 
 ## Foreword
 

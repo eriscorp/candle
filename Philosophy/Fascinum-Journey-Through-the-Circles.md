@@ -1,6 +1,6 @@
 # Journey Through the Circles
 
-_By Fascinum in **Dark Ages**_
+_by Fascinum in **Dark Ages**_
 
 _A Philosophical Journal of My Experiences in the Chamber of the Veil_
 

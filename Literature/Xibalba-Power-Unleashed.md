@@ -1,6 +1,6 @@
 # Power Unleashed
 
-_By Xibalba of **Dark Ages**_
+_by Xibalba in **Dark Ages**_
 
 ## Part One: The Key
 

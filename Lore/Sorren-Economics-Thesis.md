@@ -1,6 +1,6 @@
 # A Thesis on the Economics of Temuair 
 
-_by Sorren in_ ___Dark Ages___
+_by Sorren in **Dark Ages**_
 
 The economics in Temuair are very unique due to the fact that new items are discovered very often and the prices of all items go up and down quite often depending on a vast number of things. This is why theories can give us some of the answers but the rest, we have to guess and draw conclusions pretty much on our own. I will try to provide an overview of some of the aspects in Temuair economics.
 
@@ -31,7 +31,7 @@ New items are discovered very often, this fact has an effect on a lot of things.
 
 An interest fact in price changes is that it seems that service prices go up while item prices go down.
 
-This again have something to do with the value of one’s time. Since all mayor services are provided by high-insight or ability Aislings, their time gets more valuable the higher the average insight/ab becomes.
+This again have something to do with the value of one's time. Since all mayor services are provided by high-insight or ability Aislings, their time gets more valuable the higher the average insight/ab becomes.
 
 ## Class Dependent Wealth
 I will not go deep into this subject, as every class has good ways of making money.

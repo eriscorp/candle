@@ -1,6 +1,6 @@
 # The Mummy
 
-_by Gilly of **Dark Ages**_  
+_by Gilly in **Dark Ages**_
 
 Three Aislings high, the mummy towers overhead  
 An embalmed orc? I wince and wonder with great dread  

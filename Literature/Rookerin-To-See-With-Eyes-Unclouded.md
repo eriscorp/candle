@@ -3,7 +3,7 @@
 _by Rookerin in **Dark Ages**_
 
 _Author's Note: Prior to reading this piece, I strongly recommend reading
-[To See With Clouded Eyes](./Thayer-To-See-with-Clouded-Eyes.md) By Thayer, 
+[To See With Clouded Eyes](./Thayer-To-See-With-Clouded-Eyes.md) By Thayer, 
 as this piece is the conclusion to it._
 
 _Realize that all events in this story are true, and not fiction._
@@ -17,7 +17,7 @@ stars with ambitious lust. He could not journey to Kadath - his dream quest
 came to an end.
 
 "Rookerin, do you remember praying to me?" said a distant voice amist the sea
-of darkness which was death’s gate. "You begged every God, before you died for
+of darkness which was death's gate. "You begged every God, before you died for
 help, you said "I have things I have to do."
 
 "Yes, I remember." my soul whispered. I tried to look about the absence of
@@ -48,25 +48,25 @@ cottage they rested in was small, but cozy, a small trail of blood led from the
 cot in the house, to the door of the home - showing the path that Rookerin had
 been carried. "I really am alive, aye?"
 
-A smile crossed the man’s lips sitting across from Rookerin. "Aye, me 'n Hollie
+A smile crossed the man's lips sitting across from Rookerin. "Aye, me 'n Hollie
 saved yous - heh." He chuckled, leaning back in his wooden chair. He was a man
 with a strong medium build, his body wrapped tightly in muscles. Totem was a
 warrior, there is no doubt. "So, Rooks, where 'ave yous been dis past Deoch? I
-didn’t expect ta find yous any time soon, 'specially not face down in the dirt,
+didn't expect ta find yous any time soon, 'specially not face down in the dirt,
 heh."
 
 Rookerin smiled slowly, shaking his head. Oh how he had missed Totem. "Thank
 you for saving me friend." Rookerin slowly looked across the room, seeing a
 young girl, alone, staring at him. "H..hollie, is that really you?" A grin
 touched Rookerin as he remembered the girl he had so long ago taught the ways
-of a rogue to. "What’re you doing with this old man, Totem?"
+of a rogue to. "What're you doing with this old man, Totem?"
 
-A slight smile crossed Hollie’s lips, her eyes narrowing slightly seductive.
+A slight smile crossed Hollie's lips, her eyes narrowing slightly seductive.
 Hollie was a beautiful lass. Her hair was a soft purple that hanged low to the
-small of her back. She started to speak, about to answer Rookerin’s question
+small of her back. She started to speak, about to answer Rookerin's question
 but slowly dropped her hands in her lap, remaining silent.
 
-Totem quickly spoke up. "Rookerin, wes jus’ been worried 'bout you - don’ne
+Totem quickly spoke up. "Rookerin, wes jus' been worried 'bout you - don'ne
 mind Hollie. Right now yous need to rest!"
 
 Rookerin nodded, laying his hand down against the rug on the floor, staring
@@ -75,27 +75,27 @@ into the fire.
 Kadath....
 
 Rookerin quickly sat up, fighting back the pain growing in his chest. "No, wait
-I can’t rest! Not now." He coughed a bit, the gentle taste of blood still on
-his lips. "Totem, do you see anyone around me when you found me?" Rook’s eyes
+I can't rest! Not now." He coughed a bit, the gentle taste of blood still on
+his lips. "Totem, do you see anyone around me when you found me?" Rook's eyes
 darted from Totem, then to Hollie, hoping to God one of them had seen the
 guard.
 
-"Can’t say I did" said Totem, "But we can talk 'bout dat in the mornin’, you’s
+"Can't say I did" said Totem, "But we can talk 'bout dat in the mornin', you's
 got a story for us Im sure anyhow!"
 
-Rookerin shook his head, tears building in his eyes, "No! You don’t understand,
-I don’t have till morning! I was attacked last night, someone stole something
+Rookerin shook his head, tears building in his eyes, "No! You don't understand,
+I don't have till morning! I was attacked last night, someone stole something
 very valuable to me!" he dug into his pocket, feeling the empty space that the
 conix fragment should have called home.
 
 "I saw someone, Rookerin." whispered Hollie, slowly, timid to speak. "He ran in
-the shadows, his eyes, I -- saw red, that’s the only color I saw. He was moving
+the shadows, his eyes, I -- saw red, that's the only color I saw. He was moving
 north, towards the path to Kadath."
 
 Rookerin slowly stood, shaking, his knees beginning to buckle. Totem quickly
 dashed to his side, gripping him about the waist and held him up. Rookerin
-looked Totem in the eyes, and they spoke silently to each other. Rookerin’s
-eyes were wrapped in fear, and Totem understood his need. "Le’s get packed up
+looked Totem in the eyes, and they spoke silently to each other. Rookerin's
+eyes were wrapped in fear, and Totem understood his need. "Le's get packed up
 Hollie, wes gonna go where Rookerin wants us to." said Totem slowly.
 
 ## II
@@ -125,20 +125,20 @@ were swollen with a lack of sleep. The campaign was hard, Rookerin was still
 badly injured, bandages were wrapped tightly about his chest, and he had
 problems breathing - but he was finally able to walk again on his own.
 
-Never once on the journey did Totem or Hollie question Rookerin’s motivations,
+Never once on the journey did Totem or Hollie question Rookerin's motivations,
 pure trust and honor were about them as they traveled with their friend.
 
 In time they reached the base of Kadath. The tall mountains with their snow
-covered tips reached infinitely high into the dawn’s sky, towering above all
+covered tips reached infinitely high into the dawn's sky, towering above all
 things. The glare of purple light hugged the sky about the churning ether of
-the mountain’s peaks.
+the mountain's peaks.
 
 The three began their climb, and in the distance, high in the mountain they saw
 a dark shadow hugging the rocks of the mountain path. Two red ovals stared at
 Rookerin and company, begging them to turn back - but up the mountain they
 went.
 
-For days they traveled, led by Rookerin’s convictions they stopped never once.
+For days they traveled, led by Rookerin's convictions they stopped never once.
 The rocks and pebbles of the mountain side became boulders, which in time
 became snow, as they reached the highest point of Kadath.
 
@@ -148,19 +148,19 @@ tightly in her furs, breathing out gentle puffs of warm air.
 
 Rookerin turned to Hollie and Totem, "Yes, this is Kadath. Look with eyes
 unclouded, by false truths," he said softly, looking about in thought. "This
-was Kraven, my brother’s obsession - he dreamed of the peaks, but why! Why
+was Kraven, my brother's obsession - he dreamed of the peaks, but why! Why
 these peaks! What do they hold?"
 
-The sound of a pebbles tumbling down the rock-face caught Totem’s attention as
+The sound of a pebbles tumbling down the rock-face caught Totem's attention as
 he looked down to behold a rock that had fallen near his feet. He leaned down
 and picked it up, running his thumb over its smooth surface. "Wow, dis be a
 pretty stone, heh." He smiled as he held it up to Rookerin and Hollie.
 
-Rookerin snatched it out of Totem’s hands, his eyes huge, his body shaking. "By
+Rookerin snatched it out of Totem's hands, his eyes huge, his body shaking. "By
 Danaan this is the Conix Fragment!" He shrieked back, glancing about, fear
-growing in his huge eyes. How did it just 'appear’ here? Last he remembered the
+growing in his huge eyes. How did it just 'appear' here? Last he remembered the
 Guard of the Isle Of Man took it. Rookerin drooped his head, placing the stone
-in his pocket. "I believe we’ve been tricked."
+in his pocket. "I believe we've been tricked."
 
 "No, you were not tricked, Rookerin," a familiar voice whispered. The three
 companions looked up in unison, meeting the gaze of red eyes. Not three feet
@@ -171,7 +171,7 @@ think of that, as the guard quickly freed his blade.
 Totem quickly pushed Hollie behind him, unsheathing his blade, glancing at
 Rookerin who had already fallen to a crouching position, taking up his throwing
 knives from his boots. Rookerin mumbled, "By Danaan what kind of monster are
-you? We wished to return this stone to Kadath, why can’t you just leave us
+you? We wished to return this stone to Kadath, why can't you just leave us
 alone!"
 
 The guard slowly shook his head, drooping his sword at his side. "Rookerin, why
@@ -208,7 +208,7 @@ agreement, she would sign the pact, and follow the League of Darkness -
 willingly, as her destiny was hers to decide.
 
 Totem was the last. He paced, anger in his eyes as to why he had to be one of
-the true aislings. To be free of light, was the truth. "I coul’ live me life,
+the true aislings. To be free of light, was the truth. "I coul' live me life,
 free of all ideals, I would be a true aisling, why would I want to choose a
 side?" Totem looked down at Hollie, and Rookerin.
 

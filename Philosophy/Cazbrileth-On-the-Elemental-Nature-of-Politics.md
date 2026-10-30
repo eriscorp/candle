@@ -4,7 +4,7 @@ _by Cazbrileth in **Dark Ages**_
 
 _An essay concerning the application of the elemental theory to the science of politics_  
 
-# Foreword
+## Foreword
 
 Ever since the first aisling spark, elementalists have made breakthrough
 discoveries concerning the elements of Temuair and Medenia. Only recently,
@@ -67,7 +67,7 @@ overcome, but may give way under sufficient pressure from the other nadurra.
 
 ### Srad, the Dictatorship
 
-> _"Srad is hot, quick and dry. It begins things. It has no staying power.”_
+> _"Srad is hot, quick and dry. It begins things. It has no staying power."_
 >  
 > \- _Dar, Dark Wizard of Mileth_
 
@@ -102,7 +102,7 @@ weaken its might.
 
 ### Athar, the Empire
 
-> _"Athar is fast and nimble. It is often cruel, while eating away.”_
+> _"Athar is fast and nimble. It is often cruel, while eating away."_
 >
 > \- _Dar, Dark Wizard of Mileth_
 
@@ -196,7 +196,7 @@ deposed by an element that can prove itself the stronger.
 
 
 The fas theory implies that an element, when made to react with other elements,
-will either have a “strong” or “weak” effect. Any self-respecting aisling
+will either have a "strong" or "weak" effect. Any self-respecting aisling
 adventurer has a basic knowledge of the elements; the power of dhubh is often
 employed during hunting expeditions, for example. As we have seen, the
 political trends stemming from the various elements carry the characteristics
@@ -284,11 +284,11 @@ building blocks from which the universe is built.
 
 The point must be conceded, then, that the wisest politician must be one
 educated thoroughly in the elements; a wizard, indeed. This is not to say that
-a great wizard will make the greatest ruler (if we are to assess one’s rule
+a great wizard will make the greatest ruler (if we are to assess one's rule
 based on the state of the nation or the people living therein), but that they
 will be a skilled politician and diplomat.
 
-But, of course, one need not be a wizard to understand the elements…
+But, of course, one need not be a wizard to understand the elements...
 
 _Cazbrileth Adonluth_
 

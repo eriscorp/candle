@@ -1,6 +1,6 @@
-The Marauder
+# The Marauder
 
-_by Ramus in_ _ **Dark Ages**_
+_by Ramus in **Dark Ages**_
 
 Deep in the swamp of Mehadi Lives a Wise old Mukul.For many years i sat with
 this Old Mukul listening to his stories of the old land. He told of many

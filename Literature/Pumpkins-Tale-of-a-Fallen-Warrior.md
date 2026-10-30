@@ -1,6 +1,6 @@
 # Tale of a Fallen Warrior
 
-_By Pumpkins of **Dark Ages**_
+_by Pumpkins in **Dark Ages**_
 
 It all began when I was taking a trip into the Mileth crypts. This is a usual
 hunting ground for so many aislings, both young and old. Morbid as it may seem,

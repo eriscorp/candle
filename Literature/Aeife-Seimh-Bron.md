@@ -1,6 +1,6 @@
 # Seimh Bron
 
-_By Aeife in **Dark Ages**_
+_by Aeife in **Dark Ages**_
 
 > _They say that sorrow has no tears, and mourning has no light.. Yet why do  
 > people pass us by, and with sadness.. fall and cry_  

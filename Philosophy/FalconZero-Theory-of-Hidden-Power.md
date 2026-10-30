@@ -1,6 +1,6 @@
 # Theory of Hidden Power
 
-_by FalconZero of **Dark Ages**_
+_by FalconZero in **Dark Ages**_
 
 All aislings have wondered whether there has been a force or something magical
 inside them which made the outside world. When one touches a plant and makes

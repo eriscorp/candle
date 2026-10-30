@@ -1,6 +1,6 @@
 # Scrolls of Danaan
 
-_by Mikado in_ ___Dark Ages___
+_by Mikado in **Dark Ages**_
 
 It all began with Feena, my mentor, when she had the strangest vision on the night of the solstice. She recounted her vision to me.
 

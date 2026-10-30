@@ -1,6 +1,6 @@
 # The Terror of the Garden
 
-_by Kalandre of **Dark Ages**_
+_by Kalandre in **Dark Ages**_
 
 'Twas late into the evening,  
 As we sat and supped our ale,  

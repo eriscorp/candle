@@ -1,6 +1,6 @@
 # An Herbalist's Misfortune
 
-_by Raeven of **Dark Ages**_
+_by Raeven in **Dark Ages**_
 
 I cannot make you potions,  
 no matter what you pay.  

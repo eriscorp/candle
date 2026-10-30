@@ -1,8 +1,8 @@
 # Aisling's Seòl Chum Dìlse: An Aisling's guide to Relationships
 
-_by Landon in_ ___Dark Ages___
+_by Landon in **Dark Ages**_
 
-Let’s face it, there are some of us that excel in Aisling to Aisling relationships...they have all the answers to all the questions, the perfect solution for every problem, and a suave line for every Aisling girl...
+Let's face it, there are some of us that excel in Aisling to Aisling relationships...they have all the answers to all the questions, the perfect solution for every problem, and a suave line for every Aisling girl...
 Then there are those of us that have come to fear the relations that our kin have mastered...we hesitate on every question, ponder problems for moons, and break out in the Mundane Flu every time a girl comes knocking...
 
 This guide is meant to be a savior of sorts for those of us that fit into the second category. In this lore, I will put forward some personal experiences and techniques that I have already used with a good amount of success! Fear no more, anti-social Aislings, yer about to learn everything ye need to pick out, and rope in, the Aisling of yer dreams!
@@ -125,7 +125,7 @@ If ye didn't get a kiss, or a hug, or a handshake at the end of yer first date, 
 
 ![](images/landon_chum_16.png)
 
-Let's set the scene... Ye have been on several dates now, and yer starting to have this weird feeling when yer around her. Guess what? That feeling is the elusive LOVE emotion. Now what do ye do? Ye go and get fae bonded at the lover’s glade! Don't know how? That's what this guide is for! Read on for all yer Fae bonding needs...
+Let's set the scene... Ye have been on several dates now, and yer starting to have this weird feeling when yer around her. Guess what? That feeling is the elusive LOVE emotion. Now what do ye do? Ye go and get fae bonded at the lover's glade! Don't know how? That's what this guide is for! Read on for all yer Fae bonding needs...
 
 ### The Lover's Glade
 
@@ -135,7 +135,7 @@ The Lover's Glade is located in the enchanted garden... once ye enter, turn to y
 
 ### Decorating the Glade
 
-This is just a fun little thing that adds a little spice to the ol’ glade. Decorating the glade can be done with almost anything, but the most used items are coins and flowers... and just to save ye time... don't even try and make a heart out of coin that ye both can stand in, it doesn't work.
+This is just a fun little thing that adds a little spice to the ol' glade. Decorating the glade can be done with almost anything, but the most used items are coins and flowers... and just to save ye time... don't even try and make a heart out of coin that ye both can stand in, it doesn't work.
 
 ![](images/landon_chum_18.png)
 

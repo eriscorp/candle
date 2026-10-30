@@ -1,6 +1,6 @@
 # Zoei's Quest
 
-_By Zoei of **Dark Ages**_
+_by Zoei in **Dark Ages**_
 
 _These 6 entries tell the life of Zoei, through essay and prose, and her
 search for love in Temuair. She posted them to the Mileth Community

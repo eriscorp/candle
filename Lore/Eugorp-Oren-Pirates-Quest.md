@@ -1,6 +1,6 @@
 # Oren Pirate Quest
 
-_by Eugorp in_ ___Dark Ages___
+_by Eugorp in **Dark Ages**_
 
 ![](images/eugorp_oren_1.png)
 
@@ -131,6 +131,8 @@ Upon receiving each prize, you are also awarded 200,000 experience.
 As an added bonus, every three pirates you kill, Baldo gives you a legend mark. This legend mark only goes up by increments of three and continues on infinitely after the last prize is received (every three you kill).
 
 "Has Defeated __ of Oren's Pirates"
+
+***
 
 ```
 *Librarian Notes*

@@ -1,6 +1,6 @@
 # Dark Ages Language and Culture Compilation for Roleplaying
 
-_by Deksar in_ ___Dark Ages___
+_by Deksar in **Dark Ages**_
 
 `Note: All of this is out-of-character, of course.`
 

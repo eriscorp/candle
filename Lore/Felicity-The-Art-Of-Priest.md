@@ -1,6 +1,6 @@
 # The Art of the Priest
 
-_by Felicity in_ ___Dark Ages___
+_by Felicity in **Dark Ages**_
 
 It is with humble heart that I offer this letter of direction. Be pleased to read and glean knowledge from it so that you may enhance your craft.
 
@@ -28,7 +28,7 @@ If however you have a memory like that, perhaps Luathas is your God. Luathas is 
 
 Last but not least, we come to Sgrios. Sgrios is the God of death and destruction. His worshippers do tend to be the bitter and cynical sort. They are often quiet during masses, but this is generally because they are brooding or plotting the untimely and sudden demise of one or another Aislings. I suppose it is a good thing that the masses tend to be orderly and carried out with the swiftness and brevity of an execution because, honestly, would you argue with them? Sgrios' allies are Ceannlaidir and Deoch. Sgrios' enemies are Gramail and Cail.
 
-After you have selected a God/ess, you will want to get initiated into that fellowship. You can do this by speaking with the church attendant about fellowship. Once you become initiated you will gain all the rights any worshipper has, but not that of a priest just yet. It is my suggestion that you attend a mass or two and become familiar with their announcement board, because as they say, "When in Rucesion, do as the Rucesians do." This should give you a general feel on how things are going in the temple currently, i.e. Who hates Whom…etc. Also, any rules that may have been put in place by the fellowship. Also, it will take a great deal of initial faith to ascend to full priest hood. Between the services and the board, note to yourself, names that are frequently cropping up and familiar faces. This will give you a "foot-in-the-door", so to speak.
+After you have selected a God/ess, you will want to get initiated into that fellowship. You can do this by speaking with the church attendant about fellowship. Once you become initiated you will gain all the rights any worshipper has, but not that of a priest just yet. It is my suggestion that you attend a mass or two and become familiar with their announcement board, because as they say, "When in Rucesion, do as the Rucesians do." This should give you a general feel on how things are going in the temple currently, i.e. Who hates Whom...etc. Also, any rules that may have been put in place by the fellowship. Also, it will take a great deal of initial faith to ascend to full priest hood. Between the services and the board, note to yourself, names that are frequently cropping up and familiar faces. This will give you a "foot-in-the-door", so to speak.
 
 After enough faith has been built up into your God of choosing, you will want to ascend to full priesthood by once again speaking with the church attendant about fellowship. Once you are a common sight in the church, you may request to perform any of many jobs priests can do.
 

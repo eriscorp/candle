@@ -1,6 +1,6 @@
 # The Mighty Battle
 
-_By Creek of **Dark Ages**_
+_by Creek in **Dark Ages**_
 
 The mighty warrior all clad in metal and gear,  
 crying his battle cry for all to hear.  

@@ -12,7 +12,7 @@ _Ramanayan_
 _Servant of Fiosachd_
 _Deoch 19, Winter_
 
-# The Grimlok
+## The Grimlok
 
 The Grimlok are an interesting group to study. They can be found in only one
 place, the **Pravat Caves.** It is widely accepted that the Grimlok did not

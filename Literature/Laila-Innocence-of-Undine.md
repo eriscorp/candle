@@ -5,7 +5,7 @@ _by Laila in **Dark Ages**_
 Children of Undine gather near  
 Thy captures and pursuers must not find thee here  
 The rain shall muffle our flight trough the mud  
-The downpour will dilute our enemy‘s lust for blood  
+The downpour will dilute our enemy's lust for blood  
 Make haste with me little one to a better place  
 Such innocence I thought should not be lied to, to face  
 Bewildered and hungry innocence followed blindly  

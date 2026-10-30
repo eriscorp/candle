@@ -1,6 +1,6 @@
 # The Tuatha de Danaan, the Aosda and the Mag Mell?
 
-_by Peppin in_ ___Dark Ages___
+_by Peppin in **Dark Ages**_
 
 _Many people bless the Tuatha de Danaan, holding them honored for unleashing the knowledge of controlling the elements into our world. But lets think about it. Were they really that good for Hy'brasyl? I found these historical documents while exploring the most lower parts of the ancient Kasmanium Mines._
 

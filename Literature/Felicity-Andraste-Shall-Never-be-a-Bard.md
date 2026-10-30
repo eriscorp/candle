@@ -1,6 +1,6 @@
 # Andraste Shall Never be a Bard**
 
-_By: Felicity in **Dark Ages**_
+_by Felicity in **Dark Ages**_
 
 Julian fumed, his face a scowl.  
 His fists were clenched, his voice a howl.  

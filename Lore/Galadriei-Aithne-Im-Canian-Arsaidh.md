@@ -1,6 +1,6 @@
 # Aithne im-cànain àrsaidh: Lore of the Old Tongue
  
-_by Galadriei in_ ___Dark Ages___ 
+_by Galadriei in **Dark Ages**_
 
 ![](images/galadriei_tongue_1.gif)
 
@@ -92,6 +92,8 @@ If you ever find any further words in ancient language i did not mentioned, tell
 _by Galadriei Altariel_  
 _Lady of the Light_  
 _Sal Mage of Temuair_  
+
+***
 
 ```
 *Librarian Notes*

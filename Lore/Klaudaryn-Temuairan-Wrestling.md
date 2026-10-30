@@ -1,6 +1,6 @@
 # Temuairan Wrestling
 
-_by Klaudaryn in_ ___Dark Ages___
+_by Klaudaryn in **Dark Ages**_
  
 Temuairan wrestling has its roots in an ancient sport practiced for a thousand years prior to the War of the Shadows. The old sport began as a form of martial training for soldiers in times of peace, but soon degenerated into a crude blood sport of pit fighting, where countless fighters were injured, maimed and even killed. The gradual decline in society prior to the War of the Shadows was typified by the attitude of the general populace, who reveled in such bloodletting and senseless brutality.
  
@@ -55,7 +55,7 @@ Victory occurs as soon as a fighter is thrown out of the ring and onto the hard 
  
 ## Winnings
  
-Wrestlers can expect to earn significant income, depending on their sponsors, and whether the organizers of the fight have provided for a Victor’s Prize or not. The prizes range from magical items, to cold hard currency.
+Wrestlers can expect to earn significant income, depending on their sponsors, and whether the organizers of the fight have provided for a Victor's Prize or not. The prizes range from magical items, to cold hard currency.
  
 As these matches are underground events, gambling amongst the audience is commonplace, and often, punters even pay off certain wrestlers to lose. Fortunately, this is frowned upon by the enthusiasts, and fighters who obviously throw matches will find their career a very short one indeed.
  

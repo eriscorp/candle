@@ -1,6 +1,6 @@
-# Treasure Hunters’ Guide to the Lost Labyrinth: A Guide to the Dark Heart
+# Treasure Hunters' Guide to the Lost Labyrinth: A Guide to the Dark Heart
 
-_by Gokuden Ishraki in_ ___Dark Ages___
+_by Gokuden in **Dark Ages**_
 
 _On a quest of the Heart, I found myself in the Sgriotic nightmare of Marlin. I stumbled through the chambers of this dark place, seeking to deliver a message to his beloved Bella. In that quest, I came across a new breed of Dubhaimid, imprisoned in this "alternate world", hungry for Aisling flesh. I engaged them in combat, and upon searching them after the battle, I found the most interesting things..._
 
@@ -20,7 +20,7 @@ The second type of demon that lurks the twisted corridors of this strange world 
 
 ![](images/gokuden_labyrinth_4.png)
 
-Lost and confused, I traveled through the labyrinth, seeking out Marlin’s beloved to complete my oath to him. Seemingly a moon had passed, and after constant battles with the neo-Dubhaimid and lack of food, I sat against the wall, contemplating if I would ever escape this maze of shadows.
+Lost and confused, I traveled through the labyrinth, seeking out Marlin's beloved to complete my oath to him. Seemingly a moon had passed, and after constant battles with the neo-Dubhaimid and lack of food, I sat against the wall, contemplating if I would ever escape this maze of shadows.
 
 ![](images/gokuden_labyrinth_5.png)
 

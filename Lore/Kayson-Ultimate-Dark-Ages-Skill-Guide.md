@@ -1,6 +1,6 @@
 # The Ultimate Dark Ages Skill Guide
 
-_by Kayson in_ ___Dark Ages___
+_by Kayson in **Dark Ages**_
 
 ```
 ((After many long hours of hard work, I have compiled a list of almost every skill's necessary 

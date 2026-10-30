@@ -1,6 +1,6 @@
 # A Guide to Wizardry
 
-_by Kedian in_ ___Dark Ages___
+_by Kedian in **Dark Ages**_
 
 Table of Contents
 

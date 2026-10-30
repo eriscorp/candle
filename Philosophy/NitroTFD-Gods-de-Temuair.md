@@ -1,5 +1,7 @@
 # Gods de Temuair
 
+_by NitroTFD in **Dark Ages**_
+
 _Back before this land was named the earth-sea. Before the sinking of Hy- Brasyl
 and before the Shadows War, there was one single entity, a god. Grinneal was
 his known name. He was the first of many gods who would awaken within this

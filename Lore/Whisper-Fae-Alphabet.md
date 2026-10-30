@@ -1,6 +1,6 @@
 # Fae Alphabet
 
-_by Whisper in_ __Dark Ages__
+_by Whisper in **Dark Ages**_
 
 ## Description
 
@@ -113,6 +113,8 @@ Tarot: 8, Strength (also I) / Astro: Leo, Fire / Rune: Uruz
 
 Z ~ Zeth,Zath,Zil,Zor,Zun,Zae,Zay  
 Tarot: 21, World (also S) / Astro: Saturn, Air & Earth / Rune: Mannaz
+
+***
 
 ```
 *Librarian Notes*

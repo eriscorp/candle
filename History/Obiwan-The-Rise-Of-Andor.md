@@ -1,5 +1,5 @@
 # The Rise of Andor
-_by Obiwan in_ ___Dark Ages___
+_by Obiwan in **Dark Ages**_
 
 ## 1. Introduction/Foreword
 

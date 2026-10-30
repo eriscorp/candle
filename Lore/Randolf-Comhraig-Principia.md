@@ -1,6 +1,6 @@
 # Còmhraig Principia, Volume I: Lower Réidheachd Training
 
-_by Randolf in_ ___Dark Ages___
+_by Randolf in **Dark Ages**_
 
 ## Hand strikes
 

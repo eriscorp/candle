@@ -1,5 +1,5 @@
 # Medenia: Genesis
-_by Arachne in_ ___Dark Ages___
+_by Arachne in **Dark Ages**_
 
 _Since its discovery, the land of Medenia has been shrouded in mystery.  Rough and untamed, ruled by elemental spirits, it is a far cry from the refined and civilized lands from which Aislings hail.  Even today, much of the land remains undiscovered by Temuairan natives, with vast stretches of pristine areas to explore and discover.  However, the natives of this land tell stories which, by estimation, stretch back through the aeons to the sundering of Hybrasyl._
 

@@ -1,6 +1,6 @@
 # The Thorn of Sgrios
 
-_Maerista in **Dark Ages**_
+_by Maerista in **Dark Ages**_
 
 _Maerista's Journal, Spring, Deoch 6_
 

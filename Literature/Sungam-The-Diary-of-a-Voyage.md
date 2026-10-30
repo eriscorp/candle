@@ -8,7 +8,7 @@ Why do they say that the man is stronger than the woman, when even the most
 gentle of women can bring a man to his knees without ever lifting her hand? Why
 do they claim we have free will if we cannot even control what we feel for
 others? Why am I powerless now, when I have felled any foe I ever crossed
-swords with? I do not know what to do… Have to take some time to think...
+swords with? I do not know what to do... Have to take some time to think...
 
 _2nd Sun of the 6th Moon, Deoch 17_
 
@@ -16,7 +16,7 @@ I have made up my mind, I cannot stay any longer. I cannot bear to look into
 Her eyes anymore. Not at this rate. I have posted a message to the Tuatha de
 Deo board today, letting them know of my decision: I'll be travelling east from
 Rucesion. I want to see what is out there - if anything. Honestly, I do not
-think that is the true reason for my leaving… I need to be alone, need to
+think that is the true reason for my leaving... I need to be alone, need to
 ponder this turn of events. There is no place in Temuair that does not remind
 me of Her, I can no longer live like this. I am leaving as soon as the ship I
 hired is ready. Hopefully it will only be a few days...

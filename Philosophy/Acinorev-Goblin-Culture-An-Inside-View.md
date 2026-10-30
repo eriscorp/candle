@@ -28,7 +28,7 @@ cavernous burrow, with three tunnels, one on each side. This was the meeting
 room. It was dimly lit, with torches, and there were large stones to sit on.
 Many piles of fruit and berries were strewn about the dirt floor, and goblins
 of all classes were there, conversing in their guttural tones. After being
-greeted, I was led back to the tunnel on the left. This was the women’s area. I
+greeted, I was led back to the tunnel on the left. This was the women's area. I
 spent much time here, as this is where goblin children are taught the basics of
 their language and some of their stories. It was better lit, so that they could
 keep track of all the young goblins. The right tunnel, I learned later, led to
@@ -72,7 +72,7 @@ The second rank is that of the Warrior. A soldier must be acclaimed by others
 in a battle to even be considered. This is only gained by praise of others and
 usually involves amazing feats of strength on the battlefield. The Council
 convenes, as do the nearby tribes, and several of those chosen take the
-goblins’ test of pain. Oftentimes this involves heavy weights, hot coals, and
+goblins' test of pain. Oftentimes this involves heavy weights, hot coals, and
 sharp instruments that the goblin has to endure. This is done near a river or
 other body of water; if the goblin wishes to end the test, they leap in, ending
 it. However, this means they failed, and most would prefer to die in the test
@@ -97,7 +97,7 @@ look around, and lowered himself into the empty bowl. Curled in a fetal
 position, he barely fit. Several goblins stepped forth, these were those who
 had failed the earlier tests, they would give their lives for this ritual. The
 council gathered around them, and they sacrificed themselves over the pot,
-their blood draining over the guard’s body. Chanting words almost un-
+their blood draining over the guard's body. Chanting words almost un-
 goblinlike, the Council watched the proceedings. The chant placed the guard in
 a trance, but the blood poured over him; he would surely drown, and the
 freezing river water rushed over the pot, chilling its contents. I noticed
@@ -120,7 +120,7 @@ goblins got to their feet, and praised the creation of the Hobgoblin.
 
 Hobgoblins, though strong and nearly deathless, are rendered incoherent. The
 process of their creation infuses the lives of those sacrificed, and their
-minds cannot manage to co-exist with that of the original guards’. Hobgoblins
+minds cannot manage to co-exist with that of the original guards'. Hobgoblins
 are insane, incapable of language or normal thought processes, and know only to
 kill anything that is not a goblin. Thus Hobgoblins have no social status or
 powers.
@@ -148,8 +148,8 @@ intelligence and wisdom. The women are very cunning; not being allowed on hunts
 they must plan and plot for every occurrence without seeing the battlefield,
 the enemy, or any events therein. Marriages are for strength and power, the
 male goblin seeks a wise wife, the female a strong husband, who will become a
-Hobgoblin. The most common marriage for a daughter is the father’s brother’s
-son, while the normal for a son is the mother’s sister’s daughter. Goblins
+Hobgoblin. The most common marriage for a daughter is the father's brother's
+son, while the normal for a son is the mother's sister's daughter. Goblins
 believe that seeking along these male and female lines strengthens the male and
 female traits they hope to advance in their offspring.
 
@@ -186,7 +186,7 @@ away and out of the woods just as my guise dissolved.
 
 ## Afterthoughts
 
-I spoke earlier of the male goblin’s strength and female’s intelligence.
+I spoke earlier of the male goblin's strength and female's intelligence.
 Hearing the legend, I realized the goblins had been speaking of Ceannlaider,
 God of War. After a time, I began to wonder if perhaps the female, Anha, had
 been visited by Luathas. Eventually I realized the folly of this belief; they

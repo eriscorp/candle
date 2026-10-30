@@ -1,6 +1,6 @@
 # Obscurum ac Luminarium: A Treatise on Theological Alignment
 
-_by Angelique in_ ___Dark Ages___
+_by Angelique in **Dark Ages**_
 
  Darkness|Light
  --------|-------

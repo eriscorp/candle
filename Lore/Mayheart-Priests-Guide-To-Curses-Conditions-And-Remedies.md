@@ -1,6 +1,6 @@
 # The Priest's guide to Curses Conditions and Remedies
 
-_by Mayheart in_ ___Dark Ages___
+_by Mayheart in **Dark Ages**_
 
 The world is filled with all kinds of spells, it is the very nature of the priest to be a master of both that of cause and effect. Every cause has an effect and every effect has a cause. The great wisdom and intelligence of the priest are used to master this knowledge in varies ways. Some master that of causing ailments while others in removing them, but all priest's at some time learn a bit of both. This guide is to help identify and teach those whom wish to know the conditions I myself have run across.                                     
  

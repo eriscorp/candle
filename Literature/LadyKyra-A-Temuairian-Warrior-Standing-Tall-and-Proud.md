@@ -1,6 +1,6 @@
 # A Temuairian Warrior Standing Tall and Proud
 
-_By LadyKyra of _Dark Ages_  
+_by LadyKyra in **Dark Ages**_
 
 It was Deoch 13, Summer  
 I awoke at Riona's Inn.  

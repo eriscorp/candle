@@ -1,6 +1,6 @@
 # Temuair Astronomy
 
-*by Suspected in **Dark Ages***
+_by Suspected in **Dark Ages**_
 
 This document contains the observational study of the Temuair planetary bodies surrounding the world in which we live. The scientific methods I used for this study were through lens enhancement with the assistance of Wizard Jean of Loures Castle. With what Jean and I have dubbed a telescope, we have mapped the visible celestial bodies in the night sky, and placed them with the use of conscription magic on to this parchment. This document contains a complete star map and scientific observations of the object known as the Blood Moon.
 
@@ -42,14 +42,15 @@ Unlike in its previous cycles around Talamh, the Cragealach began to become less
 
 The Cragealach as a whole has a mysterious effect on Aislings in our world annually. When it reaches its closest point to Talamh, it eclipses with gealach and causes what we have dubbed the Blood Moon, and its radiation emanating from around gealeach causes Aisling to turn into demons of the Dubhamid. Nothing else is known as to why, although I suspect while in transit from its previous host the Grian superheated Cragealach and whatever its composition interacts with Aislings on a cellular level, there just isn’t enough data to explain why or how this happens, so instead I have presented the means in which the pieces move on our celestial map. Perhaps those more intelligent than I can use this information for greater understanding of why they are the way they are. I leave the rest to the philosophers and historians of the land.
 
--Suspected Star  
-  Astronomer
+_Suspected Star_  
+_Astronomer_
 
+***
 
 ```
 *Librarian Notes*
 
 This entry has been edited to conform to Library formatting.
 The original can be found at https://talamhtemuair.weebly.com/ .
-This was awarded Kingdom in Deoch 148
+This entry was awarded Kingdom in Deoch 148
 ```

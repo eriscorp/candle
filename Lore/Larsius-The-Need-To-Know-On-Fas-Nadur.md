@@ -1,12 +1,12 @@
 # The Need to Know on Fas Nadur and Other Nadur Magics
 
-_by Larsius in_ ___Dark Ages___
+_by Larsius in **Dark Ages**_
 
 The three dark sages were wise when they worried about these secrets falling into the hands of the kobolds. They are dangerous enough already in our own hands. This is actually one of the reasons that the enchantments were weakened was that they were being used without knowledge, and without thought. So then, please head my words and be wise with the magics Fas Nadur offers.
 
 I'm going to explain really briefly what Fas Nadur does. We all know that a srad goblin is weak to sal attacks. When you chant Fas Nadur on that goblin they are much, much more vulnerable to sal strikes. But on the same scale they are that much more protected from athar. 
 
-So, while I throw water at the goblin, my brother wizards lighting falls right off. These powers are not limited to just spells however. Aislings, and creatures have elemental offensive aids, and elemental defensive aids. We wear necklaces and belts. It isn't known to us what the creatures of the world use to gain this aid. Fas Nadur affects this also. Fas Nadur will only affect the defensive element of its target. So, if you’re hunting with a warrior, and they have a sal necklace and the goblin has a defensive srad element, then you chant Fas Nadur on the goblin. Chanting Fas on another Aisling will never make them do more damage to a target.
+So, while I throw water at the goblin, my brother wizards lighting falls right off. These powers are not limited to just spells however. Aislings, and creatures have elemental offensive aids, and elemental defensive aids. We wear necklaces and belts. It isn't known to us what the creatures of the world use to gain this aid. Fas Nadur affects this also. Fas Nadur will only affect the defensive element of its target. So, if you're hunting with a warrior, and they have a sal necklace and the goblin has a defensive srad element, then you chant Fas Nadur on the goblin. Chanting Fas on another Aisling will never make them do more damage to a target.
 
 What gives Fas Nadur the potential to be such a powerful tool are elemental aids of dark. If you are hunting with a warrior and they are wearing a dark necklace, all four other elements are weak to them. So, you can chant Fas Nadur on all of their targets making the warrior's job much easier. If you or anyone else are wearing a dark belt, you have a defense that is strong against all elements. If Fas Nadur is chanted on an Aisling, while that Aisling is wearing a dark belt, they will be nearly immune to most spells, and even strong against almost all physical damage.
 

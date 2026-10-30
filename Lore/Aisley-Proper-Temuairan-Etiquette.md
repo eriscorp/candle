@@ -1,6 +1,6 @@
-# Proper Temuairan Ettiquette
+# Proper Temuairan Etiquette
 
-_by Aisley in_ ___Dark Ages___
+_by Aisley in **Dark Ages**_
 
 ## Section One: Introduction
 It's understood that most people dislike "newbs" ((or "nubs" as I like to call them)) but who says we always have to be so mean to them? We've all been there, whether we want to admit it or not... so we all know how hard it is to start out. Unless of course, you're one of those privileged Aislings who came to be in Temuair because some friends talked you into coming here. 
@@ -65,6 +65,8 @@ Another thing that is often asked for is Armor. Most armors are easily acquired,
 Indeed we did! If we keep our cool instead of instantly wanting to eat the young ones... and their young... we'll all live a bit happier. Granted, some days there's just no getting around it, you've got to be a tad mean or sarcastic, but hey, it's okay. After a billion (or what seems like it) nubs come running up to you and screaming about the items they want and the money they need, it wears on your nerves. Try to simply take a couple deep breaths and walk away if it's annoying you too much. If they follow you around, screaming about money, turn to them, give them a Suomi Song and tell them that riches can be found in that mystical town, and watch as they disappear into the night. 
 
 ((This is supposed to be a semi-comical way of dealing with the everyday stresses that Aislings deal with. It is hoped that some smiles crossed your faces while reading it. Please keep in mind, no nubs were harmed in the making of this lore, these are all trained professionals! ))
+
+***
 
 ```
 *Librarian Notes*

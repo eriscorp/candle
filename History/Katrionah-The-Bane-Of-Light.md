@@ -1,6 +1,6 @@
 # The Bane of Light: Chadul & His Minions
 
-_By Katrionah in_ ___Dark Ages___
+_by Katrionah in **Dark Ages**_
  
 
 >_Mors sola fatetur quantula sint hominum corpuscula_  
@@ -11,7 +11,7 @@ _By Katrionah in_ ___Dark Ages___
 
 What comes after death? No one alive can tell you that. For that matter, no soothsayer, oracle, or wise prophet has ever bothered to enlighten any with tales behind the reason of life and death. As mortals we may never know anything much beyond these principles other than the simple fact we are born, we grow, we procreate, and eventually, lives having been fulfilled or not, we die. 
 
-As it has always been, perhaps as it always will be, only in death can one know it’s true working. Its passages, its purpose, its timing and reasoning. It is only in that final breath, that final moment of life, that a mortal can fully fathom their mortality. Thus, know what they are entering into. 
+As it has always been, perhaps as it always will be, only in death can one know it's true working. Its passages, its purpose, its timing and reasoning. It is only in that final breath, that final moment of life, that a mortal can fully fathom their mortality. Thus, know what they are entering into. 
 
 Whether a transition into simply nothingness, or the beginning of a fantastic journey which travels even beyond the bounds of imagination's possibilities, death itself is one of the single most fascinating, and frightening, phenomenon of the ages. Perhaps mankind would have remained in blissful ignorance of this subject, had not the souls so many centuries ago cried out in horrific unison of pain and anguish in their afterlives. It was then, within those outcries of so many years ago, from a realm until then beyond the living's comprehension that the presence of a horrific being was first made truly known in its threat. 
 
@@ -39,7 +39,7 @@ Not a single tale or myth in history has been able to aptly describe Sgrios and 
 
 Sgrios is a being nearly to gruesome to look upon, being the god of decay itself, his body is that of a long-rotted corpse, barely mobile due to the rotting marrow of his bones and long-lost flesh. It is said that in an effort to keep from disintegrating completely, Sgrios must feed of the life's spark of souls to ward off this natural process. For that, his hunger can never be satisfied, and perhaps in centuries to come he will finally crumble away to nothing more than dust. For a simpler explanation, it has been said that Sgrios is a higher form of the Dubhaimid, a direct child of Chadul to carry on his dark ways. 
 
-As for the dark pawn’s true origins, only scant tales of those first few souls who escape Chadul's realm are left to remotely explain where he comes from. Some have been a combination of many tales, others seeming to be fantastic and impossible. 
+As for the dark pawn's true origins, only scant tales of those first few souls who escape Chadul's realm are left to remotely explain where he comes from. Some have been a combination of many tales, others seeming to be fantastic and impossible. 
 
 One philosopher told it as Sgrios was originally, as a living mortal like any other, a fanatic mortal who, enticed by the power Chadul's servants the Dubhaimid held, prayed to the Dark being that he might be shown similar strength and servitude to his beloved God. Why he came to worship Chadul instead of Danaan is a mystery, some saying he believed that the forces of light fought a pointless battle, and that darkness had a right to rule. 
 

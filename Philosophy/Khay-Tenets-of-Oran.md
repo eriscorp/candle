@@ -1,6 +1,6 @@
 # The Tenets of Oran
 
-_By Khay of Dark Ages_
+_by Khay in **Dark Ages**_
 
 My name is Khay. If there ever was more to my simple name, none in the realm of
 the living know of it. I found a scroll in a trunk of decaying scrolls in the

@@ -1,6 +1,6 @@
 # The Chest
 
-_by Naze of **Dark Ages**_
+_by Naze in **Dark Ages**_
 
 Once there lived a reasonably well off nobleman. His house was better than
 most, but a far cry from the palaces most nobles called their homes. This

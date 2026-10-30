@@ -1,6 +1,6 @@
 # Thank Thee, Cail
 
-_by PAMETH of **Dark Ages**_
+_by PAMETH in **Dark Ages**_
 
 For every day my thanks I give  
 To thee  

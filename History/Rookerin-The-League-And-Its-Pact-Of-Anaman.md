@@ -1,6 +1,6 @@
 # The League and its Pact of Anaman
 
-_by Rookerin in_ ___Dark Ages___
+_by Rookerin in **Dark Ages**_
 
 ## 1. The songs of the Bards.
 
@@ -12,7 +12,7 @@ His name was Dorch ( do-reg-io ) Tenes, which loosely translates to 'The Breakin
 
 During this period of time, the world was still in the grasp of turmoil over the war of Danaan and Chadul. Although it was decades after the battle of Light and Darkness, its effects still weighed heavily on Temuair. The scars were quite evident on the people, as they listened to the bards sing pleasantries of a land known as Hy-Brasyl by the night fires. The people dreamed of the land of Hy-Brasyl, and in knowing they could never see such a blissful place, they closed their eyes and cried until Chadul offered them sleep.
 
-It was not a pleasant time, to say the least. Meaningless battles were fought for ideals that had long left this land, and in the end Temuair was torn asunder. The kingdoms split into many pieces, and all hopes of ever retaining the former Glory of Hy-Brasyl left the bards’ songs.
+It was not a pleasant time, to say the least. Meaningless battles were fought for ideals that had long left this land, and in the end Temuair was torn asunder. The kingdoms split into many pieces, and all hopes of ever retaining the former Glory of Hy-Brasyl left the bards' songs.
 
 This turmoil continued until the year of Danaan, 2419. It was in this year that a small battle changed the thoughts of many men of Temuair. The site of this battle was in Piet, a city of the Kingdom of Loures. In these years Laurel suffered from an ill-formed government of men that cared little for the people and more for their purses. It did not take long before Loures proved its folly. In order for the Louresian politicians to increase the size of their purses, they dismissed the guards of Piet in hopes of saving a bit on their wages. Little did they know that Rucesion had been watching them closely, and seeing Lourel's current act of foolishness, they acted swiftly, sending all their armies into Piet in hopes of gaining it as their own.
 
@@ -22,7 +22,7 @@ It was at this time that Dorch Tenes made himself known. With the armies of Ruce
 
 This simple phrase. This simple phrase took hold of the people of our land. Though it was only spoken to the townsfolk about him, word spread to all the kingdoms. The bards began to sing of Hy-Brasyl again, and of Lord Tenes, the one that would be the savior of our land.
 
-Tenes lead the simple townsfolk of Piet against the Rucesion forces, and though their numbers were small, something magical held the charisma of Tenes. I doubt many took the time to think of what inspired him, what gave him the power to lead them against the full army of Rucesion. Maybe we will never know. To make this story short, he defeated their armies, with only minor damage to the city of Piet. The battle is considered a mystery to this day, but there was no time to consider these things. In two years, Danaan 2421, The bards would sing of Tenes’ rise to power.
+Tenes lead the simple townsfolk of Piet against the Rucesion forces, and though their numbers were small, something magical held the charisma of Tenes. I doubt many took the time to think of what inspired him, what gave him the power to lead them against the full army of Rucesion. Maybe we will never know. To make this story short, he defeated their armies, with only minor damage to the city of Piet. The battle is considered a mystery to this day, but there was no time to consider these things. In two years, Danaan 2421, The bards would sing of Tenes' rise to power.
 
 ## 2. Rise of Tenes.
 
@@ -42,7 +42,7 @@ During the shadow of the prophecy, Tenes disappeared from the public. It was not
 
 Lady Dubhreal, from all recollection, was said to be a gentle, sensuous beauty. Her ebony tresses curled about her slim hips, complimenting her pale skin. All men that saw her came to love her beauty, as no one was said to be more beautiful.
 
-The bards began singing songs of joyous relief due to the loss of the dark cloud that had taken their sky, but these songs of happiness did not stay with them long. A startling announcement brushed the town crier’s lips not days after the royal marriage. Lord Tenes announced a declaration of war against the six other kingdoms of Temuair.
+The bards began singing songs of joyous relief due to the loss of the dark cloud that had taken their sky, but these songs of happiness did not stay with them long. A startling announcement brushed the town crier's lips not days after the royal marriage. Lord Tenes announced a declaration of war against the six other kingdoms of Temuair.
 
 The other kingdoms did not stand a chance. Lord Tenes armies were nothing the world had seen before. In the past, he fought wars with his honorable warriors. But now, his wars were fought by dark magics and twisted dubhaimid fiends. It was noted that not once did Lord Tenes personally lead his battles. In all the wars his wife, Lady Dubhreal led his forces. The dubhaimid seemed to follower her, and her dark magic was strong.
 
@@ -72,7 +72,7 @@ _The current Lord of Rucesion had refused to join the 'League of Darkness' that 
 
 _When her boat came to rest against the port, a strange phenomenon occurred. Magic left the kingdom of Rucesion. No one could explain this occurrence, though the Lord of Rucesion knew in his heart that the 'Dark Star,' Lady Dubhreal was behind this loss._
 
-_Months had gone by and the magical energy of Rucesion had yet to return. This was a unbelievable loss for Rucesion, who was once known as the ‘Kingdom of Magic’. Rumors spread wildly about the Lady Dubhreal, and how she was half dubhaimid. It was not long before the Lord of Rucesion heard these rumors and he could no longer stand it. He called for a meeting with the wife of Tenes who still was residing in Rucesion on, 'business'. His mind was set -- he was going to command her to leave his city, but, upon seeing her, such a symbol of beautification, his jaw stood clenched. He could not command her to leave! Like all others who had seen her, he could only find it in himself to stare upon her in a stupor._
+_Months had gone by and the magical energy of Rucesion had yet to return. This was a unbelievable loss for Rucesion, who was once known as the 'Kingdom of Magic'. Rumors spread wildly about the Lady Dubhreal, and how she was half dubhaimid. It was not long before the Lord of Rucesion heard these rumors and he could no longer stand it. He called for a meeting with the wife of Tenes who still was residing in Rucesion on, 'business'. His mind was set -- he was going to command her to leave his city, but, upon seeing her, such a symbol of beautification, his jaw stood clenched. He could not command her to leave! Like all others who had seen her, he could only find it in himself to stare upon her in a stupor._
 
 _By the time she had left his office, she had agreed to leave the city, and the magical energy of Rucesion again returned. It was also this time that the Lord of Rucesion entered the folds of the League of Darkness. The Dark Star had made her trade._
 
@@ -86,11 +86,11 @@ It was soon after the formation of the League that the pact was made.
 
 The final step for the members of the League of Darkness was at hand. Lord Tenes had almost all that he wanted. He had the world and the power to control the people of the land. He had his own walled city, and the powerful lords to protect him in his cause.
 
-Lord Tenes had everything he could ever desire. Everything…except his youth. The year was now Danaan 2468, and he was well into his 77th year of life. Doctors of Loures often saw him, as his body was beginning to decay with age. His hopes of his continual rule were quickly draining from his body.
+Lord Tenes had everything he could ever desire. Everything...except his youth. The year was now Danaan 2468, and he was well into his 77th year of life. Doctors of Loures often saw him, as his body was beginning to decay with age. His hopes of his continual rule were quickly draining from his body.
 
 Many nights did Tenes pray to Chadul to preserve his body, and not to take his soul, and after many nights, Chadul did finally answer. An unspeakable terror to most people visited Tenes that night, its name was Anaman. I cannot write anymore then his name, for what is known of him is secret, and legend speaks of the death of any who speak of its being. When Anaman came to Tenes, he promised him that he would gain a 1000-year life span, along with the rest of his league. The league would be able to retain their youth, and escape the realm of Chadul.
 
-Tenes did not need to be told twice, for the next morning, the monster Anaman, Tenes and the rest of the League met in private to sign the Pact of Anaman. All the league in their power-hungry state of being agreed to the pact, and thus they gained the life span of 1000 years. Little did they know, that there was a bit of small print on the bottom of the parchment they signed. Although the Pact of Anaman gave them 1000 years to live, and gave their souls the ability to escape the grasp of Chadul, it came at a price. It caused the loss of their freedom. As long as the Lord’s souls felt life, Chadul would forever own them.
+Tenes did not need to be told twice, for the next morning, the monster Anaman, Tenes and the rest of the League met in private to sign the Pact of Anaman. All the league in their power-hungry state of being agreed to the pact, and thus they gained the life span of 1000 years. Little did they know, that there was a bit of small print on the bottom of the parchment they signed. Although the Pact of Anaman gave them 1000 years to live, and gave their souls the ability to escape the grasp of Chadul, it came at a price. It caused the loss of their freedom. As long as the Lord's souls felt life, Chadul would forever own them.
 
 ## 5. Conclusion : Speculation on the League of Darkness.
 

@@ -1,6 +1,6 @@
 # The Enchanted Garden
 
-_by Pyotr of **_Dark Ages**_  
+_by Pyotr in **Dark Ages**_
 
 Here beneath the betony, hydele,  
 And personaca bushes let us lay  

@@ -1,6 +1,6 @@
 # Fruit Hero
 
-_by Tmander in_ ___Dark Ages___
+_by Tmander in **Dark Ages**_
 
 Hey, when i was a little aisling, I lived in soumi I had the most wonderful people care for me one of them was the grapes man.  
 Hmm what was his name agen, Ahh "Alvar" Yes I ever called him dad :)  

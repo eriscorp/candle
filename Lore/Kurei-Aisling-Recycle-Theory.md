@@ -1,6 +1,6 @@
 # Aisling Recycle Theory
 
-_by Kurei in_ ___Dark Ages___
+_by Kurei in **Dark Ages**_
 
 As a young Aisling ventures out into the vast regions of Temuair, he or she will be faced with many hardships. Whether it be gaining personal experience ` insights ` or performing tasks for mundanes ` quests `, the young Aisling will have many obstacles to overcome. The manner of how they overcome these trials is what separates these young Aislings into two distinct groups. The two groups are divided into what I have named as "the production group" and the other as "the reduction group". 
 

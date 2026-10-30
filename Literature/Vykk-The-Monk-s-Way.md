@@ -1,4 +1,4 @@
-# The Monk’s Way 
+# The Monk's Way 
 
 _by Vykk in **Dark Ages**_
 

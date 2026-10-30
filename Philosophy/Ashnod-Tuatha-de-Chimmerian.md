@@ -1,5 +1,7 @@
 # Tuatha de Chimmerian
 
+_by Ashnod in **Dark Ages**_
+
 ***
 
 ```

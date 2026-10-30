@@ -1,10 +1,9 @@
-Peace of Mind , A study of Aisling nature in faith
+# Peace of Mind
 
-By Somae Alea of **_Dark Ages
+_(A study of Aisling nature in faith)_  
 
-**_
+_by Somae in **Dark Ages**_
 
-  
 As a Gliocan Priestess since Deoch 7, many fellow worshipers know that I am a
 avid student of Aisling nature and often use what I see in my liturgies. 8
 Deochs have since passed, and what I've learned is this.. We are who we
@@ -89,3 +88,11 @@ aisling, see if you can ascertain which deity they follow by getting to know
 them. Not only will you find out whom they worship, but maybe you'll learn
 more about yourself as well.
 
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

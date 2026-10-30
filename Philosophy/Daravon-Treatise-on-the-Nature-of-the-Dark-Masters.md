@@ -1,6 +1,6 @@
 # Treatise on the Nature of the Dark Masters
 
-_By Daravon Ragnar in **Dark Ages**_  
+_by Daravon in **Dark Ages**_
 _Athar Wizard of Temuair_
 
 ## Introduction
@@ -196,6 +196,8 @@ of prejudice as humanly possible and that the majority of the theories I've
 proposed in this document correspond to the Truth itself.
 
 But only time and further investigation of Reality will tell.
+
+_Daravon Ragnar_  
 
 ***
 

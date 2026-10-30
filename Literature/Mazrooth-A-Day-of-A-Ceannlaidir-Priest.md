@@ -55,7 +55,7 @@ Mazrooth looked down again.
 "I know" He began. "all priests have this problem. I just can not understand
 why Ceannlaidir puts up with aislings like that... That are only using him..."
 
-"Perhaps he likes blessing and giving strength,” a figure said as he steped from
+"Perhaps he likes blessing and giving strength," a figure said as he steped from
 the shadows.
 
 "If ye think about it. Most aislings go out and fight after they feel his
@@ -121,4 +121,13 @@ Librarian Notes
 
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Mazrooth_Priest.html .
+```
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
 ```

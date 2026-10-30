@@ -1,7 +1,7 @@
 # The Holy Star
 
 _The Fall and Restoration of the Temuairan Shrines_  
-_By Dartanian Lestor in **Dark Ages**_  
+_by Dartanian in **Dark Ages**_
 
 ## Introduction
 
@@ -92,7 +92,7 @@ not the only order to the planning  If we look at the octagram that the
 mundane priestesses give us, we come up with this:
 
 This star was covered quite thoroughly in Chloe's philosophical work,
-[Reflections](Chloe-Reflections-on-the-Interactions-between-the-Gods.md). The
+[Reflections](Chloe-Reflections-on-the-Interactions-Between-the-Gods.md). The
 gods next to each other are enemies, while the one with lines drawn connecting
 are allies. Also, ones directly across from each other are opposites. However,
 some of these seem a bit less direct opposites than others. As I looked at it
@@ -196,6 +196,8 @@ destruction they prayed for. They went about creating their temple in an
 opposite manner, by destroying some of the rock below the Dubhaim castle to
 build their shrine. Construction was finished within 2 Deochs (At Deoch 4)
 and the shrines of worship were complete once more.
+
+_Dartanian Lestor_  
 
 ***
 

@@ -1,6 +1,6 @@
 # Goblin and Grimlok Evolution: Historical Speculations
  
-_by Sophocles in_ ___Dark Ages___
+_by Sophocles in **Dark Ages**_
 
 Although among most Aislings the 8th Aeon is typically associated with Darkness and the War between Chadul and Danaan, only a few scholars have begun speculations concerning it also being the time period of the development of Goblin and Grimlok races. Historical speculations have been that the Goblins and Grimloks were actually created by Aislings practicing a form of natural alchemy known as "beirachal genesis", or literally some type of creation magic. 
 

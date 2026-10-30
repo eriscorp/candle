@@ -16,7 +16,7 @@ Tennyson (1809-1892)`
 
 ***
 
-# Part I: Discovery
+## Part I: Discovery
 
 "Mamma... Mamma wake up... Mamma."
 
@@ -942,6 +942,7 @@ tombstone.
 
 Wouldn't you agree?
 
+***
 
 ```
 *Librarian Notes*

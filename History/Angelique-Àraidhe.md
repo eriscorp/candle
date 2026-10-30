@@ -1,6 +1,6 @@
 # Àraidhe: The Story of the Dwarves
 
-_by Angelique in_ ___Dark Ages___
+_by Angelique in **Dark Ages**_
 
 The tragic history of the Àraidhe has never been written by hand, as no written language exists for these people. Passed from mother to daughter, father to son, generation to generation, the tales of their glory and downfall are a reminder for all of the folly of their ways. Their vast empire rose to greatness long before the sinking of Hy-Brasyl. Strangely enough, soon after the sinking of Hy-Brasyl, Who are these enigmatic creatures you may ask? To Aislings and Mundanes alike, they are known as Dwarves.
 

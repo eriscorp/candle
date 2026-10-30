@@ -1,6 +1,6 @@
-## Descent Into Darkness: A Historical Study of the Eighth Aeon of Temuair
+# Descent Into Darkness: A Historical Study of the Eighth Aeon of Temuair
 
-_by Katrionah in_ ___Dark Ages___
+_by Katrionah in **Dark Ages**_
 
 ## The Beginning of True Chaos: The Rise of the Dubhaimid
  

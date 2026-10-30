@@ -195,7 +195,7 @@ _Further Reading_
 | Grimlok |
 [Sophocles, "Goblin and Grimlok Evolution: Historical Speculations"](../History/Sophocles-Goblin-And-Grimlok-Evolution.md) |
 | Goblins |
-[Brightblade, "Wood Goblin Social Structure"](./Brightblade-Wood-Goblin-Social-Structure.md)
+[Brightblade, "Wood Goblin Social Structure"](./Brightblade-An-Analytical-Study-on-the-Wood-Goblin-Social-Structure.md)
 [Sophocles, "Goblin and Grimlok Evolution: Historical Speculations](../History/Sophocles-Goblin-And-Grimlok-Evolution.md)
 [Acinorev, "Goblin Culture: An Inside View"](Acinorev-Goblin-Culture-An-Inside-View.md) |
 | Dwarves |

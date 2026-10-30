@@ -1,6 +1,8 @@
 # Farashyid
 
-_by Dryst in_ ___Dark Ages___
+_(The Isle of Fog)_  
+
+_by Dryst in **Dark Ages**_
 
 Contained within these pages is a translation of an ancient text that has been recently uncovered with the discovery of the entrance to Sgrios temple under near Dubhaim Castle. The text appears to have been written by a priest of Sgrios, named Grimorvis and is dated at approximately Danaan 2434, just prior to the formation of the League of Darkness. It seems to be an account of the purpose of Dubhaim Castle.
 

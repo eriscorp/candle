@@ -1,4 +1,4 @@
-# The Theory of Temuarian Music and its relation to Elemental Magic
+# The Theory of Temuairan Music and its relation to Elemental Magic
 
 _by Kandolo in **Dark Ages**_
 
@@ -66,7 +66,7 @@ memories.. good or bad. Water imbues the soul, as does music.
 Light and dark, complete opposites. Good and Evil, Fullness and Emptiness..
 These are all represented. In music, such contrasting does occur. In the
 interval of just a minor 3rd down - only 4 chromatic steps - Music changes from
-good to evil. Much as just in one half Temuarian day, lightness changes to
+good to evil. Much as just in one half Temuairan day, lightness changes to
 darkness. But, this can be undone. An interval of just a minor 3rd up - still 4
 chromatic steps - music changes back to good from evil, much as night turns
 back to day. In music and light/dark, the light and dark can intermix. In a

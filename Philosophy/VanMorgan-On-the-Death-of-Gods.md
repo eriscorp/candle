@@ -1,6 +1,6 @@
 # On the Death of Gods
 
-_By VanMorgan in **Dark Ages**_
+_by VanMorgan in **Dark Ages**_
 
 Throughout history, aislings and those before us have attempted to discover the
 origins of a multitude of gods. Volumes upon volumes have been dedicated to the
@@ -54,7 +54,7 @@ discovered, understood, feared, accepted, and perhaps began to worship the
 concept of death or destruction).
 
 Some gods don't die. They become known by a different name. (See: Maerista,
-"[Book of the Black Cow](../History/Maerista-Book-of-the-Black-Cow.md)") For
+"[Book of the Black Cow](../History/Maerista-Book-Of-The-Black-Cow.md)") For
 example, Chadul is known as Natesh by the Mikul. Danaan is known by at least
 four names of different races - the Grimlocks, Kobolds, Mikul, and the one we
 know her by. And what of the Adoration? Does the "spirit of Danaan" not wash

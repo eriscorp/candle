@@ -1,6 +1,6 @@
 # A Cook's Guide to the Piet Sewers
 
-_by Ariadne in_ ___Dark Ages___
+_by Ariadne in **Dark Ages**_
 
 Welcome to the Sewers!
 

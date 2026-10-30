@@ -1,6 +1,6 @@
 # Before the Shadows Dance: A History of the Shadows War
 
-_by Cronus in_ __Dark Ages__
+_by Cronus in **Dark Ages**_
     
 Before one can assess the Shadows War, a complex background has to be touched upon.  The Shadows War stems from hundreds of years of fighting.  Perhaps the earliest can be traced back to the Elemental War in 1409, caused by the chaining of the elements.  Since then, war and peace have switched places numerous times, from the drowning of Hy-brasyl to the unfortunate formation of the League of Darkness and creation of the Pact of Anaman.  With the Pact of Anaman in place, the realm of Chadul was free and the dubhaimid were at liberty to roam the land of Temuair in search of the lost civilization Aosda.
 

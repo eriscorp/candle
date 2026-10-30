@@ -1,6 +1,6 @@
 # The Discovery of the Dark Element
 
-_By Logoth in_ ___Dark Ages___
+_by Logoth in **Dark Ages**_
 
 When I was wandering about the sewers of Piet, I came across a young rogue, nearly dead of wounds grievous enough to kill an Orc. He lay on the damp stone floor, moaning in pain. I quickly pulled out a beothaich deum, and poured it down his throat. I then healed him, and helped him off the ground. He was quite grateful, as you might well imagine, and tried to pay me for my services. I declined this offer, and started to go, when he grabbed my arm, and said in a low voice, "Take this, if you won't take my money." and passed an ancient parchment scroll. I hesitated, and then decided that I could always use more scrolls.
 

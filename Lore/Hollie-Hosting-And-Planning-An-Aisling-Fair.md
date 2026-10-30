@@ -1,6 +1,6 @@
 # Hosting and Planning an Aisling Fair
 
-_by Hollie in_ ___Dark Ages___
+_by Hollie in **Dark Ages**_
 
 ## Introduction
 
@@ -78,7 +78,7 @@ Please write me at `((milethfair@crosswinds.net))`.
 
 ## Brain Storming
 
-Now that you have called your first meeting of the fair committee, what do you do?  The best thing to do is brain storming.  All Aislings have a spark of creativity in them.  No creative idea is a bad idea.  Encourage the entire committee to share their idea and suggestions openly with each other. Each member can build on another member’s suggestions.
+Now that you have called your first meeting of the fair committee, what do you do?  The best thing to do is brain storming.  All Aislings have a spark of creativity in them.  No creative idea is a bad idea.  Encourage the entire committee to share their idea and suggestions openly with each other. Each member can build on another member's suggestions.
 
 To start with, you may think about all the options available in Temuair.  Mundanes are very helpful to Aislings planning a fair and are certainly willing to go the extra mile for a well thought out idea.  Basically, if a function already exists in Temuair, it can be implemented in another form in the fair grounds.  I.e.:  Special effects on the stages.
 
@@ -310,7 +310,7 @@ Be courteous to an Aisling requesting a seal, ask them which type of seal they w
 |Theater Director Seal|8 hours ((1 hour)) <br>1 day ((3 hours)) <br>1 week ((21 hours)) <br>1 moon ((3.5 days))|25,000 gold <br>50,000 gold <br>125,000 gold <br>250,000 gold|
 |Amphitheater Director Seal|8 hours ((1 hour)) <br>1 day ((3 hours)) <br>1 week ((21 hours)) <br>1 moon ((3.5 days))|25,000 gold <br>50,000 gold <br>125,000 gold <br>250,000 gold|
 
-If at all possible, someone should be in the office at all times to issue seals.  This is where a schedule of workers would come in handy.  Be sure to have someone available to issue seals during prior to the start of each scheduled event.  It is the planning committee’s responsibility to make sure those seals are issued to the event hosts. 
+If at all possible, someone should be in the office at all times to issue seals.  This is where a schedule of workers would come in handy.  Be sure to have someone available to issue seals during prior to the start of each scheduled event.  It is the planning committee's responsibility to make sure those seals are issued to the event hosts. 
 
 ## Event Ideas
 
@@ -375,7 +375,7 @@ Many problems can and will arise during the fair.  However, if you have followed
 + Always have back up Aislings available for each event.  It may even become necessary to enlist your siblings.  
 + The chair person should be available to assist in every event and help find last minute replacements when needed.  
 + Plan ahead and pool your gold so there is plenty of prize money for planed events.  Use entry fees towards prize money.  
-+ Have extra gold on hand to reimburse an Aisling who has bought a seal and is unable to use it.  Though this is not the committee’s responsibility, the problem does arise where a seal is sold and there is no available booth.  
++ Have extra gold on hand to reimburse an Aisling who has bought a seal and is unable to use it.  Though this is not the committee's responsibility, the problem does arise where a seal is sold and there is no available booth.  
 + Write to mundanes immediately when finding a "bug", this should be minimal if all features have been tested prior to the fair.  
 + Deal with disturbances and thefts immediately, don't allow it to continue or go easy on the criminal.  Be aware of sibling offenders.  
 + Improvise when needed.  If one area holds a significant error, move the event to another area.  

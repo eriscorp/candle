@@ -18,7 +18,7 @@ When I was 10 I hated him, as girl and boy children often hate one another. He w
 
 By 12 we were fast friends again.
 
-I I
+## I I
 
 When I turned 16 I attended my first Harvest Ball. I had to dress like a girl,… and act like a girl,… and brush my hair like a girl. It was disgusting. My mother said I looked like a dream, I didn’t believe her because I knew inside I wasn’t meant to be dressed up and poised. I knew I should be mean and tough. I knew I was ugly. Who was I to show my face among the public? I felt like a clown the way my Mother pinched my checks to flush them, just before we entered the square. The way the other girls looked at me affirmed what a mistake I was making by showing up. It was all my mother’s fault. I gave a steamy look for good measure. She absently smiled at me as she left my side to go say hello to her friends from the Tailor Brody’s shop.
 
@@ -70,7 +70,7 @@ I tried to smack him but he caught my wrist, still laughing.
 
 “Well… I guess,” I said, but he was already on his way. My gaze followed him across the dance floor, admiring that ever-present grace. I was so caught up in watching him I didn’t see the eminent danger approaching, until she was right up on him.
 
-I I I
+## I I I
 
 As I walked towards the dais where the food was set up on buffet, I thought about what my parents had said. I kept hearing my mother’s voice, ‘Won’t you consider her, Dear? Marrying Elainea will mean a life of nobility. Her parents are both very powerful Aislings and, although the spark of New Sight was not passed on you her, she is a charmingly beautiful woman. All the other boys think so. Your 19 and almost 20, you need to start considering making a life for yourself! We don’t want you working in the fields for the rest of your life. Your life is wasting away and all you can do is spend time with that McGregoure girl! If she is even a girl. She wears boys clothes most of the time, and she is usually just as dirty as any of your baby brothers. Don’t you long for a girl with grace and elegance? Won’t you please consider our words…’
 
@@ -108,7 +108,7 @@ I stammered, “Well…What was it you…you wanted?”
 
 I couldn’t refuse if I wanted to.
 
-I I I I
+## I I I I
 
 I watched as Elainea and William danced. I felt like I was going to throw up. I couldn’t stand to see her clinging fingers clutching his shirt. The worst part was, I didn’t know why it effected me so. Surely I didn’t want William to be with Elainea, just because I knew she was evil inside, but still, I shouldn’t feel the way I do, almost jealous, in a way.
 
@@ -118,7 +118,7 @@ No one noticed when I left the party. I just couldn’t watch them anymore. So I
 
 As I sat I wondered about the future. Where was my life heading?
 
-I I I I I
+## I I I I I
 
 I saw Engelyn get up and leave, though I couldn’t fathom why. I thought maybe that she had just gotten sick of all the people. She never was very social. It sort of made her mysterious though. I think most people thought of her that way, mysterious. I knew better though. I knew her inside and out. She was more sensitive than she let people know. I knew I’d better go after her, something could be really wrong. But… It felt good dancing with Elainea. She was so beautiful, chestnut hair, wide hips, startling violet eyes. Who would want to leave?
 
@@ -146,7 +146,7 @@ Then smile finally left her face, “but I thought…Ugh… Go then.” With tha
 
 I frown and shrugged, “okay then. See you,” and walked away.
 
-I I I I I I
+## I I I I I I
 
 I jumped as someone sat down beside me. I knew it was him before he even opened his mouth. I refused to look at him. If I had I’d have forgiven him straight away. I wanted to be mad.
 
@@ -190,7 +190,7 @@ My body shook with rage and compassion, and a million other emotions. Tears star
 
 I went limp in his embrace. I didn’t know what to feel. I fought the urge to push him away. Loving the way it felt and hating the way it felt, I was so confused. We stood like that for what seemed like hours. My arms felt so heavy, like they were weighed with Hy-Brasyl. Finally I overcame the crushing weight and lifted them to wrap around his waist. I cried on his shoulder that evening as I confessed all that I was feeling.
 
-I I I I I I I
+## I I I I I I I
 
 As that year past a secret affair developed between William and I. He kept it secret from his parents because they thought he was courting Elainea. Elainea thought so too, and she rubbed it in my face every chance she got. I was so hard to hold my tongue. I was only a child then, and I knew not what I was getting myself into. Needless to say I was crushed when I got the news.
 
@@ -220,7 +220,7 @@ I looked down. “So I guess this is it. I guess this is goodbye.”
 
 “Aye, I guess this is goodbye,” he watched me I knew, though I did not look. He opened his mouth to say something, then closed it quickly and turned. He didn’t look back as he strode into the darkness. After a few minutes I started to chase after him. I stumbled and fell in the night. I did not have the heart to regain my feet. The world crashed around me.
 
-I I I I I I I I
+## I I I I I I I I
 
 For years my life was routine. I worked the fields, and for all anyone was concerned, I would never be a real woman. I would never marry, never bear children. I was just another boy, dirty from the fields. My parents soon grew so disgusted with me that they threw me out. Even my Dad, who’d been my best friend all my life, aside from William, had no pity. I was a daughter gone wrong. I felt like I could never love again.
 
@@ -258,7 +258,7 @@ I looked around, “I doubt and wardrobe change will show me the real me inside,
 
 The stranger only grinned as he approached Brody. They spoke silent words I could not here. Suddenly the strangest feeling washed over me. I felt my face and hair changing. The tangles that had grown into knots because of years of abandonment twisted and untangled like snakes retracting to strike. I a feeling of peace washed over me and I fainted.
 
-I I I I I I I I I
+## I I I I I I I I I
 
 I watched the girl as she slept. She was incomprehensibly beautiful. Long blonde hair, and from what I’d seen before she went under, striking green eyes, and that perfect figure. It was a shame she hid it all under dirt and ragged clothing. I wondered what her story was. I think I was about to find out. Her eyes fluttered open.
 
@@ -296,7 +296,7 @@ I took her up in my arms and whispered in her ear, “Ye are Beauty, my Lovely. 
 
 And she cried into my neck, cried until she was so exhausted she slept. I feared to move. I did not want to wake her. I soon too slept. She was in my arms when I awoke.
 
-I I I I I I I I I I
+## I I I I I I I I I I
 
 I stayed in Ranux’s room at the inn for three weeks. At first all I did was cry. But I soon discovered it would do me no good. As I started to feel better I realized something about Ranux, something that disturbed me far greater than his being a stranger. Ranux was an Aisling. His eyes didn’t glint with the sharp clarity, like William’s on that last night. Ranux’s were dull, yet the light was still there, submissive, yet, ever present.
 
@@ -312,7 +312,7 @@ We spent each night under the stars, wrapped in one another’s arms. He was lik
 
 I smiled in reassurance to him, “I have to face my past. Besides, no one is even going to recognize me. I’ve changed so much in these few months.” My hand reached out and clasped his, I squeezed it as we walked. I wore a simple traveling gown. But still, a gown. I’d shed my old self and finally grown anew. I was a woman now. Loved,… really this time, by a man. And a powerful Aisling man at that. I was not ashamed to show my womanhood. Instead I wore it like a proud banner, well, as proud as it could be in mundane clothing.
 
-I I I I I I I I I I I
+## I I I I I I I I I I I
 
 As we approached the Mileth gates a chill went down my spine. I ignored it. I would be calm and confident. We’d returned for the Harvest Ball where we had plans to announce our forthcoming marriage.
 
@@ -330,7 +330,7 @@ I leaned close and whispered in his ear as we danced to a slower song, “Let’
 
 We turned and walked towards the exit of the dance floor, my eyes were trained on the beautiful face of my lover. I did not see him approaching. I don’t know if I’d had recognized him if I did. Scars of Sgrios were tattooed on every limb of his body. Even his face was covered with them. He’d grown so large that he looked like one of the monsters Ranux and I had encountered in the deep pits of the Piet Sewers. I knew terror in that moment.
 
-I I I I I I I I I I I I
+## I I I I I I I I I I I I
 
 While William was away becoming a warrior he was being brainwashed. Sqrios had been calling to him for deochs. William began killing without regret. He never mourned. He’d forgotten Engelyn as soon has his blade drew its first blood. His soul was a blackened, shriveled thing, eaten up by hated and lust. He was possessed by a demon so strong that it could never be extracted from him. Evil had made him powerful and he was too strong for any force to stand against, even Love.
 
@@ -350,7 +350,7 @@ Ranux frowned at him, not at all daunted by such an imposing figure, “Excuse m
 
 I heard Ranux following me and after a time I slowed. I allowed him to catch me. As I regained my breath he began to question me, and so I told him all about my past with William. I cried then and cried and cried. Terror was still on my heels though. It’d never left my side.
 
-I I I I I I I I I I I I I
+## I I I I I I I I I I I I I
 
 That night I slept in fits and starts until finally I rested comfortably. It seemed I’d slept for bare minute before I was slapped awake by the meaty fist of a huge hand. There was a sheen of sweat on my entire body. No, not sweat, it was thicker. My mind wasn’t functioning. I looked around to find Ranux but I could not find him. I knew we’d ended to in a room at the Mileth inn. It was a mystery to my slogging mind where he could be. My vision was blurry. I didn’t see the first mind-shattering blow coming. I felt it. I crumpled to the floor. Then I realized what the thick sweat stuff was, blood. And I saw the body…
 
@@ -362,7 +362,7 @@ At midnight that day we set up camp, ironically we were a mere mile from where m
 
 I slept, comforted by the fact that we had escaped the Evil at least for the night, I couldn’t have been more mistaken.
 
-I I I I I I I I I I I I I I
+## I I I I I I I I I I I I I I
 
 I stalked them through the night. I knew the place she was taking him. I knew where she was going. I knew without the voice telling me. I’d known forever that it would happen here. He told me when I was a boy and we played here. I’d possess her this night. The voices had driven me insane in the search. For months I’d chased her and her rogue through Temiur. Finally I would have my penance for all my suffering. I could never sit and enjoy myself because I was always pressed, pressed to find the girl. That blonde girl, she threatened the voice, I knew, she threatened Sgrios. He knew what she would become if his seed was not planted in her. He knew. I didn’t know it was her, honest I didn’t, I didn’t know it was Lyn. It was out of my control though. She’d always been a pretty girl. I knew her terrified eyes would haunt me though, haunt me like Sgrios. I would escape a greater danger by following his orders though. I knew I would. I had to do it. I had to do it to end my sentence.
 
@@ -370,7 +370,7 @@ So, I took the boy first, the rogue. I beat him good. He was a bloody mess. I co
 
 Then I moved to her. She felt me coming, and she tried to run.
 
-I I I I I I I I I I I I I I I
+## I I I I I I I I I I I I I I I
 
 Time changes all people,
 

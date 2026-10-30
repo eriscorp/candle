@@ -1,5 +1,7 @@
 #  The Forgotten Pact 
 
+_by NitroTFD in **Dark Ages**_
+
 |![Image 1](images/nitrotfd_forgotten_1.png)|[Image 2](images/nitrotfd_forgotten_2.png)
 |-|-|
 
@@ -27,9 +29,9 @@ He awoke in a small damp room. He was chained to the wall and the only light cam
 
 The dreams that came to Ainmeal were strange yet clear. He was in his old town of Sarnath and he was sitting at the gates. He looked over the gates, and on the distant hill, saw a huge amount of men standing there with weapons and armor. He ran inside his house and told his dad, who quickly ran out and rang a bell that called out many, many people from their houses, armed with swords or whatever they could find, to assist the Sarnath mages and warriors. 
 
-Ainmeal could see the men from the hill break down the gates and flood in only to be met with the flame and fury of Sarnath. Yet they were many and quickly seemed to overwhelm the people. Ainmeal saw his father battling the men, killing them 2 at a time. Yet in a few moments he was surrounded with an archer’s arrow in his shoulder. Ainmeal ran to his father, knocked over one of the men and was met with a blade. It caught his arm and he fell over to dazed and confused from the sheer pain alone to move. 
+Ainmeal could see the men from the hill break down the gates and flood in only to be met with the flame and fury of Sarnath. Yet they were many and quickly seemed to overwhelm the people. Ainmeal saw his father battling the men, killing them 2 at a time. Yet in a few moments he was surrounded with an archer's arrow in his shoulder. Ainmeal ran to his father, knocked over one of the men and was met with a blade. It caught his arm and he fell over to dazed and confused from the sheer pain alone to move. 
 
-Ainmeal looked up and saw his father grab a dagger from his boot and slit the man in the face, from his forehead to the bottom of his right cheek. The man now, writhing in pain, took his blade and drove it through his father’s chest. Ainmeal didn't move of flinch, but the man's laugh was cold and loud. He looked down at him and said "Ainmeal. Never forget true power child. The power of chaos will outlive the power of growth and prosperity any day." With that the man left, leaving the town within Sarnath burned and scorched and unrecognizable, even to its residence.
+Ainmeal looked up and saw his father grab a dagger from his boot and slit the man in the face, from his forehead to the bottom of his right cheek. The man now, writhing in pain, took his blade and drove it through his father's chest. Ainmeal didn't move of flinch, but the man's laugh was cold and loud. He looked down at him and said "Ainmeal. Never forget true power child. The power of chaos will outlive the power of growth and prosperity any day." With that the man left, leaving the town within Sarnath burned and scorched and unrecognizable, even to its residence.
 
 Ainmeal awoke once more to the cold, dark room. He had been here a year now and it was Danaan 2865. Always after the dream he thought was this a dream? Or could it be more than that? Is it memories? Ainmeal often pondered this, but today his thoughts were interrupted by the breaking down of the jail walls behind them. There was the familiar sight of the Crimson guard and the Niarian Knights. Ainmeal, too weak to walk was picked up by a man and carried out of the cell and into the wilderness. Ainmeal tried to see the man's face, but it was hidden behind the dark read helmet like the rest of the crimson guard.
 

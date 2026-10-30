@@ -1,6 +1,6 @@
 # Confession of a Fae
 
-_by Aurica of **_Dark Ages_**_
+_by Aurica in **Dark Ages**_
 
 It has been many a Deoch since I had last seen my home. And although time made
 memories faded I missed it still. With such a passion for the wilderness that I

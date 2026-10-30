@@ -1,10 +1,10 @@
 # Battle of Finach
 
-_by Solinox in_ ___Dark Ages___
+_by Solinox in **Dark Ages**_
 
-_Upon a thurough search of the Library of Loures I came across several tales of a great battle faught in our very own Town of Mileth back in early Danaan 1600’s. Being a warrior and interested in anything combat I expanded my search to any scholar who may have knowledge of the battle, to my surprise a young scribe had just returned with scrolls detailing the better part of the history of Finach. I quickly scooped up the scrolls and settled into a transe at a nearby desk as I perused through them eagerly awaiting any info about my ancestors. If I had only known what I was about to unlock was a part of our history unknown to our world as we knew it._
+_Upon a thurough search of the Library of Loures I came across several tales of a great battle faught in our very own Town of Mileth back in early Danaan 1600's. Being a warrior and interested in anything combat I expanded my search to any scholar who may have knowledge of the battle, to my surprise a young scribe had just returned with scrolls detailing the better part of the history of Finach. I quickly scooped up the scrolls and settled into a transe at a nearby desk as I perused through them eagerly awaiting any info about my ancestors. If I had only known what I was about to unlock was a part of our history unknown to our world as we knew it._
 
-## The Diary of Aurin D’winter
+## The Diary of Aurin D'winter
 
 _First Warrior and founder of Finach (Mileth)_
 
@@ -20,7 +20,7 @@ _First Warrior and founder of Finach (Mileth)_
 
 ### Danaan 1603, Fall 
 
-"I am unsure where I went wrong in my leadership, but I only know that I have doomed five people to death in this cavern. Its been some times since I have written... Perhaps its because of my fears, will I ever see my child? My wife? My friends? We’ve been stranded down here for some time now, since the day Qaladar fell though the hole we found. If it werent for the plants and mushrooms and the occasional wild animal we would have long since starved by now. The only way out of here seems to be straight back up and I am unsure as to whether or not Finach will ever send a search party, its been so long they may have decided we were lost."
+"I am unsure where I went wrong in my leadership, but I only know that I have doomed five people to death in this cavern. Its been some times since I have written... Perhaps its because of my fears, will I ever see my child? My wife? My friends? We've been stranded down here for some time now, since the day Qaladar fell though the hole we found. If it werent for the plants and mushrooms and the occasional wild animal we would have long since starved by now. The only way out of here seems to be straight back up and I am unsure as to whether or not Finach will ever send a search party, its been so long they may have decided we were lost."
 
 ### Danaan 1604, Spring 
 

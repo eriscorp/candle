@@ -1,5 +1,7 @@
 # A Maiden's Tale
 
+_by Fyie in **Dark Ages**_
+
 _This is not a love story; but a story about love._ \- Bonnie
 
 
@@ -20,7 +22,7 @@ hair flows freely, containing the essence of the fragrance - lively lavender
 
 ## Chapter II
 
-“Tamailt!” -the ritual greeting every morning from her mother. "Scrub the
+"Tamailt!" -the ritual greeting every morning from her mother. "Scrub the
 floors, wash every sheet and make breakfast for the fourth room!" Runa, the
 innkeeper shouted at the top of her lungs.
 
@@ -113,7 +115,7 @@ lifted from Tamailt's chest, now that everything's all right.
 "Hello Tamailt." Kaind smiled again, and wrapped his arms around
 her. She shivered at the contact, blushed intensely, and managed to smile.
 
-"It's okay,” his smile made the world stop spinning - "We're together now."
+"It's okay," his smile made the world stop spinning - "We're together now."
 There they stood for the rest of the night, enjoying the beauty of the waters
 and the night sky. For the first time in her life, Tamailt felt secure, and
 even with so little words, Kaind would understand her. Suddenly, the world

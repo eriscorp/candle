@@ -29,7 +29,7 @@ but could not fully understand what the _Nas/as sine_ was trying to tell her.
 Frustrated by this lack of comprehension, Kiera found herself pulled viciously
 back into her body, with such suddenness that she felt nauseated and topple
 over onto her back. "Ah," she thought to herself, "will I never understand my
-dear friend's words?“
+dear friend's words?"
 
 With a start, she realized the sun was starting to set. Her father would
 be very upset if she did not return home soon. Scrambling to regain her
@@ -342,7 +342,7 @@ take a step towards him, but couldn't.
 Suddenly she couldn't move, and her vision became blurred. A mist seemed to
 envelope her, and she just barely heard his voice through the darkness.
 
-"I‘m sorry my love,"
+"I'm sorry my love,"
 
 ***
 

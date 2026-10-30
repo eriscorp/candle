@@ -1,6 +1,6 @@
 # The Energy/Magic Theory  
 
-_Formulated and Compiled By Chupaca_
+_by Chupaca in **Dark Ages**_
 
 ## Table of Contents  
   
@@ -30,14 +30,14 @@ _Formulated and Compiled By Chupaca_
 
 * [6.0 Conclusion](#conclusion)  
 
-# Introduction
+## Introduction
 
 Welcome, friend, come! Sit and be comfortable for I have much to say and
 you must be prepared to listen. An open mind is a comprehensive mind, so make
 sure you are quite attentive as you read through the following pages. If all
 is well and well is what all is, then I shall begin.
 
-## About the Author
+### About the Author
 
 How-now, what is there to tell? I suppose the slightest background will
 suffice for there is still much work to be done and many ideas to be scripted.
@@ -48,7 +48,7 @@ the elements of Fire, Earth, Wind and Water, I found the former to "agree with
 me" more than the last three. It is difficult to say why, yet we shall discuss
 this matter in more depth when the time comes.
 
-## Influences
+### Influences
 
 It was because of the mysteries behind the use of Magic that I started
 my investigation into the topic of what, shall we say, makes it work. It is
@@ -62,7 +62,7 @@ against me on this journey, and I intend to squeeze the last bit of knowledge
 out of my mind and transfer it to this paper before that being prevents me
 from doing so.
 
-# Thesis
+## Thesis
 
 The thesis is what I would like to call the destination of the
 investigation. It is the unasked question which I search to answer via any
@@ -72,7 +72,7 @@ on and you will find out in due time what the answer is. Don't be afraid to do
 a little extra thinking on the side; it is encouraged, in fact, to allow your
 mind to flourish and feed on the knowledge you see here.
 
-## Exploration of Relations
+### Exploration of Relations
 
 What we will call Energy does in fact have much to do with what we call
 Magic. In this paper, Energy will be discussed and it's solid, mundane
@@ -83,7 +83,7 @@ which to interact with Energy. Through Magic, Energy can be manipulated and
 the inverse is just as true. The skill in and art of manipulating Energy is
 the Magician's real power. This will also be discussed further on.
 
-## Projected Theorems
+### Projected Theorems
 
 This section will be devoted to outlining the specific events which I
 expect are occurring even as we speak, and how I will attempt to define and
@@ -93,7 +93,7 @@ What is IT, and how does it fit into this puzzle. The last is the theory of
 Magic, or rather the effects that energy can have on nature and the elements.
 These three points will be the main subject of this writing henceforth.
 
-# Energy
+## Energy
 
       As you may have already deferred from the name, this section will indeed
 contain the majority of this paper's details on Energy. In it will be
@@ -101,7 +101,7 @@ discussed what Energy is and what it is like. Also will be a slight inferrence
 to Magic in the final section, which will be detailed later on. Read forth,
 then, and absorb the knowledge I present to you.
 
-## What Is Energy?
+### What Is Energy?
 
       What is Energy? That is a very good question. To explain precisely what
 Energy is would be to perform a true miracle. I can only speculate on it and
@@ -120,7 +120,7 @@ as long as no other category of thread attempts to cross them. Energy is, in
 short, unharnessed power that lingers everywhere yet cannot be seen or touched
 for it is in your mind that energy exists.
 
-## Properties of Energy
+### Properties of Energy
 
 The properties of energy vary slightly in categories One through Four,
 yet shift dramatically from categories Five and Six. In categories One through
@@ -150,7 +150,7 @@ in reactions are somewhat visible:
 ("Up" and "Down" do not quite fit in this table, for they are different yet
 similar, mild and violent at the same time.)
 
-## Control and Use of Energy
+### Control and Use of Energy
 
       Man has always sought and always will seek ways to control that which he
 cannot quite understand and bend it to his will. Thus the way of the Magician
@@ -181,7 +181,7 @@ alike they are, and was able to devastate an entire onslaught of foes in a
 single mind blast. Quite a useful talent to have when you are commanding that
 much power. On I go to now discuss how related Magic and Energy really are.
 
-## Relation of Energy to Magic
+### Relation of Energy to Magic
 
       Now, to truly explain exactly how Magic ties in with Energy. All through
 the previous paragraphs of this paper I have hinted towards what you now must
@@ -200,7 +200,7 @@ take many years of practice and training, and even I unfortunately have yet to
 learn the secrets of most of the Magical procedures involved in performing the
 more grandiose summonings of the elements.
 
-# Anti-Energy
+## Anti-Energy
 
       Anti-energy... it sounds like it must be a horrid thing, yet indeed it
 is not. It is merely the sum of all places and locations and times in which
@@ -213,7 +213,7 @@ encompass inanimate objects that have a soul. Such are the Dubhaimed, cursed
 things of which I refuse to speak any longer. I will now attempt to express
 the characteristics of Anti-Energy when acted upon.
 
-## What is Anti-Energy?
+### What is Anti-Energy?
 
       There is not much to say about what Anti-Energy is that has not yet been
 said, so I shall, in lieu of wasting more time, simply form a simple list of
@@ -231,7 +231,7 @@ Fourth and lastly, Anti-Energy cannot inhabit a being or object if that object
 is currently occupied by a soul, considering souls consist of Energy in its
 purest form.
 
-## Properties of Anti-Energy
+### Properties of Anti-Energy
 
       For Energy to pass through Anti-Energy, it must indtead go around it. It
 is quite possible to avoid an obstacle by "hooking" the matrix, yet this
@@ -253,7 +253,7 @@ concetration is is very possible to "break the curse" on a poorly-enchanted
 object. This requires the user to endure much hardship, however. But I
 digress, back to the matter at hand.
 
-## Relation of Anti-Energy to Energy
+### Relation of Anti-Energy to Energy
 
       Energy and Anti-Energy are precisely what they seem to be: opposites.
 When Anti-Energy and Energy clash or combine, a violent outburst of loose
@@ -272,7 +272,7 @@ summarize what has just been said, Anti-Energy can cross Energy, Energy cannot
 cross Anti-Energy (almost at all), yet Anti-Energy can be conditioned to
 conduct Energy thread vibrations.
 
-## Asides
+### Asides
 
 This section is here to provide trivial information about Anti-Energy.
 Anti-Energy is not present in any living being or being with a soul (may rest
@@ -283,7 +283,7 @@ Energy, which has ceased to vibrate, left in a thing or object after it has
 perished or ceeded its soul. Thus ends the additional information I deem
 important to add to this subsection.
 
-# Effects of Energy on the Elements
+## Effects of Energy on the Elements
 
       Ah yes, the most anticipated chapter of this study, the explanations of
 relations between Energy and The Elements of Fire, Earth, Wind, and Water.
@@ -295,7 +295,7 @@ woven into a matrix that they take offensive shape and are subject to their
 creator's bend of will. To further explain this phenomenon which in reality
 nearly everyone calls Wizardy, the following sections I have written.
 
-## Violent Reactions
+### Violent Reactions
 
       The manner in which differently woven elemental matrices react is
 astounding. Almost always the combination of two elemental Energies results in
@@ -315,7 +315,7 @@ another Energy Element. I myself, through all my searches and writings of
 knowledge, have yet to discover the exact nature of what makes the vibrations
 from one group act differently to those of all other groups.
 
-## Correlations
+### Correlations
 
       To bring close to the subject and tie the loose ends of the knot
 together in another knot on the very same rope, I make these correlations of
@@ -334,7 +334,7 @@ E, S, W, N, ...] and so on. I find it difficult to explain in words what comes
 so clearly to me in my mind. I can only hope that you may extract the images I
 get in my mind from the spastic information spotted on this page.
 
-# Conclusions
+## Conclusions
 
       There is so much more to say, so much that goes unsaid, yet it is far
 from the boundaries of my reach to grasp such concepts as the primal existance
@@ -357,6 +357,10 @@ bundle of papers, on which my knowlege has reached peak accumulation, in a
 place less succeptable to search and siezure. Darkness is almost upon me now.
 One final incantation. (Recite this exerpt if ever protection you need from
 the reading of these papers): _"b'irlinn ort agus leighis le 'r feabhas"_...
+
+_Formulated and compiled by Chupaca_  
+
+***
 
 ```
 *Librarian Notes*

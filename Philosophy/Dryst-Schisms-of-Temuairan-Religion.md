@@ -1,6 +1,6 @@
 # Schisms of Temuairan Religion
 
-_By Dryst in **Dark Ages**_
+_by Dryst in **Dark Ages**_
 
 Although there are eight known Deities in the Temuairian world, there has been
 much friction even between the followers of the same Deity. Interpretations of
@@ -87,4 +87,13 @@ I part with some wisdom from the other realm...
 > Even the most powerful can not maintain control unless they can transform
 > force into right and obedience into duty."
 > \- Jean-Jacques Rousseau
+```
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
 ```

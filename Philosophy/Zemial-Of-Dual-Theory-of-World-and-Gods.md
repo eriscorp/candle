@@ -25,7 +25,7 @@ opinion, be a risk of internal contradiction.
 
 1. Why would one change the elemental theory?
 
-  As described in Grim's essay "[Hexagram](./Grim–Hexagram.md)" or Kedian's
+  As described in Grim's essay "[Hexagram](./Grim-Hexagram.md)" or Kedian's
 "[Aosdic Mystic Theory](./Kedian-Aosdic-Mystic-Theory.md)", the six basic
 elements, that are Light, Darkness, Air, Earth, Water and Fire, are supposed to
 be able to describe the world as a composition of those six entities. Each

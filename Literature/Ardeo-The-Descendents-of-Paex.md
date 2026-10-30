@@ -1,4 +1,4 @@
-# The Descendands of Paex
+# The Descendants of Paex
 
 _by Ardeo in **Dark Ages**_  
 

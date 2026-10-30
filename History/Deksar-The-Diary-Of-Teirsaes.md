@@ -1,6 +1,6 @@
 # The Diary of Teirsaes
 
-_Compliation and comments by Deksar math-K'sull in_ ___Dark Ages___
+_by Deksar in **Dark Ages**_
 
 ## Introduction  
 by Deksar
@@ -55,7 +55,7 @@ Mallacht! Mallacht brach! Aisling tinn, codail tinn...an codail deireadh - dubbh
 
 And that was the last entry from the diary. I presume Teirsaes is dead, or a victim of some far worse fate. However, his findings are astounding...almost unreal. Did this really happen, or is this some kind of a joke played by a priest of Sgrios? What was the "intelligent" dubhaim he talked about? He keeps mentioning that whatever "it", it is not the "Evil God"...so what could it be? I publish his diary entries so that, perhaps, someone can make sense out of this text. What tongue is the last part of the text in? I can't seem to understand...I am sure the key to whatever happened to Teirsaes is in there, but I cannot decipher it...if anyone can decipher the mystery of Teirsaes, I would be most obliged. I will soon have his notes and theories on dubbhaim complied, which may bring even more insight into the truth about what happened with philosopher Teirsaes.
 
-Deksar math-K'sull
+_Compilation and comments by Deksar math-K'sull_  
 
 ***
 

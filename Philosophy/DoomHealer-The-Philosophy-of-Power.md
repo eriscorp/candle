@@ -1,6 +1,6 @@
 # The Philosophy of Power
 
-_by DoomHealer in **DarkAges**_
+_by DoomHealer in **Dark Ages**_
 
 _Power. What is it? How do we obtain it or know if we have it? And how do we
 know if we are more powerful than someone else? These are the questions that I
@@ -74,3 +74,12 @@ would not be able to beat a Rogue that has the same experience as himself.
 
 That concludes the first Manuscript On the Philosophy of Power by DoomHealer.
 Priest of Fiosachd, Third Circle.
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

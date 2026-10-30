@@ -1,6 +1,6 @@
 # The Hexagram : The Inversion of Balance
 
-_as explained by philosopher and theologian Grim of the Neverlands_
+_by Grim in **Dark Ages**_
 
 ![Scribblings of a madman](./images/Grim-Hexagram-diagram.png)
 
@@ -80,6 +80,8 @@ I fear the time is at hand when the forces are becoming unbalanced and man must
 take action. I will write more at a later date if required, for now these eyes
 have seen sites that tire not only the mind and body but the soul as well. Be
 well and wise...see you in the after...
+
+_as explained by philosopher and theologian Grim of the Neverlands_  
 
 ***
 

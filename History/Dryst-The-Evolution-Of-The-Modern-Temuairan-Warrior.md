@@ -1,6 +1,6 @@
 # The Evolution of the Modern Temuairan Warrior: Swords and Armor
 
-_By Dryst in_ ___Dark Ages___
+_by Dryst in **Dark Ages**_
 
 It is commonly known that the first warriors appeared in Temuair in Dannan 1501. However, the warriors that first appeared in Temuair are nothing like the what we know commonly know now as the class of Aislings called warriors. The developments in arms now commonly outfit todays warriors had of course yet to be developed. The same is true for the modern skills that warriors now use in battle. Artifiacts from the 7th Aeon have given us some idea what type of equipment was first used by warriors.
 

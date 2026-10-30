@@ -1,6 +1,6 @@
 # History of Sgrios
 
-_by Dryst in_ ___Dark Ages___
+_by Dryst in **Dark Ages**_
 
 Many Aislings of today believe that Sgrios is the end all of evil because he represents death and destruction. This however, is not entirely true. Death and destruction are merely an aspect or lesser counterpart of evil. The appearance of Sgrios dates back Danaan 1985 in the Eigth Aeon. His appearance coincided with time the first mortals entered into Chadul's realm. Chadul is in fact the source of evil throughout Temuair, not Sgrios. There are many historical theories as to why Sgrios' appearance coincided with mortal entrance into Chadul's realam but none have been confirmed. One of the more widely accepted theories is that Sgrios was in fact a mortal whose lust for power induced him to enter into a pact with Chadul. 
 

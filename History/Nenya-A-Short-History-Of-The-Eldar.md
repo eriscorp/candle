@@ -1,6 +1,6 @@
 # A Short History of the Eldar
 
-_by Nenya in_ ___Dark Ages___
+_by Nenya in **Dark Ages**_
 
 My name is Nenya, I am not the same as those of you that are reading this. I am not human, in fact I am more closely related to the fairies you see darting beneath the flower petals then I most likely am to you or your kin. A while ago, however, I was taken from my home, and I awoke in Mileth. I am now an Aislings, and that is our single unifying factor. During my time here, I have discovered some writings of my people, they are the only things I have besides legends to go on, so I have taken a great interest in reading them. I felt however that it would be wise to put, at least, a basic history of my people in writing for all to see. 
 
@@ -50,7 +50,7 @@ He heard a divine voice, clear and speaking directly to him. It was the voice of
 
 As the party surrounded him, he stood proud and tall. He demanded in an assured voice to see the king. The Guards, unsure of what to do, led him back to the fortress above the city. They led him in the courtyard, where the Captain of the Guard, the greatest warrior and one of the most respected members of the society, confronted him. Asking what he was doing here, Turin replied simply.
 
-"I am here to see your king, take me too him." The Captain stood silent for a minute; the silence grew ever awkward. Turin added, "I have a message meant for his ears." The Captain’s will be broken, and he lead Turin down through the Girdle of Thaerwain, and in to the city square inside the glorious city. Here a huge crowd gathered to see the strange manling before them, and the king came with his full entourage.
+"I am here to see your king, take me too him." The Captain stood silent for a minute; the silence grew ever awkward. Turin added, "I have a message meant for his ears." The Captain's will be broken, and he lead Turin down through the Girdle of Thaerwain, and in to the city square inside the glorious city. Here a huge crowd gathered to see the strange manling before them, and the king came with his full entourage.
 
 As the King waited, expecting Turin to bow, Turin merely stood there before him, and asked if he truly was the King of Thaerwain. The King surprised by the human's knowledge of even the name of the city, was stunned for a moment, before replying that he in full truth was Lanthrial the King and Lord of Thaerwain, and the Eldar. At this moment Turin began to look as if he rose above all of those of the crowd in stature, and grace. He spoke with a voice, not all his own, and the divine words came forth with commanding force. He delivered the message, and the King listened with surprise and awe. Turin was given fine quarters in which to rest, while the King and the council discussed the future. If they set out to join the battle, their existence would be revealed, but if they stayed the world could easily be destroyed.
 

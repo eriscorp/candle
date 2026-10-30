@@ -1,6 +1,6 @@
-## The Development & Mannerisms of the Greater Temuairan Insects
+# The Development & Mannerisms of the Greater Temuairan Insects
 
-_By Velious in **Dark Ages**_
+_by Velious in **Dark Ages**_
 
 
 The insects of Temuair have often become the topic of many Aislings, mostly

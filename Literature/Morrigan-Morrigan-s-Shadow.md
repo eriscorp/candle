@@ -312,7 +312,7 @@ One, Two, Three, Four. Each one not like the last. Twenty, Twenty-one,
 Twenty-two. _Why am counting these?_ she wondered. _Hey snow isn't white, it
 makes a rainbow, but then... where am I... what is that up ahead?_
 
-# To See is to Despair
+## To See is to Despair
 
 The voices had fallen silent now, as Maerista continued her steady climb,
 leaning heavily on her staff. She initially felt relief, but in many ways the
@@ -641,4 +641,13 @@ Librarian Notes
 
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Morrigan-Maerista_Shadow.html .
+```
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
 ```

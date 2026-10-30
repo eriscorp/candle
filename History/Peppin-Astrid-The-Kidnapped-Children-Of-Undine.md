@@ -1,6 +1,6 @@
 # Astrid - The Kidnapped Undine Children
 
-_By Peppin in_ ___Dark Ages___
+_by Peppin in **Dark Ages**_
 
 "_The Children of Astrid A part of our ongoing history that is for may Aisling unknown is the history of the great forest of Astrid. I have met few aisling even knowing of the children kidnapped by the shamans. I have rescued as many of the children as i have been able to. Once back at the Undine Pub one of the children told me this story of many horrors and sufferings._"
 

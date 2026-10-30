@@ -1,6 +1,6 @@
 # Manach
 
-_By Cliona in **Dark Ages**_
+_by Cliona in **Dark Ages**_
 
 The young monk clenched her hands into fists at her sides, her gazed fixed upon
 the approaching bat. It took everything she had within her not to look in the

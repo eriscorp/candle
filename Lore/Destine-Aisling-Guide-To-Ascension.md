@@ -1,6 +1,6 @@
 # Aisling's Guide to Ascension
 
-_by Destine in_ ___Dark Ages___
+_by Destine in **Dark Ages**_
 
 ## Introduction
 

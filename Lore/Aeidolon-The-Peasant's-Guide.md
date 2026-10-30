@@ -1,6 +1,6 @@
 # The Peasant's Guide to Choosing a Craft
 
-_by Aeidolon in_ ___Dark Ages___
+_by Aeidolon in **Dark Ages**_
 
 If thou art reading this, it must be because you have awoken with the rare spark of creativity which makes you an Aisling.  Doubtless you have many questions concerning the crafts from which you must choose one to advance in life.  There are 5 crafts that you can choose from: Monk, Priest, Rouge, Warrior, and Wizard.  Each craft has its own advantages and disadvantages.  Only you can decide which craft is best.
 
@@ -71,7 +71,7 @@ Wizards should decide their main element early on and stick with it. By focusing
 
 ### Warriors
 
-I don't know any real boosters for warriors.  I suggest that maybe you do the obvious - hunt.  Hunt a lot.  Eventually you will be able to learn to tailor and to smith weapons.  Do that too.  Always try to have a "good" weapon or armor equipped as this will make you more powerful and you will take less damage.  And for Danaan’s sake, take a Priest with you.  Warriors are not invincible, whatever they may think.
+I don't know any real boosters for warriors.  I suggest that maybe you do the obvious - hunt.  Hunt a lot.  Eventually you will be able to learn to tailor and to smith weapons.  Do that too.  Always try to have a "good" weapon or armor equipped as this will make you more powerful and you will take less damage.  And for Danaan's sake, take a Priest with you.  Warriors are not invincible, whatever they may think.
 
 ### Rouges
 

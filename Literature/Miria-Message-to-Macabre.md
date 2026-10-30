@@ -1,5 +1,7 @@
 # Message to Macabre
 
+_by Miria in **Dark Ages**_
+
 Glioca's hand reaches beyond the plague,  
 Her love does not end at the grave.  
 She calls to me, and I to you,  

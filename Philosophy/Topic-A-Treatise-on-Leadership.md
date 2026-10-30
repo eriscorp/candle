@@ -72,7 +72,7 @@ nearly overwhelmed by the organization and leadership of the mundanes during
 times of distress.
 
 The first instance, according to the
-"[History of Undine](../History/Cliona-History-of-Undine.md)" as told by the
+"[History of Undine](../History/Cliona-The-History-Of-Undine.md)" as told by the
 aisling Cliona, around 2991 in the time of Danaan, mundanes and aislings were
 being driven from their homes in Undine in order to seek reprieve from the
 decrees of their new ruler, the Empress of Loures. Soon thereafter, some move
@@ -257,11 +257,11 @@ aislings and curious mundanes:
 
 Citations
 
-[Cedrik - poetry - "Impact"](../Literature/Cedrik-Impact.md)  
-[Cliona - history - "History of Undine"](../History/Cliona-History-of-Undine.md)  
+[Cedrick - poetry - "Impact"](../Literature/Cedrick-Impact.md)  
+[Cliona - history - "History of Undine"](../History/Cliona-The-History-Of-Undine.md)  
 [Feena - lore - "Will You Guide Me?"](../Lore/Feena-Will-You-Guide-Me.md)  
 [LadyKyra - poetry - "A Temuairian Warrior"](../Literature/LadyKyra-A-Temuairan-Warrior)  
-[Peppin - history - "Astrid - The Children of Undine"](../History/Peppin/Peppin-Astrid-The-Kidnapped-Children-Of-Undine.md)  
+[Peppin - history - "Astrid - The Children of Undine"](../History/Peppin-Astrid-The-Kidnapped-Children-Of-Undine.md)  
 [Zirilian - poetry - "Fair Undine"](../Literature/Zirilian-Fair-Undine.md)  
 
 ***

@@ -1,6 +1,6 @@
 # The Choosing of Parlan Mire
 
-_By Cliona in **Dark Ages**_
+_by Cliona in **Dark Ages**_
 
 Cliona stood, dripping. She gathered up her soaked hair in her small white
 hands, pushing it behind her shoulders where it began to dry, curling, in dark

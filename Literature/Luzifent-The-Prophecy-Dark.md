@@ -1,5 +1,7 @@
 # The Prophecy Dark
 
+_by Luzifent in **Dark Ages**_
+
 Through the streets of Rucesion he furiously strode  
 in his mind was what the portents bode.  
 By his failure to arrive and intervene  

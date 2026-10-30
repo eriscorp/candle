@@ -1,6 +1,6 @@
 # The Codex of Saintly Knowledge: The Guide to All Things Religious
 
-_by Angelique in_ ___Dark Ages___
+_by Angelique in **Dark Ages**_
 
 _Welcome, Seeker, to the Codex of Saintly Knowledge. Herein, the mysteries of faith will be explained and expounded upon. Due to the diversity of Temuairan faith, I will endeavor to remain neutral in my opinions of each faith, and present an honest, straightforward look at each aspect of Religion._
 
@@ -83,12 +83,12 @@ _Luathas_
 + __Destruction Ritual__: This mighty prayer calls upon the light to destroy all foes in sight.  
 + __Great Storm__: Summons the power of Gnosis, and wreaks deadly lightning damage to all hostile creatures.  
 + __Awaken and Clear their Vision__: This miracle removes the effects of Pramh, Dall, and Suain, from an Aisling Group, and also allows the group to perceive those hidden from sight.  
-+ __Inspire Group__: This noble miracle sacrifices nearly all of the supplicant’s life in order to restore health and/or mana to the rest of the group.  
++ __Inspire Group__: This noble miracle sacrifices nearly all of the supplicant's life in order to restore health and/or mana to the rest of the group.  
 + __Songs of the Shrine__: Creates an amount of Songs of the Shrine which return you to the threshold of the city where the God's shrine is located.  
 
 _Gramail_
 + __Remove Enchantments__: Disrupts all enchantments upon an Aislings Group.  
-+ __Reflect Enchantments__: Increases an Aisling Groups’ resistance to harmful magics.  
++ __Reflect Enchantments__: Increases an Aisling Groups' resistance to harmful magics.  
 + __Step through Space to Home__: Allows an Aisling to return to their home city instantly. It is similar to the Daichadh spell.  
 + __Bend Space__: Allows a random folding of the space around an Aisling to place them away from their current position.  
 + __Arcane Scrolls__: As Gramail is also the God of Transportation, this miracle allows the creation of random Songs of the Shrine.  
@@ -96,7 +96,7 @@ _Gramail_
 
 _Deoch_  
 + __Remove a Scar of Sgrios__: Through the flames of inspiration, an Aisling is healed of the touch of Sgrios. An Aisling can only recover from a scar once a day `3 hours`.  
-+ __Resurrection__: This miracle will return life to a group member who is on death’s door.  
++ __Resurrection__: This miracle will return life to a group member who is on death's door.  
 + __Remove Blind, Sleep, and Curse__: The blessing of Deoch removes blindness, magically induced sleep, and foul curses.  
 + __Regenerate My Power__: Restores health and mana to the supplicant.  
 + __Furious Strike__: An enemy suffers a terrible blow from an unseen force.  
@@ -109,7 +109,7 @@ _Sgrios_
 + __Cradh__: The touch of Sgrios brings a massive curse upon all who are near.  
 + __Spion Chadul__: Invokes the dark power of Chadul to mortally wound all in sight.  
 + __Spion Sgrios__: Summons the touch of Sgrios to scar an Aisling.  
-+ __Claim an Aisling Soul__: Through the death of said Aisling for the next moon, the supplicant’s faith is increased.  
++ __Claim an Aisling Soul__: Through the death of said Aisling for the next moon, the supplicant's faith is increased.  
 + __Songs of the Shrine__: Creates an amount of Songs of the Shrine which return you to the threshold of the city where the God's shrine is located.  
 
 For priests of the God, there is also another ritual that can be cast outside of the temple. The Mass can be held anywhere, so long as the priest knows of the secret to the spell of Mass `click X Mass spell, where X is the name of the God served.`. In order to do so, the priest must first cast the Mass spell. Upon completion of the chant, the priest must spring forward `move forward on step` and then fall back into the original position of the casting. Once returned to the spot, the deity will appear before you and ask if you wish to begin the mass alone or with an assistant. An assistant is almost always desired. After the final prayer is finished, the Mass will be cast, and the dance of holy ecstasy can begin.

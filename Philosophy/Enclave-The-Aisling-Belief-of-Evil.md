@@ -77,3 +77,12 @@ Neither of these claims could be verified.
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Enclave_Evil.html .
 ```
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

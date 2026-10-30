@@ -1,6 +1,6 @@
 # A Call to Duty: Life as a Mileth Guard
 
-_by Dryst in_ ___Dark Ages___
+_by Dryst in **Dark Ages**_
 
 Occasionally while traveling about Temuair you may stumble upon another Aisling who wears a dark green garb known as a tabard.  Do not ask this individual where you may obtain such armor because it is not in fact armor but rather a uniform.  Insight alone does not give the Aisling the privilege of this uniform.  It is not only a privilege however, because with the uniform comes a duty to serve and protect the citizens and community of Mileth.  The uniform signifies that the Aisling is a Mileth guard and is on duty to help citizens and passersby alike.
 

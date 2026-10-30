@@ -1,6 +1,6 @@
 # Chocolate
 
-_by Etienne in_ ___Dark Ages___
+_by Etienne in **Dark Ages**_
  
 ## Legend
 
@@ -67,3 +67,12 @@ The 3058th year of Danaan was terrible for the chocolate industry, consumers, an
 In the time from Danaan 3278 to 3291 new agricultural technologies allowed Piet to increase its cocoa production, leading the price of chocolate to lower levels. Now accessible to a greater share of the population, chocolate was no longer a symbol of social status, and began to be sold in common stores along other less glamorous sweets. However, even today, the price is still higher than most can pay. Perhaps in the future, if a way is found to increase the production of cocoa even more, chocolate will be a candy or a beverage the whole Temuairan population can appreciate. 
 
 _Etienne Suarven Lorneau_
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

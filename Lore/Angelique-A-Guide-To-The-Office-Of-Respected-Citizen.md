@@ -1,6 +1,6 @@
 # Community Service: A Guide to the Office of Respected Citizen
 
-_by Angelique in_ ___Dark Ages___
+_by Angelique in **Dark Ages**_
 
 The office of Respected Citizen is an important office to be held. Without at least one term as one, you cannot proceed further in Politics. This important stepping stone in politics has a great function in society as a whole. A Respected Citizen is a member of society who has earned the esteem of his fellow citizens, mundane and Aisling alike. So, you may ask, what does this mean for me? It means a whole new exciting world in which you have the opportunity to aid your fellow Aisling!
 
@@ -16,7 +16,7 @@ Before you begin any job, it is good to know what tools you will be able to use.
 
 - _Regionally Tailor Clothing_ – This ability shows how the Respected Citizen should exemplify Community Service. As the only way to Regionally Tailor is to have been a Respected Citizen, it is obvious that the service was designed to help reach out to the Community. How better to get acquainted with people, then by doing favors for them? Regionally Tailored garments make excellent gifts, and can help to make your name better known. With attention directed to you, you can easily show your stands, and climb further on the Political Ladder. Also, the ability of Regionally Tailoring can be used in and out of term as Respected Citizen.
 
-- _Enter the Tutorial_ – Perhaps the most serious duty of the Respected Citizen is to combat heresy. As a foot soldier of the great Political Machine, the Respected Citizen is on the forefront of the battle. They, of all offices, are the only ones who may enter the mundane's tutorial. There, inside the tutorial, they can be the first Aisling that a freshly inspired Aisling may see… And who better to welcome confused young Aislings into Temuair, than the Respected Citizen? If given examples of outstanding behavior early into Aislinghood, rampant heresy could very well be cut down. This ability is only useable while in term.
+- _Enter the Tutorial_ – Perhaps the most serious duty of the Respected Citizen is to combat heresy. As a foot soldier of the great Political Machine, the Respected Citizen is on the forefront of the battle. They, of all offices, are the only ones who may enter the mundane's tutorial. There, inside the tutorial, they can be the first Aisling that a freshly inspired Aisling may see... And who better to welcome confused young Aislings into Temuair, than the Respected Citizen? If given examples of outstanding behavior early into Aislinghood, rampant heresy could very well be cut down. This ability is only useable while in term.
 
 Now, that we have discussed the abilities of the Respected Citizen, let us move on to the more important issue, that of the expected actions of the Respected Citizen. As an exemplar member of Society, it is only natural to expect exemplar behavior from a promising Respected Citizen. As the pillars of society, they are expected to be law-abiding, and to work in concert with the other officials of the city. A Respected Citizen should report law breaking, heresy, but on the same hand, should also commend displays of Aislinghood ((Role Playing)), and seek to help heretics combat their problems.
 

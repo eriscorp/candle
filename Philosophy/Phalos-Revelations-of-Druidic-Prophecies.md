@@ -1,6 +1,8 @@
-# Introduction
+# Revelations of Druidic Prophecies
 
 _by Phalos in **Dark Ages**_
+
+## Introduction
 
 Upon a woodland path, you follow alongside infinite plants of all nature. On
 the northern side, beyond the farthest reaches of the path, you glimpse a set

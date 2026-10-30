@@ -1,6 +1,6 @@
 # The Peasant Army
 
-_By Reiana in **Dark Ages**_
+_by Reiana in **Dark Ages**_
 
 The dawning of a new age on Temuair brought forth a population boom that would
 be a record for centuries. Children were born everywhere in mass numbers, and

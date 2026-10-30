@@ -1,6 +1,6 @@
 # A Wizard's Mistake
 
-_by Teger of **Dark Ages**_
+_by Teger in **Dark Ages**_
 
 The day dawned beautifully, a yellow sun rising into the sky. Clouds marshaled
 around the orb as soldiers marshal around a general. Tristam looked at his feet

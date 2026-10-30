@@ -1,6 +1,6 @@
 # Mayuki's Song
 
-_by Mayukichan of **Dark Ages**_
+_by Mayukichan in **Dark Ages**_
 
 Oh cherished soul,  
 Awaken from thy slumber,  

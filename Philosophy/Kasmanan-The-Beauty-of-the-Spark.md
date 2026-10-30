@@ -99,7 +99,7 @@ that end, I will leave this subject be, lest I become longwinded and bore you.
 I hope you are able to find strength in my words, and enrich yourself and the
 aislings around you. Be well and be safe...
 
-_Kasmanan D’Arth_
+_Kasmanan D'Arth_
 
 ***
 

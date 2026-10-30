@@ -1,8 +1,8 @@
 # Theological Integration of an Aisling
 
-_By Artadelanmir in **DarkAges**_
+_by Artadelanmir in **Dark Ages**_
 
-# Introduction
+## Introduction
 
 When thy land's high priests and priestess presented to the mundanes a plan for
 a new class system for the theological worshipping many thoughts arose, as
@@ -16,7 +16,7 @@ undesired and looked down upon to society. Because of my unanswered question I
 have sought out many aislings, mundanes, and books that discussed
 these religions and have come to a full understanding of each fellowship.
 
-# Important Notices
+## Important Notices
 
 This article was created not only for the help of an aisling's decision on
 religion based on his life, but also his way of life based on his religion. I
@@ -29,7 +29,7 @@ the following is how the allied fellowships overlap each other in our every day
 life contributing to previous beliefs held amongst the earliest
 followers.
 
-# Deoch
+## Deoch
 
 The Deoch Fellowship thrives off of the great belief of balance between the
 uncontrolled evils and holiness of the land as well as the spreading of light
@@ -40,7 +40,7 @@ They would seek relationships of others who often take life drastically going
 through hard times but managing to survive and aislings that have a unique
 sense of personality with the will to express themselves.  
 
-# Glioca
+## Glioca
 
 Of the eight fellowships Glioca is probably the easiest to understand, but
 should never be crossed by any means. Her ways are purely that of light, and
@@ -54,7 +54,7 @@ intended to spread light, similar to Deoch. A follower of Glioca will seek a
 relationship with someone who has a true heart, although may not show it
 fully, and will accept their lover for who they are.  
 
-# Cail
+## Cail
 
 An aisling follower of Cail is a very interesting one. They will use the flow
 of love and the divinity of natural laws to seek peace with the earth.
@@ -64,7 +64,7 @@ respectability in an aisling. Their worshipping of nature allows them to see
 the truth behind an aislings words, thus allowing them to gain deep and long
 lasting relationships.  
 
-# Luathas
+## Luathas
 
 Similar to Cail, Luathas worshippers will seek distinctiveness in their lover
 that bears something behind the chatter, but in this case it is that of the
@@ -77,7 +77,7 @@ their learned wisdom and knowledge which they live strictly by, manipulating
 society with them for a greater purpose, commonly committed through
 conspiring.  
 
-# Gramail
+## Gramail
 
 Gramail is the strictest within his laws. He is the opposite of both light and
 darkness, trying to mend either of them to meet the hands of justice. They
@@ -89,7 +89,7 @@ to be sought with another who is greatly involved within politics, having a
 great desire for control in their own safety to an extreme, and contributing
 to the balance where they are helping the suffered and punishing the wicked.  
 
-# Fiosachd
+## Fiosachd
 
 His followers have just crossed the line of neutrality into the realms of
 darkness to the slightest degree. This is done when such conspiring goes on
@@ -100,7 +100,7 @@ fortune, and not usually a lasting one. However, there is some hope in their
 relationships when they meet their match where love comes through their
 competition of each other.  
 
-# Ceannlaidir
+## Ceannlaidir
 
 These followers all strive for the lust of war. They love to hunt with others,
 share war stories, battle in the newly built famous Loures Arena, and compete
@@ -113,7 +113,7 @@ Ceannlaidir and because they are use to this way of life. Even though they
 often participate in Politics, they are also nomadic, attending to wars in far
 off lands for their own recognition to each other.  
 
-# Sgrios
+## Sgrios
 
 Some say that Sgrios followers aren't necessarily evil and don't always wish
 to cause destruction and harm or political outbreaks. However I would not go
@@ -127,7 +127,7 @@ destruction and chaos. Their lovers will come from either a cruel fait in
 their eyes, or a hope of inspiration and a will to recover their neglected
 souls.
 
-# Conclusion
+## Conclusion
 
 Hopefully these realities of theological integrations have broadened your
 thought on the living aisling within each fellowship. I wrote each quality by

@@ -1,5 +1,7 @@
 # Fiosachd and His Place in the World
 
+_by Reynnard in **Dark Ages**_
+
 Throughout my Deochs in the land of Temuair, I have had time to contemplate
 much, both as a rogue and as of late in the direct service of our Lord Fiosachd
 himself. I doubt there is a more misunderstood deity within all of Temuair.
@@ -185,7 +187,7 @@ are not entirely clear. It is rumored that our lord may have taken some secret
 knowledge, possibly the knowledge of the dark element and hid it away from
 Luathas and his kind. It is even whispered that he hid it so well that even he
 could not find it himself. Theft, deception, and trickery, most definitely not
-above Fiosachd‘s abilities. The denial of knowledge would certainly have
+above Fiosachd's abilities. The denial of knowledge would certainly have
 inspired Luathas's ire. With this in mind it is easy to see how Gramail could
 have passed the judgment of exile, for law is law. And the God of Gnosis would
 have created a thorough and damning case against Fiosachd's actions. Which our

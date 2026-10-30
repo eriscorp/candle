@@ -1,4 +1,4 @@
-# On an Aisling’s Hair Color
+# On an Aisling's Hair Color
 
 _by Platina in **Dark Ages**_
 

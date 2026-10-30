@@ -1,6 +1,6 @@
 # A Peasant's Introduction to Temuair
 
-_by Duplico in_ ___Dark Ages___
+_by Duplico in **Dark Ages**_
 
 ## Introduction
 
@@ -73,7 +73,7 @@ There are also masses. These are group worships that you may only attend once a 
 
 _You, Young Aisling, have done a great many things. Now, however, you must continue on your next step to becoming the avid adventurer that is all Aislings' destiny and birthright. Spells, also known as secrets, are the backbone of Wizards, Priests, and to a lesser extent, even Rogues!_
 
-Dar. Devlin. Master of the Dark Arts. Mundane Fae Priestess. Giver of spells. Giver of spells. Dar, number 1 on your map, gives basic wizard spells, and basic priest offensive spells. Every spell requires a certain insight, and certain stats. If both your insight and stats are what is necessary for the spell, you require certain items to prove your worthiness. I can't give you much help in the way of spells, since they are an extremely personal kind of thing. Find the items necessary and bring them to the mundane. Once you learn a spell, you need to test it. Travel to the Crypt, labeled as "Crypt" on your map. Once you arrive, press "d." Now, right-click your new spell. Type in an incantation which will appear above your character's head in blue when you cast it. There are many ways to cast a spell. One way is to double-click it, then click your target. Another is to click and drag the spell to the target. Spells such as fein forms that don’t have targets don’t have to have the target clicked. Another way is to press the number key of the spell. Example: your first spell is 1, your 10th is 0. Each row holds 11 spells. Skills can be used the same way. Simple, eh? There are many spells for you to learn. The best way to find them is to explore the lands of Temuair. Skills are learned and used in the same way.
+Dar. Devlin. Master of the Dark Arts. Mundane Fae Priestess. Giver of spells. Giver of spells. Dar, number 1 on your map, gives basic wizard spells, and basic priest offensive spells. Every spell requires a certain insight, and certain stats. If both your insight and stats are what is necessary for the spell, you require certain items to prove your worthiness. I can't give you much help in the way of spells, since they are an extremely personal kind of thing. Find the items necessary and bring them to the mundane. Once you learn a spell, you need to test it. Travel to the Crypt, labeled as "Crypt" on your map. Once you arrive, press "d." Now, right-click your new spell. Type in an incantation which will appear above your character's head in blue when you cast it. There are many ways to cast a spell. One way is to double-click it, then click your target. Another is to click and drag the spell to the target. Spells such as fein forms that don't have targets don't have to have the target clicked. Another way is to press the number key of the spell. Example: your first spell is 1, your 10th is 0. Each row holds 11 spells. Skills can be used the same way. Simple, eh? There are many spells for you to learn. The best way to find them is to explore the lands of Temuair. Skills are learned and used in the same way.
 
 ## Quests, Experience and the Mileth Fair
 

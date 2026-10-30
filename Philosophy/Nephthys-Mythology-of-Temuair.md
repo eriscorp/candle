@@ -42,7 +42,7 @@ In fact, the most ancient pantheon of temuarian civilizations but our knowledge
 of it is incomplete as it is incomplete the knowledge of aosdan theirselfs.
 There are many studies about aosdic culture and history but this is beyond the
 scoope of this work. I suggest the reading of Kedian's [Aosdic Mystic Theory](./Kedian-Aosdic-Mystic-Theory.md)
-and Maerista's [The Book of the Black Cow](../History/Maerista-The-Book-of-the-Black-Cow.md).
+and Maerista's [The Book of the Black Cow](../History/Maerista-Book-Of-The-Black-Cow.md).
 
 The aosdan phanteon may be composed of many gods and can be divided into two
 groups - the Earth-Sea gods and the Kadath related theology (also called Other

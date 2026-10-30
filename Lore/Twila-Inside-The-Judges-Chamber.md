@@ -1,6 +1,6 @@
 # Inside the Judge's Chamber: A Guide to Surviving the Bench with the Minimum Number of Splinters
 
-_by Twila in_ ___Dark Ages___
+_by Twila in **Dark Ages**_
 
 >__Judges Oath__
 >

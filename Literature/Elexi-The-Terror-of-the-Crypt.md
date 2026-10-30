@@ -2,7 +2,7 @@
 
 _by Elexi in **Dark Ages**_
 
-# The Terror
+## The Terror
 
 Renoan awoke one night next to a tree after a long, restful nap. He rubbed his
 eyes, yawned, and looked up at a bright moon illuminating so nicely. The calm

@@ -1,6 +1,6 @@
 # Bestiary of Temuair
 
-_by Angelic in_ ___Dark Ages___
+_by Angelic in **Dark Ages**_
 
 ## Mileth Crypt
 

@@ -1,6 +1,6 @@
 # The Mark of Cail: The History of Cail's Birth and the Wars of Undine
 
-_By LatentAura in_ ___Dark Ages___
+_by LatentAura in **Dark Ages**_
 
 Many moons ago, the God Ceannlaidir ravaged the lands with war and strife. As he harmed Aislings and Aislings children, Glioca, goddess of compassion, called upon all her strength and love to heal the ailing world. Ceannlaidir, realizing that he could not dominate while she was calling upon herself to aid the fallen Aislings, devised a plan to prevent her from having the fortitude to assist anyone else.
 
@@ -10,7 +10,7 @@ He beseeched her to heal him, stating that he was near Sgrios' door. With all of
 
 Glioca bore Cail near the waters of Undine not far from the shrine that stands to honor him today. Cail was not a beautiful child as he was stricken with the ugliness of war and the hideous states of death caused by his father. Although not attractive to the eye, Cail possessed the compassion for the world around him and respect for the lives of the Aislings that his mother fought to save for so many moons. These qualities endeared him to many.
 
-Word soon reached Ceannlaidir that Glioca had borne a son. Ceannlaidir was furious for he knew that this son driven with the passion of his mother and holding the strength of his father could strike him down. So Ceannlaidir decided to punish the child Cail. He stripped him of the ability to bear weapons for one fell swoop of Cail’s hand would bring Ceannlaidir to his knees. In his haste Ceannlaidir forgot to take Cail's ability to dominate. Thus, allowing Cail to create balance in the world around him.
+Word soon reached Ceannlaidir that Glioca had borne a son. Ceannlaidir was furious for he knew that this son driven with the passion of his mother and holding the strength of his father could strike him down. So Ceannlaidir decided to punish the child Cail. He stripped him of the ability to bear weapons for one fell swoop of Cail's hand would bring Ceannlaidir to his knees. In his haste Ceannlaidir forgot to take Cail's ability to dominate. Thus, allowing Cail to create balance in the world around him.
 
 He watched as Cail caused storms and floods to stop his minions of warriors in their battles. Ceannlaidir could do nothing for Cail had reached full maturity rather quickly. Determined to keep Cail at bay, the god of war decided to plant spies in the town of Undine, spreading lies of terror to vulnerable, gullible Aislings. He felt that if the Aislings revolted against Cail, he would retire to the recesses of his mind never to be heard from again.
 
@@ -30,8 +30,8 @@ Aeternus, pleased with his choices, carried these four Aislings to his home in U
 
 Pleased with his choices, he gathered up the five requested and sought the god Cail in his shady spot amongst the quiet whispers of the stream. Cail, was in the same state he was when Aeternus left him a double moon before. Cail already knew who Aeternus would choose as it was divine knowledge. He inspected the men before him and agreed that Aeternus did well. For his troubles, Cail asked Aeternus to sit with the rest of them as he spoke with such strength. "You five carry with you attributes and virtues most superior to the other Aislings and mundanes around you. I ask of you to venture into battle against Loures to cease the unnecessary deaths of your siblings, fathers, and companions. I realize that five of you against thousands is not such great odds, but I will aid ye in bringing peace to the kingdom. You will all bear my mark. You will ascend above those that try to harm you and bring peace to these beautiful lands of Undine. Healer I will aid you in healing by speeding the growth of cherries and grapes. Rogue, I shall call Luathas to help heighten your awareness making you impermeable to the most lethal traps. Wizard, I call upon Luathas for you as well, and ask that he share his knowledge with you. Warrior, oh warrior, I shall call upon the virtues that my father has bestowed in me, that you will be able to choose who you shall do battle with, but give you compassion to not kill those already befallen."
 
-Cail looked towards the child. "You have some questions for me don't you young one?" "Aye, I do. But, they can wait until you have done what you have needed." Cail smiled at the boy and said “You, for your compassion to nature and honoring of the wolf with your starvation, I shall teach you the ways of natural world." With this he filled the young lad with a huge spark of light, taking him from the mundane to the Aisling. 
-“Young Eusebius, you are now a monk. You will be the first to teach these ways to others.” 
+Cail looked towards the child. "You have some questions for me don't you young one?" "Aye, I do. But, they can wait until you have done what you have needed." Cail smiled at the boy and said "You, for your compassion to nature and honoring of the wolf with your starvation, I shall teach you the ways of natural world." With this he filled the young lad with a huge spark of light, taking him from the mundane to the Aisling. 
+"Young Eusebius, you are now a monk. You will be the first to teach these ways to others." 
 Eusebius, stood before him matured and graceful. "Oh Cail, I hope that I have learned enough to aid you in your struggles. I shall try to do your gifts justice". His humbleness was Cail's favorite virtue.
 
 "Join me young Aislings, I shall call upon the forces of nature to pour my mark unto your spark." As he meditated, a strong swirl of white light surrounded each of the Aislings one by one and ceased at a small fist like mark on their arms, burrowing deep to the core of them. "Now my children walk swiftly unto battle and end this strife that has befallen our land for too long".
@@ -39,3 +39,12 @@ Eusebius, stood before him matured and graceful. "Oh Cail, I hope that I have le
 The five Aislings bearing the mark of Cail entered into battle. Those that encountered them fell back in awe for their virtue, intelligence, strength, honor, compassion, and wit was like no other they had seen. The wars that once conquered the land had now ceased.
 
 Upon returning home, these five Aislings constructed a granite shrine to Cail at his birthplace. Honoring him for the gift of his mark. Taking their boots off they entered into his shrine out of respect for the ground that saved them. The townsfolk, once doubtful, now revered Cail as most holy, gathering in the shrine to pray for his forgiveness. Cail shook his head but understood the sentiment. He spoke to the priests and priestess of town and said, "I am honored and touched by the gift. You should praise all that is natural on the quiet grassy place next to the water. It is there that would be most beneficial to you not this shrine that lacks light." The priests understood and held mass in the place deemed worthy ever since. Before Cail left for the quiet recesses of meditation once more, he promised the Aislings and mundanes of Undine, that in honor of the five that saved their lands from ruin, he would return once per Deoch and seek the most virtuous of the five classes to bestow his gifts upon. The strongest of Aisling sparks have been blessed with the mark of Cail ever since.
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

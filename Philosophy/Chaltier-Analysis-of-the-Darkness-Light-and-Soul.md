@@ -1,6 +1,6 @@
 # Analysis of the Darkness, Light, and Soul
 
-_By Chaltier in **Dark Ages**_
+_by Chaltier in **Dark Ages**_
 _Priest of the Goddess Glioca_
 
 I would like to begin this theoretical analysis with my thanks to philosophers
@@ -29,13 +29,13 @@ consider both philosophies, and determine your own conclusion.
 As I have stated my preface, let me continue with the subject of the subject of
 this essay: the analysis of the Darkness, Light, and Soul.
 
-# Elements, Light and Dark**
+## Elements, Light and Dark**
 
 In an effort to provide the least confusion in the following piece, it would be
 best for me to reiterate the definition of the Fifth and Sixth Elements in a
 relatively short passage.
 
-## Darkness, the Fifth Element
+### Darkness, the Fifth Element
 
 Darkness has been defined as the chosen element of Sgrios and Chadul, a
 blackness which occurs in the absence of Light. It was originally created or
@@ -83,7 +83,7 @@ Darkness in Water's deepest depths. This Darkness can be summoned into a
 physical form by the attendants of Sgrios, but such practices have not been
 recorded.
 
-## Light, the Sixth Element
+### Light, the Sixth Element
 
 Light is said to have been born in the creation of goddess Danaan, to whom we
 owe our existence, and is our means of preventing the onslaught of Chadul and
@@ -98,7 +98,7 @@ the circles of magic, priestly, as well as wizardly in the casting of magicks.
 Whether Light is directly tied to the creation of the magical forces will be
 debated next.
 
-## Spell Casting and Prayer
+### Spell Casting and Prayer
 
 It has been said that Light itself is the reason behind the healing art of
 priests, but this is improbable, given the nature of Light. Bestowed by Danaan,
@@ -113,7 +113,7 @@ define spells of priests, like beag ioc and ioc, as mere manifestations of
 innate power bestowed by Danaan upon all Aislings, until this may be proven
 otherwise.
 
-# Darkness and the Dark Masters
+## Darkness and the Dark Masters
 
 Chadul and successor Sgrios, by definition of all Aislings, are the motivating
 forces of evil, and are therefore subject to connection with the Darkness, and
@@ -147,9 +147,9 @@ his many encounters with Sgrios:
 
 _Daravon Ragnar, "Treatise on the Nature of the Dark Masters", pg. 1, subject: 'The Impenetrable Shield'_
 
-# What We Might Define as the "Soul" Element
+## What We Might Define as the "Soul" Element
 
-### The Soul Element_
+#### The Soul Element_
 
 In the previous account of Daravon, we notice that in the falling of both
 Daravon and a centipede in the Mileth catacombs, they are taken to the realm of
@@ -169,7 +169,7 @@ any type of effect upon the powers of Sgrios, who feeds upon souls; therefore,
 the legacy of Danaan is actually a 'soul shield' of incredible strength - the
 ability to protect all Aislings, as well as their Aisling offspring.
 
-### What is this 'Soul' Element really then?
+#### What is this 'Soul' Element really then?
 
 The Soul Element is what defines who we are on the Astral Plane - it is the
 measurement by which all astral beings are compared, such as the Temuairan
@@ -192,14 +192,14 @@ Like I have stated before, however, it is the Aisling, the inheritor of Danaan,
 that has been given the greatest amount of the Soul Element, and in the largest
 quantities to a race ever before.
 
-## The Relevance of the Soul Element : History
+### The Relevance of the Soul Element : History
 
 You might be quite frustrated with this latest consideration... but I will
 hopefully provide enough insight as to how this affects not only you, but all
 of Temuair as well. What will be the final portion of this essay will be to
 provide evidence of the relevance of the Soul Element through a theoretical
 study of history. To best illustrate this, I would refer you to Rookerin's
-essay entitled [The League and its Pact of Anaman](../History/Rookerin-The-League-and-its-Pact-of-Anaman.md) as a means
+essay entitled [The League and its Pact of Anaman](../History/Rookerin-The-League-And-Its-Pact-Of-Anaman.md) as a means
 to better disclose the history of Tenes. At my first class with the esteemed
 professor, I suggested that there was slightly more to the marriage of the Dark
 Star and Tenes as it seems, and that Chadul could have been a greater influence
@@ -259,14 +259,14 @@ Why is it that the Dark Star would support the son of Chadul, Sgrios, when she
 could support Chadul himself? This is where the ingenuity of Chadul lies...
 where the ultimate in events to occur to Temuair _may_ take place.
 
-## Resurrection - A Dark Possibility
+### Resurrection - A Dark Possibility
 
 "Resurrection", you might think, is a terrible impossibility, and could never
 occur in the rebuilding of the original Dark Lord. However, I would think that
 there is a great deal of evidence to support such a statement, which will be
 reviewed in the following passage.
 
-### The Diverging of the Soul Element
+#### The Diverging of the Soul Element
 
 As it states, the essay by Daravon describes the possibility that Sgrios was
 given the Soul Element that Chadul did not require during his reign, which
@@ -278,7 +278,7 @@ of the Soul Element... but he chose not to. He has provided himself a link to
 the Temuair over world in elevating the status of Sgrios to that of a Temuair
 Pantheon god.
 
-### The Dark Star's Creation of the Temple of Sgrios
+#### The Dark Star's Creation of the Temple of Sgrios
 
 To reiterate the passage translated by Dryst Ravenshroud of the Sgrios priest,
 it is evident that it was by the hand of Dubhreal that the Temple of Sgrios was
@@ -293,7 +293,7 @@ obvious that they do not have the required amount of energy to sustain the
 portal, and have failed a number of times due to incorrect invocations and
 summonings.
 
-### The Scar of Sgrios
+#### The Scar of Sgrios
 
 The Scar of Sgrios has been shown to be the result of Sgrios' inability to
 remove the barrier separating the Soul Element of the Aisling and the entity,
@@ -307,7 +307,7 @@ however... it simply represents the damage done to the shield. Our only
 protection...? The removal of this damage to the shield by members of the
 priesthood.
 
-### The Final Result
+#### The Final Result
 
 Let us define the situation described above: Sgrios was given the capability by
 Chadul to absorb the Soul Element in mass quantities. The Dark Star has
@@ -316,7 +316,7 @@ And at this very moment, Sgrios is stealing a small portion of Aislings' Soul
 Element as they pass from the over world, to the underworld, and back. You do
 the math.
 
-## Conclusion
+### Conclusion
 
 Yes... I have suggested an almost improbable sequence of events that could
 change the very way we Aislings live our lives. Similar to what I stated at the

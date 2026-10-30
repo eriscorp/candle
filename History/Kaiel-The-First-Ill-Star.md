@@ -1,6 +1,6 @@
 # The First Ill Star
 
-_By Kaiel in_ ___Dark Ages___
+_by Kaiel in **Dark Ages**_
 
 ## Foreword
 
@@ -19,7 +19,7 @@ Here, then, are the facts as presented to me by that stooped, drunken magician a
 
 ## The Nature of the Star
 
-Safar Timura notes in his treatise, _[The Wise Men](history/Timura-The-Wisemen.md)_, that the star was thought to be a shooting star. While this was, in fact, not the case, it is the stated fact in most publicly available records of the time, and is perhaps the only piece of information about the Star that the Fey will verify, false though it is. Given that, it is entirely understandable that this historical error might occur, though a comparison to a 'shooting star,' normally a sign of good luck, is a strange one on the surface.
+Safar Timura notes in his treatise, _[The Wise Men](Timura-The-Wisemen.md)_, that the star was thought to be a shooting star. While this was, in fact, not the case, it is the stated fact in most publicly available records of the time, and is perhaps the only piece of information about the Star that the Fey will verify, false though it is. Given that, it is entirely understandable that this historical error might occur, though a comparison to a 'shooting star,' normally a sign of good luck, is a strange one on the surface.
 
 The star, in fact, was an astronomical body the magicians call a comet; a great, fiery star of horrific aspect, that travels across the sky and rips the heavens as it goes. The appearance of this comet was first met with joy, as it first appeared much like a great shooting star, which most Aislings believe are signs of good luck or wishes fulfilled. In fact, the _Nether Codex_, one of the tomes it was my great misfortune to read at length while my inebriated companion ranted wildly into the night, described great celebrations in honor of the night visitor, or _nochd reanná_.
 

@@ -2,23 +2,23 @@
 
 _by FristVire in **Dark Ages**_
 
-# Foreword
+## Foreword
 
 A score parchments were unearthed from beneath the substructure of what had
 been a brazier's workshop under a copse of coiled trees on the western fringe
 of the West Woodlands. Apart from the two most deeply interred, the documents
 were too burnt to salvage.
 
-Among the recovered works the first, an illustration titled "Danaan’s Folly"
+Among the recovered works the first, an illustration titled "Danaan's Folly"
 serves as befitting cover for the second, an unfinished draft for some greater
 almagest from the observant and remarkably objective mind of a Mundane scholar,
 Cleirach Parthalan, and appears never to have been completed before the
 invasion.
 
 By means of a devoted hunt for understanding, this text presents the Temuairan
-society’s early characterization of the Aisling and, though not termed
+society's early characterization of the Aisling and, though not termed
 outright, may be the oldest extant reference to the notion of Spark without any
-tie to Deoch’s passion. It strikes the reader how the author, using pure
+tie to Deoch's passion. It strikes the reader how the author, using pure
 Atavism Arcanum, the only science available to him, interprets his
 observations without benefit of the openness of thought we indulge today.
 
@@ -116,8 +116,8 @@ model to make plain its implications.
 Widely held for a generation that the Aislings had brought with them the
 plagues of darkness, their potency against the Dark Ones increasingly suggests
 that they are instead the remedy. Principal to this potency is their
-irrepressible appetite for the hunt and the upgrowth it affords. _Smachdaich’re
-agus dàn _ or simply _’re_ , occurs almost without exception as soon as an
+irrepressible appetite for the hunt and the upgrowth it affords. _Smachdaich're
+agus dàn _ or simply _'re_ , occurs almost without exception as soon as an
 Aisling protege is inducted into the Aisling subculture.
 
 More than a mere "coming of age", the pressing need for a young Aisling to
@@ -193,13 +193,13 @@ further support to the _clannach athar_ model. ---
 
 There are occasions when an Aisling's corporeal form abruptly dissipates
 without so much as a wisp or a breath. "Leaving this land," they are in the
-habit of saying. Look sharp for a change in an Aisling’s comportment. Ye may
-notice an Aisling’s usually alert aspect degrade to one of vacancy before
+habit of saying. Look sharp for a change in an Aisling's comportment. Ye may
+notice an Aisling's usually alert aspect degrade to one of vacancy before
 blinking out.
 
 If one manages to stand composed after a disquieting episode of _skellal
-roish_ , he can spy the vanished Aisling’s footprints. The watchful and sober
-observer may catch the subject’s re-emergence on that very spot! Clearly, the
+roish_ , he can spy the vanished Aisling's footprints. The watchful and sober
+observer may catch the subject's re-emergence on that very spot! Clearly, the
 Aisling has traveled nowhere, and discussions with the more mannerly of their
 number have confirmed what I suspected: they remember not a thing during the
 interlude. Given that fact, the _clannach athar_ model is again substantiated.

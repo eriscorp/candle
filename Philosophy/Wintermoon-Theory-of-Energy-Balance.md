@@ -1,5 +1,7 @@
 # Theory of Energy Balance
 
+_by Wintermoon in **Dark Ages**_
+
 ## Preface
 
 In the paths of magic, for reference, within this writ, these are both the

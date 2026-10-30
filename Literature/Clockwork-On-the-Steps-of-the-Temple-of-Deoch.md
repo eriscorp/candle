@@ -1,6 +1,6 @@
 # On the Steps of the Temple of Deoch
 
-_by Clockwork of **Dark Ages**_
+_by Clockwork in **Dark Ages**_
 
 The Dreamers' Mass has ended  
 the temple returns to the mundane laity  

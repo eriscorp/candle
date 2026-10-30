@@ -1,6 +1,6 @@
 # Farewell My Love
 
-_by Mayukichan of **Dark Ages**_
+_by Mayukichan in **Dark Ages**_
 
 Ye who does not seek yet finds treasure,  
 May deserve it more than those that venture.  

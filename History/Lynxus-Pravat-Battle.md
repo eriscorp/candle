@@ -1,6 +1,6 @@
 # Pravat Battle
 
-_By Lynxus in_ ___Dark Ages___
+_by Lynxus in **Dark Ages**_
 
 I was notified of an army, being put together. This army was being organized by Novus Imperia, and its Emperor/Creator Lord Ramanayan Caesar. Indeed, I was rather hesitant to join. But being a part of Novus, and knowing the cause for such an ordeal, I could not refuse. For way to long, before I was born the goblins have invaded the Grimlok, mining their Conix stones, their heritage. This stone wasn't of an ordinary nature. Seems, that it's most powerful. This stone, for whom possesses it can summons creatures. For if this fell into goblin hands, it could be devastating for Temuair, not to mention catastrophic for the Grimlok.
 

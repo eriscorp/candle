@@ -1,6 +1,6 @@
-# Bellum Inifintum: War and Story of the Grimlock
+# Bellum Infinitum: War and Story of the Grimlock
 
-_By Shadeed of_ ___Dark Ages___
+_by Shadeed in **Dark Ages**_
 
 The never-ending war of the Grimlock has plagued the population since the beginning of time. Though the Grimlocks have never released their history, recent discoveries on the walls of Pravat Cave are pictures which entale the start. I have translated their writing and here is the story of the Grimlock.
 
@@ -10,10 +10,19 @@ At the sinking of Hybrasyl, and new breed of monsters were born. Goblins came do
 
 Queen Phailin was enraged at it all and decided that the Grimlock would take no more. She made a training camp in Kasmanium and trained up her soldiers until the army was big enough for a war. The Grimlock army called Ceranha slew any foe that threatened their home or their population. Phailin was enraged at Bahadir for destroying their first home and people. So, she took into her own hands for revenge. Prince Quane of the Grimlock oranized the Ceranha and he led them to battle. Thus, the battle between the Goblins and Grimlocks started.
 
-The battle called Bellum Inifintum (Which is old tongue for Never Ending War) went on through 7 Aeons and into our dating system on Deoches. Queen Phailin's Grimlock were tired and as soon as she was thinking about giving up Adranuch appeared. "Phailin! Do not give up! I shall protect thee as thy Goddess of the Grimlock. Go! I shall not protect thee without the power of the Dark Rock that lie deep in the Caverns of Pravat. With the rocks we can destory the Goblins!"
+The battle called Bellum Infinitum (Which is old tongue for Never Ending War) went on through 7 Aeons and into our dating system on Deoches. Queen Phailin's Grimlock were tired and as soon as she was thinking about giving up Adranuch appeared. "Phailin! Do not give up! I shall protect thee as thy Goddess of the Grimlock. Go! I shall not protect thee without the power of the Dark Rock that lie deep in the Caverns of Pravat. With the rocks we can destory the Goblins!"
 
 That same night in the dreams of Bahadir, Chadul Apeared. "Bahadir, you must collect the Calling stones of Pravat Cave. These Dark Rocks are the source of my power. I can destroy those wretched Grimlocks with the help of thee. Sacrifice these rocks to me." Bahadir was so scared of that evil being that persisted in his dreams that he moved his army of Elite Goblins called the Ahnahe to collect these rocks. The Ceranha and the Ahnahe met in Pravat and the greatest battle of all was fought! It was so feirce and long that the two eventually came to a stalemate. A line of death separated the two and not one of them moved.
 
 This leaves the Grimlock and Goblins to where they are today. Engaged in hateful battle over Dark Stones, hoping to destory one another. Gramailites wish there to be peace, and stand in the way of any Aisling who wishes to aid the Grimlock or Goblins. Here the pictures stop. So, may history be written from now on in the walls of Pravat Cave.
 
 _Translated and documented by Shadeed Sacrenta of Rucesion_
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

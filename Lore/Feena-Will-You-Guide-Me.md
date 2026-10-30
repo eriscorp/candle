@@ -1,6 +1,6 @@
 # Will You Guide Me? On Mentoring and Guiding
 
-_by Feena in_ ___Dark Ages___
+_by Feena in **Dark Ages**_
 
 For as long as I have lived in Temuair, I must have heard this phrase a million or better occasions. "Will you guide me?" Sometimes it comes in different forms, or the words may be unique, but the desire is the same. Every Aisling desires a purpose in life and it falls to the more experienced to give them this direction. Many encounters may come from a younger sibling of one of the many residents to Temuair. Their older brothers and or sisters may have explained the ways of our world and all they seek is someone to accompany them through the dark passages of the temple of veils and they will go it alone from there. It is not for these that this tome is written.
 
@@ -80,6 +80,8 @@ Aisling mentoree:
 ||Potions and other items of use in battle|
 ||First hunt|
 ||Religion and benefits between the Gods|
+
+***
 
 ```
 *Librarian Notes*

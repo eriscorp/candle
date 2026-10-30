@@ -1,6 +1,6 @@
 # The Second Affront to Luathas
 
-_by Shota in_ ___Dark Ages___
+_by Shota in **Dark Ages**_
 
 In my studies, I oft find myself delving into history for answers to my questions. I stumbled across an odd tome hidden within the temple of Luathas some time ago. At the time I was unable to decipher the arcane writing penned within, but as my studies increased, I began to translate the ancient tome. The author of the writing is still unknown to me. Throughout the text he simply refers to himself as 'The Scribe'. At first, I thought it was a simple ledger of day to day events, a novelty at best. But as I read deeper into the text, I found references to places and names that hold great meaning to wizards.  The following translation is the highlights of what became to be known to the members of the Acadamie as 'The second Affront to Luathas', which was the herald to what the rest of the world called the Shadow Wars. Here I present the highlights of the translation, the most relevant parts which outline one of the key events in the history of the Acadamie Arcanus.
 

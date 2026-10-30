@@ -1,5 +1,7 @@
 # THE FAT CITY CHARTER
 
+_by Kedian in **Dark Ages**_
+
 > _(NOTE: All previous charters are rendered null and void by THIS OFFICIAL
 > CHARTER, rendered herein by Kedian Ta'Null, Supreme Magistrate and Lord of All
 > He Surveys, titles enclosed.)_
@@ -61,4 +63,13 @@ _KEDIAN_
 
 _ACCEPT NO IMITATIONS_  
 _WASH IN COLD WATER_  
-_LIGHT PRESSING IF NEEDED_  
+_LIGHT PRESSING IF NEEDED_
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

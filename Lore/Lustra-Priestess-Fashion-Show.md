@@ -1,5 +1,10 @@
+# Priestess Fashion Show
+
+_by Lustra in **Dark Ages**_
+
 >A copy of the file is available [here](../loures/Lore/images/fashion.dcr).
 
+***
 
 ```
 *Librarian Notes*

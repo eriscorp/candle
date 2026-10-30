@@ -1,6 +1,6 @@
 # Rivers of Temuair
 
-_By Chinlove of **Dark Ages**_
+_by Chinlove in **Dark Ages**_
 
 I have visited the rivers of Temuair
 Clear pristine water flowing free

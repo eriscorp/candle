@@ -1,6 +1,6 @@
 # Of the Natural Order, Conflict and Consequence
 
-_By Anhedria in_ ___Dark Ages___  
+_by Anhedria in **Dark Ages**_
 
 It is clear, from recent events, that there are strange and powerful forces working in the land. There are forces at work that  cause Aisling to turn against Aisling, friend against friend, official against official, town against town, but there have also been hints that the mundane populace holds far more power than previously believed.
 

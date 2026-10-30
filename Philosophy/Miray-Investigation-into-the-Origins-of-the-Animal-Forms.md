@@ -1,5 +1,7 @@
 # Investigation into the Origins of the Animal Forms
 
+_by Miray in **Dark Ages**_
+
 Although I am a dedicated practitioner of the arts of my chosen path I often
 find myself wondering about how many of our techniques came to be. More to the
 point, I have wondered about the origins of the four "Sugata no Kedamono" or

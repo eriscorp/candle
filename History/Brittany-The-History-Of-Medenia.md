@@ -1,6 +1,6 @@
 # The History of Medenia
 
-_by Brittany in_ ___Dark Ages___
+_by Brittany in **Dark Ages**_
 
 ## Foreword
 

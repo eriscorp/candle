@@ -1,6 +1,6 @@
 # The Sacred Mantle
 
-_By Azyre of **Dark Ages**_
+_by Azyre in **Dark Ages**_
 
 Cast away under a willow tree a young Aisling closes his eyes thoughts of the
 day surpass him as he ruminates what he believes is his destiny. For what he is

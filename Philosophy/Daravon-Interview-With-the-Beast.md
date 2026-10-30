@@ -1,6 +1,6 @@
 # Interview with the Beast
 
-_By Daravon Ragnar in **Dark Ages**_
+_by Daravon in **Dark Ages**_
 
 _Dedicated to Kraven._  
 _I hope you are safe somewhere, comrade._  
@@ -239,6 +239,8 @@ blindly, as thoughtless zombies in the physical world. That's merely an
 hypothesis though. It may be just a dark portion of myself, that I do not wish
 to accept, finally surfacing. Whatever is the case, I shall find out. Or die
 trying.
+
+_Daravon Ragnar_  
 
 ***
 

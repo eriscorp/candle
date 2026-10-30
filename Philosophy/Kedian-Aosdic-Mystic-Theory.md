@@ -39,7 +39,7 @@ It is my hope that, by learning more and more about the Aosda civilization, we
 can continue to better ourselves while avoiding the avarice and pride that
 eventually led to the destruction of the Aosdans.
 
-## Discovery of Shamshiel’s Works
+## Discovery of Shamshiel's Works
 
 Sometime after I had met my dear friend Katrionah Rosalette, we set off to
 explore the Kasmanium Mines. Not intending to actually tread into the dread
@@ -128,10 +128,10 @@ when all the different components are brought together and cancel each other
 out, the gate to dreamspace can open. It seems fitting that the gate to
 dreamspace e can only be created through the annihilation of both order and
 chaos, since dreamspace refuses to be classified by such limited terms (it
-perhaps is “above” those classifications).
+perhaps is "above" those classifications).
 
-The relationship between “order” and “chaos” and the gods of Temuair are
-enumerated below (a mixture of my own theory and Shamshiel’s writings)
+The relationship between "order" and "chaos" and the gods of Temuair are
+enumerated below (a mixture of my own theory and Shamshiel's writings)
 
 _Deoch_ - chaos
 
@@ -174,8 +174,8 @@ _Sgrios_ - order
 _There is nothing chaotic about death. Death is precise, cold, calculating, and
 exact._
 
-The annihilation of order and chaos, Shamshiel writes, “gives rise to that
-which is unclassifiable - Dreamspace”. He writes that the abuse of the natural
+The annihilation of order and chaos, Shamshiel writes, "gives rise to that
+which is unclassifiable - Dreamspace". He writes that the abuse of the natural
 classifications by the Aosda left the barrier between reality and fantasy
 permeable - which explains the ability of the dubhaimid to go and come as they
 please. I believe the Castle outside of Rucesion is in fact a gateway, a
@@ -190,7 +190,7 @@ It is obvious that Terra has elemental energy. But what perhaps is not obvious
 is that the interactions between the elements also represent the interactions
 between the gods.
 
-The reason why dreamspace arises from the “cancellation” of all the other gods
+The reason why dreamspace arises from the "cancellation" of all the other gods
 (who represent emotions) is unclear, except for the fact that dreamspace has
 no definite emotion or alignment; it is neither good nor evil; caring nor
 cold. It is defined by our own fantasies and imagination, allowing it to shift
@@ -198,14 +198,14 @@ and change at will.
 
 The odd thing however is that by gathering extreme amounts of elemental energy
 in one place, you can also trigger a gateway to dreamspace, whereas the
-ancient Aosda used the technique of “emotional” or psychic energy. This is due
+ancient Aosda used the technique of "emotional" or psychic energy. This is due
 to the fact that the elements are related to the gods and thus the
 metaphysical energy that they represent can be channeled and converted in a
 different form.
 
 We know that elemental magick arises from energy. I believe that this energy
 comes from the gods but is also a reflection of the universe around us. The
-energy around us is “elementless” - we channel it and harness it to cast srad,
+energy around us is "elementless" - we channel it and harness it to cast srad,
 athar, etc.
 
 The energy maintains itself at a constant level. We know that mages cannot go
@@ -215,7 +215,7 @@ replenish themselves from the background energy that Terra possesses.
 
 This energy, if abused, can lead to deadly consequences. I believe that the
 energy is much like a four way pendulum - if you use too much of it, the
-balance shifts to that specific element. Our individual athar and srad isn’t
+balance shifts to that specific element. Our individual athar and srad isn't
 enough to shift the balance, but I believe that the drowning of Hy-Brasyl was
 caused by the abuse of srad, leading to a cascading effect creating tremendous
 amounts of sal energy, which manifested themselves in giant, cascading waves.
@@ -231,13 +231,13 @@ I believe that when there is a lack of either, the opposite fills the gap. For
 instance, when there is a lack of chaos, order prevails, and so forth. This is
 why dreamspace is not readily accessible (except for at the Castle of the
 Dubhaimid, which I explained earlier). This is related to the elements as well
-since the elements themselves “align” with a specific category (srad and athar
+since the elements themselves "align" with a specific category (srad and athar
 being chaos, creag and sal order).
 
 So, in conclusion, we have shown that the gods themselves can be represented by
 a specific element. Dreamspace, that which cannot be classified or defined, is
-the absence of “all”. Thus, gateways to dreamspace can be opened wherever
-elemental energy completely cancels, or where the metaphysical “emotional”
+the absence of "all". Thus, gateways to dreamspace can be opened wherever
+elemental energy completely cancels, or where the metaphysical "emotional"
 energy associated with each god cancels (the octagram portal built by the
 Aosda).
 
@@ -247,13 +247,13 @@ chaos (as discussed above). It is the absence of order and chaos which gives
 rise to dreamspace.
 
 The problem with this is that neither is possible at the present time (which
-isn’t really a problem!). We have not arisen to the sophistication necessary to
+isn't really a problem!). We have not arisen to the sophistication necessary to
 present a threat to the elemental balance (even ard forms of elements pose an
 insignificant threat). And not only that, but you would have to drain all four
 elements simultaneously. It would require four wizards of godlike talents, and
 fortunately, no one is that evil nor that talented.
 
-As for the “emotional” energy, the Aosdans labored for centuries to create the
+As for the "emotional" energy, the Aosdans labored for centuries to create the
 naladars. Their technique is documented in detail by Shamshiel, but by our
 current level of civilization, replicating these crystals would be completely
 impossible.

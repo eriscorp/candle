@@ -1,6 +1,6 @@
 # Semitas Arcana Temuair - The Paths of the Secrets of Temuair
 
-*by Dionia in **Dark Ages***
+_by Dionia in **Dark Ages**_
 
 > Many are the secrets of Temuair... But is the path you walk fit for them? Do you have the willpower to not be consumed by the arcane?
 
@@ -75,7 +75,9 @@ I urge said Aislings to never give up on their quest for Knowledge for answers m
 
 And, finally, the time has come for me to stop writing, as the first rays of sunlight penetrate through the curtain. It is time to close the book, and open the window to the world.
 
-~Dionia Autumne de La Croix
+_Dionia Autumne de La Croix_
+
+***
 
 ```
 *Librarian Notes*

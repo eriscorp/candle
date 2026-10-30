@@ -163,7 +163,7 @@ _Nagisa Kaoru, Sal Wizard_
 * [Hendle, "From Whence Nightmares Come"](Hendle-From-Whence-Nightmares-Come.md) -
   some information on the Dubhaimid
 
-* [Thissus, "Prospect of Darkness"](Thissus-Prospect-of-Darkness.md) - View of
+* [Thissus, "Prospects of Darkness"](Thissus-Prospects-of-Darkness.md) - View of
    darkness among aislings
 
 ***

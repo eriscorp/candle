@@ -1,6 +1,6 @@
 # The Force of Magick: A Dreamer's Will
 
-_By Deksar in **Dark Ages**_
+_by Deksar in **Dark Ages**_
 
 Mystical energies. Etheral empowerment. God's will. Magick. There be many a
 name for this force, yet it is still quite a mystery to many an Aisling. So
@@ -87,6 +87,8 @@ we are the dreamers. We dream about truely dreaming.
 _Originally scribed by Deksar sagart-K'sull in The Library of Mileth  
 Assistance by the Library's Staff  
 Summer of the 10th Deoch, 8th Moon, 25th Day_
+
+***
 
 ```
 *Librarian Notes*

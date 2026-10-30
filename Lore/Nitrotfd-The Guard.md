@@ -1,6 +1,6 @@
 # The Guard: The Protector of Aislings
 
-_by Nitrotfd in_ ___Dark Ages___
+_by Nitrotfd in **Dark Ages**_
 
 ## Introduction: How to be a guard
 
@@ -12,7 +12,7 @@ Always stay focused in your goal and don't be wavered by those who want to manip
 
 ### Handling Trouble Makers
 
-Let’s put it this way, when Deoch made the Aisling, some of the ones that he got weren't what he had in mind. Like all orchards there is a bad apple; every vine has a rotten grape and every community has a troublemaker. Let’s take an Aisling for example I have grown to detest over the Deochs: Zeken. He looks normal (to an extent) he seems normal (when he's asleep) and he... OK, hold up right there. This is an assumption of a non-experienced guard.
+Let's put it this way, when Deoch made the Aisling, some of the ones that he got weren't what he had in mind. Like all orchards there is a bad apple; every vine has a rotten grape and every community has a troublemaker. Let's take an Aisling for example I have grown to detest over the Deochs: Zeken. He looks normal (to an extent) he seems normal (when he's asleep) and he... OK, hold up right there. This is an assumption of a non-experienced guard.
 
 Behaviors of a troublemaker can be seen as profanity, sexual and non-sexual harassment. Acting like one is on a combination of hemlock and nila dust all packed into one thing, a trouble maker. These Aislings don't care about others and like to get a reaction from guards and officials. Stay in a professional manner but it doesn't hurt to show him up a little, but that is off the record and not normal procedure (ex. Zeken asks me to kiss his arse and I reply telling him to wipe it first, course this is not normal procedure, I just like to show up troublemakers, make them feel less invincible). When a trouble maker comes watch for heresy and profanity. 
 If he is a troublemaker and you know it, give only 2 warnings for heresy and one for harassment (Mileth laws) after that dispose of him ASAP, chances are he will possess another Aisling's body and do the same thing. Do the previous procedure about three times, then just ban when you recognize him. By then you may stop writing reports. Other trouble makers are high insight and will make you lose your temper than outwit you on laws. Just ignore them, although they are troublemakers they don't use immature techniques as the ones described above do. Ignore them and they'll get bored and leave.
@@ -27,7 +27,7 @@ When it comes to handling Aislings, ask a fellow guard unless this is a particul
 
 Not all cased require a look at, making a decision and dishing out punishment. In cases such as theft and harassment, evidence and witnesses will be required. First off, get witness names. Second, ask the Aisling to mail you his/her memories `screenshots` by `E-mail`. While the Aisling is doing this (the he/she has memories that is) speak to the witnesses about the situation and what they witnessed. If you notice a long-awaited pause before an answer tell him and the complainant (if he isn't mailing memories) to ignore whispers `F4`. They may be making up this story as they go along through whispers and if you disable this, you can find nooks and crannies in their story. Also, if this is the case, separate them in 2 areas.
 
-Every once and a while try to whisper them and make sure they can’t hear you. If they can hear you, crack down on them about how they are incriminating themselves by doing this. If it happens a second time, demand an explanation and you decide if it is sufficient enough to not throw their case out the window. Also speak with the accused Aisling in an advanced case. Hear both sides and get the accused memories and witnesses in the same manner as you did the accuser. Review the witness reports and the memories and finally do the hard part, make the decision Look for loopholes in the stories and take into consideration what the memories really show. Do this and you can make a case over. Lucky you, now you get to do another case soon enough.
+Every once and a while try to whisper them and make sure they can't hear you. If they can hear you, crack down on them about how they are incriminating themselves by doing this. If it happens a second time, demand an explanation and you decide if it is sufficient enough to not throw their case out the window. Also speak with the accused Aisling in an advanced case. Hear both sides and get the accused memories and witnesses in the same manner as you did the accuser. Review the witness reports and the memories and finally do the hard part, make the decision Look for loopholes in the stories and take into consideration what the memories really show. Do this and you can make a case over. Lucky you, now you get to do another case soon enough.
 
 ### Who's Lying and Who's Telling the Truth?
 

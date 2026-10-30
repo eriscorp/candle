@@ -1,6 +1,6 @@
 # The Chant: Mor Athar
 
-_By Beos in **Dark Ages**_
+_by Beos in **Dark Ages**_
 
 He glanced up at the sky quickly, only flashing his eyes toward the clear blue
 bastion of his power. His head remained still, preparing for what was to come.

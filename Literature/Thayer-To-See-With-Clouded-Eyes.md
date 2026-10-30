@@ -1,9 +1,9 @@
 # To See With Clouded Eyes
 
-by Thayer in **Dark Ages**_
+_by Thayer in **Dark Ages**_
 
-_Author’s Note : Prior to reading this piece, I strongly recommend reading the
-[Biography of Rookerin](../Biography/Rookerin.md), as his biography preludes
+_Author's Note : Prior to reading this piece, I strongly recommend reading the
+Biography of Rookerin, as his biography preludes
 the events of this tale._
 
 _Realize that all events in this story are true, and not fiction. _  
@@ -43,7 +43,7 @@ stood, tears filling his eyes. With eyes downcast, he ran, as if trying to
 escape the words that he read. As he ran, his hand fell into the pockets of his
 robes, absently caressing the dark conix stone.
 
-# I
+## I
 
 "Thayer! Are you listening?" Yelped Aerston, as he smacked the table.
 

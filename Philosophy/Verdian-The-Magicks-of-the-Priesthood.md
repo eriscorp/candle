@@ -1,6 +1,6 @@
 # The Magicks of the Priesthood
 
-_By Verdian in **Dark Ages**_
+_by Verdian in **Dark Ages**_
 
 Few understand the concepts of the Magicks of the Priesthood. I myself cannot
 fully comprehend the power the Gods have bestowed upon us, and most of this is

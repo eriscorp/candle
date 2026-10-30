@@ -1,6 +1,6 @@
 # Arts of the Rogue
 
-_by Gothan in_ ___Dark Ages___
+_by Gothan in **Dark Ages**_
 
 While it is our array of nasty traps and snares that rogues are famous for, one must not overlook the refined arts that characterize our roguishness. We are the masters of trickery and hiding in shadowy crevices, yet this is not all a rogue can do. Talented rogues are adept in gem and ring smithing, tailoring garments, fashioning masterful blades and soori, and lock-picking dungeon chests. When I was young these things mattered little to me, for my traps were the staple of my insights. However, as I learned the many skills unique to rogues, I discovered that these abilities are useful and often rather entertaining.
 
@@ -26,7 +26,7 @@ Another useful application of higgling is, for a scant few coins and some time, 
 
 The art of gem smithing allows a rogue to polish uncut and raw gems, or even gem fragments, into valuable finished gems. Finishing gems requires some time, and an assistant will greatly increase your chances of success. To begin, one must first know the gem smithing skill, which is taught by Jilt in Piet.
 
-You may begin by setting up your tools needed in a quiet corner of Temuair, or returning to Jilt's shop to borrow his fine array of gem smithing tools. Then, if you are working with your own tools, sit down and place a coin or two from your purse by your feet. This may seem a bit odd, but it’s a strange trick I find rather helpful. Because each rough gem is shaped differently, you must first fashion a molded stand to hold the gem you are working on. I find that a simple copper coin can easily be worked into a useful gem holder. A rouge should always carry their own smithing set, complete with chisels, a sculpting hammer, rasp and file, picks, clamps, polishing rags, and an eyeglass. You never know when ya need to quickly smith some gems without returning to town. Work slowly and be patient, for one does not wish to risk cracking or even shattering the gem. In time, your skill will improve greatly.
+You may begin by setting up your tools needed in a quiet corner of Temuair, or returning to Jilt's shop to borrow his fine array of gem smithing tools. Then, if you are working with your own tools, sit down and place a coin or two from your purse by your feet. This may seem a bit odd, but it's a strange trick I find rather helpful. Because each rough gem is shaped differently, you must first fashion a molded stand to hold the gem you are working on. I find that a simple copper coin can easily be worked into a useful gem holder. A rouge should always carry their own smithing set, complete with chisels, a sculpting hammer, rasp and file, picks, clamps, polishing rags, and an eyeglass. You never know when ya need to quickly smith some gems without returning to town. Work slowly and be patient, for one does not wish to risk cracking or even shattering the gem. In time, your skill will improve greatly.
 
 There are three common types of gems: beryl, coral, and ruby. These can be found deep within caves such as those in the Pravat mountains, carried as trinkets on fiends you slay, or stashed in ancient chests deep within crypts and catacombs. These are not difficult to smith, although one must be careful with coral because it has a tendency to splinter. Such gems can be used to decorate fine garments, or be worked into elegant rings. There are also other precious metals, such as the prized Talgonite and Hybrasyl, which are as splendid as they are rare. Masterful gem smiths can finish these raw metals, which can be worked into great sets of armor.
 
@@ -38,7 +38,7 @@ As I alluded to, one talent of a skilled gem smith is their ability to work uncu
 
 ## Studying Creatures
 
-Ah, yes... such a skill can be an invaluable tool for a rogue. Studying creatures allows you to discern many useful attributes of the monster. A rogue can by observing a creature tell which type of creature it is and how much experience and knowledge would be gained from battling it. With practice, a rogue can determine the health of the creature, and with more skill a rogue can determine the creature’s toughness. Eventually, when the rogue has mastered this skill, they can even discover the attack and defense elements of the fiend. All this information on a creature is an asset to a rogue, and companions they might be hunting with.
+Ah, yes... such a skill can be an invaluable tool for a rogue. Studying creatures allows you to discern many useful attributes of the monster. A rogue can by observing a creature tell which type of creature it is and how much experience and knowledge would be gained from battling it. With practice, a rogue can determine the health of the creature, and with more skill a rogue can determine the creature's toughness. Eventually, when the rogue has mastered this skill, they can even discover the attack and defense elements of the fiend. All this information on a creature is an asset to a rogue, and companions they might be hunting with.
 
 ## Hairstyling
 
@@ -46,7 +46,7 @@ Rogues have the unique ability to style and dye other Aislings hair. If you are 
 
 ## Soori and Blade Smithing
 
-Although the main weapons of a rogue are their traps, a trusted soori or sharp blade can often mean the difference between life or death. Rogues can smith soori and blades, making them sharper and well balanced, to cause greater damage to their opponents. Any rogue can borrow a weapon smith’s tools to smith the soori or blade. A few hours of labor are required, as well as an assistant if you wish to succeed, but the outcome is an improved good or fine weapon. These blades require more knowledge and insight to wield because of their craftsmanship. Great and grand blades are even further improved than fine weapons, although they cannot be smithed by Aislings.
+Although the main weapons of a rogue are their traps, a trusted soori or sharp blade can often mean the difference between life or death. Rogues can smith soori and blades, making them sharper and well balanced, to cause greater damage to their opponents. Any rogue can borrow a weapon smith's tools to smith the soori or blade. A few hours of labor are required, as well as an assistant if you wish to succeed, but the outcome is an improved good or fine weapon. These blades require more knowledge and insight to wield because of their craftsmanship. Great and grand blades are even further improved than fine weapons, although they cannot be smithed by Aislings.
 
 ## Lock-picking
 

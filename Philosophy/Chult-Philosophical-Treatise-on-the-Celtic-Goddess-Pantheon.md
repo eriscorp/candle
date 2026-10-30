@@ -1,6 +1,6 @@
 # Philosophical Treatise on the Celtic Goddess Pantheon
 
-_Chult in **Dark Ages**_
+_by Chult in **Dark Ages**_
 
 The Goddess Dana; The Great Mother; Mother Earth; Danu; Danann.
 

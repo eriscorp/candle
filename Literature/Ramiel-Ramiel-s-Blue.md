@@ -1,6 +1,6 @@
 # Ramiel's Blue
 
-_by Ramiel in **Dark Ages**
+_by Ramiel in **Dark Ages**_
 
 Once upon a time, in the great city of Mileth, there lived a gloomy peasant boy
 named Ramiel. Ramiel's parents, who loved him very dearly, named him after a
@@ -31,8 +31,8 @@ swords.
 Hikash. What's wrong young man? You seem so perplexed. Is there anything I can
 help you with?"
 
-"O thank you sir. Well...” he lowered his head, "I am not sure anyone can help
-me...”
+"O thank you sir. Well..." he lowered his head, "I am not sure anyone can help
+me..."
 
 "O what's with the pessimism?" Hikash said, "Tell me what's troubling you.
 Maybe I can help"
@@ -75,7 +75,7 @@ from inside the temple. The priest introduced himself as Ashe.
 that's bothering you?" asked the concerned priest.
 
 "Well, if you want to know... I have this problem and I don't know what to
-do...” Ramiel confided his problems to the priest.
+do..." Ramiel confided his problems to the priest.
 
 "Ahh so you are not sure which path is your path, right?"
 
@@ -112,7 +112,7 @@ to Undine to arrive, he met a rogue who shifted himself like wind.
 "Hah thanks! Practice makes perfect." said the rogue, whose name was Gilbert.
 
 "Well you seem to really enjoy your expertise. I wonder if you can help me with
-my question...” said Ramiel.
+my question..." said Ramiel.
 
 "Sure, I am glad to help"
 

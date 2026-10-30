@@ -1,6 +1,6 @@
 # Herbal Lore
 
-_by Chloe in_ ___Dark Ages___
+_by Chloe in **Dark Ages**_
 
 _Greetings, Seeker of Herbal Knowledge._
 
@@ -18,7 +18,7 @@ _May the meager learning of my people, now lost to me, bring thee aid and peace.
 
 Wit ealle wunda ond wit naeddran slitas, genim tysse wyrte seaw te man personaciam ond otrum naman _boete_ nemnet. Syle drincan on ealdon wine. Ealle naedran slitas hyt wunderlice gehaelet.
 
-"With all wounds and for bite of snake, take the juice of this wort which one’s names _personaca_, and by another name beet. Drink it with old wine. It wonderfully heals all bites of snake."
+"With all wounds and for bite of snake, take the juice of this wort which one's names _personaca_, and by another name beet. Drink it with old wine. It wonderfully heals all bites of snake."
 
 _To Find Personaciam_: Journey first to the Enchanted Woods, and seek there a glade hidden within the many flowers. It seems to be favored by the Fae, for their blessed lands surround it, and the herbs within are of uncommon purity. From the entrance walk forward well nigh 40 paces, and then turn to the left, where you shall see an opening, shaped thus : |_ _|. In this glade you will find a green, retiring plant of delicate leaves. It is the leaves you will wish to extract the juice from, although its root, which we call "beet," is quite tasty in stew. Have a care as you gather this herb, or you may find yourself using this remedy quicker than planned, if one of the vipers takes your coming amiss.
 
@@ -26,7 +26,7 @@ _To Find Personaciam_: Journey first to the Enchanted Woods, and seek there a gl
 
 Wit tota sare ond gif hy wagegan, genim tas ylcan wyrte (hydele). Heo of sumre wundurlice mihte helpet. Hyre wose ond hyre dust ys to gehealdenne on wintre for-tam-te he aelcon timan ne atywet. Hyre wos tu scealt on rammes horne gehealden. Drige eac taet dust ond geheald. Witoldlice eac hyt scarplice fremat to tam sylfan bryce mid wine onbyrged.
 
-"For soreness of teeth, and if they wag, take this wort (hydele). Out of some wondrous power it will help. Its ooze and its dust is to be (gathered and) preserved in winter because it does not appear in every season. Its ooze you must store in a ram’s horn. Also dry the dust and keep (it.) Truly, it also effectually performs the same benefit tasted with wine."
+"For soreness of teeth, and if they wag, take this wort (hydele). Out of some wondrous power it will help. Its ooze and its dust is to be (gathered and) preserved in winter because it does not appear in every season. Its ooze you must store in a ram's horn. Also dry the dust and keep (it.) Truly, it also effectually performs the same benefit tasted with wine."
 
 _To find hydele_: In the same glade where personaciam is found, you will see a flare of red from a plant with broad petals and firm, thick leaves. Gather the ooze from the stem and leaves, and dry the petals and crush them to dust. Eat not the roots: they have no known value, other than a gift for clearing the digestion in ways no man would willingly endure. To keep the ooze, protecting it in a hollowed pot of mud will suffice: use nothing made by man. Take the dust mixed with wine, but apply the ooze directly to the wagging teeth. This remedy is often useful when dealing with young warriors, who have an uncommon ability to smite themselves with unwieldy swords, and young monks who have not yet mastered the art of the kick.
 
@@ -34,7 +34,7 @@ _To find hydele_: In the same glade where personaciam is found, you will see a f
 
 Teos wyrt te man _betonicam_ nemnet, heo bit cenned on maedum ond on claenum dunlandum, ond on gefritedum stowum. Seo deah gehwaeter ge taes mannes sawle ge his lichoman. Hio hyne scyldet wit unhyrum nihtgengum ond wit egeslicum gesihtum ond swefnum. Ond seo wyrt byt swyte haligu ond tus tu scealt niman on augustes monte butan iserne. And tonne ti hi genumene haebbe, ahryse ta moldan of, taet hyre nanwiht on ne clyfie, and tonne drig hi on sceade swyte tearle ond mid wyrt-truman mid ealle gewyrc to duste. Bruc hyre tonne, ond hyre byrig tonne tu beturfe.
 
-"This wort, which is named _betony_, is produced in meadows and in clean open country and in protected places. It is good for both a man’s soul and his body. It shields him against fierce night-walkers (wolves, goblins) and against terrible visions and dreams. And that wort is extremely wholesome, and thus you must gather it in the month of August, without using iron (tools). And when you have gathered it, shakes the soil from it, so that none of it clings to it, and then dry it in the shade as thoroughly as possible, and with the roots work it into dust. Then use it in wine, and taste of it when you have need."
+"This wort, which is named _betony_, is produced in meadows and in clean open country and in protected places. It is good for both a man's soul and his body. It shields him against fierce night-walkers (wolves, goblins) and against terrible visions and dreams. And that wort is extremely wholesome, and thus you must gather it in the month of August, without using iron (tools). And when you have gathered it, shakes the soil from it, so that none of it clings to it, and then dry it in the shade as thoroughly as possible, and with the roots work it into dust. Then use it in wine, and taste of it when you have need."
 
 _To find betonicam_: Again, enter this blessed glade. Your first sight will likely be of this wondrous plant: a high spray of white flowers. Take the wine as a last draught before sleep, or with you in a flask on the dangerous, darkened paths. One warning: do not smell the dust, or you will see colorful goblins that do not exist. Its power is always present, but when gathered during the 8th moon, it is truly magickal.
 
@@ -44,7 +44,7 @@ _To find betonicam_: Again, enter this blessed glade. Your first sight will like
 
 Gif men blod ut of nosum yrne to swyte, syle him drincan fifleafan on wine, and smyre taet heafud mid tam. Tonne otstandet se blodgyte sona.
 
-"If a person’s blood runs out of his nose too much, give him fiveleaf to drink in wine, and smear the head with it (the wine mixture.) Then the blood rush will stop at once."
+"If a person's blood runs out of his nose too much, give him fiveleaf to drink in wine, and smear the head with it (the wine mixture.) Then the blood rush will stop at once."
 
 _To most effectively use this remedy_: First gather fifleafan, which is commonly found near taverns, especially the more rustic. This is handy, as fights tend to be common near ale houses, and therefore, bloody noses. Crush the green leaves into wine, and force the sufferer to drink of it. Then, tipping his head back, drench the head with the remainder of the wine mixture, and hold the head back for some minutes. Do not regret the loss of wine: no person, however thirsty, will wish to drink this draught a second time.
 

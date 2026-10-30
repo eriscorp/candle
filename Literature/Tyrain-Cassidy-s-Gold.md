@@ -1,6 +1,6 @@
 # Cassidy's Gold
 
-_By Tyrain of **Dark Ages**_
+_by Tyrain in **Dark Ages**_
 
 Everyone of us hides, we hide behind masks of our true selves. Some of us hide
 very little, while some of us hide a great deal. My story is about those masks

@@ -1,8 +1,8 @@
 # Guide To Being A Thrifty Priestess
 
-_by Lira in_ ___Dark Ages___
+_by Lira in **Dark Ages**_
 
-Every day, I am surprised at the growing number of young priestesses that beg at Mileth’s city limits. I have composed this guide for them to help them along their journeys.
+Every day, I am surprised at the growing number of young priestesses that beg at Mileth's city limits. I have composed this guide for them to help them along their journeys.
 
 ## Starting Out
 
@@ -12,13 +12,13 @@ Once you proceed out of the inn, you may begin your search for a mentor to guide
 
 If they are unable to provide you with armor or answers to many of your questions, once again be humble, for they have taken a good part out of their day to help you. Thank them and go along your way, exploring the various mundanes homes for their wisdom. If you are in need of armor, stop by the Mileth tailor and pick up a Gorget Gown for eight-hundred gold coins.
 
-At the end of the day you may even be able to find a tailored gown on the floor of the tailor’s shop, due to a forgetful apprentice tailor. Another very important item overlooked by young Aislings is a belt. At a low insight you are unable to wear a leather one, but if you are able to find a kind monk with time on their hands, you may ask them to make you speckled wax. This wax is very strong against creature attacks. Also, don’t forget to stop by Dar’s and Devlin’s shops to check out what spells and skills are available to you. It’s always a good idea to write these down for future reference.
+At the end of the day you may even be able to find a tailored gown on the floor of the tailor's shop, due to a forgetful apprentice tailor. Another very important item overlooked by young Aislings is a belt. At a low insight you are unable to wear a leather one, but if you are able to find a kind monk with time on their hands, you may ask them to make you speckled wax. This wax is very strong against creature attacks. Also, don't forget to stop by Dar's and Devlin's shops to check out what spells and skills are available to you. It's always a good idea to write these down for future reference.
 
-Once you have picked up a spell or two, start practicing them. Most spells will get stronger the more you practice them. In the Mileth crypt or East Woodlands, you will find many other young Aislings of various paths hunting. Being a priestess is very important to a hunting party, so you may be approached to join them. Always be humble and kind, and take care of the party as they depend on you greatly. And as you hunt, pick up items that others leave behind, such as spider’s eyes, silk, and mantis eyes. These items may be sold at Dar’s and Cian, the wizard that resides beside Dar’s house. Any extra money that you may have can be deposited at a bank in any town. This is an excellent rule to practice your whole Aisling life. Saving money is a sure-fire way to start your future investments.
+Once you have picked up a spell or two, start practicing them. Most spells will get stronger the more you practice them. In the Mileth crypt or East Woodlands, you will find many other young Aislings of various paths hunting. Being a priestess is very important to a hunting party, so you may be approached to join them. Always be humble and kind, and take care of the party as they depend on you greatly. And as you hunt, pick up items that others leave behind, such as spider's eyes, silk, and mantis eyes. These items may be sold at Dar's and Cian, the wizard that resides beside Dar's house. Any extra money that you may have can be deposited at a bank in any town. This is an excellent rule to practice your whole Aisling life. Saving money is a sure-fire way to start your future investments.
 
 ## Insight Eleven Through Forty
 
-Once you reach your eleventh insight, many new items will be available to you. Your first priority should be your armor, the Mystic gown. This gown may be purchased at the Loures counselor’s office on the top floor of the Loures castle for eight thousand and three hundred gold coins. While there, resist the temptation to buy a hat. Hats are very fashionable, but for the thrifty priestess are extravagant and are used for nothing but appearance, as they do not provide protection during battle.
+Once you reach your eleventh insight, many new items will be available to you. Your first priority should be your armor, the Mystic gown. This gown may be purchased at the Loures counselor's office on the top floor of the Loures castle for eight thousand and three hundred gold coins. While there, resist the temptation to buy a hat. Hats are very fashionable, but for the thrifty priestess are extravagant and are used for nothing but appearance, as they do not provide protection during battle.
 
 The next important thing you may want to take care of are the next rings that you may wear, the spinel and/or emerald rings, which increase your health by 500 each. After two Temuairan double moons, your Aisling guide shall mentor you once again, and you will be provided with a couple rings from the process. Also, if you wish they may guide you once again and if you have proven to be a wise hunter, Glioca may see fit to provide you with a few rings.
 
@@ -49,8 +49,8 @@ You may also become an Aisling of Mythril by making your armor after mentoring t
 
 By practicing at these methods, you will find your journey to be easier on you. Always practice the rule of the priestess, be kind and humble. Look out for your fellow Aisling, and when you reach your ascension, be patient to the young priestesses as well as all other Aislings.
 
-_Lira O’Caoindealbhain_  
-_as told by Keyne O’Caoindealbhain_
+_Lira O'Caoindealbhain_  
+_as told by Keyne O'Caoindealbhain_
 
 ***
 

@@ -1,6 +1,6 @@
 # Mighty Gramail
 
-_By Lobokia in **Dark Ages**_
+_by Lobokia in **Dark Ages**_
 
 I arise to-day  
 Through a mighty strength, the invocation of the allies three  

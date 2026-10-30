@@ -1,7 +1,7 @@
 # Grinneal - Beginning
 
 _Exposition of the Theory of the First Five Aeons_  
-_By Aeife in_ ___Dark Ages___
+_by Aeife in **Dark Ages**_
 
 ## First Aeon of Temuair Gnosis  
 _"The first Grinneal"_
@@ -36,7 +36,7 @@ Others state that the result of the probing into the north had far more violent 
 
 The civilization slowly began to disintegrate, caught in its own fabrication of calamity and terror. Some say that it was the darkness of the north, Kadath, and themselves which finally ended their madness, and others say that the Earth-Sea gods in pity and disgust sent a fire purging the land of the darkness.
 
-It was the end of the Aosda civilization, and the few that survived lived only because they knew nothing of the ancient and countless lore of the Aosda. Their children’s children lived in peaceful bliss with only a dream of the myth of a civilization long lost harboring the secrets of life and death. Thus was the next Aeon brought to being, the aeon of innocence.
+It was the end of the Aosda civilization, and the few that survived lived only because they knew nothing of the ancient and countless lore of the Aosda. Their children's children lived in peaceful bliss with only a dream of the myth of a civilization long lost harboring the secrets of life and death. Thus was the next Aeon brought to being, the aeon of innocence.
 
 ## The Fourth Aeon – Innocence  
 _"Mundane work with little progress"_

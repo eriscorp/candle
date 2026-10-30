@@ -1,6 +1,6 @@
 # Dance With Me!
 
-_by Dominique in ** Dark Ages **_  
+_by Dominique in **Dark Ages**_
 _A treatise on the Dances of Temuair_  
 
 _Whether it is a lively Abel Burlesque show, a stately Loures Waltz, or a

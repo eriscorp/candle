@@ -1,6 +1,6 @@
 # The History of Undine
 
-_Compiled by Cliona in_ __Dark Ages__
+_by Cliona in **Dark Ages**_
 
 ## Before Deoch: 100
 
@@ -49,6 +49,8 @@ As was the custom in those days, these "ghost ships", filled with the dead and t
 ## Danaan 3177: Lamps appear in towns
 
 This was the case of my parents. As I grew into a strong young man, the first monk to be trained outside of my land of Undine, I watched in Rucesion as Light was discovered, I watched the Shadows War end and lamps spring up throughout Temuair. I watched this, pleased by the turn of history had taken.
+
+_Compiled by Cliona_  
 
 ***
 

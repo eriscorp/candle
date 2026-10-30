@@ -1,6 +1,6 @@
 # Of Creatures, Wood and Vale
 
-_By Aislinn, A'mar Tsariae, in **Dark Ages**_  
+_by Aislinn in **Dark Ages**_
 _In honor of the Azure Moon .. may our order prosper_  
 
 ## Part I - Darkness: Influence
@@ -192,6 +192,8 @@ those vales recognize in some dim way the superior creatures, and leave to them
 to attack and to roar as they have done in the lighter vales. And that one day
 the greatest of the creatures would finally realize in vain that we indeed, in
 time, have become greater than they have.
+
+_Aislinn, A'mar Tsariae_  
 
 ***
 

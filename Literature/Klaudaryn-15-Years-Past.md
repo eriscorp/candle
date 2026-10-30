@@ -1,6 +1,6 @@
 # 15 Years Past
 
-_By Klaudaryn in **Dark Ages**_
+_by Klaudaryn in **Dark Ages**_
 
 _Why do you remain silent so?_  
 _Memories sliding from this time,_  

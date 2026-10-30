@@ -1,6 +1,6 @@
 # The Forgotten War
 
-_by Ramanayan of_ ___Dark Ages___
+_by Ramanayan in **Dark Ages**_
 
 _I always did enjoy reading about the past of Temuair. I enjoyed the distant past the most, long before the first Aisling or most of the Gods showed up. One day in, I believe the Spring of Doech 16, I was in the Library at Loures reading over a Time Line of Temuair's history. After reading it over I noted something odd. In Danann 1985 the first mortals slipped into Chadul's realm and Sgrios appeared at that time. It was not until Danann 2230 that another major event happened, the First Rouge and Temuair was balkanized. How very odd Sgrios and Chadul did not supposable act again until Danaan 2435 when the League of Darkness was formed. I did some looking into the period of Danaan 1986-2229. I found no records existed of that time. I did not give much though until the Fall of Doech 16. I was reading up on the Great War between Danann and Chadul of Danann 1980. I had purchased one of the oringal scrolls of the War from a Rouge friend of mine. I don't want to know where he got it. After reading a saw something strange in the last page. Mystic Symbols seemed to be in the page somehow but very faintly._
 

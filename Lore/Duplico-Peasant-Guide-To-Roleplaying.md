@@ -1,6 +1,6 @@
 # The Peasant's Guide to Roleplaying
 
-_by Duplico in_ ___Dark Ages___
+_by Duplico in **Dark Ages**_
 
 This manual is intended to be a basic introduction to roleplaying, containing suggestions from me from observations I've made on how to make your character Come Alive For you.  I suggest you view this full screen, in 800x600 mode, or, preferably, both. This book is titled "Peasant's," only to provide a tie to my previous piece, in an attempt to begin a series. This is suitable for anyone, not just Peasants, who wishes to obtain a greater background in roleplaying!
 
@@ -8,7 +8,7 @@ It is separated into five nonlinear sections, designed to be read in any order. 
 
 + "Who are you?" - a simple questionnaire in an attempt to show you who your character is. and provide a small background. I suggest you read this first.
 
-+ The World - This piece includes ways I suggest to tie your character into the fantasy world of Temuair. These kinds of things are most notable; includes several law citations and "don'ts”. It is second in importance only to the things you learn on your own from "Who are you?"
++ The World - This piece includes ways I suggest to tie your character into the fantasy world of Temuair. These kinds of things are most notable; includes several law citations and "don'ts". It is second in importance only to the things you learn on your own from "Who are you?"
 
 + Using the Old Tongue - This gives advanced suggestions into using Gaelic, the Old Tongue, to make your character's speech more authentic. This also gives suggestions in the use of accents.
 
@@ -96,7 +96,7 @@ In Character: Temuairans ceased speaking the Old Tongue thousands of years ago, 
 
 You will find many Aislings who speak with defined accents. As opposed to "Hello, how are you", they may say " 'Ello, 'ow are you", or in my case, " 'Ello, how do ye be this day?". These are excellent ways to make yourself seem more authentic. You should pick sounds to pronounce differently, and stick to this system. Make use of apostrophes. They are the key to utilizing accents. However, though accents are fun, be wary. I've encountered a few too many people who make "Hello, how are you" become " 'e'o, 'ow ah y'", or something of the like. Avoid things like this at all cost. 
 
-No matter how important or entertaining accents are, remember what I say: "Conversation is the key." If your accent impairs efficient and audible conversation, it is a good idea to change it. Ask a number of people if you think it's questionable, especially if you intend to speak in public. A few 'ellos, and "ye’s” make it more interesting without impairing conversation. Archaic sounding words such as thy, thee, and so on, are effective, if used properly. Thy = Your, Thine = Yours, Thee = You. You'll notice that they correspond to the "Me" forms. My, Mine, My, and so on. That may sound a bit confusing, and it isn't very important, though it's a tad interesting. You may want to reread it, but it is nothing vital.
+No matter how important or entertaining accents are, remember what I say: "Conversation is the key." If your accent impairs efficient and audible conversation, it is a good idea to change it. Ask a number of people if you think it's questionable, especially if you intend to speak in public. A few 'ellos, and "ye's" make it more interesting without impairing conversation. Archaic sounding words such as thy, thee, and so on, are effective, if used properly. Thy = Your, Thine = Yours, Thee = You. You'll notice that they correspond to the "Me" forms. My, Mine, My, and so on. That may sound a bit confusing, and it isn't very important, though it's a tad interesting. You may want to reread it, but it is nothing vital.
 
 ## Phrasebook
 

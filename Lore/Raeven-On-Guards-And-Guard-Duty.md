@@ -1,6 +1,6 @@
 # On Guards and Guard Duty, With regards to all villages and environs in Temuair.
 
-_by Raeven in_ ___Dark Ages___
+_by Raeven in **Dark Ages**_
 
 ## Introduction
 
@@ -10,7 +10,7 @@ In this treatise, the Writer shall attempt to encapsulate the theory, ideology, 
 
 ## Reporting for Duty
 
-_A summation of a Guard’s initial duties once he or she enters office_
+_A summation of a Guard's initial duties once he or she enters office_
 
 Once an Aisling takes the oath of office and receives his or her uniform, all will know that Aisling as a Guard in office empowered with Guard- related duties and responsibilities. His or her name will be spoken by various Mundanes throughout Temuair should anyone ask for a list of Guards in office at that moment, and his or her name may also be posted on various Boards and Slates around the realm.
 
@@ -36,21 +36,21 @@ _A rumination on the conduct and behavior of the Guard while in office, both on 
 
 It is a fact, and a reflection of the times in which we live, that a Guard is effectively on duty at any time he or she is within the realm of Temuair. Whether or not a Guard is in uniform, whether or not a Guard is within the jurisdiction of his or her citizenship, whether or not a Guard is carrying out the responsibilities of office—he or she is seen and known to be a Guard. For this reason, it best behooves a Guard to be mindful of his or her words and actions at all times. If this burden of example proves too restrictive or too onerous for an Aisling to bear, then sadly he or she is not a good fit for the office of Guard.
 
-A Guard (like any other elected official) should ideally present himself or herself to the realm as the best of what Aislinghood purports to be. A Guard should always be polite, honest, and calm in tone and manner. A Guard should always treat other Aislings, mundanes, and immigrants with courtesy. The motivation behind this way of thinking and acting should not be born of a desire to remain in office and to secure votes, but instead it should be a constant awareness of a Guard’s abilities to enforce the law.
+A Guard (like any other elected official) should ideally present himself or herself to the realm as the best of what Aislinghood purports to be. A Guard should always be polite, honest, and calm in tone and manner. A Guard should always treat other Aislings, mundanes, and immigrants with courtesy. The motivation behind this way of thinking and acting should not be born of a desire to remain in office and to secure votes, but instead it should be a constant awareness of a Guard's abilities to enforce the law.
 
-Whatever a Guard does or says is precisely reflective of what that Guard will find acceptable in others. Therefore, the Guard who swears, or mocks mundanes and new emigrants, or who gives preferential or indulgent treatment to a friend or family member, or treats other Aislings rudely and unfairly, is emulating the type of behavior others will expect he or she to tolerate. It is inconsistent with the spirit of Temuairan law, and with the very essence of being an Aisling, to have one expectation for one’s self and a second, entirely different expectation for others. It is also, largely, viewed as hypocritical by other Aislings all around, so the Guard who is not mindful of his or her own conduct will earn a bad reputation and usually not remain long in office.
+Whatever a Guard does or says is precisely reflective of what that Guard will find acceptable in others. Therefore, the Guard who swears, or mocks mundanes and new emigrants, or who gives preferential or indulgent treatment to a friend or family member, or treats other Aislings rudely and unfairly, is emulating the type of behavior others will expect he or she to tolerate. It is inconsistent with the spirit of Temuairan law, and with the very essence of being an Aisling, to have one expectation for one's self and a second, entirely different expectation for others. It is also, largely, viewed as hypocritical by other Aislings all around, so the Guard who is not mindful of his or her own conduct will earn a bad reputation and usually not remain long in office.
 
-It is additionally most important for a Guard to mind his or her behavior when on duty. It is also a reflection of the age in which we live that certain new immigrants (and even certain long-time residents) find deep satisfaction in harassing political officials. It is even an expectation of duty to assume that criminals and heretics will abuse and mistreat a Guard who punishes them, not to mention that criminal’s or heretic’s family, friends, and associates. But again, it is not correct or even acceptable for a Guard to descend to the same level and type of behavior as criminals and heretics exhibit.
+It is additionally most important for a Guard to mind his or her behavior when on duty. It is also a reflection of the age in which we live that certain new immigrants (and even certain long-time residents) find deep satisfaction in harassing political officials. It is even an expectation of duty to assume that criminals and heretics will abuse and mistreat a Guard who punishes them, not to mention that criminal's or heretic's family, friends, and associates. But again, it is not correct or even acceptable for a Guard to descend to the same level and type of behavior as criminals and heretics exhibit.
 
-It is not acceptable for a Guard to scream, swear, or verbally abuse another Aisling, not even if he or she is breaking the law. It is not acceptable for a Guard to strike another Aisling, even if that Aisling is striking a Guard. It is entirely possible, and greatly admirable, for a Guard to dispatch his or her duty in office with steady, grim, and determined patience, and it is well within a Guard’s duty to punish someone who threatens or harasses them or any other Guard according to the definition of the law. That is, a Guard need not respond in kind to criminal behavior, but a Guard need not let such behavior go unpunished if necessary, either.
+It is not acceptable for a Guard to scream, swear, or verbally abuse another Aisling, not even if he or she is breaking the law. It is not acceptable for a Guard to strike another Aisling, even if that Aisling is striking a Guard. It is entirely possible, and greatly admirable, for a Guard to dispatch his or her duty in office with steady, grim, and determined patience, and it is well within a Guard's duty to punish someone who threatens or harasses them or any other Guard according to the definition of the law. That is, a Guard need not respond in kind to criminal behavior, but a Guard need not let such behavior go unpunished if necessary, either.
 
 ## Responsibilities to Other Officials
 
-_A discussion of a Guard’s responsibilities to other Guards, to Demagogues, to Burgesses, and to Judges, from any and all parts of Temuair._
+_A discussion of a Guard's responsibilities to other Guards, to Demagogues, to Burgesses, and to Judges, from any and all parts of Temuair._
 
-The primary rule that a Guard must uphold with regards to his or her comrades in politics is a simple one: a Guard must never make another official’s job more difficult.
+The primary rule that a Guard must uphold with regards to his or her comrades in politics is a simple one: a Guard must never make another official's job more difficult.
 
-What does this mean? Citizenship, religion, personal involvement, and other forms of prejudice should never determine how, or if, a Guard comes to the assistance of another elected official. A Guard should always remember that in times of need or crisis, he or she may only have another elected official to turn to for assistance or support. Again, awareness of clout or widdling or removal should not be uppermost in a Guard’s mind when thinking of other officials, but instead, a Guard should seek to improve and preserve a true spirit of teamwork and cooperation.
+What does this mean? Citizenship, religion, personal involvement, and other forms of prejudice should never determine how, or if, a Guard comes to the assistance of another elected official. A Guard should always remember that in times of need or crisis, he or she may only have another elected official to turn to for assistance or support. Again, awareness of clout or widdling or removal should not be uppermost in a Guard's mind when thinking of other officials, but instead, a Guard should seek to improve and preserve a true spirit of teamwork and cooperation.
 
 It is imperative for a Guard to let another Guard handle his or her own criminal matters unless that other Guard is breaking or ignoring the law, or unless the other Guard asks for assistance. It is imperative for a Guard to respond politely and promptly to a request by any Demagogue, Burgess or Judge when the request involves a matter of law or justice. It is imperative for a Guard to uphold, and not to contradict or reverse, the verdict or punishment of another official (in Mileth, specifically, this action is expressly illegal). Even if a Guard is acting in concert with other officials to widdle or remove a corrupt official from office, it is imperative that a Guard exercise this sad duty with calmness and with sobriety. A Guard must always remember his or her place within the greater scheme of law and order within Temuair, and never assume or presume he or she is above it.
 
@@ -64,21 +64,21 @@ Should the need for instituting a trial system ever arise in Temuair, it will be
 
 ## Investigating Alleged Crimes
 
-_A description of the proper and appropriate methods involved in a Guard’s investigation of an alleged crime._
+_A description of the proper and appropriate methods involved in a Guard's investigation of an alleged crime._
 
 The primary rule that a Guard must uphold with regards to investigating alleged crimes is also simple: a Guard must follow proper procedure and never inflame the situation at hand.
 
-It is always in a Guard’s best interests to enter a situation with a cool head and a calm tone. If a Guard has been called in to investigate a situation, it is always fair to assume that tempers have flared and arguments have gone on, and that the Aislings or immigrants involved might be genuinely enraged. A Guard must always remember that his or her first task is to determine the facts of a situation. The Guard should gather some or all of the following (depending upon the procedures recommended under each different law): statements from each party involved, memories ((screen shots)), and/or witness testimony. The Guard should politely but firmly discourage anyone involved in the case from making the situation worse, as some less discerning individuals may use the presence of a Guard to sling insults or new accusations. Finally, when the Guard is satisfied that he or she has the necessary understanding of the situation at hand, he or she can determine what, if any, punishment is appropriate.
+It is always in a Guard's best interests to enter a situation with a cool head and a calm tone. If a Guard has been called in to investigate a situation, it is always fair to assume that tempers have flared and arguments have gone on, and that the Aislings or immigrants involved might be genuinely enraged. A Guard must always remember that his or her first task is to determine the facts of a situation. The Guard should gather some or all of the following (depending upon the procedures recommended under each different law): statements from each party involved, memories ((screen shots)), and/or witness testimony. The Guard should politely but firmly discourage anyone involved in the case from making the situation worse, as some less discerning individuals may use the presence of a Guard to sling insults or new accusations. Finally, when the Guard is satisfied that he or she has the necessary understanding of the situation at hand, he or she can determine what, if any, punishment is appropriate.
 
-It is never acceptable for a Guard to be confrontational or belligerent when investigating a crime. It does not matter if the Aislings or immigrants involved treat Guards with contempt, the mere presence of a Guard at the scene of an alleged crime conveys the full measure of a Guard’s authority. Therefore, the Guard should remember that he or she is capable of handling any situation he or she might come across, no matter how chaotic events may get or how disrespectful others might become. If a Guard can bear these things in mind at all times, then he or she would never feel the need to treat others as they themselves might be treated.
+It is never acceptable for a Guard to be confrontational or belligerent when investigating a crime. It does not matter if the Aislings or immigrants involved treat Guards with contempt, the mere presence of a Guard at the scene of an alleged crime conveys the full measure of a Guard's authority. Therefore, the Guard should remember that he or she is capable of handling any situation he or she might come across, no matter how chaotic events may get or how disrespectful others might become. If a Guard can bear these things in mind at all times, then he or she would never feel the need to treat others as they themselves might be treated.
 
 ## Administering the Law
 
-_A description of the proper and appropriate methods involved in a Guard’s administration of punishment for a crime._
+_A description of the proper and appropriate methods involved in a Guard's administration of punishment for a crime._
 
 With a few notable exceptions that may be noted by reading the Mileth and Rucesion law boards, the approved and required procedure for Guards handling an alleged crime is first to warn and then to banish. The number of warnings a Guard must give varies from law to law, but as a general rule of thumb no Guard can go wrong by giving three warnings.
 
-The purpose of warning an alleged criminal is threefold: first, it gives the alleged criminal fair warning and alerts them to a Guard’s presence; second, it enables a Guard to determine if the Aisling or immigrant is knowingly breaking the law, and third, it informs the Guard as to the Aisling’s or immigrant’s state of mind. In situations of sexual abuse or harassment (in Mileth) a warning is not necessary if memories ((screen shots)) and/or witnesses are present so that the Guard can clearly determine a crime has taken place. But in all cases, a warning serves a clearly beneficial purpose: it is part of the established procedure that protects a Guard from accusations of improper investigation and arrest, and it gives the alleged criminal clear, fair warning to cease what they are doing.
+The purpose of warning an alleged criminal is threefold: first, it gives the alleged criminal fair warning and alerts them to a Guard's presence; second, it enables a Guard to determine if the Aisling or immigrant is knowingly breaking the law, and third, it informs the Guard as to the Aisling's or immigrant's state of mind. In situations of sexual abuse or harassment (in Mileth) a warning is not necessary if memories ((screen shots)) and/or witnesses are present so that the Guard can clearly determine a crime has taken place. But in all cases, a warning serves a clearly beneficial purpose: it is part of the established procedure that protects a Guard from accusations of improper investigation and arrest, and it gives the alleged criminal clear, fair warning to cease what they are doing.
 
 It is entirely possible that someone may be breaking a law in complete ignorance of what they are doing; many immigrants, for example, come from a faraway land in the East where the legal code is very different. It is also true (greatly unfortunate, but still true) that many Mentors and Guides do not require their students to read the local Law Board as a part of their training regimen. Therefore ignorance, on its own, is neither a crime nor an excuse, but giving warnings is a fairly accurate way to determine if ignorance is involved. The act of warning also helps the Guard to determine if the alleged criminal is defensive or contrite. Forgiveness is always an option for any Guard to consider, but forgiveness is more likely to be effective if the alleged criminal is apologetic.
 
@@ -90,7 +90,7 @@ If the first warning does not prevent the alleged criminal from continuing to co
 
 _A description of the most helpful manner in which to post a report of banishment._
 
-It is essential, if not required by law, for a Guard to report that they have banished a criminal. It is best if this report is filed as quickly as possible, and it should be posted to the proper Slate or Board per whatever directives exist in the Guard’s jurisdiction.
+It is essential, if not required by law, for a Guard to report that they have banished a criminal. It is best if this report is filed as quickly as possible, and it should be posted to the proper Slate or Board per whatever directives exist in the Guard's jurisdiction.
 
 The most effective manner of posting a banishment is to write a brief, but complete, account of the situation including the names of any witnesses and the presence of any relevant memories ((screen shots)). The posting should be titled, simply, as "Banished [Criminal]" so that Demagogues, Burgesses, and Judges can easily find it.
 
@@ -108,7 +108,16 @@ Similarly, no Guard should entertain forgiving a banishment lightly, either. Ind
 
 _A summary of the arguments and points of logic suggested within._
 
-It is the opinion of the Writer that Aislings who enter into the office of Guard should do so with full understanding and respect for what that office embodies: the first line of defense against lawlessness and chaos in the land of Temuair. It is the Writer’s hope that she has infused the reader with a small spark of pride, understanding, and honor for the men and women who wear the Guard uniform and hold the office itself in high respect.
+It is the opinion of the Writer that Aislings who enter into the office of Guard should do so with full understanding and respect for what that office embodies: the first line of defense against lawlessness and chaos in the land of Temuair. It is the Writer's hope that she has infused the reader with a small spark of pride, understanding, and honor for the men and women who wear the Guard uniform and hold the office itself in high respect.
 
 _Raeven Kyrkonnel_  
 _Deoch 7, 9th Moon, 10th Sunday_
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

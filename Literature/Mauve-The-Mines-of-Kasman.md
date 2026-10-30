@@ -1,6 +1,6 @@
 # The Mines of Kasman
 
-_Mauve in **Dark Ages**_
+_by Mauve in **Dark Ages**_
 
 I stand before a mountain  
 A mouth of blackness deep  

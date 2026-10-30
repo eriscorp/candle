@@ -1,6 +1,6 @@
 # Realto i Laiocht fior na Speire: A guide to Temuair's Constellations
 
-_by Solanalein in_ ___Dark Ages___
+_by Solanalein in **Dark Ages**_
 
 _Blaise, Librarian of Loures looks up from a steaming mug of twiggy-smelling tea, and lowers his glasses skeptically. "May I.. help you? Oh!" He smiles at you and puts his reading down; a red leather cover inscribed with thick gold embossing. The words are in an unfamiliar language. He folds his hands. "An Aisling. Can I help you find something in particular to-day? A novel on the exploits of the Marauder perhaps?" As you respond, he raises his eyebrows, "Research, you say?" and smiles knowingly._ 
 

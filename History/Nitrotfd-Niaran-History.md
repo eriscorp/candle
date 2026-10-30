@@ -1,6 +1,6 @@
 # Niaran History
 
-_by NitroTFD in_ ___Dark Ages___
+_by NitroTFD in **Dark Ages**_
 
 Back in the ancient days of Hybrasyl were the Tuatha de Niara, or people or Niara. Before they were known as the people of Niara however, they, along with the men and women who formed Finach and Sarnath, were known as the people who lived on the golden plains of Hybrasyl.
 

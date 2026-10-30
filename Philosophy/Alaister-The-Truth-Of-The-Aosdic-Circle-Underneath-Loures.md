@@ -1,6 +1,6 @@
 # The Truth of the Aosda Circle under Loures
 
-_By Alaister in **Dark Ages**_
+_by Alaister in **Dark Ages**_
 
 Aislings your days are numbered! The anaman pact will be reborn and Chadul will
 come again! Until recently I was like you dutifully fighting back the darkness

@@ -1,6 +1,6 @@
 # A Beginners Guide to Theology
 
-_By Wuhao in **Dark Ages**_
+_by Wuhao in **Dark Ages**_
 
 I should begin this writing by saying that I am not a writer. I have been told
 that I am a good speaker, and I have been told that when I give mass, my

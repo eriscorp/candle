@@ -22,7 +22,7 @@ impeccably polished.
 Aaron enjoyed the hunt. To hunt until he could be proclaimed a true Master of
 his path was not his goal. He wanted a moment to be isolated from the world,
 contained entirely within the passion of combat. This, ironically, was Aaron's
-time to think”.
+time to think".
 
 The sun was at its zenith that day, shining down on the world at a temperature
 comfortable for living. Aaron walked calmly through a clearing in the woods,
@@ -45,12 +45,12 @@ Aaron gave the sword a brief twist, causing Randolph to jerk and gasp loudly,
 then withdrew the blade once more.
 
 Randolph's body, eyes wide and glazed over, collapsed back on the grass as
-though it had decided to sun itself. "Sorry buddy,” Aaron muttered to the
-corpse, "there was a price on your head.”
+though it had decided to sun itself. "Sorry buddy," Aaron muttered to the
+corpse, "there was a price on your head."
 
 ***
 
-"Barkeep, make that two brandies!” The rogue held up two fingers to emphasize
+"Barkeep, make that two brandies!" The rogue held up two fingers to emphasize
 his point, then laughed loudly. His hair was black and slicked back with a
 heavy dose of some odd gel. His eyes were chestnut brown and shimmered with a
 lust for life. His green dwarven leather was kept in fairly new condition,
@@ -62,18 +62,18 @@ another man sitting next to him. It was a younger rogue, dressed in common grey
 scout leather. He was also, apparently, the older rogue's student.
 
 The elder rogue turned to his disciple and held up one of the mugs the
-barkeeper had given them. "This, boy,” he announced, "is the finest alcohol
+barkeeper had given them. "This, boy," he announced, "is the finest alcohol
 money can buy. In these parts, anyway. Now, heed m' words, there's a proper way
-t' drink this stuff too.” The rogue set the mug to his lips and talked
+t' drink this stuff too." The rogue set the mug to his lips and talked
 carefully. "This ain't the sorta stuff you can let dribble. You just can't
-afford t' lose any of it!”
+afford t' lose any of it!"
 
 The rogue returned his eyes to the bottom of his cup and finished half the
 brandy in one loud slurp. He banged the cup back down on the counter, causing a
 bit of the vile brew to leap into the air like a fish before returning to the
 strangely colored sea from which it came.
 
-"Like that,” he concluded proudly.
+"Like that," he concluded proudly.
 
 The man's student lifted his mug clumsily imitated his mentor. A bit of the
 drink spilled down the side of the boy's suit and his mentor let out a loud
@@ -85,14 +85,14 @@ student try a second time. Not so much liquid was lost in this slurp, and the
 rogue applauded loudly, causing several nearby drunks to break into a standing
 ovation for a reason they didn't understand.
 
-The elder rogue turned again to his student. "Now you pay yer tab,” he
-announced. "Watch.” He put two fingers into his mouth and whistled loudly. The
-barkeep turned and noticed him wave a "finished” to her, and she shuffled over.
+The elder rogue turned again to his student. "Now you pay yer tab," he
+announced. "Watch." He put two fingers into his mouth and whistled loudly. The
+barkeep turned and noticed him wave a "finished" to her, and she shuffled over.
 The rogue slammed several coins onto the table, the a little more than the
 amount he owed.
 
 The barkeep smiled and thanked him. The rogue grinned over at his student and
-said loudly, "Yer welcome, m'am, and have a good evn'in!” The barkeep's smile
+said loudly, "Yer welcome, m'am, and have a good evn'in!" The barkeep's smile
 grew and she told him to have a good night as well, then picked up their mugs
 and returned to the other end of the little box she occupied.
 
@@ -101,7 +101,7 @@ source of the excitement. He saw the dancing girl performing a heady jig and
 eliciting shout after shout from her drunken audience. He motioned to his
 student and the two of them stood up.
 
-"Now,” he said slyly to the boy, "It's time for your next lesson.”
+"Now," he said slyly to the boy, "It's time for your next lesson."
 
 ***
 
@@ -162,7 +162,7 @@ it was pulled above his eyes more.
 Adrian reached into his rucksack and extracted two beothaich deums. He handed
 one solemnly to Leon. Adrian looked quietly across at Leon, then up at the
 great stone gaze of the statue. He said quietly, "We're here to offer homage to
-the gods and to the memory of the young monk who died not moons ago.”
+the gods and to the memory of the young monk who died not moons ago."
 
 Leon nodded silently, and the two of them set their beothaich deums in the
 altar. The potions sat for an instant, then were enveloped in a flash of light
@@ -179,9 +179,9 @@ another remote corner of the woods with Gabrielle. Gabrielle had oaken hair,
 pulled up in buns around her ears. She wore a nicely tailored cuirass, and a
 quiet smile on her lips.
 
-"It's a beautiful day,” Gabrielle said happily. 
+"It's a beautiful day," Gabrielle said happily. 
 
-"Not as beautiful as you,” Aaron grinned. He was a master of cliché, but his
+"Not as beautiful as you," Aaron grinned. He was a master of cliché, but his
 was the sort of cliché that caused women to swoon and fall hopelessly in love
 with him. Gabrielle did just this.
 
@@ -248,10 +248,10 @@ neither of them noticed him either. That is, not until the three of them
 collided with a resounding oof!
 
 Aaron spat curses and rubbed his head. He whipped around and grabbed the elder
-rogue by the collar. "You!” he raged.
+rogue by the collar. "You!" he raged.
 
-"Woah, woah,” the rogue said, holding his hands in a motion of good intentions.
-"Didn't mean t' run into ya, pal. Simple mistake.” He chuckled, a contrived
+"Woah, woah," the rogue said, holding his hands in a motion of good intentions.
+"Didn't mean t' run into ya, pal. Simple mistake." He chuckled, a contrived
 sound that fooled no one. Aaron stared daggers at the man a moment longer and
 then every part of him seemed to relax. He set the rogue down and backed off.
 
@@ -260,30 +260,30 @@ scout leather that he seemed to be about ready to outgrow. He regarded Aaron
 silently and looked over at the elder rogue, who was dusting himself off from
 the encounter.
 
-"Anyway,” the man said, sounding quite confident and unshaken, "Who're you?”
+"Anyway," the man said, sounding quite confident and unshaken, "Who're you?"
 
-"I might put the same question to you,” Aaron said coldly.
+"I might put the same question to you," Aaron said coldly.
 
-The rogue laughed, for real this time. "Fair enough. I'm Adrian, this ‘ere's me
-student Leon.” Leon merely nodded at his mentor's assailant.
+The rogue laughed, for real this time. "Fair enough. I'm Adrian, this 'ere's me
+student Leon." Leon merely nodded at his mentor's assailant.
 
-"I'm Aaron,” the warrior responded, still little hint of feeling in his voice.
+"I'm Aaron," the warrior responded, still little hint of feeling in his voice.
 
-"In way of apology, lemme buy you a drink,” the rogue said genially.
+"In way of apology, lemme buy you a drink," the rogue said genially.
 
-"I don't drink,” Aaron responded, still eyeing his new acquaintance.
+"I don't drink," Aaron responded, still eyeing his new acquaintance.
 
-"Shame,” Adrian said. "But the tavern's a good place anyway.”
+"Shame," Adrian said. "But the tavern's a good place anyway."
 
-"You only think that once you're drunk,” Aaron muttered.
+"You only think that once you're drunk," Aaron muttered.
 
-"Ahh, got no sense of adventure?” Adrian said teasingly. Aaron was a bit miffed
+"Ahh, got no sense of adventure?" Adrian said teasingly. Aaron was a bit miffed
 but tried to control his temper.
 
-"Leave me alone,” he snorted, and walked on.
+"Leave me alone," he snorted, and walked on.
 
-When Aaron was out of earshot, Adrian turned to his student. "Well,” he said
-amicably, "affable fellow, isn't he?”
+When Aaron was out of earshot, Adrian turned to his student. "Well," he said
+amicably, "affable fellow, isn't he?"
 
 ***
 
@@ -293,48 +293,48 @@ volatile temper.
 
 He's nearly killed several people—myself included—for minor slips of courtesy,
 Adrian thought to himself. Shortly after such an incident, Leon turned to his
-esteemed mentor. "Master, I think something's odd about that Aaron,” he said
+esteemed mentor. "Master, I think something's odd about that Aaron," he said
 carefully.
 
-"You and me both,” Adrian agreed, and they watched the brooding warrior
+"You and me both," Adrian agreed, and they watched the brooding warrior
 disappear down the street.
 
 ***
 
-"It's been nearly three double-moons since Gabrielle's murder,” Leon observed
+"It's been nearly three double-moons since Gabrielle's murder," Leon observed
 one day.
 
-"It has,” Adrian confirmed. "But remember, her murder was not till nearly three
-double-moons after Randolph's killing.” The two of them shivered despite a warm
+"It has," Adrian confirmed. "But remember, her murder was not till nearly three
+double-moons after Randolph's killing." The two of them shivered despite a warm
 day.
 
-Aaron suddenly seemed to appear out of nowhere. "Hello, boys,” he said quietly.
+Aaron suddenly seemed to appear out of nowhere. "Hello, boys," he said quietly.
 
-"Ah, greets,” Adrian said, waving despite the fact that Aaron was only a few
+"Ah, greets," Adrian said, waving despite the fact that Aaron was only a few
 feet away.
 
-Aaron cut right to the core of his business. "Adrian—do you enjoy the hunt?”
+Aaron cut right to the core of his business. "Adrian—do you enjoy the hunt?"
 
-"Sometimes,” Adrian responded guardedly. The way Aaron expressed the statement
+"Sometimes," Adrian responded guardedly. The way Aaron expressed the statement
 carried far more meaning than was seen at face value.
 
-"Good. I know the perfect little place to learn a few things about combat,”
-Aaron said, a smirk beginning to form at the edges of his lips. "Want to come?”
+"Good. I know the perfect little place to learn a few things about combat,"
+Aaron said, a smirk beginning to form at the edges of his lips. "Want to come?"
 
 Adrian shot a glance over at Leon, whose eyes said he was thinking the same
-thing. "Alright,” Adrian said carefully.
+thing. "Alright," Adrian said carefully.
 
-Aaron eyed the two of them briefly. "Wonderful.”
+Aaron eyed the two of them briefly. "Wonderful."
 
 ## IV. Daemon Rising
 
 In due time the little party arrived at the entrance to the Mileth Crypt.
 
-"Down there,” Aaron nodded towards the giant earthen capsule rising from the
-ground. Adrian and Leon began to advance. "No,” Aaron interrupted. "The boy
-stays.” Adrian looked back at Leon, who nodded. Adrian looked this time at
+"Down there," Aaron nodded towards the giant earthen capsule rising from the
+ground. Adrian and Leon began to advance. "No," Aaron interrupted. "The boy
+stays." Adrian looked back at Leon, who nodded. Adrian looked this time at
 Aaron. The mighty warrior took a step inside and called back, "I'll be
-waiting.”
+waiting."
 
 ***
 
@@ -342,24 +342,24 @@ The crypt was dank and humid from the previous night's rain. The walls were
 covered in ever-expanding blankets of moss, and tiny rodents scrabbled around,
 scattering loose pebbles and dirt.
 
-"It's this way,” Aaron said, guiding Adrian past tombs and treasure chests.
+"It's this way," Aaron said, guiding Adrian past tombs and treasure chests.
 They descended floor after floor. Strangely enough, almost no creatures
 bothered them during their trip, and those foolish enough to get in their way
 Aaron handily dispatched with his battle sword.
 
 Finally, after nearly two hours of walking around cold stone and down stairs,
-Aaron announced, "Here we are.”
+Aaron announced, "Here we are."
 
 Adrian looked around himself. Nothing seemed much different here than up on the
-first floor. "What level are we on?” he asked Aaron.
+first floor. "What level are we on?" he asked Aaron.
 
-"The twenty-second,” the warrior responded.
+"The twenty-second," the warrior responded.
 
-"We grow near to the true darkness that lurks below,” Adrian said, starting to
+"We grow near to the true darkness that lurks below," Adrian said, starting to
 tremble a little.
 
-"Don't worry,” Aaron assured him, "We're not going any deeper.” His voice grew
-dangerous. "Right here is just fine.” With the smooth sound of sliding steel
+"Don't worry," Aaron assured him, "We're not going any deeper." His voice grew
+dangerous. "Right here is just fine." With the smooth sound of sliding steel
 Aaron extracted his battle sword from its sheath. He stood for a moment,
 staring intensely at Adrian, who did not so much as blink under his withering
 gaze.
@@ -369,34 +369,34 @@ rat scuttling for cover. Aaron pulled his sword closer to his center, readying
 himself for combat. This time there would be signs of a struggle.
 
 Adrian could tell what was happening, had been expecting it. He drew a dagger
-and dropped into a fighting stance. He began to slide forward. "Ah ah,” Aaron
-said, waving a finger like a mother scolding her child. "Naughty naughty.”
+and dropped into a fighting stance. He began to slide forward. "Ah ah," Aaron
+said, waving a finger like a mother scolding her child. "Naughty naughty."
 Adrian simply stared at Aaron, whose eyes were now sparking as though he were
 enjoying himself.
 
-"You killed them, didn't you?” Adrian asked stonily.
+"You killed them, didn't you?" Adrian asked stonily.
 
-"About damn time someone figured it out,” Aaron responded gruffly. "The men in
-the big suits haven't got a clue how to solve a crime.”
+"About damn time someone figured it out," Aaron responded gruffly. "The men in
+the big suits haven't got a clue how to solve a crime."
 
-"You mean this entire thing was a game?” Adrian asked in disbelief.
+"You mean this entire thing was a game?" Adrian asked in disbelief.
 
-"Not at all,” Aaron said casually. "That was a bonus. I got paid for both those
-killings.”
+"Not at all," Aaron said casually. "That was a bonus. I got paid for both those
+killings."
 
-"Wha...who? Why?”
+"Wha...who? Why?"
 
 "Randolph was legally clean, but he'd had some run-ins with a local gang. Their
 little wanna-be assassins couldn't pull it off, so they put a price on his
-head. I just happened to be in town when they did.” Adrian stared at Aaron,
+head. I just happened to be in town when they did." Adrian stared at Aaron,
 shocked that a man could run a friend through for a couple of coins.
 
 "Gabrielle's lover suspected she was cheating on him. If he wasn't right at
-first, he was when I was through with her.” He laughed, an empty, grating
+first, he was when I was through with her." He laughed, an empty, grating
 sound. Adrian's mouth moved but no sound came out.
 
-"Speechless? They were, too.” He smirked. "And pretty soon you will be.
-Permanently.”
+"Speechless? They were, too." He smirked. "And pretty soon you will be.
+Permanently."
 
 ## V.   A Candle in the Darkness
 
@@ -405,27 +405,27 @@ the rogue regained awareness. His eyes focused on the warrior in front of him,
 who was taking slow steps forward, sword at the ready.
 
 Adrian looked at the man, and suddenly splayed out his arms in a T shape. "You
-wanna kill me?” he smirked. "Go ahead. If that's the worst thing that happens
-to me today I can be happy.”
+wanna kill me?" he smirked. "Go ahead. If that's the worst thing that happens
+to me today I can be happy."
 
 Aaron stopped a moment, surprised at the audacity of the man in front of him.
 Then a snarl curled his lips and he resumed his advance.
 
-"There's only one more thing I wanna know,” Adrian piped up.
+"There's only one more thing I wanna know," Adrian piped up.
 
-Aaron stopped and grinned sadistically at his next victim. "Shoot.”
+Aaron stopped and grinned sadistically at his next victim. "Shoot."
 
 Adrian let a cocky grin cross his face. "Why do the evil villains always reveal
-their plans in the end?”
+their plans in the end?"
 
 Aaron let out a laugh, chilling though it was. "If we didn't tell someone
-there'd be no one to write them down, would there?” He hefted his sword again
+there'd be no one to write them down, would there?" He hefted his sword again
 and started forth once more.
 
 Aaron was but four paces from Adrian, savoring his victory and his next murder.
 Rewards aside, there was a sadistic pleasure in this.
 
-Suddenly, a single word from Adrian split the air. "Why?”
+Suddenly, a single word from Adrian split the air. "Why?"
 
 Aaron stopped in his tracks. The syllable seemed to echo throughout the crypt,
 reverberating off walls and forgotten stone tombs. The word cavorted about in
@@ -456,14 +456,14 @@ Clouds were still dominating the sky when the two emerged silently from the
 crypt. Leon was still standing there, watching silently for his mentor to
 return, as he had known he would.
 
-"I know what happens next,” Aaron said, resigned to his fate. "But before we
-visit the burgess, I have something I have to do.” Adrian nodded, and the three
+"I know what happens next," Aaron said, resigned to his fate. "But before we
+visit the burgess, I have something I have to do." Adrian nodded, and the three
 went to the Mileth altar, where the stone statue's face seemed to have
 softened.
 
 Aaron reverently removed the battle sword his ancestors had carried from its
 sheath. He turned to face the altar full on. "I have profaned this blade with
-my actions,” he said, more to the statue than to the company around him. He
+my actions," he said, more to the statue than to the company around him. He
 said a brief prayer for the blade and asked his ancestors to forgive him. Then,
 lovingly, he placed the sword on the offering stone.
 
@@ -471,7 +471,7 @@ A quiet white light seemed to reach out to accept to sword, and swiftly it,
 too, was gone, and around Aaron was a bright flash of light. A smile, quiet but
 satisfied, crossed the warrior's face.
 
-"I have done my duty,” he said solemnly, and the three of them began back down
+"I have done my duty," he said solemnly, and the three of them began back down
 the road.
 
 ***

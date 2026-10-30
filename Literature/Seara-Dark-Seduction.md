@@ -1,6 +1,6 @@
 # Dark Seduction
 
-_By Seara in **Dark Ages**_
+_by Seara in **Dark Ages**_
 
 Grey shadows danced on walls where no light fell,  
 And darkness lolls  

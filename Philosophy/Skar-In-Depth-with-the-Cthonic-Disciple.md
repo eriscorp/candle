@@ -1,6 +1,6 @@
 # In Depth with the Cthonic Disciple
 
-_By Skar in **Dark Ages**_
+_by Skar in **Dark Ages**_
 
 The Cthonic Disciple was first heard of when a priest stumbled across the
 remains of one. He then took its robes and hood and donned them. The priest

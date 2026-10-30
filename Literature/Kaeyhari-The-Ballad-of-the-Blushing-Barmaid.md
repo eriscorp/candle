@@ -1,6 +1,6 @@
 # The Ballad of the Blushing Barmaid
 
-_by Kaeyhari of **Dark Ages**_
+_by Kaeyhari in **Dark Ages**_
 
 East of the Streets of Abel,  
 And North of the Woodland Hills,  

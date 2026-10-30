@@ -143,11 +143,11 @@ heavy then a bracer is rarely used by the monk.
 
 ```
 (For more knowledge on how exactly a monk uses these skills in the form of a
-training guide, view brother Randolf's Monk lore manuals
-``
+training guide, view brother Randolf's Monk lore manuals)
+```
 
 
-# An Overview of Monk Social Graces, and Clothes
+## An Overview of Monk Social Graces, and Clothes
 
 > _He stood there, in a pair of long white pants,  
 > with a red belt around his waist, and not much else.  

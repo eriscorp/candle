@@ -1,7 +1,7 @@
 # The Transaction of Loures
 
 _A Commentary upon the predicament of the ruling power of Temuair_  
-_By Aeife in **Dark Ages**_  
+_by Aeife in **Dark Ages**_
 
 ## Introduction
 

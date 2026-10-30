@@ -1,6 +1,6 @@
 #  The Complete Guide to Fishing: Facts, Food, Fashion & Fun
 
-_by Elenoir in_ ___Dark Ages___
+_by Elenoir in **Dark Ages**_
 
 ## Introduction	
 Fishing is one of Temuair's greatest pastimes. Not only can it be fun, but it can also suffice as a source of income. Throughout Temuair, Aislings are picking up poles and giving this age-old sport a try. Whether you're a warrior, wizard, monk, priest, rogue, or peasant, fishing can cure your boredom, add to your closet, and fill your bellies as well as your pockets.	

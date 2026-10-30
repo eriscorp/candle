@@ -1,6 +1,6 @@
 # Iodhnadh de a' Luaithre: Na Seanchas de Ard-Veenid
 
-_By Evenue in_ ___Dark Ages___
+_by Evenue in **Dark Ages**_
 
 ## I: Introduction
 
@@ -37,9 +37,9 @@ With the discovery of the element of darkness, chaos reigned the land. Dubhaim b
 
 While the rest of the world toiled against the Dubhaim, the wizards of Sarnath had advanced the secrets of teleportation. Greedily, they pressed forward, throwing caution to the wind. In 2614, a young apprentice made contact with beings from another plane of existence, although the means by which he did so were lost. He was found frothing at the mouth, clawing his eyes on the floor near a magical rune which had been partially obliterated. His only words, were screams about the power.
 
-At this point, the Eagair de Sgraideag felt they were close to discovering their means of salvation. Forgotten, and trapped within her crystal, Raibecca Shi managed to enslave the mind of a young girl, who smuggled the crystal away from the fortress of the Eagair de Sgraideag. Her efforts, were in vain… She managed to free herself from her prison, only to return to Sarnath in Danaan 2630\. As she walked the crest of the valley, the flames of the burning city filled the air.
+At this point, the Eagair de Sgraideag felt they were close to discovering their means of salvation. Forgotten, and trapped within her crystal, Raibecca Shi managed to enslave the mind of a young girl, who smuggled the crystal away from the fortress of the Eagair de Sgraideag. Her efforts, were in vain... She managed to free herself from her prison, only to return to Sarnath in Danaan 2630\. As she walked the crest of the valley, the flames of the burning city filled the air.
 
-Standing alone, on the hilltop… she wept silently. In the midst of her sorrow, she felt the presence, of something she'd not felt in thousands of years. The darkness, which she served so faithfully before, had returned. Gathering her courage, she immediately transported herself to the realm of the Gods, and brought with them, the terrible news.
+Standing alone, on the hilltop... she wept silently. In the midst of her sorrow, she felt the presence, of something she'd not felt in thousands of years. The darkness, which she served so faithfully before, had returned. Gathering her courage, she immediately transported herself to the realm of the Gods, and brought with them, the terrible news.
 
 ## V: Ignorance
 
@@ -108,3 +108,12 @@ He made a set of the armors for each of the five paths. But somehow the creature
 The Creants were locked away in different parts of Temuair. With them, are the Grand Master Armors.
 
 The Gods of Temuair made everyone forget about the Creants. That is why no one knows of Miraedus and his Grand Armors.
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

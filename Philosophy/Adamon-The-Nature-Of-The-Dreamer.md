@@ -1,5 +1,7 @@
 # The Nature of the Dreamer
 
+_by Adamon in **Dark Ages**_
+
 _A treatise on the aislings of Temuair, by Adamon_
 
 You do not see it in the hands of Mundanes that toil mindlessly in Temuair.

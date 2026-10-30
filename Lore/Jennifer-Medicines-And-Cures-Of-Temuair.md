@@ -1,6 +1,6 @@
 # Medicines and Cures of Temuair
 
-_by Jennifer in_ ___Dark Ages___
+_by Jennifer in **Dark Ages**_
 
 Being a priestess myself, I have learned quite a few remedies in my time. Here are some of the diseases inscribed into this scroll and the possible cures for it. Although some do not really have a cure, I'm sure this will prove useful to scholars in the near future.
 

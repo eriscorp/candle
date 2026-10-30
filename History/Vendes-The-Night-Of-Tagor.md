@@ -1,6 +1,6 @@
 # The Night of Tagor
 
-_By Vendes_ ___in Dark Ages___
+_by Vendes in **Dark Ages**_
  
 Silence. In the middle of a city that I know was once glorious, it shouldn't be possible. 
 And yet here I am standing in a vacuum.

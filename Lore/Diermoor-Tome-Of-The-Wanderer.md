@@ -1,6 +1,6 @@
 # Tome of the Wanderer: Guide to the Paths of Temuair
 
-_by Diermoor in_ ___Dark Ages___
+_by Diermoor in **Dark Ages**_
 
 _It has been long since first I saw the path, a worn dirt road, leading to a world unknown. There was a flame that dwelled inside me ever from my blood, a burning curiosity that bid me travel hence. This gentle nudge and tempting whisper soon swelled into a driving force, and no will could hold me thus. These paths for countless years I've wandered, the ancient roads of Temuair I've roamed, ever lost without a solid purpose. And in this aged leather tome I scribed, of the twisting paths, old cobble roads, and towns that I've beheld._
 

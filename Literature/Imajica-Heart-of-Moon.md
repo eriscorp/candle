@@ -24,7 +24,7 @@ I found what peace truly was
 Allowing the light to cast dark shadows  
 Learning to embrace the night which is the core of my soul.  
 
-# Heart of Fire
+## Heart of Fire
 
 My soul is infused with light  
 It reflects upon her heart, the moon  

@@ -1,6 +1,6 @@
 # Aisling Shadow Hunger
 
-_ by Gokuden in **Dark Ages**_
+_by Gokuden in **Dark Ages**_
 
 In my studies of the Sgrios religion, one aspect of their fervent worship
 astounds and amazes me, a condition I have dubbed the "Aisling Shadow Hunger

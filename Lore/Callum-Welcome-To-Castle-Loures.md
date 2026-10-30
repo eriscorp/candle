@@ -1,6 +1,6 @@
 # Welcome to Castle Loures
 
-_by Callum in_ ___Dark Ages___
+_by Callum in **Dark Ages**_
 
 ![Loures Entrance](images/callum_loures_1.png)
 

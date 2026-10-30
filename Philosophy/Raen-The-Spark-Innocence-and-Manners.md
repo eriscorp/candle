@@ -1,6 +1,6 @@
 # The Spark, Innocence and Manners
 
-_by Raen of **Dark Ages**_
+_by Raen in **Dark Ages**_
 
 We've all at one time received the gift of Spark. Goddess Danaan having seen in
 us something special to be shared with our fellow Aislings, opened our minds

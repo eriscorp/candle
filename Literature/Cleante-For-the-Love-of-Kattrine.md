@@ -1,6 +1,6 @@
 # For the Love of Kattrine
 
-_by Cleante of **Dark Ages**_
+_by Cleante in **Dark Ages**_
 
 I Dream of Rain,  
 I Dream of Snow,  
@@ -46,7 +46,7 @@ And knew she was the one,
 
 Kattrine, such beauty,  
 Kattrine, such a beautiful name,  
-"My name’s Cleante..."  
+"My name's Cleante..."  
 And thus that became,  
 The start to a great friendship...  
 

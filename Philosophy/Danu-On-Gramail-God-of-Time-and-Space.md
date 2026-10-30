@@ -34,7 +34,7 @@ to commit mighty acts.
 > Against black laws of pagandom
 > Against false laws of heretics
 > Against spells of woman and smiths and wizards
-> Against every knowledge that corrupts man’s body and soul..."
+> Against every knowledge that corrupts man's body and soul..."
 >
 > \- Lobokia, "Mighty Gramail"
 

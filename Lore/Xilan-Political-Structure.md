@@ -1,6 +1,8 @@
+# Political Structure
 
-# Dreuchd Teagasg
-_~ Political Lore as viewed by Xilan Horidre in Dark Ages, Deoch 9._
+_(Dreuchd Teagasg)_  
+
+_by Xilan in **Dark Ages**_
 
 It is a well-known fact that politics is as much a part of Temuair as hunting, practicing the abundance of skills, or the spirit of the Aisling itself. There is much to be learned when it comes to the political domain of Temuair. I cannot give you pictures of this and that, but what I can give you is information of every office (or advice from someone that has attained it) and what it takes to be a great politician (no, it's not an oxymoron.) In this piece, the political structure will be examined, the offices within, and the processes of politics. I aim to teach as well as to please with this piece; I hope you enjoy as well as learn.
 
@@ -148,10 +150,12 @@ Burgesses also have a special ability to veto and remove any or all laws they be
 
 After reading about the different stations in the political realm, the requirements, and what it takes to serve as one, I hope that you have decided whether or not you are cut out for politics. Something that people fail to remember, politicians and officials are the servants of the community. After a while, it may seem as if an official gains a certain air about themselves, an elitist quality if you will. This could be detrimental to their serving as an official in their township. Without the well-being of the citizens in mind, the official is nothing more than the owner of a uniform they do not deserve. There is an open forum for political discussion, once you have gained a legitimate position. To locate this forum, ask me when you see me in Temuair and I will surely refer you. Thank you for journeying through the political realm with me, and I hope you succeed in your endeavors. Realize, it will be a bumpy ride, but well worth it if properly approached. Farewell, may Deoch's flames light your way through the sometimes dark reigns of politics.
 
-_~ Xilan Horidre_  
+_~ Political Lore as viewed by Xilan Horidre_  
 _Deoch 9, 9th Moon, 3rd Sun, 4 a.m._
 
 _This scroll has been made using 100% recycled parchment and non-toxic dyes and fruit juices or extracts. Help keep Temuair clean!_
+
+***
 
 ```
 *Librarian Notes*

@@ -1,6 +1,6 @@
 # The Appearance of the Dubhaimid
 
-_By Dryst in_ ___Dark Ages___
+_by Dryst in **Dark Ages**_
 
 The Aisling and Mundane historians of today have not been able to reach a consensus concerning what exactly caused the appearance of the Dubhaimid. However, much evidence can be presented into a particular historical theory about the appearance of the Dubhaimid. The evidence in fact lies right in the legend the of Temuairian world. The answer has always been there yet historians have been blind to drawing the proper conclusion. The legend states:
 

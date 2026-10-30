@@ -1,6 +1,6 @@
 # Cloud Break
 
-_by Dunlouch of **Dark Ages**_
+_by Dunlouch in **Dark Ages**_
 
 The glimmering sun breaks the  
 sleepy silence dancing with the darkness.  

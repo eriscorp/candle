@@ -1,6 +1,6 @@
 # Sects of Temuairan Faiths: Theoretical Variations in Worship
 
-_By Aphrodite D'Ourvean in Dark Ages_
+_by Aphrodite in **Dark Ages**_
 
 Faith. For so many of us, this can be at the forefront of our minds, a guide in our day to day actions. But, faith in what? Through listening to many different teachings, on can approach each God almost uniquely, based on one's personal beliefs. However, is there a commonality in all of this, or are we free to interpret each God in our own speculation? I believe, that no one true answer exists, as each deity is multi-faceted, and their meaning to each Aisling different. However, with the study of each of the eight faiths, I have discovered some shared viewpoints taken by worshippers
 
@@ -85,6 +85,8 @@ __Death (Sgrios, in Ceannlaidir)__ - The most common of beliefs, the tenets of t
 __Destruction (Sgrios, in Deoch)__ - Through the fires of Deoch, guided by the hand of Sgrios, all things are destroyed. Of all the worshippers of the Earthsea gods, these are perhaps the most dangerous. While other worshippers of Sgrios seek to further decay in more subtle means, these Aislings assault and destroy whatever may come in their path, without fear of retribution. The tools of Gramail, law and punishment, mean little to these Aislings, as ending their life will only result in their unity with Sgrios. While followers of this philosophy seem rare, most are hidden from view, relying on the manipulation of events and people to achieve their means. Followers of this aspect fully embrace Necromancy, as it provides them with an army that can be replenished with a simple incantation.
 
 In conclusion, I would say that this is far from a complete dissertation on the various theologies present in the temples of the Earthsea. Such a work could easily cover numerous volumes, as the expression of faith is a wonderful and unique thing. With reading this, I hope you have gained a better understanding of the rich history of the deities of Temuair.
+
+_Aphrodite D'Ourvean_  
 
 ***
 

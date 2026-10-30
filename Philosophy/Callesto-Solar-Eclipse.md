@@ -1,6 +1,6 @@
 # Solar Eclipses
 
-_By: Callesto in **Dark Ages**_
+_by Callesto in **Dark Ages**_
 
 `(This is an In-Character explanation of server resets.`
 

@@ -1,6 +1,6 @@
 # Marble Figures
 
-_by Stella in ** Dark Ages*
+_by Stella in **Dark Ages**_
 
 \- He's in the study? Kay, no need to tell him I'm here, I'll surprise him!
 
@@ -486,3 +486,11 @@ any purpose at all?
 > _Stella Navarre,  
 >  Deoch 8, 1st Moon, 1st Sun_
 
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original copy of this document was lost. It has been reconstructed from fragments.
+```

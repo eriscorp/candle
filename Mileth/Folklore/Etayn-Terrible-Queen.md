@@ -1,5 +1,5 @@
 # Terrible Queen
-_by Etayn in_ ___Dark Ages___
+_by Etayn in **Dark Ages**_
 
 The blackness of your heart so evident,  
 but mine is hidden deep inside.  

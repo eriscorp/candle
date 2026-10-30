@@ -1,6 +1,6 @@
 # Among the Faeries
 
-_by Flyss of **Dark Ages**_
+_by Flyss in **Dark Ages**_
 
 The moon hung low and full in the clear black sky, encircled with a faint fiery
 nimbus. Her book sat forgotten in her lap as Flyss stared up at it though the

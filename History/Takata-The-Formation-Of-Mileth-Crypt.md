@@ -1,6 +1,6 @@
 # The Formation of Mileth Crypt
 
-_by Takata in_ ___Dark Ages___
+_by Takata in **Dark Ages**_
  
  
 The first Deoch was the time. The season was Winter... yes, the howling cold of winter. Two friends, A highly insighted Priest and a Warrior. They ventured together, exploring all of Temuair. They were both born in Mileth, and once found a graveyard in which the Priest's father had been buried.
@@ -19,7 +19,7 @@ They began to draw closer to the bottom. Such bizarre creatures dwelled, Succubb
 
 They approached the Draco, 'twas alone, sleeping. Warrior approached, priest ready to heal and protect him. The warrior was clad in Hybrasyl armor, wielding a truly gigantic battle axe.
 
-He approached the Dragon, and attempted to taunt it by hitting it in the chest. The dragon merely opened one eye. Furious was the dragon now, attempting to slice up the Warrior. The warrior amazingly managed to hold off the dragon’s attacks for a certain period of time, and finally managing to slice the terrible beasts head off in one great swipe!
+He approached the Dragon, and attempted to taunt it by hitting it in the chest. The dragon merely opened one eye. Furious was the dragon now, attempting to slice up the Warrior. The warrior amazingly managed to hold off the dragon's attacks for a certain period of time, and finally managing to slice the terrible beasts head off in one great swipe!
 
 They kept the head as their trophy, coming back to the ground level of Mileth. They were both proud and exhausted from their adventure. Then, suddenly, two levels of the crypt erupted from the ground, knocking the warrior down, and dropping the dragons head on to the floor. 'Twas impaled on a piece of stone, which became the top of the erupted crypt entrance.
  

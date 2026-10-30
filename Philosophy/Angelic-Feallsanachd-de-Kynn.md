@@ -1,5 +1,7 @@
 # Feallsanachd de Kynn
 
+_by Angelic in **Dark Ages**_
+
 _(The Philosophy of Love)_  
 
 _Author: Angelic Stedwinn_  
