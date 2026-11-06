@@ -4,9 +4,9 @@ _by BioMagus in **Dark Ages**_
 
 _Weapond Lore_
 
-![Dream2(StonesWiz).jpg](images/biomagus_weapon_dream2stoneswiz.png)
+![Dream2(StonesWiz).jpg](images/biomagus_weapon_dream2stoneswiz.webp)
 
-![WizardField2.jpg](images/biomagus_weapon_wizardfield2.png)
+![WizardField2.jpg](images/biomagus_weapon_wizardfield2.webp)
 
 This Mystic Tablet Contains the Details of the Ancient Weaponds Found in The
 Depth of Temuair. However, for prices and locations for some of these weaponds
@@ -54,7 +54,7 @@ bought by Mundane's.
 
 ### Stick
 
-![Stick](images/biomagus_weapon_stick.png)
+![Stick](images/biomagus_weapon_stick.webp)
 
 Durability: 1000  
 Weight: 3  
@@ -64,7 +64,7 @@ Peasant Level 1
 
 ### Dirk
 
-![Dirk](images/biomagus_weapon_dirk.png)
+![Dirk](images/biomagus_weapon_dirk.webp)
 
 Durability: 3000  
 Weight: 4  
@@ -75,7 +75,7 @@ Peasant Level 2
 
 ### Eppe
 
-![Eppe](images/biomagus_weapon_eppe.png)
+![Eppe](images/biomagus_weapon_eppe.webp)
 
 Durability: 4000  
 Weight: 5  
@@ -86,7 +86,7 @@ Peasant Level 2
 
 ### Loures Saber
 
-![Loures Saber](images/biomagus_weapon_louressaber.png)
+![Loures Saber](images/biomagus_weapon_louressaber.webp)
 
 Durability: 6000  
 Weight: 7  
@@ -98,7 +98,7 @@ Peasant Level 7
 
 ### Claidheamh
 
-![Claidheamh](images/biomagus_weapon_claidheamh.png)
+![Claidheamh](images/biomagus_weapon_claidheamh.webp)
 
 Durability: 7000  
 Weigth: 8  
@@ -110,7 +110,7 @@ Peasant Level 14
 
 ### Broad Sword
 
-![Broad Sword](images/biomagus_weapon_broadsword.png)
+![Broad Sword](images/biomagus_weapon_broadsword.webp)
 
 Durability: 8000  
 Weight: 9  
@@ -122,7 +122,7 @@ Peasant Level 17
 
 ### Battle Sword
 
-![Battle Sword](images/biomagus_weapon_battlesword.png)
+![Battle Sword](images/biomagus_weapon_battlesword.webp)
 
 Durability: 10,000  
 Weight: 10  
@@ -135,7 +135,7 @@ Peasant Level 26
 
 ### Templar
 
-![Templar](images/biomagus_weapon_templar.png)
+![Templar](images/biomagus_weapon_templar.webp)
 
 Durability: 11,000  
 Weight: 12  
@@ -148,7 +148,7 @@ Peasant Level 29
 
 ### Masquerade
 
-![Masquerade](images/biomagus_weapon_masquerade.png)
+![Masquerade](images/biomagus_weapon_masquerade.webp)
 
 Durability: 12,000  
 Weight: 15  
@@ -161,7 +161,7 @@ Peasant Level 31
 
 ### Bramable
 
-![Bramable](images/biomagus_weapon_bramble.png)
+![Bramable](images/biomagus_weapon_bramble.webp)
 
 Durability: 15,000  
 Weight: 12  
@@ -174,7 +174,7 @@ Peasant Level 41
 
 ### Black Death
 
-![Black Death](images/biomagus_weapon_blackdeath.png)
+![Black Death](images/biomagus_weapon_blackdeath.webp)
 
 Durability: 16,000  
 Weight: 18  
@@ -187,7 +187,7 @@ Peasant Level 45
 
 ### Long Sword
 
-![Long Sword](images/biomagus_weapon_longsword.png)
+![Long Sword](images/biomagus_weapon_longsword.webp)
 
 Durability: 20,000  
 Weight: 18  
@@ -200,7 +200,7 @@ Peasant Level 56
 
 ### Stilla
 
-![Stilla](images/biomagus_weapon_stilla.png)
+![Stilla](images/biomagus_weapon_stilla.webp)
 
 Durability: 22,000  
 Weight: 25  
@@ -215,7 +215,7 @@ Peasant Level 61
 
 ### Snow Dagger
 
-![Snow Dagger](images/biomagus_weapon_snowdagger.png)
+![Snow Dagger](images/biomagus_weapon_snowdagger.webp)
 
 Durability: 2000  
 Weight: 3  
@@ -225,7 +225,7 @@ Rogue Level 1
 
 ### Snow Secret
 
-![Snow Secret](images/biomagus_weapon_snowsecret.png)
+![Snow Secret](images/biomagus_weapon_snowsecret.webp)
 
 Durability: 1000  
 Weight: 3  
@@ -235,7 +235,7 @@ Rogue Level 1
 
 ### Center Dagger
 
-![Center Dagger](images/biomagus_weapon_centerdagger.png)
+![Center Dagger](images/biomagus_weapon_centerdagger.webp)
 
 Durability: 4000  
 Weight: 5  
@@ -245,7 +245,7 @@ Rogue Level 4
 
 ### Center Secret
 
-![Center Secret](images/biomagus_weapon_centersecret.png)
+![Center Secret](images/biomagus_weapon_centersecret.webp)
 
 Durability: 3000  
 Weight: 5  
@@ -255,7 +255,7 @@ Rogue Level 7
 
 ### Blossom Dagger
 
-![Blossom Dagger](images/biomagus_weapon_blossomdagger.png)
+![Blossom Dagger](images/biomagus_weapon_blossomdagger.webp)
 
 Durability: 6000  
 Weight: 7  
@@ -265,7 +265,7 @@ Rogue Level 14
 
 ### Blossom Secret
 
-![Blossom Secret](images/biomagus_weapon_blossomsecret.png)
+![Blossom Secret](images/biomagus_weapon_blossomsecret.webp)
 
 Durability: 4000  
 Weight: 7  
@@ -275,7 +275,7 @@ Rogue Level 21
 
 ### Whip
 
-![Whip](images/biomagus_weapon_whip.png)
+![Whip](images/biomagus_weapon_whip.webp)
 
 Durability: 6000  
 Weight: 10  
@@ -285,7 +285,7 @@ Rogue Level 26
 
 ### Moon Dagger
 
-![Moon Dagger](images/biomagus_weapon_moondagger.png)
+![Moon Dagger](images/biomagus_weapon_moondagger.webp)
 
 Durability: 8000  
 Weight: 9  
@@ -295,7 +295,7 @@ Rogue Level 30
 
 ### Moon Secret
 
-![Moon Secret](images/biomagus_weapon_moonsecret.png)
+![Moon Secret](images/biomagus_weapon_moonsecret.webp)
 
 Durability: 6000  
 Weight: 9  
@@ -305,7 +305,7 @@ Rogue Level 39
 
 ### Light Dagger
 
-![Light Dagger](images/biomagus_weapon_lightdagger.png)
+![Light Dagger](images/biomagus_weapon_lightdagger.webp)
 
 Durability: 10,000  
 Weight: 11  
@@ -315,7 +315,7 @@ Rogue Level 40
 
 ### Light Secret
 
-![Light Secret](images/biomagus_weapon_lightsecret.png)
+![Light Secret](images/biomagus_weapon_lightsecret.webp)
 
 Durability: 7000  
 Weight: 11  
@@ -325,7 +325,7 @@ Rogue Level 52
 
 ### Sun Dagger
 
-![Sun Dagger](images/biomagus_weapon_sundagger.png)
+![Sun Dagger](images/biomagus_weapon_sundagger.webp)
 
 Durability: 12,000  
 Weight: 13  
@@ -335,7 +335,7 @@ Rogue Level 60
 
 ### Sun Secret
 
-![Sun Secret](images/biomagus_weapon_sunsecret.png)
+![Sun Secret](images/biomagus_weapon_sunsecret.webp)
 
 Durability: 9000  
 Weight: 13  
@@ -345,7 +345,7 @@ Rogue Level 69
 
 ### Lotus Dagger
 
-![Lotus Dagger](images/biomagus_weapon_lotusdagger.png)
+![Lotus Dagger](images/biomagus_weapon_lotusdagger.webp)
 
 Durability: 14,000  
 Weight: 15  
@@ -355,7 +355,7 @@ Rogue Level 75
 
 ### Lotus Secret
 
-![Lotus Secret](images/biomagus_weapon_lotussecret.png)
+![Lotus Secret](images/biomagus_weapon_lotussecret.webp)
 
 Durability: 10,000  
 Weight: 15  
@@ -367,7 +367,7 @@ Rogue Level 86
 
 ### Two Handed Claidhmore
 
-![Two Handed Claidhmore](images/biomagus_weapon_twohandedclaidhmore.png)
+![Two Handed Claidhmore](images/biomagus_weapon_twohandedclaidhmore.webp)
 
 Durability: 60,000  
 Weight: 45  
@@ -381,7 +381,7 @@ Warrior Level 71
 
 ### Two Handed Emerald Sword
 
-![Two Handed Emerald Sword](images/biomagus_weapon_emerald.png)
+![Two Handed Emerald Sword](images/biomagus_weapon_emerald.webp)
 
 Durability: 66,000  
 Weight: 50  
@@ -395,7 +395,7 @@ Warrior Level 77
 
 ### Two Handed Gladius
 
-![Two Handed Gladius](images/biomagus_weapon_twohandedgladius.png)
+![Two Handed Gladius](images/biomagus_weapon_twohandedgladius.webp)
 
 Durability: 80,000  
 Weight: 70  
@@ -409,7 +409,7 @@ Warrior Level 86
 
 ### Two Handed Kingui
 
-![Two Handed Kingui](images/biomagus_weapon_twohandedkindjal.png)
+![Two Handed Kingui](images/biomagus_weapon_twohandedkindjal.webp)
 
 Durability: 90,000  
 Weight: 80  
@@ -423,7 +423,7 @@ Warrior Level 90
 
 ### One Handed Hy-Brasyl
 
-![One Handed Hy-Brasyl](images/biomagus_weapon_onehandedhybriyst.png)
+![One Handed Hy-Brasyl](images/biomagus_weapon_onehandedhybriyst.webp)
 
 Durability: Unknown  
 Weight: Unknown  
@@ -441,7 +441,7 @@ magical properties, and thus can not be taloired by any rogue.
 
 #### Magus Ares
 
-![Magus Ares](images/biomagus_weapon_magusares.png)
+![Magus Ares](images/biomagus_weapon_magusares.webp)
 
 Durability: 3000  
 Weight: 5  
@@ -451,7 +451,7 @@ Mage Level 19
 
 #### Magus Kronos
 
-![Magus Kronos](images/biomagus_weapon_kronos.png)
+![Magus Kronos](images/biomagus_weapon_kronos.webp)
 
 Durability: 3000  
 Weight: 5  
@@ -461,7 +461,7 @@ Mage Level 19
 
 #### Magus Zues
 
-![Magus Zues](images/biomagus_weapon_zues.png)
+![Magus Zues](images/biomagus_weapon_zues.webp)
 
 Durability: 3000  
 Weight: 5  
@@ -473,7 +473,7 @@ Mage Level 19
 
 #### Holy Hermies
 
-![Holy Hermies](images/biomagus_weapon_holyhermies.png)
+![Holy Hermies](images/biomagus_weapon_holyhermies.webp)
 
 Durability: 3000  
 Weight: 5  
@@ -483,7 +483,7 @@ Poet Level 19
 
 #### Holy Kronos
 
-![Holy Kronos](images/biomagus_weapon_kronos.png)
+![Holy Kronos](images/biomagus_weapon_kronos.webp)
 
 Durability: 3000  
 Weight: 5  
@@ -493,7 +493,7 @@ Poet Level 19
 
 #### Holy Zues
 
-![Holy Zues](images/biomagus_weapon_zues.png)
+![Holy Zues](images/biomagus_weapon_zues.webp)
 
 Durability: 3000  
 Weight: 5  
@@ -503,7 +503,7 @@ Poet Level 19
 
 #### Holy Gaea
 
-![Holy Gaea](images/biomagus_weapon_holygaea.png)
+![Holy Gaea](images/biomagus_weapon_holygaea.webp)
 
 Durability: 3000  
 Weight: 5  
@@ -520,6 +520,7 @@ _Subject of Luathas_
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #3).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/download/Biomagus_Weapon/index.htm .
 ```

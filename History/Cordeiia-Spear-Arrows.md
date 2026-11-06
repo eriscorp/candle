@@ -7,7 +7,7 @@ _by Cordeiia in **Dark Ages**_
 Upon my arrival in Medenia the first thing I looked into was the bar in Noam.
 Being a world-renowned drunk this was always my first stop.
 
-![creati1](images/cordeiia_speararrows_creati1.png)
+![creati1](images/cordeiia_speararrows_creati1.webp)
 
 When chatting with the bar wench Noahn and getting a bit tipsy, my foot
 nudged against something quite peculiar. It looked to be a small old book,
@@ -51,7 +51,7 @@ this spell was created to deal with the Creants…"
 > things around in the desert and the plains to try to find a way to make them
 > stronger. Maybe Taku the Gladiator can prove to be insightful in my search._
 >
-> ![Kaktoid Green](images/cordeiia_speararrows_kaktoid_green.png)
+> ![Kaktoid Green](images/cordeiia_speararrows_kaktoid_green.webp)
 >
 > _Nearing Taku's home I could hear much yelling and swearing. I thought "What
 > a fool I had been to think that a Gladiator could actually contribute
@@ -130,6 +130,7 @@ _By Ranoko, Archer Extraordinaire_
 ```
 *Librarian Notes*
 
+Recognized: Village, History Contest, 16 September 2004.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20040927031435/http://www.freewebs.com/ianda/Spear/Arrows.htm .

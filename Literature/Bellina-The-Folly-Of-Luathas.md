@@ -194,6 +194,7 @@ ancient books and smile, this will be a great story. I read the scroll...
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #33).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Bellina_Luathas.html .
 ```

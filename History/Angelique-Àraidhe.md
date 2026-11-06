@@ -27,6 +27,7 @@ Weeping horribly, the last Thane of the last Dwarven dynasty pulled his sword fr
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Historians Recognized (Events of Temuair post #63).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/his/Angelique_Araidhe.html .
 ```

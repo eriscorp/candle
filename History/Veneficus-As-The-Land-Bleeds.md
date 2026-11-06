@@ -34,6 +34,7 @@ _Acadamie Arcanus_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Historians Recognized (Events of Temuair post #114).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Veneficus_Bleeds.html .
 ```

@@ -383,22 +383,22 @@ exposing their flank, even in the heat of battle.
 
 The ideal scenario goes like this:
 
-![Step 1](images/miyamoto_path_step1.png)
+![Step 1](images/miyamoto_path_step1.webp)
 
 The combatant sneaks up and attacks a creature from behind.
 
-![Step 2](images/miyamoto_path_step2.png)
+![Step 2](images/miyamoto_path_step2.webp)
 
 Continue attacking until the creature turns to face you.
 
-![Step 3](images/miyamoto_path_step3.png)
+![Step 3](images/miyamoto_path_step3.webp)
 
 When it does so, quickly take a step, **a single step**, to your left or right.
 Be careful to avoid getting cornered or boxed in by other hostile creatures.
 Note here, the combatant steps to his right, away from the approaching
 Centipede.
 
-![Step 4](images/miyamoto_path_step4.png)
+![Step 4](images/miyamoto_path_step4.webp)
 
 The creature will follow you, exposing it's flank, allowing you to attack it's
 weak side again. Eventually it will turn to face you again, at which point you
@@ -1115,6 +1115,7 @@ _Swordsman of Suomi_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #28).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/download/Miyamoto_Path/introduction.html .
 ```

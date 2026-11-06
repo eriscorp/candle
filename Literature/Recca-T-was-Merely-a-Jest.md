@@ -46,6 +46,7 @@ a painful, unforgiving, yet well deserved jest
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #106).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Recca_Jest.html .
 ```

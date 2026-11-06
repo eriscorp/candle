@@ -440,7 +440,7 @@ In legend, the blessing of an item by Taranis allowed its wielder to slightly ov
 
 ### __Relations between Intermediate Deities__
 Much like the deities of the Octagram, the interactions between intermediate gods takes a rational shape:  
-![Interactions](images/sabrael_gods.png)
+![Interactions](images/sabrael_gods.webp)
 
 Key:
 |Color|Meaning|

@@ -122,6 +122,7 @@ References:
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 2010 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.annalsofdawn.webs.com/ .
 ```

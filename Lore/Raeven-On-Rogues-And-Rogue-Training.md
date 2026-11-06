@@ -90,6 +90,7 @@ _Deoch 6, 5th Moon, Sunday the 26th._
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Raeven_Rogue.html .
 ```

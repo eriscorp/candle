@@ -250,6 +250,7 @@ _Deoch 24, 7th Moon, 29th Sun_
 ```
 *Librarian Notes*
 
+Recognized: Clave, Story Contest, 19 December 2001.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Camryn_Unknown.html .
 ```

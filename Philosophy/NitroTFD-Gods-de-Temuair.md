@@ -51,7 +51,7 @@ Grinneal could not take the violence of his once coexisting people, greatly
 weakened by wars and the arrival of the dark entity he could no longer exist in
 the world and his existence was ended...
 
-![circles](./images/NitroTFD-Gods-Circles.png)
+![circles](./images/NitroTFD-Gods-Circles.webp)
 
 ## Danaan
 
@@ -72,7 +72,7 @@ Ainmeal to victory over Tenes, ending the Pact of Anaman. However. Danaan in
 the end sacrificed herself so that we may continue. Through our hardest times
 she was there, and always will be there one way or another...
 
-![whorl](./images/NitroTFD-Gods-Whorl.png)
+![whorl](./images/NitroTFD-Gods-Whorl.webp)
 
 ## Chadul
 
@@ -111,7 +111,7 @@ for his followers. Although some say Cail became weak when he could not bear
 arms and counld not stand up Ceann I believe this to be untrue. What is a
 warrior to do if he had to fight a tidal wave, hmm?
 
-![twilight](./images/NitroTFD-Gods-Twilight.png)
+![twilight](./images/NitroTFD-Gods-Twilight.webp)
 
 ## Ceannlaidir
 
@@ -135,7 +135,7 @@ her she vouched she would never grace war again and from this day has been
 Ceann's enemy. CAE still guided warriors and other today and his temple can be
 found in Piet.
 
-![hexagram](./images/NitroTFD-Gods-Hexagram.png)
+![hexagram](./images/NitroTFD-Gods-Hexagram.webp)
 
 ## Deoch
 
@@ -174,7 +174,7 @@ also tested his luck and skill, thus he also befriended and allied with
 Gramail. Fio still thrives today and his temple can be found in Abel, where to
 this day he still guides rouges and offers wealth to his followers.
 
-![Triumph](./images/NitroTFD-Gods-Triumph.png)
+![Triumph](./images/NitroTFD-Gods-Triumph.webp)
 
 ## Glioca
 
@@ -193,7 +193,7 @@ Glioca still influences love and compassion and her shrine can be found in
 Mileth. Weapons of war are not allowed in her temple and trying to bring one in
 is futile...
 
-![purity](./images/NitroTFD-Gods-Purity.png)
+![purity](./images/NitroTFD-Gods-Purity.webp)
 
 ## Gramail
 
@@ -219,7 +219,7 @@ Gramail still preaches order and justice in Loures to this day and his temple
 can be found in Loures. Never fall from the grace of justice, for it will
 protect you.
 
-![crusade](./images/NitroTFD-Gods-Crusade.png)
+![crusade](./images/NitroTFD-Gods-Crusade.webp)
 
 ## Luathas
 
@@ -242,7 +242,7 @@ the Dubhaimid, he did influence the fighting of them to rid the world of them.
 Through the years he has influenced intelligence and logic and he still does so
 in Rucesion where his temple lies. There is no knowledge that is not power...
 
-![bzappy](./images/NitroTFD-Gods-Lightning.png)
+![bzappy](./images/NitroTFD-Gods-Lightning.webp)
 
 ## Sgrios
 
@@ -298,6 +298,7 @@ _Leader of the Lords de Niara_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophers Recognized (Events of Temuair post #95).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Nitrotfd_Gods .
 ```

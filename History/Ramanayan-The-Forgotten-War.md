@@ -29,6 +29,7 @@ _This is all the information I have so far. I am still looking all over Temuair 
 ```
 *Librarian Notes*
 
+Recognized: Folk, Historians Recognized (Events of Temuair post #159).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Ramanayan_War.htm .
 ```

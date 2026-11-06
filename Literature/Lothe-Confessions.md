@@ -490,6 +490,7 @@ _Adrian Larouge_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Bards Recognized (Events of Temuair post #213).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Lothe_Confessions.htm .
 ```

@@ -53,7 +53,7 @@ that have been edited out are replaced by an elipsis [...]. `(( To view the
 full content of the works, click the links above. Briefer versions are below
 for clarity of reading. ))`
 
-![cailboy](./images/Solanalein-Ceannlaidir-Cailboy.png)  
+![cailboy](./images/Solanalein-Ceannlaidir-Cailboy.webp)  
 _(( Art by Aereis ))_
 
 ## The Cailite Prespective
@@ -115,7 +115,7 @@ make fists akin to man-made weapons. This being said, I do not believe it is a
 logical assessment that either god is weaker or stronger: Each has their own
 provision for battling in a foreign environment.
 
-![cail](./images/Solanalein-Ceannlaidir-Cail.png)  
+![cail](./images/Solanalein-Ceannlaidir-Cail.webp)  
 _(( Art by Kaetz Chen ))_
 
 ## The Gliocan-Cailite Perspective
@@ -241,7 +241,7 @@ Clergy's attempt to preach good news about Ceannlaidir. With the publication of
 this work, perhaps some of these misconceptions about Ceannlaidir can be
 rectified.
 
-![glioca](./images/Solanalein-Ceannlaidir-Glioca.png)  
+![glioca](./images/Solanalein-Ceannlaidir-Glioca.webp)  
 _(( Art by Kaetz Chen ))_  
 
 ## The Gliocan Perspective
@@ -301,7 +301,7 @@ regions of the lands. Therefore Ceannlaidir could not have used herbalism to
 aid his conquest. By this token alone, the work is not taught to be scripture
 in the Ceannlaidir temple.
 
-![ceannlaidir](./images/Solanalein-Ceannlaidir-Ceannlaidir.png)
+![ceannlaidir](./images/Solanalein-Ceannlaidir-Ceannlaidir.webp)
 _(( Art by Kaetz Chen ))_
 
 ## The Ceannlaidirite Perspective
@@ -415,6 +415,7 @@ Philosophy.
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, Philosophy Contest, 1 October 2004.
 This entry has been heavily edited to conform to Library formatting.
 The original copy of this document has been lost. It has been reconstructed from fragments.
 ```

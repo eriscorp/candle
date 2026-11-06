@@ -11,9 +11,9 @@ Day by day Ramiel wandered in the streets, always looking so depressed and
 drown in thought. His family and friends grew concerned about his condition,
 but even they couldn't help him out of the problem in his mind.
 
-![image](./images/Ramiel-Ramiels-Blue-1-1.png) 
+![image](./images/Ramiel-Ramiels-Blue-1-1.webp) 
 
-![image](./images/Ramiel-Ramiels-Blue-1-2.png)
+![image](./images/Ramiel-Ramiels-Blue-1-2.webp)
 
 One day Ramiel roamed over the bridge of Mileth River and gazed at his
 reflection in the river. He was so deep in thought that he didn't notice
@@ -58,13 +58,13 @@ ourselves from harm," said Hikash, demonstrating some sword skills as he
 continued. "Coupled those with our amazing melee skills, we are the best
 fighters in Temuair!"
 
-![image](./images/Ramiel-Ramiels-Blue-1-3.png)
+![image](./images/Ramiel-Ramiels-Blue-1-3.webp)
 
 Ramiel pondered over the warrior's words. "So if I want to be a mighty fighter,
 and be able to use all those fancy weapons and armors, then warrior is my
 choice... But I still don't know what I want." then he walked away.
 
-![image](./images/Ramiel-Ramiels-Blue-2-1.png)
+![image](./images/Ramiel-Ramiels-Blue-2-1.webp)
 
 Ramiel walked and walked until he sees Mileth Gate. Standing beside the gate
 was the temple of Glioca, the deity of benignity and love. Ramiel stood in
@@ -96,13 +96,13 @@ groups alive by healing them and protecting them from harm. We can even do
 battle control by hypnotizing or immobilizing our opponents. These are what
 make us priests the greatest path in this world"
 
-![image](./images/Ramiel-Ramiels-Blue-2-2.png)
+![image](./images/Ramiel-Ramiels-Blue-2-2.webp)
 
 Ramiel nodded. "Yes I agree. Priest is a very important path. If I want to be a
 path that will always be needed by people, priest is probably what I want to
 be..." he thought," but I still don't know if that's what I want to be."
 
-![image](./images/Ramiel-Ramiels-Blue-3-1.png)
+![image](./images/Ramiel-Ramiels-Blue-3-1.webp)
 
 Ramiel kept wandering until he reached the Abel port. As he waited for the ship
 to Undine to arrive, he met a rogue who shifted himself like wind.
@@ -132,14 +132,14 @@ skills, let us always get our hands on new artifacts firsthand. Being a great
 aisling is all about enjoying adventures and new discoveries, don't you think
 so?"
 
-![image](./images/Ramiel-Ramiels-Blue-3-2.png)
+![image](./images/Ramiel-Ramiels-Blue-3-2.webp)
 
 Yes, indeed," said Ramiel. "I would love to have many exciting adventures, if
 only I am sure....."
 
 Then he got on the boat to Undine.
 
-![image](./images/Ramiel-Ramiels-Blue-4-1.png)
+![image](./images/Ramiel-Ramiels-Blue-4-1.webp)
 
 Within about an hour, Ramiel arrived at the city of Undine. Walking to the center lake, he met a monk named Jarron.
 
@@ -161,14 +161,14 @@ other paths, we monastery can be the most versatile path. We can deal damage as
 much as warriors, while being as agile as rogues. We are a tough path to reckon
 with."
 
-![image](./images/Ramiel-Ramiels-Blue-4-2.png)
+![image](./images/Ramiel-Ramiels-Blue-4-2.webp)
 
 "That is very true about being close to nature," Ramiel agreed, then he lowered
 his head. "And if only I can be sure..."
 
 Then Ramiel walked away.
 
-![image](./images/Ramiel-Ramiels-Blue-5-1.png)
+![image](./images/Ramiel-Ramiels-Blue-5-1.webp)
 
 At last, Ramiel came to Suomi, the remote village. As he was about to cross one
 of the bridges, he saw a wizard standing on the bridge and contemplating the
@@ -220,7 +220,7 @@ by practice, we acquire them by understanding. Later, as we gain more
 experience and accomplish more quests, we can even summon elementals.
 Ultimately, it is the divine knowledge that we seek."
 
-![image](./images/Ramiel-Ramiels-Blue-5-2.png)
+![image](./images/Ramiel-Ramiels-Blue-5-2.webp)
 
 The wizard paused and cleared his throat.
 
@@ -248,6 +248,7 @@ The wizard smiled. "The name is Saradin."
 ```
 *Librarian Notes*
 
+Recognized: Clave, Literature Contest, 22 July 2004.
 The original copy of this work is not intact. What we were able to find, is
 replicated here. Do you have it? Please contact us.
 ```

@@ -67,6 +67,7 @@ and one can easily see where the compassion is at.
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #213).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Rykoffe_Compassion/index.html .
 ```

@@ -2,7 +2,7 @@
 
 _by Taliesin in **Dark Ages**_
 
-![Stiletto Trap, by Kamikage](images/taliesin_rogue_kamikage_trap.png)
+![Stiletto Trap, by Kamikage](images/taliesin_rogue_kamikage_trap.webp)
 
 ## Contents:
 
@@ -618,6 +618,7 @@ _Compiled and written by Taliesin Gwion Bach_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #3).
 This work is one of the greatest treasures of Temuair.
 
 This entry has been heavily edited to conform to Library formatting.

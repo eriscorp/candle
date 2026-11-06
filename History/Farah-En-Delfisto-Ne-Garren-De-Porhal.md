@@ -68,6 +68,7 @@ _Translated by Farah_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Historians Recognized (Events of Temuair post #110).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Farah_Garden.html .
 ```

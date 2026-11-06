@@ -64,6 +64,7 @@ My name is'Archias d'Agussiere, and here in Mileth, my adventures begin.
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #218).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/Archias_Adventure.html .
 ```

@@ -28,7 +28,7 @@ uninitiated how the lessons of Mileth College are bestowed.
 
 ## The College Grounds
 
-![MILLCOL2](images/naze_college_millcol2.png)
+![MILLCOL2](images/naze_college_millcol2.webp)
 
 The buildings of Mileth College are nondescript, ordinary houses. Signs are
 located outside each of the buildings that describe what manner of lessons are
@@ -43,7 +43,7 @@ the noble teacher in their instructions. Simple surroundings, but sufficient.
 
 ## Mileth Library
 
-![MILLIB](images/naze_college_millib.png)
+![MILLIB](images/naze_college_millib.webp)
 
 Within Mileth Library there are four slates for the discussion of the various
 Arts. The librarian, Uistean, will guide you to the proper slate to post your
@@ -178,7 +178,7 @@ means that the teacher has gained a "Noble Point", the requisite mark for
 Jean's favors. "Noble Points" are chronicled on one's legend, but is only
 visible to oneself, like so:
 
-![- Tentative Noble Garment](images/naze_college_noblepoint.png)
+![- Tentative Noble Garment](images/naze_college_noblepoint.webp)
 
 `((The "-" before a legend mark means only you can see it.))`
 
@@ -231,7 +231,7 @@ Rucesion will take this rented armor from you and return it to the vaults of
 Loures. As Jean proclaims, "Praise be to the Aisling tailor of these garments,
 Aisling Bentic."
 
-![Noble Armors](images/naze_college_c_noble.png)
+![Noble Armors](images/naze_college_c_noble.webp)
 
 As a noteworthy postscript, many Aisling-level nobles have been known to use
 songs of various shrines to avoid the guards at the gates of Rucesion and
@@ -281,6 +281,7 @@ the History, Lore, Art, Literature, and Philosophy of Temuair.
 ```
 *Librarian Notes*
 
+Recognized: Village, Lore Contest, 18 June 2004.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20090829043953/http://geocities.com/peasantnaze/college.html .

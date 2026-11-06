@@ -2,7 +2,7 @@
 
 _by Oujousaighi in **Dark Ages**_
 
-![Necromancy -- The Path of Decay](images/oujousaighi_darkart_title.png)
+![Necromancy -- The Path of Decay](images/oujousaighi_darkart_title.webp)
 
 > _"So, you come into my realm to seek the knowledge of the dead? It is not an
 > easy path, one that will slowly drain away your strength and leave you
@@ -54,11 +54,11 @@ listed the items and insights needed for each creature of the dead:
 
 | ITEM REQUIRED | INSIGHT REQUIRED | CREATURE SUMMONED | `(( Orange Bar Quotes))` |
 |---------------|------------------|-------------------|--------------------------|
-| Ghast Skull | 25 | Skeletal Warrior ![Skeletal Warrior](images/oujousaighi_darkart_skeleton.png) | "The ground cracks as the creature claws forth." |
-| Gargoyle Skull | 50 | Powerful Skeletal Warrior ![Powerful Skeletal Warrior](images/oujousaighi_darkart_skeleton.png) | "The ground cracks as the creature claws forth." |
-| Gog's Maw | 75 | Armored Skeletal Warrior ![Armored Skeletal Warrior](images/oujousaighi_darkart_armored_skeleton.png) | Unknown at this time. |
-| Gargoyle Fiend Skull | 80 | Powerful Armored Skeletal Warrior ![Powerful Armored Skeletal Warrior](images/oujousaighi_darkart_armored_skeleton.png) | Unknown at this time. |
-| Gremlin's Ear | 99 | Death Knight ![Death Knight](images/oujousaighi_darkart_death_knight.png) | "From the Realm of Sgrios comes forth the Champion of the Dead." |
+| Ghast Skull | 25 | Skeletal Warrior ![Skeletal Warrior](images/oujousaighi_darkart_skeleton.webp) | "The ground cracks as the creature claws forth." |
+| Gargoyle Skull | 50 | Powerful Skeletal Warrior ![Powerful Skeletal Warrior](images/oujousaighi_darkart_skeleton.webp) | "The ground cracks as the creature claws forth." |
+| Gog's Maw | 75 | Armored Skeletal Warrior ![Armored Skeletal Warrior](images/oujousaighi_darkart_armored_skeleton.webp) | Unknown at this time. |
+| Gargoyle Fiend Skull | 80 | Powerful Armored Skeletal Warrior ![Powerful Armored Skeletal Warrior](images/oujousaighi_darkart_armored_skeleton.webp) | Unknown at this time. |
+| Gremlin's Ear | 99 | Death Knight ![Death Knight](images/oujousaighi_darkart_death_knight.webp) | "From the Realm of Sgrios comes forth the Champion of the Dead." |
 
 Simply cast the spell, `(( 1,000 mana to cast ))` and then drop the item at
 your feet to release the summon, as you would a religious summon. `(( Note:
@@ -76,8 +76,8 @@ you make a fake skull or ear. For the cost of a few items of course.
 
 | ITEM TO BE CREATED | ITEMS NEEDED |
 |--------------------|--------------|
-| ![Eithich Skull](images/oujousaighi_darkart_skull.png) Eithich Skull | 1 Kobold Skull (For the basic shape.)<br>2 Branches (To add the necessary bumps and deformities to the skull.)<br>1 Wolf Skin (To hold it all together.) |
-| ![Eithich Ear](images/oujousaighi_darkart_ear.png) Eithich Ear | 2 Spider Legs (To make the mold of the ear.)<br>1 Zombi Flesh (To fill the mold.) |
+| ![Eithich Skull](images/oujousaighi_darkart_skull.webp) Eithich Skull | 1 Kobold Skull (For the basic shape.)<br>2 Branches (To add the necessary bumps and deformities to the skull.)<br>1 Wolf Skin (To hold it all together.) |
+| ![Eithich Ear](images/oujousaighi_darkart_ear.webp) Eithich Ear | 2 Spider Legs (To make the mold of the ear.)<br>1 Zombi Flesh (To fill the mold.) |
 
 Of course, using imitations does have its drawbacks. There is roughly a fifty
 percent chance the spell will fail, which will destroy the item. Furthermore,
@@ -98,6 +98,7 @@ Welcome, my decaying pupil.
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, Lore Contest, 25 April 2002.
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Oujousaighi_TheDarkArt/index.htm .
 ```

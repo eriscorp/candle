@@ -404,6 +404,7 @@ _Council of Aoradh Sinn_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Story Contest, 19 December 2001.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Fyie_Maiden.html .
 ```

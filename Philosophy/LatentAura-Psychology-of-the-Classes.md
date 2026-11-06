@@ -119,6 +119,7 @@ race you will have to call upon when you are in need.
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #109).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/LatentAura_Class.html .
 ```

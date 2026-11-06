@@ -235,6 +235,7 @@ within him, he could do nothing else. He was a man of reason.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #68).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Levinia_Gramail.html .
 ```

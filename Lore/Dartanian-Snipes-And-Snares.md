@@ -10,7 +10,7 @@ Most people seem to think traps slightly mystical in nature.  On the contrary, t
 
 ### Needle Trap
 
-![Needle Trap](images/dartanian_snare_1.png)
+![Needle Trap](images/dartanian_snare_1.webp)
 
 This is the simplest of all the traps.  Daithi in Mileth can teach you this skill if ye don't already know it.  It is a must have for all beginning rogues as it can definitely mean the difference between celebrating in a tavern after victory with your friends or celebrating your stupidity with Sgrios.  I think most would prefer the former.  Daithi asks for a dirk in order to make this trap.  What ye want to do is break it.  Might sound strange but the material used for a dirk is cheap and clumsy in that form, but sharpened into barbs, they can be devastating to early monsters.  Later on, they'll simply seem like a pinprick to the creatures, but worry not.  Ye should well have other better traps by that time.  As ye can see from the diagram, the needle trap is nothing more than a hinged pressure plate (Fig 1.A) and a sharp needle (Fig. 1.B) carved and sharpened, then fitted with a hole at the end.  A rod is placed through this whole so it can be attached through the holes on the bottom metal section of the plate.  
 
@@ -18,7 +18,7 @@ As a creature steps on this plate, the plate simply lowers itself onto the needl
 
 ### Stiletto Trap
 
-![Stiletto Trap](images/dartanian_snare_2.png)
+![Stiletto Trap](images/dartanian_snare_2.webp)
 
 This is your second trap, the stiletto.  Daithi wishes to have Good Snow Secret in order to create this trap.  Take this surigam and stick a rod of about 2" through the center, holding it in place with a piece of cork.  On the other end of the rod, attach the smallest wheel you can find, carved with small notches in it.  Ye'll need another one of these wheels, only larger.  Attach this one to another piece of cork with a hole punctured through it.  Slide the covering for this trap (shown in Fig. 2) over with the cork sticking through the hole and slide the rod through the hole in that piece sticking out.  A complex device to be sure, but it works.  As a passing creature trips the thin rod sticking out, no matter how lightly, the secret inside twirls with amazing speed, slashing wildly at the beast multiple times.  Ye would think after this, creatures would be more cautious to avoid the rods protruding out, but they seem to trigger the traps even more after the first one.  
 
@@ -26,7 +26,7 @@ It seems they are so enraged by the sudden attack that they fail to see more tra
 
 ### Bolt Trap
 
-![Bolt Trap](images/dartanian_snare_3.png)
+![Bolt Trap](images/dartanian_snare_3.webp)
 
 Although this trap looks simpler than the Stiletto, looks are very deceiving.  As a trained rogue, ye should be able to admire the ingenuity behind this device.  At the time of this writing, this is the most damaging trap known.  Fisk in Suomi asks for a Good Blossom Dagger in order to create this wicked too.  As with the dirk, ye'll be shattering this dagger for the metal needed for this trap.  Sharpen the bits into a jagged piece that looks similar to an arrowhead.  This shape may seem easy but it is quite difficult to craft.  Another difficulty ye might have is the trigger bar.  Although thin, it is still a feat to bend this so it'll fit through the small slit.  Also, ye must not bend it too much, lest ye make the trap with a useless trigger.  The launching device (the corner box that the bolt is inserted into) contains a spring-load.  
 
@@ -34,7 +34,7 @@ When the trigger is tripped, this spring is released and the bolt penetrates the
 
 ### Poison Trap
 
-![Poison Trap](images/dartanian_snare_4.png)
+![Poison Trap](images/dartanian_snare_4.webp)
 
 I have not put a separate diagram in for the poison trap because construction of it is similar to the needle trap (See figure 1) at first.  The same plate is used but set at about an inch lower.  This is due to the fact that ye need to use a needle that is about a quarter of the size of those used in the needle trap (See figure 4.A).  The needle must be so much smaller because it needs to puncture a vein and the poison injected into the bloodstream.  Take the centipede glands and vipers glands that Baltasar in Rucesion desires for the construction of this trap and find the oil sacks that are hidden on each side under the crook in the gland (See fig 4.B).  The venom from these sacks are harmless by themselves.  That's why centipede and viper bites are non-poisonous in nature.  But mixed in the proper ratio, the results can be devastating.  
 
@@ -42,7 +42,7 @@ The correct mixture takes practice to get right, so don't be surprised if your p
 
 ### Blind Trap
 
-![Blind Trap](images/dartanian_snare_5.png)
+![Blind Trap](images/dartanian_snare_5.webp)
 
 This trap is possibly the oddest shaped trap out of all of them.  The plate is mostly just a place to rest the trap until it is needed.  Ye may decide to discard of the plate in favor of easier concealability.  This is fine, except adjust for the recoil that the trap will make when it snaps against the ground.  This trap is fairly simple to make, but operation is a bit more complex.  To make it, Baltasar asks for a Bat's Wing.  Cut this wing open with your dagger and take out the bones.  These bones, when sharpened, will make fine, lightweight shards that will be the backbone of your trap (Figure 5.A).  Attach these bone shards to the wire rectangle at one end of the trap, loosely.  The small plate at the other end acts as the trigger, loosening the spring in the center and flicking the rectangle in an arc.  As the rectangle is triggered, the shards fly off from them to stick in the victim's eyes, temporarily blinding them.  The most difficult part is not the making of this trap, but the aim.  It must be precise depending on the creature ye are fighting.  This trap takes slightly longer than most of the traps to set because of this fact. 
 
@@ -50,7 +50,7 @@ Be careful when setting it that ye do not trip the trap yourself, or the results
 
 ### Sleep Trap
 
-![Sleep Trap](images/dartanian_snare_6.png)
+![Sleep Trap](images/dartanian_snare_6.webp)
 
 Most novice rogues and also outsiders believe that the sleep trap and blind trap are identical in nature since they both basically stop the creature in their tracks so they simply decide to discard one in favor of the other.  This is not so however.  Each of these traps have a distinct advantage and disadvantage to them. While the blind trap may stop a creature from advancing, the creature is most likely apt to clutch at its eyes painfully and stagger and flail about.  The creature is still difficult to hit because of this.  Also, blindness does not prevent the casting of deadly spells, nor the creature attacking if ye get too close.  They can still attack in the direction that they feel pain.  It might be less effective but they still do it.  A sleep trap, on the other hand, knocks the creature unconscious.  A creature that is curled up on the grass or floor cozily is an easier target to hit since they don't anticipate it at all.  A creature that is blinded can still expect an attack and have defenses up, even if weakened.  
 
@@ -60,7 +60,7 @@ Once ye have enough of this concoction, pour it into a small dart (Fig 7.A) with
 
 ### Modifications for airborne foes
 
-![Modifications for Traps](images/dartanian_snare_7.png)
+![Modifications for Traps](images/dartanian_snare_7.webp)
 
 These traps are practical for ground-based foes, but flying creatures are a bit more of a challenge, and the trigger might have to be adjusted.  It is in these cases that only a magick enchantment will truly suffice to make the trap work.  There are two that are both widely-used and ones that I would recommend, and those are light and athar-based triggers.  The light-based trigger reacts thus.  As long as light is shining on the trigger, the trap will not fire.  Therefore, when a flying creature casts a shadow on the trap, the lighting is upset and the trap triggers.  This is fine, if it is done properly, which takes extensive time.  The sun casts different rays depending on the time of day so the trigger must be offset.  
 

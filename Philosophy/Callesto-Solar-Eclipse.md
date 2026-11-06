@@ -51,6 +51,7 @@ without even noticing they had lost consciousness!
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #152).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Callesto_Eclipse.html .
 ```

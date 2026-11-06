@@ -437,6 +437,7 @@ _Hollie Ileen_
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #66).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Hollie-Kob_Fair/title.html .
 ```  

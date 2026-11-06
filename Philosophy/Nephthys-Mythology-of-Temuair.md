@@ -208,6 +208,8 @@ _citizen of Rucesion._
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #36).
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #177).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Nephthys_Mythology.html .
 ```

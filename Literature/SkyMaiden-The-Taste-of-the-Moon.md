@@ -411,6 +411,7 @@ Divine.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #213).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/SkyMaiden_Moon.htm .
 ```

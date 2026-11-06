@@ -2,7 +2,7 @@
 
 _by Enclave in **Dark Ages**_
 
-![A symbol of Sgrios](./images/Enclave-Evil.png)
+![A symbol of Sgrios](./images/Enclave-Evil.webp)
 
 For many Deochs the Aisling has battled evil. Some battle the evil by hunting
 it, vanquishing any creature that proves unpleasant to the eye. Others battle

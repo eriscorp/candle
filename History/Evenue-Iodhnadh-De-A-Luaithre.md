@@ -114,6 +114,7 @@ The Gods of Temuair made everyone forget about the Creants. That is why no one k
 ```
 *Librarian Notes*
 
+Recognized: Clave, History Contest, 24 January 2003.
 This entry has been edited to conform to Library formatting.
 The original copy of this document was lost. It has been reconstructed from fragments.
 ```

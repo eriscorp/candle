@@ -131,6 +131,7 @@ _edited by Arne Gustaf Swanberg, Mileth, Deoch 13_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Historians Recognized (Events of Temuair post #75).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Swanberg_Anaman.html .
 ```

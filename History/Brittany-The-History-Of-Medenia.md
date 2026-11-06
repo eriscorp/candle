@@ -20,7 +20,7 @@ Brittany Hamaru, Deoch 108
 
 ## Speculation: The Beginning & Elemental Spirits
 
-![The Earth Spirit, settled in Noam.](images/britt_medenia_1.png)
+![The Earth Spirit, settled in Noam.](images/britt_medenia_1.webp)
 
 ### The Beginning?
 
@@ -32,7 +32,7 @@ The Earth Spirit alludes to the beginning of time, which Aislingkind refers to a
 
 With the knowledge that the elemental spirits are responsible for the livelihood of all Medenian creatures, it is prudent that I share what little information I have gathered about them before continuing further. The Earth, Fire, and Water Spirits are curious, arcane entities whose true origins remain mostly a mystery among mundanes and Aislings alike. While to Aislings the spirits physically appear as individuals, all spirits refer to themselves as "we," as if there is more than one life form within their physical shells. The only exception to these observations is with the Water Spirit, who corrects herself when speaking to Aislings.
 
-![Beholding the Fire Spirit in Hwarone - ouch, that's hot!](images/britt_medenia_2.png)
+![Beholding the Fire Spirit in Hwarone - ouch, that's hot!](images/britt_medenia_2.webp)
 
 Other information about the elemental spirits is equally as objective. Mundanes and Aislings have revered the spirits since discovering them in what is now Noam, Hwarone, and the Water Dungeon, respectively. It is also thought that other spirits corresponding to the remaining elements are waiting to be found in unexplored regions of the continent as well. We currently rely on the spirits for their protection; this is provided in the form of precious items that are forged into even more powerful equipment. The Earth and Water Spirits are also known for bestowing us with additional privileges (there is more information on these spirits in the Water Dungeon section). There is also more information about the Fire Spirit in the coming pages. However, let's press on to a subject that is more familiar to Aislingkind: mundanes.
 
@@ -50,13 +50,13 @@ From that information, I will next attempt to explain how Medenian mundanes dive
 
 Was it an accident that the mundanes of Medenia were chosen to look structurally identical to those found in Temuair? Did Grinneal or the elemental spirits predict that civilizations would collide at some distant point in time? These are not questions I sought to answer during my journey, but they brought about an interesting aspect of history: that Temuairan and Medenian mundanes progressed similarly while being completely separate from one another. I propose that mundanes began to appear on the continent sometime between what we know as the beginning of the Sixth Aeon and the end of the Seventh Aeon. It is reasonable that the elemental spirits would have fully departed Temuair by this time and focused their energies into making Medenia a hospitable place.
 
-![Signs of life from the Asilon and Noam plains and prairies.](images/britt_medenia_3.png)
+![Signs of life from the Asilon and Noam plains and prairies.](images/britt_medenia_3.webp)
 
 I have gathered from ancient relics and Jelus's story with Arachne that the Golkatians were a spiritual and, later, a nomadic race. Signs of their reverence and travels can be found dotting the Asilon and Noam plains and prairies. Judging from the amount of mundanes currently found in the lands, the civilization was no doubt a small tribe comprised of only a few families. It is predicted that the Golkatians spent the Eighth Aeon exploring, discovering, and reproducing. Finally, once the people had reached decent numbers, they began to abandon their nomadic roots. Families split off as they reached lands they fancied, and finally the mundanes erected boundaries and discovered politics.
 
 From the amount of relics found, I predict the Golkatians probably began their journey after the fall of their city in the region we call Noes. This region includes the towns of Asilon and Noam. From there, they most likely traveled west along the coast and began settling the Alsaids region in what is now called Hwarone. The more adventurous mundanes branched out and settled the farther regions of Selaime, which includes the recently explored Aman Jungle. I predict that the regions of Andarion, Nageling, and Silion are comprised of younger establishments that took more time to settle; the terrain becomes much more unforgiving after crossing the Aman Jungle and even Aislings have yet to explore farther than the twisted trap of trees. Certainly all of these changes must have occurred by the beginning of the Tenth Aeon, when the exploration of Medenia by Aislings would soon be afoot. I have drawn on the map below to better illustrate these happenings.
 
-![The current map of Medenia. Aislings have not discovered past the third star.](images/britt_medenia_4.png)
+![The current map of Medenia. Aislings have not discovered past the third star.](images/britt_medenia_4.webp)
 
 Other than what is taught in folklore, there is very little evidence to support when the other races--the Andor ants and Veltain Grimlocks--arrived on Medenia. However, some research shows that those races also began with simple societies. There is more on this in the coming pages.
 
@@ -70,7 +70,7 @@ As Aislings push farther and farther westward, we discover the diversity of the 
 
 ### Asilon and Noam
 
-![Cotton grown in Asilon fields.](images/britt_medenia_5.png)
+![Cotton grown in Asilon fields.](images/britt_medenia_5.webp)
 
 It is appropriate to begin with Asilon and Noam because, as mentioned before, it is speculated that these areas are where mundanes first appeared. The villages were also the only two areas readily available to Aislings after the breaking of the Seal of Medenia in Deoch 35(3).
 
@@ -84,7 +84,7 @@ This situation leads to the second and probably most important historical event 
 
 Kabok explained that the Dioram is a powerful substance that has flowed underground for as long as the Elemental Spirits have been enriching the lands with their power. As mentioned before, this may have been as early as the Sixth Aeon. The liquid functions as a conduit between the Spirits, allowing them to influence lands distant from where they dwell. This is how the six elements of Earth, Wind, Water, Fire, Metal, and Nature appear in all regions of the continent (though I predict the elemental properties of a certain Spirit are dominant in a region where a Spirit dwells). While the Dioram cannot be channeled to the surface by ordinary means, Kabok told me that he would allow me to bring a small amount of the liquid to the surface to help the ailing Celina. To do this, I had to engage in a Golkatian ritual that involved fox ribs...but I will not go into detail here. Kabok explain that the liquid, in the hands of mundanes and Aislings able to purify it, may pose a threat to the lives of all living creatures. I gathered the impure substance in a bottle and administered it to Celina, who magically showed improvement. I left the hut in Asilon with a smile on my face, hoping the sighing mudling eventually returned to her beautiful self. My smile was short lived, however, when I crossed the town and spotted something rather peculiar relaxing by the dome shaped huts. The gray-skinned lifeform was not shy; in fact, it waved me over and introduced itself. Its name was Mephit.
 
-![The curious Mephit, taking a break behind a home in Asilon.](images/britt_medenia_6.png)
+![The curious Mephit, taking a break behind a home in Asilon.](images/britt_medenia_6.webp)
 
 This introduction marked another notable event in Medenian history. As I spoke to Mephit, it explained its kind was what we normally call demons. Him and another demon, Morwin, had emerged from a realm called Crionor to satisfy their curiosity on the events in Medenia. Normally, Mephit said, creatures are not able to escape from their realms and travel to others; some strange force had been making the transition easier. The same was true when the Creants first appeared in Temuair and attempted to capture the power of the Elemental Spirits, though the demon could not recall from which realm the Creants had escaped. Mephit did not say exactly when it arrived in our realm, but I had not expected it to understand our methods of keeping time. I predict that both demons came to Medenia from Crionor late in the Eighth Aeon, when it was first recorded that lifeforms were capable of shifting realms(4). Curiously, this is also the time period where the element of Darkness was discovered. To thank the demon for its information, I gave it ten Charred Bones to replenish its strength. I bit my lip and hoped I had not made a mistake.
 
@@ -92,7 +92,7 @@ At the end of these quests, I had only more questions: why was there so little i
 
 ### Hwarone
 
-![Mank, the gatekeeper of Hwarone.](images/britt_medenia_7.png)
+![Mank, the gatekeeper of Hwarone.](images/britt_medenia_7.webp)
 
 Hwarone, a town nestled between the foot of a volcano and a sweltering desert, is home to some of the most colorful mundanes found on the continent. Aislings needed roughly fifteen Deochs to cross the desert and thusly discovered the town in Deoch 50(5).
 
@@ -102,7 +102,7 @@ I am told by the townspeople, namely Mank the Gatekeeper, that the distant histo
 
 However, Hwarone has written its own list of troubles. When the townspeople began to better explore their surroundings at the time of Aisling appearance, they discovered two valuable resources: Andor and the Veltain Mines. The reason for the invasion of Veltain was simple; the mines were a rich source of ore, which is much more easy to work with than stone. The mundanes still often require the Veltain Ore to craft many of the Aisling weapons in their smithy. Hwarone's invasion of Andor is much more unclear because many of the items crafted by the Hwaronians are often far superior to those found in Andor. However, I suspect the invasion may have occurred because of the appearance of the Conix in the hive (there is more information on this occurrence in coming pages). Perhaps the Hwaronians are seeking enlightenment of their own...but regardless, Aislings first frayed against Andor when discovering the hive, shortly after the breaking of the Seal. They continued the fight and officially joined the battle against the Veltain grimlocks when Hwarone organized its parliament and military in Deoch 61(6).
 
-![Outside of the Cursed Home.](images/britt_medenia_8.png)
+![Outside of the Cursed Home.](images/britt_medenia_8.webp)
 
 Hwarone also has problems at home. When Aislings first stumbled upon the city, they were quick to notice that the town Magistrate was speaking gibberish. It was at this time that Aislings had a reason to venture into the nearby Desert Dunes. The Dunes were the only source for ginseng, which were boiled down and mixed into an elixir to cure the Magistrate's condition.  It was later discovered that the Magistrate's favorite beverage, Black Sun Tea, had been contaminated with an unknown substance--perhaps a poison meant to kill him. It is still unclear who planted the substance in the Magistrate's tea, or why, but the mundanes are currently amassing their army to protect against an attack on their city. However, I fear that the enemy may already be within the city walls.
 
@@ -113,7 +113,7 @@ Luckily, the history of Hwarone was pretty straightforward. At the end of my jou
 
 ### Aman Jungle
 
-![Checking in to the Aman Inn.](images/britt_medenia_9.png)
+![Checking in to the Aman Inn.](images/britt_medenia_9.webp)
 
 Nestled comfortably between Tavaly Ridge and the western portion of the Nageling Bowl is the swampy Aman Jungle, home of rugged Amanites.  Several Deochs passed while Aislings were exploring the Water Dungeon and Lost Ruins, so there is no surprise that we only stumbled upon Aman Jungle in Deoch 94(7).
 
@@ -123,7 +123,7 @@ Unlike in other societies, the Amanites have lived harmoniously with other natio
 
 As a tribe who has not progressed much in terms of shelter or defense, the Amanites were devastated when the local flora and fauna began acting strangely in Deoch 107. Frogs began multiplying to incredible numbers and ferociously protected their watery nests from Aisling invasion. Dendrons, once shy but powerful creatures, rooted themselves in the middle of open trails where Aislings often walked. Elemus, once noble mounts for many of the Aman people, suddenly shook off their leafy saddles and ran deep into the thicket of vines. The Amanites were desperate; they recruited every Aisling they could to contain the growth of the pests and to return their precious Elemus to the town. Even Aislings that were previously viewed as too weak to join the fray were recruited. Such an explosion of Aisling activity lead to the increased exploration of the outskirts of Aman Jungle, thus leading to the discovery of the Yowien Territory.
 
-![Running amok in the Yowien Territory!](images/britt_medenia_10.png)
+![Running amok in the Yowien Territory!](images/britt_medenia_10.webp)
 
 The Yowien Territory was once inhabited by the Aman peoples, but was quickly abandoned when the united tribe became two. Two smaller, separate tribes were not prepared to take on the devastation that hordes of dendrons, Yowien trees, and primate-like Yowiens left in their wake. With the reuniting of the chiefs, however, Aislings were deemed trustworthy enough to begin exploring this area in Deoch 107(8). Aislings were taken aback when they discovered that the Yowien people, once a part of the Aman Jungle tribe, had split off to create a tribe of their own. This tribe had seemingly adapted to the dangers of the area, though it still suffered from minor problems (such as relationship scuffles and losing their property due to the multitude of creatures nearby).
 
@@ -139,7 +139,7 @@ Now that we have taken a look at the towns populated by mundanes, it is only bef
 
 ### Andor
 
-![Incognito!](images/britt_medenia_11.png)
+![Incognito!](images/britt_medenia_11.webp)
 
 Thanks to a great deal of research by Historian ObiWan(9), we know that Andor was originally a hive comprised solely of underground tunnels in which the ants lived. At this time, the ant society was segregated into several tribes lead by the fittest and most powerful ants. This primitive behavior succeeded in sustaining the ant race for a great amount of time. Eventually, however, a new form of life found his way into the tunnels. Referred to as simply as "the man with the dark light," it is not clear from ant folklore whether this form of life was a mundane or otherwise. The man with the dark light exposed the ants and their offspring to the Conix, thus making the insects more intelligent and physically gifted, and soon disappeared from Andor history afterwards.
 
@@ -151,13 +151,13 @@ With the establishment of the Hwarone military, the Hwaronian mundanes also deci
 
 ### Desert Dunes
 
-![A giant scorpion statue.](images/britt_medenia_12.png)
+![A giant scorpion statue.](images/britt_medenia_12.webp)
 
 Aislings, ever excited to explore and discover, took only a few sparse Moons after the discovery of Andor to find themselves in the Desert Dunes (that is, the two locations were discovered in the same Deoch)(11). The location was probably considered one of the most dangerous locations of its time, considering its discovery resulted in many Aisling deaths; not only were Aislings forced to deal with the highly aggressive desert monsters, but they also had to contend with the sweltering desert heat that drained them of their life as time passed.
 
 With the establishment of improved caravans soon after the discovery of Hwarone, Aislings no longer needed to brave the wild creatures or the scorching heat except to collect ginseng from cacti. That meant that the Desert Dunes returned to how it had been found: a deserted wasteland. Interestingly enough, however, are the landmarks that prove that a civilization once flourished in these barren lands. Dotting the expanse are gigantic scorpion statues carved from a white stone that does not appear to have originated in the Dunes. The same white stone also composes the structure of a giant pyramid found directly in the middle of the area. Upon inspection of the sands and the pyramid, no evidence was found that any intelligent life had ever existed except for five statues erected in the visage of Aislings. These statues still stand at the heart of the pyramid's maze. Intrigued, I sought out the Hwaronian mundanes during the ending Sun of Deoch 105.
 
-![The brown cactus peers into the sand whirlpool, as if sensing there is something it wants deep inside...](images/britt_medenia_13.png)
+![The brown cactus peers into the sand whirlpool, as if sensing there is something it wants deep inside...](images/britt_medenia_13.webp)
 
 Unfortunately, every Hwaronian was stumped when bombarded with questions about the pyramid. Exasperated, I slouched against a cherry blossom tree in the Blossom Garden. Just as I began drifting into a comfortable sleep, I heard a soft rustling and bolted upright. I turned my head and was almost not able to contain my gasp when I saw where the sound had originated: there, against the backdrop of the beautiful blossoms, stood a fiery-haired grimlock. The creature came only two steps closer and reached toward me with its pointed fingers. It turned its outreached hand over, slowly, as if it was very concerned that I see what it was holding. Soon, the grimlock carefully placed the contents of its palm onto the dirt, turned, and scampered into the safety of the forest. I burst to my feet and scrambled for the item: a yellowed piece of parchment, folded many times into a small square.
 
@@ -174,7 +174,7 @@ After reading what I could, I felt sick to my stomach. Why did the worker grimlo
 
 ### Veltain Mines
 
-![The great entryway to the Mines.](images/britt_medenia_14.png)
+![The great entryway to the Mines.](images/britt_medenia_14.webp)
 
 While Hwaronian mundanes attempted to harvest the Mines' treasures Deochs before Aislings ventured into the Alsaids region, they were met with little success. Aislings were invited to begin mining alongside the mundanes in Deoch 57(12). When Aislings first visited the Mines, they were met with heavy resistance, as well. The Veltain grimlocks launched a heavy assault against the invaders, ensuring that their exploration was slowed. However, once Aislings began to thin the grimlocks' unruly numbers, complete scouring of the tunnels was afoot.
 
@@ -182,7 +182,7 @@ Aislings soon found that the Veltain Mines were comprised of four main areas. Fi
 
 Eventually, Aislings reached the end of the first tunnel and dropped through a hole into the chamber below. The tunnel had truly ended, as the chamber was only a single room; this was when Aislings were forced to fight Gan, the "shovel boy." Having his chamber invaded, Gan begrudgingly attacked Aislings, snarling through warped teeth and swinging his weapon in grimlock style. Aislings, seeing that Gan was quite obviously a mundane child, tried their best to repel Gan's attacks and speak to him. However, the boy did not seem to understand their tongue. Furthermore, his dirty skin and beady eyes signaled that the boy may had spent most of his life in the tunnels. Perhaps the mundane boy was found and was being raised by the grimlocks... so Aislings did not kill Gan, but defended themselves; this lead to Gan's weakening. With the last of his strength, Gan teleported Aislings back to the Veltain Mines foyer, where it was discovered that the barrier to the second tunnel had been weakened. It was determined at that moment that Gan was undoubtedly attempting to protect the tunnels.
 
-![Attack of a fiery-haired grimlock, Morg, and the Veltain Queen.](images/britt_medenia_15.png)
+![Attack of a fiery-haired grimlock, Morg, and the Veltain Queen.](images/britt_medenia_15.webp)
 
 Inside the second tunnel, a new set of grimlocks were discovered - their stark purple hair signaled that they were an entire new species. The same cycle in which Aislings explored the tunnels, exterminated the grimlocks, and found a new chamber was repeated. However, this time, Aislings found Morg. It is also not clear where Morg originated, though Aislings predicted that the creature erupted from beneath the very earth to protect the mines. Its fiery breath and rock-encased body may be evidence to prove this theory true. When Morg was finally defeated, the last tunnel was revealed - along with even more new species of grimlocks and the Veltain Queen. The Queen grimlock proved to be a fearsome adversary as she used her grimlock magic to summon fiery puffs of steam from the ground. Aislings have yet to fully defeat her; when she becomes weak, Aislings are sent back to the Mines foyer and the process begins anew.
 
@@ -190,7 +190,7 @@ Aislings continue their raids of the Veltain Mines today, constantly in search o
 
 ### Water Dungeon
 
-![*blub*](images/britt_medenia_16.png)
+![*blub*](images/britt_medenia_16.webp)
 
 The Noam mundanes were whispering about the Water Dungeon long before Aislings discovered the temple in Deoch 69(13). The mundanes do not currently recollect how long ago the temple was erected,  but they do share how they believe the Water Spirit came to be.
 
@@ -200,7 +200,7 @@ The couple and their child lived happily for several Deochs before it was notice
 
 The girl despaired; she asked the Earth Spirit why they would allow her to learn of love for the people and creatures around her if she were only meant to serve a higher purpose. It is said that the Earth Spirit had only one more profound statement as they enveloped the girl with their energy, lifting her from the rich soil of the Noam Plains: "because we wanted you to know the goodness that lies in the heart of all of our creations." With that, the girl was taken away in a ball of energy and carried southwest, never to be seen in Noam again. The Noam inhabitants cannot recall how much time has passed since that fateful night.
 
-![The Water Spirit, floating unhappily in her temple.](images/britt_medenia_17.png)
+![The Water Spirit, floating unhappily in her temple.](images/britt_medenia_17.webp)
 
 After fully exploring Hwarone and the Veltain Mines, Aislings moved their journey into the sea. Roughly twelve Deochs of sailing and fishing later, the submerged Water Dungeon was discovered. Aislings equipped their Breath Rings and dove into the crystalline waters, parting the golden sand and revealing the entranceway to the abandoned temple. The tentative explorers were awestruck when they passed through that magical barrier and removed their rings; inside, intricate fountains gushed into sparkling pools. Smooth, stone pillars with magically bobbing heads marked the entranceway, and finally, the Water Spirit was discovered.
 
@@ -208,13 +208,13 @@ There is evidence to suggest the Water Spirit that Aislings are familiar with is
 
 Further curiosities are plentiful. From speaking with the Water Spirit, Aislings quickly discovered that it was the spirits (presumably the Earth and Water Spirits) who erected the Water Dungeon. The Water Spirit continues to explain that the Dungeon was erected to imprison all of the most evil creatures from the sea; perhaps the spirits had foreseen that Aislings would be endangered by these creatures while exploring Medenia's seas. As if this fact had not been surprising enough, the Water Spirit also mentioned that she has a twin sister who sacrificed herself to trap a Sea Elemental Creant deep within the Dungeon. Aislings currently quest to free the Water Spirit's sister from the clutches of the Sea Elemental Creant, but so far, have been unsuccessful at doing so. The Creant is becoming weaker with every assault, however, so perhaps one day Aislingkind shall see the sisters reunited once more.
 
-![The Water Dungeon hierarchy. The Sea Elemental Creant leads the lower rank that is composed of "Eyes," Dosidicus, and Sea Rams. The lowest rank is filled by Jellyfish, Sirens, and Anemone Fairies.](images/britt_medenia_18.png)
+![The Water Dungeon hierarchy. The Sea Elemental Creant leads the lower rank that is composed of "Eyes," Dosidicus, and Sea Rams. The lowest rank is filled by Jellyfish, Sirens, and Anemone Fairies.](images/britt_medenia_18.webp)
 
 Before we move on, it may be necessary to mention that the creatures locked away in the Water Dungeon act strangely. There is a distinct hierarchy in which subordinates follow the orders from higher ranking creatures, and so forth. The Sea Elemental Creant, who acts as a general of sorts, rallies the lower ranks. Additionally, Aislings have been known to hear the creatures murmur curious sections of phrases; "for the Eight-Legged Prince," "lost at sea," and "distant shore" are the most notable. Was something valuable taken from these creatures? Did the struggle to keep the item of worth corrupt them? Perhaps Aislings will discover the answer these questions with more research.
 
 ### Lost Ruins
 
-![Lost Ruins](images/britt_medenia_19.png)
+![Lost Ruins](images/britt_medenia_19.webp)
 
 After the discovery of the Water Dungeon, Aislings spent a great deal of time skimming the coasts of the Medenian continent for more underwater treasures. However, they were distracted when their ships began running aground a few clicks west of the Water temple. Eventually, Aislings banded together to explore the bundle of small islands here, and thus the Lost Ruins were discovered in Deoch 83(14).
 
@@ -240,7 +240,7 @@ I am faithful that every form of life may once again see harmony in Medenia. How
 
 While I have recorded a great deal of information in the previous pages, I feel our work as Historians is nowhere near complete in Medenia; more and more questions arise every day as Aislingkind treks the continent. I hope that my research inspires Nobles and other curious Aislings to use their intellectual gifts and find the answers to these questions. Perhaps the information we find will someday be the key to the continent's salvation...or its doom.
 
-![Thank you for reading.](images/britt_medenia_20.png)
+![Thank you for reading.](images/britt_medenia_20.webp)
 
 ---
 

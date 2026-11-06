@@ -40,7 +40,7 @@ There's different types of Filth makin' up the cartload and ye will likely see s
 
 + Demagouge: These Filth are the most common kind ye will run into after Guards. They wear cloaks, long or short dependin' on their gender and ye most often find 'em in gaggles near the filth pens. They usually don't do anythin' if they get wind of a caper but don't be careless around 'em. Some have a tendency to use whispers and rat on ye to Guards or other punishin' Filth as well as memorize yer actions and hold it as evidence of yer caper if ye end up bein' nicked. Also, if yer exile is ordered as a result of ye being caught, this lot can turn aggressive and start huntin' ye down to kick ye out of the territory. 
 
-+ ![](images/deice_criminal_1.png) Burgess: Probably the rarest kind of Filth ye can expect to encounter, these are like power Demagogues but still pretty laid-back compared to punishin' Filth. They wear robes a lot like a Judge, elaborate, garish rubbish that makes 'em stand out from a country mile away. They can be a little more aggressive than Demagogues in respondin' to yer capers but they don't got any official punishin' power unless yer caught out and have yer exile or political barment ordered. Then they get nasty and start lookin' for ye to put the boot in on. 
++ ![](images/deice_criminal_1.webp) Burgess: Probably the rarest kind of Filth ye can expect to encounter, these are like power Demagogues but still pretty laid-back compared to punishin' Filth. They wear robes a lot like a Judge, elaborate, garish rubbish that makes 'em stand out from a country mile away. They can be a little more aggressive than Demagogues in respondin' to yer capers but they don't got any official punishin' power unless yer caught out and have yer exile or political barment ordered. Then they get nasty and start lookin' for ye to put the boot in on. 
 
 + Ranger: Of all the Filth ye can possibly encounter, these are the worst by far. They look exactly like Guards, 'cept their tabard or bliaut is yellow instead of green or blue. If ye pull something off that breaks the Mundane Mandate and they get wind of it, ye are as good as nicked, even if ye lie low. Dodgin' 'em by lyin' low when you realize they're after ye don't work either, since they keep and pass 'round a list of people hidin' out on 'em. Since ye can't stay underground forever, it's only a matter of time before ye show up and they catch ye. Worst part is, if they nick ye for nine capers or more, yer exploits are finished 'cause ye will be banished from the realm forever. If yer smart, ye'll just stay well away from anythin' that could draw their attention. 
 
@@ -72,7 +72,7 @@ The only way yer likely to even find out about 'em is by word on the street. Eve
 
 + Rare Items: If ye happen to be willin' to part with some of yer hard-to-find trinkets, ye just might slip the hook offerin' one to a bent official. Try to peek 'em if ye can, jus' so ye can tell whether or not they've already got what ye plan to offer 'em. 
 
-+ ![](images/deice_criminal_2.png) Leeching: Dependin' on their insight, ye can occasionally bribe yer way out of trouble by offerin' to leech 'em a few insights for their trouble. This tends to work better when they're under their fiftieth insight, since beyond there, a lot of Aislin's hunt in the Cthonics and don't need leechin' as badly. Peek 'em or check the scroll o' presence and take note of where the Filth names are on the listin' to get some idea o' what their insight is. 
++ ![](images/deice_criminal_2.webp) Leeching: Dependin' on their insight, ye can occasionally bribe yer way out of trouble by offerin' to leech 'em a few insights for their trouble. This tends to work better when they're under their fiftieth insight, since beyond there, a lot of Aislin's hunt in the Cthonics and don't need leechin' as badly. Peek 'em or check the scroll o' presence and take note of where the Filth names are on the listin' to get some idea o' what their insight is. 
 
 + Guildmate: Some groups around hold loyalty to their guildies as more important than laws. If yer in a guild, ye could get off scot-free if one of yer guildmates happens to be in office as well. Ask 'em about it, but make sure they ain't got any scruples first. 
 
@@ -89,6 +89,7 @@ While some of this lore has been elaborated on for entertainment's sake, there a
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, Lore Contest, 15 August 2003.
 This entry has been edited to conform to Library formatting.
 The original was lost, and recovered from https://web.archive.org/web/20040605103139/http://members.aol.com:80/irtree/deice/ .
 ```

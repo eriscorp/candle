@@ -54,6 +54,7 @@ Hoping she will drink too and be no more danger
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #33).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Elmo_Frog.html .
 ```

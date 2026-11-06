@@ -80,13 +80,13 @@ Sometimes a younger warrior in the midst of battle will see you and shout, "Heal
  
 |Spell Name|Description|Image|
 |-|-|-|
-|IOC|This is your most useful spell. It is that which will restore life to a wounded aisling.|![Ioc](images/felicity_art_1.png)|
-|ARMACHD|This will enchant the target aisling with aprotection that will lower their armor class, allowing them to receive less damage.|![Armachd](images/felicity_art_2.png)|
-|BEANNAICH|This will give swiftness to the target aisling.The aisling will be able to hit more often than normal.|![Beannaich](images/felicity_art_3.png)|
-|FAS DEIREAS|This will give a harder hit to the targetaisling making them damage a creature more.|![Fas Deireas](images/felicity_art_4.png)|
-|CRADH|This will curse a creture and cause it to lowerits guard to anyone attacking it.|![Cradh](images/felicity_art_5.png)
-|AO CRADH|This will cure the curse and restore normal state.|![Ao Cradh](images/felicity_art_6.png)
-|BEOTHAICHDEUM|Using this spell will cast a circle callingupon the sacred ground of the fae so that a priest might mix faerie liquor.|![Beothaichdeum](images/felicity_art_7.png)|
+|IOC|This is your most useful spell. It is that which will restore life to a wounded aisling.|![Ioc](images/felicity_art_1.webp)|
+|ARMACHD|This will enchant the target aisling with aprotection that will lower their armor class, allowing them to receive less damage.|![Armachd](images/felicity_art_2.webp)|
+|BEANNAICH|This will give swiftness to the target aisling.The aisling will be able to hit more often than normal.|![Beannaich](images/felicity_art_3.webp)|
+|FAS DEIREAS|This will give a harder hit to the targetaisling making them damage a creature more.|![Fas Deireas](images/felicity_art_4.webp)|
+|CRADH|This will curse a creture and cause it to lowerits guard to anyone attacking it.|![Cradh](images/felicity_art_5.webp)
+|AO CRADH|This will cure the curse and restore normal state.|![Ao Cradh](images/felicity_art_6.webp)
+|BEOTHAICHDEUM|Using this spell will cast a circle callingupon the sacred ground of the fae so that a priest might mix faerie liquor.|![Beothaichdeum](images/felicity_art_7.webp)|
 
 Some of these spells come with different strengths or usage. By using the old tongue, you can determine how strong a spell is. Beag means little. Mor means greater. Ard means grand. For instance, the spell "cradh" comes in four different flavors; beag cradh, cradh, mor cradh and ard cradh. Each having varying degrees of power. Most higher versions of spells require a weaker one to be practiced thoroughly before obtaining it.
 
@@ -106,6 +106,7 @@ _Felicity Kendris_
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #28).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Felicity_Priest/index.html .
 ```

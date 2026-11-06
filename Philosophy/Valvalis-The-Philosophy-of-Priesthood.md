@@ -380,6 +380,7 @@ __High Priestess of Glioca__
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophy Contest, 15 November 2002.
 This entry has been edited to conform to Library formatting.
 The original copy of this document has been lost. It has been reconstructed from fragments.
 ```

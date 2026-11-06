@@ -15,7 +15,7 @@ suddenly feel... different. You feel as though a whole new world of
 possibilities has opened up to you, as though you have started on a new path
 in life.
 
-![Riona](images/moiraine_first_riona.png)
+![Riona](images/moiraine_first_riona.webp)
 
 As you quickly dress, the first thought that comes to your mind is to rush
 downstairs and share your wonderful new experience with Riona, the innkeeper.
@@ -53,16 +53,16 @@ clothing, jewelry, and even a little about magical artifacts. Be sure to
 listen carefully to all they have to say for you will surely gain some
 valuable experience.
 
-![Weapons](images/moiraine_first_weaponsmith.png)
+![Weapons](images/moiraine_first_weaponsmith.webp)
 
-![Armor](images/moiraine_first_armorsmith.png)
+![Armor](images/moiraine_first_armorsmith.webp)
 
 ## Your First Quest
 
 While you're at the weapon smith's, you may wish to embark on your first quest
 by asking him to spare you a stick. Callough is not in the habit of giving out
 weapons for free however and he will request that you find him five sturdy
-branches ![Branch](images/moiraine_first_branch.png) with which he may craft
+branches ![Branch](images/moiraine_first_branch.webp) with which he may craft
 you a stick.
 
 Where to find such branches you ask? The two large trees next to Riona's Inn
@@ -76,7 +76,7 @@ that worth the effort!
 
 ## A Visit to the Dark Wizard and the Alchemist
 
-![Dar](images/moiraine_first_dar.png)
+![Dar](images/moiraine_first_dar.webp)
 
 Although you have all the equipment necessary for your first hunt, there are
 still many things to learn in Mileth. Your next destination should be a visit
@@ -93,11 +93,11 @@ may also wish to sell some of the reagents you find to earn a little money. In
 addition to the items already mentioned, they will purchase centipede glands,
 viper glands, bee stings, and mantis eyes.
 
-![Cyan](images/moiraine_first_cyan.png)
+![Cyan](images/moiraine_first_cyan.webp)
 
 ## Time for Lunch!
 
-![Aingeal](images/moiraine_first_barmaid.png)
+![Aingeal](images/moiraine_first_barmaid.webp)
 
 By this time you might be feeling a little hungry, so why not head down to the
 Mileth Bakery and Tavern for a refreshing drink and some tasty treats? Aingeal
@@ -108,7 +108,7 @@ for he will try to harass you for your hard earned money. However, a gift of
 1000 coins may well be worth it in the future should you have two companions
 with you willing to face the perils of the Terror.
 
-![Drunk and Duana](images/moiraine_first_dancer.png)
+![Drunk and Duana](images/moiraine_first_dancer.webp)
 
 Next door you will find Oona the baker. She offers a variety of foods such as
 vegetables, apples and baguettes for a light meal or chicken and beef for a
@@ -117,7 +117,7 @@ sometimes gets bitten by vipers, or suffers from nightmares or worse. Perhaps
 you can help her by finding an Aisling herbalist who can give you the proper
 medicine to cure her ailment?
 
-![Oona](images/moiraine_first_baker.png)
+![Oona](images/moiraine_first_baker.webp)
 
 While you are here, either Aingeal or Oona may speak to you of a friend who
 has lost her love... would you be able to help mend a broken heart and find
@@ -125,7 +125,7 @@ the missing love letter?
 
 ## Services of Mileth
 
-![Cassidy](images/moiraine_first_bank.png)
+![Cassidy](images/moiraine_first_bank.webp)
 
 Now that you are full from your meal it might be a good time to explore the
 various services that Mileth offers. Next to the Tavern and Bakery you will
@@ -133,7 +133,7 @@ find the Mileth Bank. Here you may deposit for a small fee your money and
 items. Withdrawal is free of charge. You may also labor for another Aisling by
 speaking with Cassidy, the higgler who runs the bank.
 
-![Brody](images/moiraine_first_tailor.png)
+![Brody](images/moiraine_first_tailor.webp)
 
 You will probably wish to stop by the Tailor Shop and purchase some proper
 clothing as well. A new blouse or shirt will offer much better protection than
@@ -141,19 +141,19 @@ the ragged one you currently have. Brody will also lend you his tools to
 either dye or tailor your outfits provided you have the necessary skill to do
 so.
 
-![Daithi](images/moiraine_first_daithi.png)
+![Daithi](images/moiraine_first_daithi.webp)
 
 Daithi, the mysterious rogue trainer will help you should you choose the path
 of the rogue.
 
-![Colm](images/moiraine_first_pigeon.png)
+![Colm](images/moiraine_first_pigeon.webp)
 
 Mileth offers a wonderful pigeon carrier service. Should you ever wish to give
 a gift to someone but you just don't have the time to hand it to them in
 person, Colm will do the job for you. It will cost you some coin however and
 only non-perishable goods may be sent.
 
-![Naomhan](images/moiraine_first_priest.png)
+![Naomhan](images/moiraine_first_priest.webp)
 
 A stop by Mileth's beautiful chapel is definitely a must! Should you speak to
 Naomhan, the chapel assistant, he can explain to you a little about the
@@ -163,7 +163,7 @@ be married within the chapel.
 
 ## The Fighter Trainer
 
-![Keallach](images/moiraine_first_keallach.png)
+![Keallach](images/moiraine_first_keallach.webp)
 
 Now that your exploration of Mileth is nearing completion, you will want to
 visit Keallach the fighter trainer to learn some basic fighting tactics. He
@@ -174,7 +174,7 @@ wish to avoid certain death!
 
 ## Devlin, the Fae Priestess
 
-![Devlin](images/moiraine_first_devlin.png)
+![Devlin](images/moiraine_first_devlin.webp)
 
 You will find Devlin just next door to Keallach. This faery will teach you
 about the East Woodlands which lie just outside Mileth. Learn about the
@@ -187,7 +187,7 @@ you greatly.
 
 ## Mileth Outskirts
 
-![Cedrik](images/moiraine_first_burgess.png)
+![Cedrik](images/moiraine_first_burgess.webp)
 
 Just outside the town of Mileth you will find Glioca Temple, the Mileth Town
 Hall and Courthouse and the Mileth College. At the Town Hall, Cedrik the
@@ -199,7 +199,7 @@ At Mileth College you can attend a variety of courses on history, philosophy,
 lore or even art! Read the various boards to find out what days and times
 classes are offered and mark your calendar to attend one.
 
-![Maeveen](images/moiraine_first_maeveen.png)
+![Maeveen](images/moiraine_first_maeveen.webp)
 
 You should make sure to stop at Glioca Temple to speak with Meaveen the temple
 assistant. She can teach you all you need to know about the temurian
@@ -218,11 +218,11 @@ Eastern Woodlands and retrieve the necessary items for Dar, Cyan and Devlin,
 or attempt to find yourself an Aisling Guide and head to the Temple of the
 Veil to choose your path.
 
-![Mileth Crypt](images/moiraine_first_crypt.png)
+![Mileth Crypt](images/moiraine_first_crypt.webp)
 
 OR
 
-![Temple of the Veil](images/moiraine_first_veiltemple.png)
+![Temple of the Veil](images/moiraine_first_veiltemple.webp)
 
 No matter your choice, you are well prepared to face all that Temuair has to
 offer. I wish you the best of luck, Aisling, on your quest. May the Gods bless
@@ -230,7 +230,7 @@ you!
 
 _Sincerely,_
 
-![Moiraine Al'Loran](images/moiraine_first_moiraine.png)
+![Moiraine Al'Loran](images/moiraine_first_moiraine.webp)
 
 _Moiraine Al'Loran_  
 _Priestess of Luathas_  
@@ -302,6 +302,7 @@ detriment of achieving certain basic skills.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #121).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Moiraine_First/index.html .
 ```

@@ -928,6 +928,7 @@ _©2000 First Edition. All Rights Reserved._
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #58).
 This entry has been heavily edited to conform to Library formatting.
 The original survives only as page images. This text was transcribed from them
 by two independent readings, with every disagreement checked against the page.

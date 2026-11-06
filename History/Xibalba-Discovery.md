@@ -34,6 +34,7 @@ With the Eschabar's victory, the kingdom grew and became known as Loures, a shor
 ```
 *Librarian Notes*
 
+Recognized: Folk, Historians Recognized (Events of Temuair post #138).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Xibalba_Discovery.htm .
 ```

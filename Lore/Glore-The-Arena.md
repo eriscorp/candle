@@ -59,6 +59,7 @@ Ah we are at the end of this document and I wish you all good luck in your upcom
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #150).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Glore_Arena.html .
 ```

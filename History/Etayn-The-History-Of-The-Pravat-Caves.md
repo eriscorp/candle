@@ -2,29 +2,29 @@
 
 _by Etayn in **Dark Ages**_
 
-![The History of the Pravat Caves](images/etayn_pravat_1.png)
+![The History of the Pravat Caves](images/etayn_pravat_1.webp)
 
 ## Part I – Pravat Caves
 
 Although I was barely a child when the "Great War" between the goblins and the grimlok of the Pravat Caves commenced, it has truly been a fascination to me since I first heard of the carnage. Being a Ceannlaidir worshipper all of my life, and eventually (several deochs later) an acolyte, the tales told surrounding this tragedy of Deochs 6 - 16 have always hit very close to home. I recall my late High Priestess, Allita, who used to speak of such tales during her regular masses. After she disappeared from Temuair, I set out to find out as much as I could about the events that transpired during the time before my birth until and throughout my second deoch, and the involvement of the Ceannlaidir faith with the situation surrounding the battles
 
-![Pravat Caves Sign](images/etayn_pravat_2.png)
+![Pravat Caves Sign](images/etayn_pravat_2.webp)
 
 According to most lore-keepers, the "Great War" began in or about the 16th deoch. Although mundanes seemed to have extensive knowledge of the inner conflict, Aisling-kind was only told very basic but relevant information. According to my research, Phalin, the grimlok queen and Bahadir, the goblin Chief, and their tribes began to fight over an artifact known to Mundanes as "Conix Stones" but considered by both goblins and grimlok alike to be a "Holy Artifact". Interestingly enough, if one has not researched this item or has not been taught what to look for, you would only find "dark rocks". However, both of these tribal leaders will recognize the stone on sight. In my studies, I have found that even when taught about this mysterious rock that an Aisling will likely forget all they were taught within a moon's time, such is the arcane nature of it.
 
 |Bahadir - The Goblin Chief|Phalin - The Grimlock Queen|
 |-|-|
-|![Bahadir - The Goblin Chief](images/etayn_pravat_3.png)|![Phalin - The Grimlock Queen](images/etayn_pravat_4.png)|
+|![Bahadir - The Goblin Chief](images/etayn_pravat_3.webp)|![Phalin - The Grimlock Queen](images/etayn_pravat_4.webp)|
 
 When speaking to Evan, the mundane who told of the peril outside the Pravat Caves, he insisted I form an allegiance with one or the other factions. He warned me strongly that if I did not choose a side immediately, that both sides would be out for my blood.
 
-![Evan Speaks](images/etayn_pravat_5.png)
+![Evan Speaks](images/etayn_pravat_5.webp)
 
 As I was told the Ceannlaidir faith allied with the side of the goblins during the "Great War", I told Evan that I would seek out Bahadir and gather further information from him. He directed me Westward where I found I could move around the side of the rock formation. There, within a small clearing of grass stood the mighty Bahadir in addition to his constant companion, a goblin soldier. While the beast didn't offer his (It's?) name, I found it curious that the leader of the goblins would choose a mere soldier over the obviously superior warrior.
 
 |Goblin Soldier|Goblin Warrior|
 |-|-|
-|![Goblin Soldier](images/etayn_pravat_6.png)|![Goblin Warrior](images/etayn_pravat_7.png)
+|![Goblin Soldier](images/etayn_pravat_6.webp)|![Goblin Warrior](images/etayn_pravat_7.webp)
 
 Further investigation into this answered my question. It seems that this particular goblin soldier has insight even into Aisling skills and magics and therefore must be the instructor of the rest of the brood who use these abilities like they were second nature. This one was obviously one of the more intelligent of this species, although goblins, as a whole, are neither un-evolved nor animalistic often speaking in a garbled Temuairan standard tongue.
 
@@ -36,7 +36,7 @@ After I heard Bahadir's version of the tale, I decided that I should ask Phalin 
 
 |Grimlok Prole|Grimlok Soldier|Grimlok Warrior|
 |-|-|-|
-|![Grimlok Prole](images/etayn_pravat_8.png)|![Grimlok Soldier](images/etayn_pravat_9.png)|![Grimlok Warrior](images/etayn_pravat_10.png)|
+|![Grimlok Prole](images/etayn_pravat_8.webp)|![Grimlok Soldier](images/etayn_pravat_9.webp)|![Grimlok Warrior](images/etayn_pravat_10.webp)|
 
 Phalin proudly described a thorough victory of the grimloks over their counterparts the goblins and assured me that after many Aislings had joined them, the goblins were all but excavated from the caves. Perhaps it was my faithful belief in Ceannlaidir, but I could not help but grimace when she spoke of the failure of Ceannlaidir's own. It did me much good to remind the overly tall Queen that the goblins had returned and that perhaps if a conflict ever arose again she may not be so lucky.
 
@@ -44,7 +44,7 @@ I suppose that Phalin seemed the friendlier of the two leaders, either that or s
 
 According to some historical lore I have found on this subject, it seems that many Aislings are under the false assumption that these two tribal races gather their blessed equipment from Aislings they have slain. This is hardly the case as Phalin pointed out to me. She said that both the grimloks and the goblins offer rewards to Aislings for donating items imbued with the strength of the Earth-Sea Gods, as well as other precious stones. (Incidentally, one may find beryl, rubies and corals alike within Pravat Cave in various conditions, be they unfinished, fragmented, flawed, or finished. An explorer may need another Aisling to identify such treasures that, those understanding gem smithing, can improve upon. As to the untrained eye, they shall only appear as the raw stones.)
 
-![Uncut Gems](images/etayn_pravat_11.png)
+![Uncut Gems](images/etayn_pravat_11.webp)
 
 The reason for this is that these two races have no quarrel with Aisling-kind and if they had had the choice, they would have wished that Aislings, Mundanes, and the Earth-Sea Gods had stayed out of their business from the beginning. Phalin explained that this civil war was internal and that no other species had any business involving themselves with a sacred object we could never hope to understand.
 
@@ -54,19 +54,19 @@ The librarian greeted me warmly but when I spoke of the tribes in Pravat he aver
 
 |The Librarian, Blaise|Blaise's Speech|
 |-|-|
-|![The Librarian, Blaise](images/etayn_pravat_12a.png)|![Blaise's Speech](images/etayn_pravat_12.png)|
+|![The Librarian, Blaise](images/etayn_pravat_12a.webp)|![Blaise's Speech](images/etayn_pravat_12.webp)|
 
 He explained that he couldn't tell me the information that I sought but if I could find an Aisling instructor that he might be able to point them in the correct direction. Armed with that knowledge, I sought out one of these elusive recognized Aislings and she was willing to share with me what she could.
 
 |Blaise's Warning|Blaise's Direction|
 |-|-|
-|![The Librarian, Blaise](images/etayn_pravat_13.png)|![Blaise's Speech](images/etayn_pravat_14.png)|
+|![The Librarian, Blaise](images/etayn_pravat_13.webp)|![Blaise's Speech](images/etayn_pravat_14.webp)|
 
 The helpful instructor read through the tome and shared the information contained within.
 
 |Conix Lore|Conix Lore, continued|Conix Sharing|
 |-|-|-|
-|![Conix Lore](images/etayn_pravat_15.png)|![Conix Lore, continued](images/etayn_pravat_16.png)|![Conix Sharing](images/etayn_pravat_17.png)|
+|![Conix Lore](images/etayn_pravat_15.webp)|![Conix Lore, continued](images/etayn_pravat_16.webp)|![Conix Sharing](images/etayn_pravat_17.webp)|
 
 Did I wish to share this knowledge? I suppose that answer lies here as I tell ye what dark thoughts have enlightened me. The author of this secretive work refers to the Conix stones as disseminated chunks of an Aosdic device. What sort of device could this have been? The writer also eludes a connection between these "sacred artifacts" and the talos and talgonite we use nearly each sun to equip ourselves and advance to the prime of our crafts. As I continued to study, the evidence got more and more curious.
 
@@ -78,13 +78,13 @@ What dark magic was afoot unbeknownst to the faiths that assisted these creature
 
 ## Part II – The Kasmanium Mines
 
-![Kasmanium Mines](images/etayn_pravat_18.png)
+![Kasmanium Mines](images/etayn_pravat_18.webp)
 
 A very short distance southeast of the Pravat Caves, are the Kasmanium mines. While at first glance, it seems that the two have nothing to do with each other we must concede that dracos, goblins and grimloks exist in both places but in these mines, there is also the presence of orcs which connects us to the Undine Fields, but more on that shortly.
 
 The main coincidence here, other than what the scholar mentioned regarding the "dark metals", is that these mines contain a host of dracos. This would be overlooked save that the draco hatchlings in Pravat have to originate somewhere. The fact that this massive beast is referred to as a "hatchling" indicates that it was "hatched" as if from an egg reminiscent of birds. If this is so, how did that egg manage to wind up in the Pravat Caves? The only passage that can be found that would allow creatures to come and go from the Pravat Caves is the Chaos Pit which is tied to the Pravat cave by means of a nearly unknown passage. While this passage may be large enough for an Aisling to travel through, it is obvious that not even a young draco can move through it.
 
-![A Draco](images/etayn_pravat_19.png)
+![A Draco](images/etayn_pravat_19.webp)
 
 After following all possibilities, the conclusion is apparent and can only be that the goblins are moving these eggs. It is known that this hatchling invariably is hatched in the goblin territories and that the eggs are placed in a specified area that the eventually birthed draco cannot get out of. The question remains what would the goblins want with a creature even they are afraid of, as they must be, considering that in both the Kasmanium Mines and the Pravat Caves the two creatures avoid one another, the dracos always choosing the further depths. If we consider where these hatchlings are housed, one may reason that it is in hopes that the draco will either frighten away or consume any intruder who would attempt to collect Conix "stones" from the goblin territories.
 
@@ -96,7 +96,7 @@ If the goblins new of this... thing... they must have acquired the knowledge fro
 
 ## Part III – Undine Fields and Astrid
 
-![An orc and a goblin](images/etayn_pravat_20.png)
+![An orc and a goblin](images/etayn_pravat_20.webp)
 
 Halfway across Temuair, we find Astrid and Undine Fields. There are no grimloks in this area, however we can find both orcs and goblins in the fields outside of Undine. In no other location save the Kasmanium Mines do we see this particular pairing. This may also be where the rumor of King Bruce's involvement in the whole Pravat conflict may have originated.
 
@@ -118,7 +118,7 @@ Throughout this essay I have touched on the Earth-Sea Gods and their involvement
 
 For comprehension's sake, we must walk backward through the maze that began the Aisling involvement with this war. There was a message sent to Aislings through the mundanes known as "The Entreaty". It was penned by Phalin and worded thusly:
 
-![The Entreaty](images/etayn_pravat_21.png)
+![The Entreaty](images/etayn_pravat_21.webp)
 
 Clearly, as I have stated before, Phalin didn't want the assistance of Aislings in her war. Phalin questions how the goblins came to know of the stone, and while I have my own theories, I questions how the grimlok came to know of it. Also, why did Phalin feel she could call out to Aislings?
 
@@ -130,15 +130,15 @@ Evan tells worshippers of each faith a different objective:
 
 |Cail|Ceannlaidir, part 1|Ceannlaidir, Part 2|
 |-|-|-|
-|![Courtesy of Nuirrfyd](images/etayn_pravat_22.png)|![Ceannlaidir](images/etayn_pravat_23.png)|![Ceannlaidir](images/etayn_pravat_24.png)|
+|![Courtesy of Nuirrfyd](images/etayn_pravat_22.webp)|![Ceannlaidir](images/etayn_pravat_23.webp)|![Ceannlaidir](images/etayn_pravat_24.webp)|
 
 |Deoch|Fiosachd|Glioca|Luathas|
 |-|-|-|-|
-|_1_|![Fiosachd](images/etayn_pravat_25.png)|_1_|![Luathas](images/etayn_pravat_27.png)|
+|_1_|![Fiosachd](images/etayn_pravat_25.webp)|_1_|![Luathas](images/etayn_pravat_27.webp)|
 
 |Gramail|Sgrios, part 1|Sgrios, part2|
 |-|-|-|
-|![Gramail](images/etayn_pravat_26.png)|![Sgrios](images/etayn_pravat_28.png)|![Sgrios](images/etayn_pravat_29.png)|
+|![Gramail](images/etayn_pravat_26.webp)|![Sgrios](images/etayn_pravat_28.webp)|![Sgrios](images/etayn_pravat_29.webp)|
 
 >_1_ Due to Evan's temporary and mysterious disappearance, the objectives for Deoch and Glioca were not obtained. Memories provided by Nuirrfyd (Cail), Loeghan (Fiosachd), Tormod (Gramail), Blanche (Luathas), Addams (Sgrios)
 
@@ -146,19 +146,19 @@ While I will not attempt to go into the philosophical or religion based meanings
 
 If the grimlok queen spoke the truth then why did our unknown author not mention a word about the entire culture? He or she seemed to know a great deal about the origin of the Conix if not its precise location. Perhaps all of the locations were viable because, as they put it, it "spouted". Considering the chaos pits, were they not at one time blocked by a large obelisk? Could that too have been a shard of this great artifact? Again, we are getting ahead of ourselves. After the patrons of Luathas, Deoch, and others though not to the same degree, did their very best to aid the grimlok, they managed to use our artifact to remove the goblin threat.
 
-![The Entreaty, again](images/etayn_pravat_30.png)
+![The Entreaty, again](images/etayn_pravat_30.webp)
 
 Although I am too young to remember the passage being cleared, my mother reminds me that at one time it was a crowded and difficult journey to manage and that the path was indeed a boon to Aislings. As we can see, again the Earth Sea Gods are again connected with this holy artifact. Interestingly enough, there were two other commentaries made surrounding this supposed victory. Naturally the goblin Captain, Bahadir, had a retort. It is the other remark that is curious.
 
 |Even without you|Diplomacy Fragmented|
 |-|-|
-|![Even without you](images/etayn_pravat_31.png)|![Diplomacy Fragmented](images/etayn_pravat_32.png)
+|![Even without you](images/etayn_pravat_31.webp)|![Diplomacy Fragmented](images/etayn_pravat_32.webp)
 
 It's true that the goblins did, in fact, leave Pravat for a time. Their return, however, was imminent. The council of Loures decided to speak out publicly against those who aided the grimlok implicating themselves further into this battle. They mention in their address assistant librarian Marlin. Could he be our unnamed author? As we all know, Marlin is still separated from his beloved Bella in the Loures dungeon. Such punishment for mere rumors, or was it a rumor at all? Could it have been that Marlin was very knowledgeable of Aosdic culture and intended for Aislings to gather the stone to renew that culture or did he have other plans for it entirely? The objective given to Luathas worshippers also touches on this, as Luathas was an Aosda. It is my guess that Luathas knew very well what the artifact was all about, but why would he wish his worshippers to aid another culture in keeping possession of it? Why would he not suggest that they keep the artifacts for themselves or offer it to him in sacrifice? It seems that any answers would lie with Marlin.
 
 |Marlin|Marlin's denial|
 |-|-|
-|![Marlin](images/etayn_pravat_33.png)|![Marlin](images/etayn_pravat_34.png)|
+|![Marlin](images/etayn_pravat_33.webp)|![Marlin](images/etayn_pravat_34.webp)|
 
 But he's not talking...
 
@@ -180,6 +180,7 @@ _Scholar_
 ```
 *Librarian Notes*
 
+Recognized: Village, History Contest, 24 January 2003.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.angelfire.com/realm2/ceannlaidir/pravatcaves.htm .
 ```

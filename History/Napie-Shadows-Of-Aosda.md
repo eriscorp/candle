@@ -156,6 +156,7 @@ _Deoch 13_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Historians Recognized (Events of Temuair post #96).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Napie_Aosda.html .
 ```

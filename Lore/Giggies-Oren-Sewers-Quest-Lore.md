@@ -102,6 +102,7 @@ beach. Go into the right entrance.
 ```
 *Librarian Notes*
 
+Recognized: Village, Lore Contest, 2 November 2004.
 Only the first part survives; the second was never archived.
 
 This entry has been edited to conform to Library formatting.

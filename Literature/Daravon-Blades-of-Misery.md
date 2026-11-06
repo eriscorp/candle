@@ -439,6 +439,7 @@ with a big, victorious grin on his face.
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/Daravon_Blades.html .
 ```

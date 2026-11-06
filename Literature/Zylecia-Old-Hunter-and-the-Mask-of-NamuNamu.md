@@ -206,6 +206,7 @@ _Zylecia Mimori_
 ```
 *Librarian Notes*
 
+Recognized: Clave, Literature Contest, 23 September 2004.
 This entry has been edited to conform to Library formatting.
 The original copy of this document has been lost. It has been reconstructed from fragments.
 ```

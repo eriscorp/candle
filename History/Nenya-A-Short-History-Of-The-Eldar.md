@@ -79,6 +79,7 @@ A small number of the Keledrid did flee far south of Temuair, and have made thei
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Nenya_Eldar.html .
 ```

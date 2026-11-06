@@ -25,11 +25,11 @@ To find a guide, the best way is to walk around Mileth looking for fellow Aislin
 |Image|Description|Image|Description|
 |-----|-----------|-----|-----------|
 |__Female__||__Male__||
-|![](images/aeidolon_peasant_1.png)|Worn by First Circle Female Warriors|![](images/aeidolon_peasant_6.png)|Worn by First Circle Male Warriors|
-|![](images/aeidolon_peasant_2.png)|Worn by First Circle Female Rogues|![](images/aeidolon_peasant_7.png)|Worn by First Circle Male Rogues|
-|![](images/aeidolon_peasant_3.png)|Worn by First Circle Female Priests|![](images/aeidolon_peasant_8.png)|Worn by First Circle Male Priests|
-|![](images/aeidolon_peasant_4.png)|Worn by First Circle Female Monks|![](images/aeidolon_peasant_9.png)|Worn by First Circle Male Monks|
-|![](images/aeidolon_peasant_5.png)|Worn by First Circle Female Wizards|![](images/aeidolon_peasant_10.png)|Worn by First Circle Male Wizards|
+|![](images/aeidolon_peasant_1.webp)|Worn by First Circle Female Warriors|![](images/aeidolon_peasant_6.webp)|Worn by First Circle Male Warriors|
+|![](images/aeidolon_peasant_2.webp)|Worn by First Circle Female Rogues|![](images/aeidolon_peasant_7.webp)|Worn by First Circle Male Rogues|
+|![](images/aeidolon_peasant_3.webp)|Worn by First Circle Female Priests|![](images/aeidolon_peasant_8.webp)|Worn by First Circle Male Priests|
+|![](images/aeidolon_peasant_4.webp)|Worn by First Circle Female Monks|![](images/aeidolon_peasant_9.webp)|Worn by First Circle Male Monks|
+|![](images/aeidolon_peasant_5.webp)|Worn by First Circle Female Wizards|![](images/aeidolon_peasant_10.webp)|Worn by First Circle Male Wizards|
 
 You should not ask those wearing these garments to guide you, as they are not yet experienced enough to admit you to their craft.
 

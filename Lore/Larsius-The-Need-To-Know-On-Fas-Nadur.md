@@ -41,6 +41,7 @@ _Demagogue of Rucesion_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #48).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Larsius_Nadur.html .
 ```

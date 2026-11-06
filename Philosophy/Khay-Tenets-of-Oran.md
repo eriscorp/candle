@@ -175,6 +175,7 @@ through your actions!
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #186).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Khay_Oran.htm .
 ```

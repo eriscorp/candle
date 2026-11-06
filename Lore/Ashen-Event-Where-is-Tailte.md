@@ -11,7 +11,7 @@ Ashen's test subject and donations of some prizes. The invitation to the event
 was sent on the 26th of September. It was posted on four grey boards in
 Temuair.))`
 
-![invitation](images/ashen_tailte_invitation.png)
+![invitation](images/ashen_tailte_invitation.webp)
 
 ## The Story
 
@@ -21,7 +21,7 @@ in the shire of Undine beneath the cruel yoke of Loures. It seemed that her
 only child, a girl, named Taillte had come up missing. She spoke in a hushed
 whisper as she recounted the awful details.
 
-![Damara](images/ashen_tailte_damara.png)
+![Damara](images/ashen_tailte_damara.webp)
 
 It was early in the morning when she went to fetch her daughter from the
 shadow of sleep to attend to her chores. Taillte was usually an early riser
@@ -139,25 +139,25 @@ with a negative tone are positive in that you know what to look for the next
 time to make it more enjoyable. Browneyes' and Lenoa's email was edited to
 remove their email address from the message for privacy reasons.
 
-![Teekan](images/ashen_tailte_teekan.png)
+![Teekan](images/ashen_tailte_teekan.webp)
 
-![Mailwyn](images/ashen_tailte_mailwyn.png)
+![Mailwyn](images/ashen_tailte_mailwyn.webp)
 
-![Joshrambo](images/ashen_tailte_joshrambo.png)
+![Joshrambo](images/ashen_tailte_joshrambo.webp)
 
-![Perish](images/ashen_tailte_perish.png)
+![Perish](images/ashen_tailte_perish.webp)
 
-![Spader](images/ashen_tailte_spader.png)
+![Spader](images/ashen_tailte_spader.webp)
 
-![Crissy](images/ashen_tailte_crissy.png)
+![Crissy](images/ashen_tailte_crissy.webp)
 
-![Xae](images/ashen_tailte_xae.png)
+![Xae](images/ashen_tailte_xae.webp)
 
-![JeymalDesse](images/ashen_tailte_jeymaldesse.png)
+![JeymalDesse](images/ashen_tailte_jeymaldesse.webp)
 
-![Wyrmo](images/ashen_tailte_wyrmo.png)
+![Wyrmo](images/ashen_tailte_wyrmo.webp)
 
-![Rebe](images/ashen_tailte_rebe.png)
+![Rebe](images/ashen_tailte_rebe.webp)
 
 Browneyes
 
@@ -171,25 +171,25 @@ to. I know half of the ones I hit F12 for didn't seem to register. Sorry
 
 Feena:
 
-![Team Selection](images/ashen_tailte_feena1.png)
+![Team Selection](images/ashen_tailte_feena1.webp)
 
-![Afterwards 1](images/ashen_tailte_feena2.png)
+![Afterwards 1](images/ashen_tailte_feena2.webp)
 
-![Afterwards 2](images/ashen_tailte_feena3.png)
+![Afterwards 2](images/ashen_tailte_feena3.webp)
 
 Browneyes:
 
-![Afterwards 3](images/ashen_tailte_browneyes.png)
+![Afterwards 3](images/ashen_tailte_browneyes.webp)
 
 JubeiX:
 
-![Afterwards 4](images/ashen_tailte_jubeix1.png)
+![Afterwards 4](images/ashen_tailte_jubeix1.webp)
 
-![Afterwards 5](images/ashen_tailte_jubeix2.png)
+![Afterwards 5](images/ashen_tailte_jubeix2.webp)
 
-![Afterwards 6](images/ashen_tailte_jubeix3.png)
+![Afterwards 6](images/ashen_tailte_jubeix3.webp)
 
-![Afterwards 7](images/ashen_tailte_jubeix4.png)
+![Afterwards 7](images/ashen_tailte_jubeix4.webp)
 
 ***
 

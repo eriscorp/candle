@@ -2,7 +2,7 @@
 
 _by Randolf in **Dark Ages**_
 
-![Meditation, by Recca](images/randolf_monastica_recca_meditation.png)
+![Meditation, by Recca](images/randolf_monastica_recca_meditation.webp)
 
 I. **Introduction**
 

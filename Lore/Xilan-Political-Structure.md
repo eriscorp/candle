@@ -160,6 +160,7 @@ _This scroll has been made using 100% recycled parchment and non-toxic dyes and 
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #16).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Xilan_Politics.html .
 ```

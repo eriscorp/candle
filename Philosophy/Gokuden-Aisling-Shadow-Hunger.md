@@ -126,6 +126,7 @@ again...
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #5).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Gokuden_Hunger.html .
 ```

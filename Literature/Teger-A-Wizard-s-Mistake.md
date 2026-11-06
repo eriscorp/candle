@@ -112,6 +112,7 @@ monster in all the land, the Draco.
 ```
 *Librarian Notes*
 
+Recognized: Folk, Bards Recognized (Events of Temuair post #136).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Teger_Mistake.htm .
 ```

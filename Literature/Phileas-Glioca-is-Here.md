@@ -22,6 +22,7 @@ In your life and in your dreams, Glioca is here.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #33).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Phileas_Glioca.html .
 ```

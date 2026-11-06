@@ -133,7 +133,7 @@ wielder of the Helm must know he is able to do so, otherwise the gems will work
 independently of one another. The gem's arangment is commonly thought of as
 this:
 
-![Sgreataidh Gems](./images/Slothien-Helm-Pic.png)
+![Sgreataidh Gems](./images/Slothien-Helm-Pic.webp)
 
 The main piece of the Sgreataidh Helm is the headband, a thin metallic band
 that wraps around the forehead area. It holds the Power, Mind, and Reality gems
@@ -232,6 +232,7 @@ other accounts.
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #158).
 This entry consists of multiple references to grossly out of character elements
 and should not be interpreted as part of the Library canon, or indeed, as
 existing within Temuair.
