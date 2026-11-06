@@ -160,6 +160,7 @@ and the Bank of Mileth.
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 2000 (Mileth College master list).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Soidier_Mileth.html .
 ```

@@ -45,6 +45,7 @@ _Deoch 11_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Historians Recognized (Events of Temuair post #51).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Anhedria_Order.html .
 ```

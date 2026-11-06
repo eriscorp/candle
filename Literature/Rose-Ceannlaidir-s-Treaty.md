@@ -39,6 +39,7 @@ My first mission to Ceannlaidir was a success, but for one further incident. Lat
 ```
 *Librarian Notes*
 
+Recognized: Clave, Literature Contest, 29 March 2002.
 This entry has been edited to conform to Library formatting.
 The original can be found at https://www.darkages.com/2000/community/lit/Rose_Treaty.htm .
 ```

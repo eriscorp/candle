@@ -68,6 +68,7 @@ as though I expected an answer."
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, Literature Contest, 22 July 2004.
 The original copy of this work is not intact. What we were able to find, is
 replicated here. Do you have it? Please contact us.
 ```

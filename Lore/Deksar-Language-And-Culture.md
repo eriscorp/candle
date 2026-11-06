@@ -261,6 +261,7 @@ May g'od luck be 'hith ye! (May good luck with you!)
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #3).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/rp/Deksar_Culture/comp.htm .
 ```

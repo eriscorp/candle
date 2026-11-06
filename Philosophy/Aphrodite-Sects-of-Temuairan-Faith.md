@@ -93,6 +93,7 @@ _Aphrodite D'Ourvean_
 ```
 *Librarian Notes*
 
+Recognized: Clave, Philosophy Contest, 28 April 2005.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.angelfire.com/wizard2/angelique/aphrodite.html .
 ```

@@ -8,7 +8,7 @@ those who do rarely realize the true depth of the Deities. If you truly wish
 such knowledge, I invite that this volume be read. Study the Octogram below if
 you so wish the truth of the Gods of Temuair and their deepest relationships._
 
-![Octogram of the Gods of Temuair](images/innoruk_gods_gods.png)
+![Octogram of the Gods of Temuair](images/innoruk_gods_gods.webp)
 
 ## The Earth-Sea Gods
 
@@ -19,7 +19,7 @@ will endeavor to explain them._
 Perhaps the most important tool of any Worshipper is the Octogram. It compares
 each of the Gods to all the other Gods. I have displayed it below:
 
-![Octogram of the Gods](images/innoruk_gods_gods1.png)
+![Octogram of the Gods](images/innoruk_gods_gods1.webp)
 
 The Octogram is read quite simply. Each God has, next to Him, His Enemies (i.e.
 Glioca's Enemies are Gramail and Ceannlaidir). Each God also has two lines
@@ -32,18 +32,18 @@ Each God is very individual. Below, I show the eight Gods of Temuair. Choose
 one and you will go to that section of this volume. It should be noted that
 each God's section will be written from the point of view of that Fellowship.
 
-![Deoch, Light and Inspiration](images/innoruk_gods_deoch.png)
-![Luathas, Knowledge and Gnosis](images/innoruk_gods_luathas.png)
-![Ceannlaidir, War and Honor](images/innoruk_gods_ceannlaidir.png)
-![Glioca, Love and Compassion](images/innoruk_gods_glioca.png)
-![Gramail, Law and Justice](images/innoruk_gods_gramail.png)
-![Sgrios, Death and Decay](images/innoruk_gods_sgrios.png)
-![Cail, Nature and Harmony](images/innoruk_gods_cail.png)
-![Fiosachd, Wealth and Luck](images/innoruk_gods_fiosachd.png)
+![Deoch, Light and Inspiration](images/innoruk_gods_deoch.webp)
+![Luathas, Knowledge and Gnosis](images/innoruk_gods_luathas.webp)
+![Ceannlaidir, War and Honor](images/innoruk_gods_ceannlaidir.webp)
+![Glioca, Love and Compassion](images/innoruk_gods_glioca.webp)
+![Gramail, Law and Justice](images/innoruk_gods_gramail.webp)
+![Sgrios, Death and Decay](images/innoruk_gods_sgrios.webp)
+![Cail, Nature and Harmony](images/innoruk_gods_cail.webp)
+![Fiosachd, Wealth and Luck](images/innoruk_gods_fiosachd.webp)
 
 ## Deoch, Lord of Light and Inspiration
 
-![Deoch, Lord of Light and Inspiration](images/innoruk_gods_deoch.png)
+![Deoch, Lord of Light and Inspiration](images/innoruk_gods_deoch.webp)
 
 ### The Story
 
@@ -140,7 +140,7 @@ the God closest to the Heart of each Aisling.
 
 ## Luathas, Lord of Knowledge and Gnosis
 
-![Luathas, Lord of Knowledge and Gnosis](images/innoruk_gods_luathas.png)
+![Luathas, Lord of Knowledge and Gnosis](images/innoruk_gods_luathas.webp)
 
 ### The Story
 
@@ -212,7 +212,7 @@ be.
 
 ## Ceannlaidir, Lord of War and Honor
 
-![Ceannlaidir, Lord of War and Honor](images/innoruk_gods_ceannlaidir.png)
+![Ceannlaidir, Lord of War and Honor](images/innoruk_gods_ceannlaidir.webp)
 
 ### The Story
 
@@ -286,7 +286,7 @@ He is known by a different name to them.
 
 ## Glioca, Lady of Love and Compassion
 
-![Glioca, Lady of Love and Compassion](images/innoruk_gods_glioca.png)
+![Glioca, Lady of Love and Compassion](images/innoruk_gods_glioca.webp)
 
 ### The Story
 
@@ -361,7 +361,7 @@ marry.
 
 ## Gramail, Lord of Law and Justice
 
-![Gramail, Lord of Law and Justice](images/innoruk_gods_gramail.png)
+![Gramail, Lord of Law and Justice](images/innoruk_gods_gramail.webp)
 
 ### The Story
 
@@ -426,7 +426,7 @@ even exists in every Aisling, with their sense of right and wrong.
 
 ## Sgrios, Lord of Death and Decay
 
-![Sgrios, Lord of Death and Decay](images/innoruk_gods_sgrios.png)
+![Sgrios, Lord of Death and Decay](images/innoruk_gods_sgrios.webp)
 
 ### The Story
 
@@ -512,7 +512,7 @@ should the Horrible Sgath be called. Sgrios is all these things and more.
 
 ## Cail, Lord of Nature and Harmony
 
-![Cail, Lord of Nature and Harmony](images/innoruk_gods_cail.png)
+![Cail, Lord of Nature and Harmony](images/innoruk_gods_cail.webp)
 
 ### The Story
 
@@ -586,7 +586,7 @@ Cail.
 
 ## Fiosachd, Lord of Wealth and Luck
 
-![Fiosachd, Lord of Wealth and Luck](images/innoruk_gods_fiosachd.png)
+![Fiosachd, Lord of Wealth and Luck](images/innoruk_gods_fiosachd.webp)
 
 ### The Story
 
@@ -662,8 +662,8 @@ you with each of these Other Gods._
 There are three main Other Gods. Each has Their own place in the Temuairian
 Pantheon.
 
-![Danaan, Goddess of Light](images/innoruk_gods_lightdisciple1.png)
-![Chadul, God of Darkness](images/innoruk_gods_darkdisciple1.png)
+![Danaan, Goddess of Light](images/innoruk_gods_lightdisciple1.webp)
+![Chadul, God of Darkness](images/innoruk_gods_darkdisciple1.webp)
 
 ## Grinneal, Lord of Everything and Nothing
 
@@ -1026,6 +1026,7 @@ _Innoruk Fash Nassan Sgrio_
 ```
 *Librarian Notes*
 
+Recognized: Clave, Lore Contest, 18 June 2004.
 This entry has been heavily edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20040323150010/http://soori.netfirms.com/darkages/godguide/ .

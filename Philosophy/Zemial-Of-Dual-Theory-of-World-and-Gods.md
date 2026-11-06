@@ -155,7 +155,7 @@ wishes, influence, and existence.
 the spaces, lines between spaces are the links. Gods in between have an
 influence on reality, and a link with ideal world.
 
-![Dualism](./images/Zemial-Of-Dual-Theory-Dualism.png)
+![Dualism](./images/Zemial-Of-Dual-Theory-Dualism.webp)
 
 ## Conclusion
 
@@ -202,6 +202,7 @@ _Zemial Sha-Kolaan_
 ```
 *Librarian Notes*
 
+Recognized: Village, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Zemial_Dualism.html .
 ```

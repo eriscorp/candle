@@ -84,6 +84,7 @@ _Niall Radh, Rogue of the Blue Anvil._
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Historians Recognized (Events of Temuair post #51).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Dartanian_Star .
 ```

@@ -2,7 +2,7 @@
 
 _by Areyn in **Dark Ages**_
 
-![PREY](images/areyn_prey_prey.png)
+![PREY](images/areyn_prey_prey.webp)
 
 _Know the Enemy_
 
@@ -25,7 +25,7 @@ Enjoy the hunt!
 The prey is described by the way it moves and behaves. At the beginning of each
 chapter is a description of the prey, its behavior, and common abilities.
 
-![Martial Awareness Icon](images/areyn_prey_desc.png) ![Sense Icon](images/areyn_prey_user.png)
+![Martial Awareness Icon](images/areyn_prey_desc.webp) ![Sense Icon](images/areyn_prey_user.webp)
 
 Click on the Martial Awareness Icon (or Sense Icon for aislings) to quickly
 jump to the description of the prey.
@@ -38,7 +38,7 @@ advantage of this knowledge with different fighting styles.
 This information is mainly for monks and warriors, but applies to anyone who
 engages in close combat. Melee combat takes place at a range of zero (0) paces.
 
-![Assail Icon](images/areyn_prey_mele.png)
+![Assail Icon](images/areyn_prey_mele.webp)
 
 Click on the Assail Icon to jump quickly to the In Melee section.
 
@@ -50,7 +50,7 @@ who are able to throw surigam. Ranged combat generally occurs at ranges of one
 (1) to six (6) paces, but most ranged attacks can effect a target anywhere
 within the casting aisling's sight, even in melee range.
 
-![Beag Srad Icon](images/areyn_prey_rang.png)
+![Beag Srad Icon](images/areyn_prey_rang.webp)
 
 Click on the Beag Srad Icon to jump quickly to the At Range section.
 
@@ -61,7 +61,7 @@ motions of their prey. This section will explain how to coax your prey over the
 traps you set. There is no particular range for traps, though most rogues
 prefer to keep out of melee range of their prey.
 
-![Needle Trap Icon](images/areyn_prey_trap.png)
+![Needle Trap Icon](images/areyn_prey_trap.webp)
 
 Click on the Needle Trap Icon to jump quickly to the With Traps section.
 
@@ -79,7 +79,7 @@ enhance weapons and armor, and long lasting spells to aid a hunter.
 number of paces between the reference point and the target. For example, in the
 picture below there are two (2) paces between the aisling and the wolf.
 
-![Areyn faces down a wolf at 2 paces](images/areyn_prey_pico1.png)
+![Areyn faces down a wolf at 2 paces](images/areyn_prey_pico1.webp)
 
 **_Melee Range_**: A creature at zero (0) paces and standing next to the hunter
 (not on a diagonal) is in _melee range_.
@@ -129,13 +129,13 @@ the left is 3 paces N/S and 4 paces E/W. The distance between the aisling and
 the mantis is one (1) on the N/S axis and two (2) on the E/W axis. A simplified
 grid diagram (below right) will be used to represent the battlefield.
 
-![1x2 distance](images/areyn_prey_picb1a.png) ![Simple grid](images/areyn_prey_picb1b.png)
+![1x2 distance](images/areyn_prey_picb1a.webp) ![Simple grid](images/areyn_prey_picb1b.webp)
 
 A Common Beast will always move to close the greater of these two distances. In
 the example, the mantis will move east, since the E/W distance of two (2) is
 greater than the N/S distance of one (1).
 
-![The mantis moves](images/areyn_prey_picb2a.gif) ![First move grid](images/areyn_prey_picb2b.png)
+![The mantis moves](images/areyn_prey_picb2a.gif) ![First move grid](images/areyn_prey_picb2b.webp)
 
 If both distances are the same, as they are now in the example (E/W 1 and N/S
 1), the creature could move on either axis. The mantis in the example might
@@ -143,14 +143,14 @@ move east or south. In either case, the mantis will move into the space marked
 with a star on its next move because of the new distances involved. (E/W 1 and
 N/S 0 make it move east, or E/W 0 and N/S 1 make it move south.)
 
-![Which way will he go?](images/areyn_prey_picb3a.gif) ![Mantis will always go to the star](images/areyn_prey_picb3b.png)
+![Which way will he go?](images/areyn_prey_picb3a.gif) ![Mantis will always go to the star](images/areyn_prey_picb3b.webp)
 
 When a wall, tree, another monster, or even an Aisling blocks the Common Beast,
 the beast will try to move clockwise around the obstacle. For example, a beast
 wants to move east to get close to its victim, but a tree blocks the way. It
 instead moves to the north (the creature's left).
 
-![A snake winds clockwise around a tree](images/areyn_prey_picb4.png)
+![A snake winds clockwise around a tree](images/areyn_prey_picb4.webp)
 
 #### In Melee
 
@@ -186,7 +186,7 @@ the proper formation. The blocks need not be trees or objects. Two aislings
 standing in formation to block will confound the monster just as completely as
 a tree.
 
-![Blocked by a tree ((with map overlay))](images/areyn_prey_picb5a.gif) ![Grid diagram of a blocking tree](images/areyn_prey_picb5b.png)
+![Blocked by a tree ((with map overlay))](images/areyn_prey_picb5a.gif) ![Grid diagram of a blocking tree](images/areyn_prey_picb5b.webp)
 
 Be careful using this technique. The beast cannot reach you with physical
 attacks, but its spells are just as effective as ever, and may even come more
@@ -206,7 +206,7 @@ place the trap directly between yourself and the beast, either in a north/south
 line or an east/west line. Then monster will blunder straight through the
 traps, not caring that its life is coming closer to the end with each step.
 
-![Common Beast stumbling over traps](images/areyn_prey_picb6.png)
+![Common Beast stumbling over traps](images/areyn_prey_picb6.webp)
 
 Examine left figure below. If a rogue put a trap in the space marked by the
 star, the monster will hit that trap, no matter which path it takes. If the
@@ -217,7 +217,7 @@ trigger the trap. When setting traps, either stand in a straight line with the
 monster, placing the traps between it and you, or stand on the opposite
 diagonal of the trap, guaranteeing that the creature triggers it.
 
-![Mantis will step on the trap](images/areyn_prey_picb7a.png) ![Monster might miss the trap](images/areyn_prey_picb7b.png)
+![Mantis will step on the trap](images/areyn_prey_picb7a.webp) ![Monster might miss the trap](images/areyn_prey_picb7b.webp)
 
 A variation of the trick described in Common Beasts At Range uses a little
 known fact about rogue traps called _**layering**_ traps. If a rogue sets two
@@ -261,7 +261,7 @@ considers a safe distance, three (3) paces for a shaman.
 
 ![Shaman](images/areyn_prey_pics1a.gif)
 
-![Grid diagram of Shaman](images/areyn_prey_pics1b.png)
+![Grid diagram of Shaman](images/areyn_prey_pics1b.webp)
 
 Sometimes a shaman will seem to freeze in its tracks and do nothing. A shaman
 that isn't moving is casting a spell. After the spell is finished, it will
@@ -282,7 +282,7 @@ you and one pace to the side. This tactic will take time, since you are only
 able to hit the Shaman half the time, but it is far better than chasing the
 wandering beast all over Astrid.
 
-![Kobold shaman with nowhere to run](images/areyn_prey_pics2a.gif) ![Grid Diagram of a fenced shaman](images/areyn_prey_pics2b.png)
+![Kobold shaman with nowhere to run](images/areyn_prey_pics2a.gif) ![Grid Diagram of a fenced shaman](images/areyn_prey_pics2b.webp)
 
 #### At Range
 
@@ -326,7 +326,7 @@ retreating beasts.)
 
 ![Kobold rogue movement](images/areyn_prey_picr1a.gif)
 
-![Grid diagram of kobold rogue movement](images/areyn_prey_picr1b.png)
+![Grid diagram of kobold rogue movement](images/areyn_prey_picr1b.webp)
 
 Anywhere the kobold rogue steps, there might be a snare or trap. Possible traps
 include needle trap, poison snare, and sleep snare. Aisling rogues can detect
@@ -339,7 +339,7 @@ to land diagonal to it's target while trying to close in. The rogue will run
 circles around the aisling. This may seem like harmless play, but beware. The
 rogue is likely to set traps in every diagonal.
 
-![Circling Rogue](images/areyn_prey_picr2a.gif) ![Grid diagram of a circling rogue](images/areyn_prey_picr2b.png)
+![Circling Rogue](images/areyn_prey_picr2a.gif) ![Grid diagram of a circling rogue](images/areyn_prey_picr2b.webp)
 
 #### In Melee
 
@@ -352,7 +352,7 @@ follow directly behind a kobold rogue. That is exactly what it wants, and it
 can leave any kind of nasty snare for you to stumble across. To pursue a rogue,
 step to the side of its trail and pursue it.
 
-![Don't follow in a rogues footsteps!](images/areyn_prey_picr3.png)
+![Don't follow in a rogues footsteps!](images/areyn_prey_picr3.webp)
 
 To close with a rogue that is circling, take a single step in any direction.
 The rogue will be able to line up with you and attack, then it will return to
@@ -401,9 +401,9 @@ it, finding other methods much more efficient on beasts that close and retreat.
 
 The V formation can be broken down into 5 positions as illustrated here:
 
-![The basic V formation](images/areyn_prey_vform_basic.png)
+![The basic V formation](images/areyn_prey_vform_basic.webp)
 
-* ![Block Position](images/areyn_prey_vform_key_block.png) **Block Position**:
+* ![Block Position](images/areyn_prey_vform_key_block.webp) **Block Position**:
   The key to the V formation is the two immobile blocks that the monster cannot
   pass. These blocks can be a natural obstruction, an aisling, or even a
   monster. Monsters tend to move around, so that's not suggested, unless the
@@ -416,7 +416,7 @@ The V formation can be broken down into 5 positions as illustrated here:
   will turn its attention away from the aisling block and start wandering back
   and forth again in the V shape of the barrier.
 
-* ![Protected Position](images/areyn_prey_vform_key_prot.png) **Protected
+* ![Protected Position](images/areyn_prey_vform_key_prot.webp) **Protected
   Position**: The aisling standing in the point of the V formation is the
   Protected Aisling. Her job is to draw the attention of the monster with a
   barrage of spells or taunts. Any aisling with damaging spells or taunts may
@@ -425,7 +425,7 @@ The V formation can be broken down into 5 positions as illustrated here:
   Gramail items as possible. The monster cannot physically attack, but is very
   likely to unleash its most powerful spells.
 
-* ![Nook](images/areyn_prey_vform_key_nook.png) **Nook**: The nook of the V is
+* ![Nook](images/areyn_prey_vform_key_nook.webp) **Nook**: The nook of the V is
   immediately opposite of the Protected Aisling. This is the space that the
   monster will occupy most often. As it paces back and forth, the beast will go
   from the nook to one of the trap positions, and then back to the nook.
@@ -433,7 +433,7 @@ The V formation can be broken down into 5 positions as illustrated here:
   from entering the nook, it may slip around the side of the Blocks and nullify
   the entire formation.
 
-* ![Trap Positions](images/areyn_prey_vform_key_trap.png) **Trap Positions**: A
+* ![Trap Positions](images/areyn_prey_vform_key_trap.webp) **Trap Positions**: A
   rogue can layer trap after trap (as described in Common Beast With Traps) in
   either of the positions marked in yellow on the illustration. When the rogue
   moves away from the space, the monster will blunder into the traps. The rogue
@@ -447,7 +447,7 @@ The V formation can be broken down into 5 positions as illustrated here:
   the Blocks draws its attention, then you may step away without breaking the
   protection of the formation.
 
-* ![Non-Aggressive Positions](images/areyn_prey_vform_key_non.png)
+* ![Non-Aggressive Positions](images/areyn_prey_vform_key_non.webp)
   **Non-Aggressive Positions**: A non-aggressive aisling may stand anywhere
   else on the battlefield. The monster will ignore anyone in these positions
   completely as long as they do not attack the beast. Priests are ideal for
@@ -463,15 +463,15 @@ see what works.
 
 #### Sample Variations
 
-![3 Blocks make an extra Protected position.](images/areyn_prey_vform_var1.png)
+![3 Blocks make an extra Protected position.](images/areyn_prey_vform_var1.webp)
 
 _3 Blocks make an extra Protected position._
 
-![4 Blocks protect everything!](images/areyn_prey_vform_var2.png)
+![4 Blocks protect everything!](images/areyn_prey_vform_var2.webp)
 
 _4 Blocks protect everything!_
 
-![Another Protected position in the basic formation](images/areyn_prey_vform_var3.png)
+![Another Protected position in the basic formation](images/areyn_prey_vform_var3.webp)
 
 _Another Protected position in the basic formation \*_
 
@@ -521,7 +521,7 @@ Warriors can only attack things in front of them, and do the most damage at
 melee range. Warriors have one ranged attack, called windblade, which lets them
 attack anything in a straight line in front of them.
 
-![Beag Suain](images/areyn_prey_suain.png)
+![Beag Suain](images/areyn_prey_suain.webp)
 
 Warriors may also be able to paralyze an aisling in front of them with _beag
 suain_. An aisling paralyzed by this secret can still attack and use all skills
@@ -580,7 +580,7 @@ power monks. Before you fight a monk, try to find out want form they are. A
 monk's form is listed in her legend. That will provide a lot of information
 about how they fight.
 
-![Draco](images/areyn_prey_draco.png)
+![Draco](images/areyn_prey_draco.webp)
 
 **_Draco Form:_**  
 This is the most common form. The stance makes the aisling invincible to
@@ -588,14 +588,14 @@ physical damage for about 10 seconds. The Draco tail kick can kill even some
 99th insight aislings in a single blow and strikes in all directions putting
 anyone next to the monk in danger. Even the snort can sting an aisling.
 
-![White Bat](images/areyn_prey_whitebat.png)
+![White Bat](images/areyn_prey_whitebat.webp)
 
 **_White Bat Form:_**  
 The second most common form. White bat stance hides the monk from view. Read
 the Aisling Rogue chapter for helpful hints when dealing with hidden aislings.
 The other white bat skills have no special effect in the arena.
 
-![Kelberoth](images/areyn_prey_kelbroth.png)
+![Kelberoth](images/areyn_prey_kelbroth.webp)
 
 **_Kelberoth Form:_**  
 Kelberoth form has been declining in recent deochs, since the full potential of
@@ -603,7 +603,7 @@ draco tail kick has been widely realized. The kelberoth strike does a great
 deal of damage, but also hurts the monk. The stance makes the aisling
 temporarily stronger. Roar has no apparent effect on aislings.
 
-![Scorpion](images/areyn_prey_scorpion.png)
+![Scorpion](images/areyn_prey_scorpion.webp)
 
 **_Scorpion Form:_**  
 Scorpion is a very rare form. The stance enhances the armor of the monk. The
@@ -679,25 +679,25 @@ you will not get the 'audible' cue that traps are nearby.
 
 Traps and snares may:
 
-![Poison](images/areyn_prey_psntrap.png)
+![Poison](images/areyn_prey_psntrap.webp)
 
 **_Poison:_** Poison traps cause health to slowly dwindle until the poison is
 cured or wears off.
 
-![Blind](images/areyn_prey_trapswrl.png)
+![Blind](images/areyn_prey_trapswrl.webp)
 
 **_Blind:_** Blind traps make it impossible to see anything. A blind aisling
 may still sense where things are `((by opening the map with the tab key.))`
 While blind, attacks are slightly less powerful and defenses weaker, since an
 aisling cannot see to dodge blows effectively.
 
-![Sleep](images/areyn_prey_sleeptrp.png)
+![Sleep](images/areyn_prey_sleeptrp.webp)
 
 **_Sleep:_** Sleep traps completely incapacitate aislings for a short time. The
 priest spell ao suain will remove the effects, and a priest may even awaken
 enough to cast this spell on himself.
 
-![Damage](images/areyn_prey_trapswrl2.png)
+![Damage](images/areyn_prey_trapswrl2.webp)
 
 **_Damage:_** Damage traps directly inflict damage to an aisling. An aisling
 that is near death and fighting a rogue might want to hold still and heal a
@@ -784,7 +784,7 @@ immobilize the priest if you can.
 If the priest casts Dion (It looks like a ring of fire around the feet.) save
 your heavy attacks until you can damage the priest.
 
-![Dion/Draco Stance](images/areyn_prey_dion.png)
+![Dion/Draco Stance](images/areyn_prey_dion.webp)
 
 #### At Range
 
@@ -814,7 +814,7 @@ escape when a priest has located her and is hitting her with spell after spell.
 
 _Arcane practitioners of the magic arts_
 
-![Elemental Interactions](images/areyn_prey_elements.png)
+![Elemental Interactions](images/areyn_prey_elements.webp)
 
 Wizards use elemental spells to fight. Most wizards specialize in one element;
 so to hunt a wizard you should learn the elemental interactions. Water (sal) is
@@ -910,31 +910,31 @@ Healing potions replenish the health of an aisling. Note that foods will also
 heal aislings, but the effects of most foods are minimal. _Healing potions are
 listed from most potent to least potent._
 
-![Hydele Deum](images/areyn_prey_hydele.png)
+![Hydele Deum](images/areyn_prey_hydele.webp)
 
 **_Hydele Deum_**: A powerful herbal remedy. Hydele Deum will heal **all**
 damage that an aisling has received. Herbalists make hydele deum.
 
-![Ard Ioc Deum](images/areyn_prey_red.png)
+![Ard Ioc Deum](images/areyn_prey_red.webp)
 
 **_Ard Ioc Deum_**: A rare magical elixir. Ard Ioc Deum heals a tremendous
 amount of damage. Be careful not to confuse Ard Ioc Deum with Beothaich Deum,
 which looks identical. Ard ioc deum is found deep in the East Woods and several
 other deep hunting grounds.
 
-![Honey](images/areyn_prey_honey.png)
+![Honey](images/areyn_prey_honey.webp)
 
 **_Honey_**: A sweet natural remedy. Honey is not actually a potion, but is as
 potent as many herbal and magical remedies. Honey jars are received from
 mundane quests and Cail entreaties. Raw honey can be found wherever wasps are.
 
-![Mor Ioc Deum](images/areyn_prey_purple.png)
+![Mor Ioc Deum](images/areyn_prey_purple.webp)
 
 **_Mor Ioc Deum_**: A mid level magical elixir. Mor Ioc Deum is not as powerful
 as hydele deum or ard ioc deum and is rarely sought by aislings. Mor ioc deum
 can be found rarely in Dubheim castle.
 
-![Fifleaf Deum](images/areyn_prey_fifleaf.png)
+![Fifleaf Deum](images/areyn_prey_fifleaf.webp)
 
 **_Fifleaf Deum_**: A mild herbal remedy. Fifleaf is not very powerful. Since
 it requires as much labor and raw materials as hydele deum, fifleaf is rarely
@@ -945,48 +945,48 @@ used. Herbalists can make fifleaf deum.
 Fior Potions are elemental nodes used by wizards with leiseich spells to
 replenish willpower. Drinking fiors has no effect.
 
-![Fior Athar](images/areyn_prey_tan.png)
+![Fior Athar](images/areyn_prey_tan.webp)
 
 **_Fior Athar_**: Elemental air node.
 
-![Fior Creag](images/areyn_prey_black.png)
+![Fior Creag](images/areyn_prey_black.webp)
 
 **_Fior Creag_**: Elemental earth node.
 
-![Fior Sal](images/areyn_prey_blue.png)
+![Fior Sal](images/areyn_prey_blue.webp)
 
 **_Fior Sal_**: Elemental water node.
 
-![Fior Srad](images/areyn_prey_orange.png)
+![Fior Srad](images/areyn_prey_orange.webp)
 
 **_Fior Srad_**: Elemental fire node.
 
 #### Other Potions
 
-![Beag Spiorad Deum](images/areyn_prey_blue.png)
+![Beag Spiorad Deum](images/areyn_prey_blue.webp)
 
 **_Beag Spiorad Deum_**: A mana replenisher. Beag Spiorad Deum will return a
 small amount of willpower. Beag spiorad deum can be found in Dubheim castle.
 
-![Beothaich Deum](images/areyn_prey_red.png)
+![Beothaich Deum](images/areyn_prey_red.webp)
 
 **_Beothaich Deum_**: The well known "red potion." Beothaich Deum is used to
 revive party members that are facing death. Face the aisling like you are
 trying to hit him and use the potion to restore him to life. Beothaich deum is
 made by aisling priests.
 
-![Betony Deum](images/areyn_prey_betony.png)
+![Betony Deum](images/areyn_prey_betony.webp)
 
 **_Betony Deum_**: A protective potion. Betony Deum will give the protective
 equivalent of a short duration aite spell, but this potion sometimes fails to
 work. Betony deum is made by aisling herbalists.
 
-![Hemloch Deum](images/areyn_prey_hemloch.png)
+![Hemloch Deum](images/areyn_prey_hemloch.webp)
 
 **_Hemloch Deum_**: A potent poison. Hemloch Deum will sap nearly all the life
 from an aisling that drinks it. Hemloch deum is made by aisling herbalists.
 
-![Personaca Deum](images/areyn_prey_persona.png)
+![Personaca Deum](images/areyn_prey_persona.webp)
 
 **_Personaca Deum_**: A poison remedy. Personaca deum will cleanse your blood
 of poisons. Personaca deum is made by aisling herbalists.
@@ -995,7 +995,7 @@ of poisons. Personaca deum is made by aisling herbalists.
 
 _Elemental items for defense and added damage._
 
-![Basic Elemental Interactions](images/areyn_prey_elements.png)
+![Basic Elemental Interactions](images/areyn_prey_elements.webp)
 
 There are six elements in Temuair: earth, water, fire, air, light, and dark.
 The basic four elements, earth, water, fire, and air, compose a circle of
@@ -1045,7 +1045,7 @@ physical attacks of the creature. A single creature could cast spells of an
 element that doesn't match the its attack nature, and the defense nature could
 be yet a third element.
 
-![Aisling elements](images/areyn_prey_myelem.png)
+![Aisling elements](images/areyn_prey_myelem.webp)
 
 An aisling may sense his own elemental affinities even if he can not identify
 the items that are providing the elements. `((Open the stats page by pressing G
@@ -1057,37 +1057,37 @@ nature. The one below it is your defense nature.))`
 Belts provide an aisling with elemental defense. Wear a belt that matches the
 element you are being attacked with to minimize damage.
 
-![Fire Belt](images/areyn_prey_fbelt.png)
+![Fire Belt](images/areyn_prey_fbelt.webp)
 
 **_Fire belts_** provide fire defense.
 
-![Earth Belt](images/areyn_prey_ebelt.png)
+![Earth Belt](images/areyn_prey_ebelt.webp)
 
 **_Earth belts_** provide earth defense.
 
-![Sea Belt](images/areyn_prey_sbelt.png)
+![Sea Belt](images/areyn_prey_sbelt.webp)
 
 **_Sea belts_** provide water defense.
 
-![Wind Belt](images/areyn_prey_wbelt.png)
+![Wind Belt](images/areyn_prey_wbelt.webp)
 
 **_Wind belts_** provide air defense.
 
-![Dark Belt](images/areyn_prey_dbelt.png)
+![Dark Belt](images/areyn_prey_dbelt.webp)
 
 **_Dark belts_** provide dark defense.
 
-![Leather Belt](images/areyn_prey_belt.png)
+![Leather Belt](images/areyn_prey_belt.webp)
 
 **_Leather belts_** increase an aisling's wisdom in addition to providing
 elemental defense. `((+1 Wis))`
 
-![Mythril Belt](images/areyn_prey_mythbelt.png)
+![Mythril Belt](images/areyn_prey_mythbelt.webp)
 
 **_Mythril belts_** increase an aisling's constitution in addition to providing
 elemental defense. `((+1 Con))`
 
-![Hybrasyl Belt](images/areyn_prey_hybbelt.png)
+![Hybrasyl Belt](images/areyn_prey_hybbelt.webp)
 
 **_Hybrasyl belts_** increase an aisling's wisdom and constitution in addition
 to providing elemental defense. `((+1 Wis, +1 Con))`
@@ -1098,40 +1098,40 @@ Necklaces can give an elemental affinity to aisling attacks. Wear a necklace
 that is _fas_ against a creature's defense element for maximum damage. Many of
 these necklaces can be found without any element linked to it.
 
-![Earth Necklace](images/areyn_prey_eartneck.png)
+![Earth Necklace](images/areyn_prey_eartneck.webp)
 
 **_Earth necklaces_** give no special benefit besides earth attacks.
 
-![Fire Necklace](images/areyn_prey_fireneck.png)
+![Fire Necklace](images/areyn_prey_fireneck.webp)
 
 **_Fire necklaces_** give no special benefit besides fire attacks.
 
-![Sea Necklace](images/areyn_prey_seaneck.png)
+![Sea Necklace](images/areyn_prey_seaneck.webp)
 
 **_Sea necklaces_** give no special benefit besides water attacks.
 
-![Wind Necklace](images/areyn_prey_windneck.png)
+![Wind Necklace](images/areyn_prey_windneck.webp)
 
 **_Wind necklaces_** give no special benefit besides air attacks.
 
-![Pearl Necklace](images/areyn_prey_pearl.png)
+![Pearl Necklace](images/areyn_prey_pearl.webp)
 
 **_Pearl necklaces_** enhance the aim of aislings. `((+5 hit))`
 
-![Gold Jade Necklace](images/areyn_prey_goldjade.png)
+![Gold Jade Necklace](images/areyn_prey_goldjade.webp)
 
 **_Gold Jade necklaces_** increase the damage aislings can cause. `((+1
 damage))`
 
-![Bone Necklace](images/areyn_prey_boneneck.png)
+![Bone Necklace](images/areyn_prey_boneneck.webp)
 
 **_Bone necklaces_** enhance accuracy and damage. `((+5 hit, +1 damage))`
 
-![Jade Necklace](images/areyn_prey_jadeneck.png)
+![Jade Necklace](images/areyn_prey_jadeneck.webp)
 
 **_Jade necklaces_** greatly enhance accuracy. `((+10 hit))`
 
-![Amber Necklace](images/areyn_prey_amber.png)
+![Amber Necklace](images/areyn_prey_amber.webp)
 
 **_Amber necklaces_** greatly increase the damage and aisling causes. `((+2
 damage))`
@@ -1194,59 +1194,59 @@ Rings enhance the health and mana of aislings. A few have additional properties
 as well. All rings except the ones with special properties (beyond health and
 mana enhancements) may be enchanted or consecrated.
 
-![Small Spinel Ring](images/areyn_prey_spinel.png)
+![Small Spinel Ring](images/areyn_prey_spinel.webp)
 
 **_Small Spinel Ring_**: +300 health, +2 hit. Small spinel rings can not be
 enchanted further.
 
-![Small Emerald Ring](images/areyn_prey_emerald.png)
+![Small Emerald Ring](images/areyn_prey_emerald.webp)
 
 **_Small Emerald Ring_**: +300 health, +2 damage. Small emerald rings can not
 be enchanted further.
 
-![Talos Ring](images/areyn_prey_talos.png)
+![Talos Ring](images/areyn_prey_talos.webp)
 
 **_Talos Ring_**: Insight 4, +100 health
 
-![Beryl Ring](images/areyn_prey_berring.png)
+![Beryl Ring](images/areyn_prey_berring.webp)
 
 **_Beryl Ring_**: Insight 5, +50 mana
 
-![Ruby Ring](images/areyn_prey_spinel.png)
+![Ruby Ring](images/areyn_prey_spinel.webp)
 
 **_Ruby Ring_**: Insight 6, +200 health
 
-![Coral Ring](images/areyn_prey_corring.png)
+![Coral Ring](images/areyn_prey_corring.webp)
 
 **_Coral Ring_**: Insight 7, +100 mana
 
-![Lapis Ring](images/areyn_prey_emerald.png)
+![Lapis Ring](images/areyn_prey_emerald.webp)
 
 **_Lapis Ring_**: Insight 8, +300 health
 
-![Red Jade Ring](images/areyn_prey_redjade.png)
+![Red Jade Ring](images/areyn_prey_redjade.webp)
 
 **_Red Jade Ring_**: Insight 10, +100 health, +50 mana
 
-![Amethyst Ring](images/areyn_prey_ameth.png)
+![Amethyst Ring](images/areyn_prey_ameth.webp)
 
 **_Amethyst Ring_**: Insight 12, +200 health, +100 mana
 
-![Spinel Ring](images/areyn_prey_spinel.png)
+![Spinel Ring](images/areyn_prey_spinel.webp)
 
 **_Spinel Ring_**: Insight 12, +500 health, +2 hit. Spinel rings can not be
 enchanted further.
 
-![Emerald Ring](images/areyn_prey_emerald.png)
+![Emerald Ring](images/areyn_prey_emerald.webp)
 
 **_Emerald Ring_**: Insight 12, +500 health, +2 damage. Emerald rings can not
 be enchanted further.
 
-![Jade Ring](images/areyn_prey_jade.png)
+![Jade Ring](images/areyn_prey_jade.webp)
 
 **_Jade Ring_**: Insight 16, +300 health, +150 mana
 
-![Grave Ring](images/areyn_prey_grave.png)
+![Grave Ring](images/areyn_prey_grave.webp)
 
 **_Grave Ring_**: +150 mana. There are many rumors about these rings having
 additional abilities. None have been verified. To debunk two false rumors,
@@ -1258,7 +1258,7 @@ noticeably affect undead creatures.
 **_Signet Ring_**: +1 to all attributes! Signet rings can not be enchanted
 further.
 
-![Eternal Love Ring](images/areyn_prey_lovering.png)
+![Eternal Love Ring](images/areyn_prey_lovering.webp)
 
 **_Ring of Eternal Love_**: +20% magic resistance. Rings of Eternal Love can
 not be enchanted further.
@@ -1270,64 +1270,64 @@ Belts are covered in the Elements chapter. Earrings, boots, and bracers can
 also be enchanted or consecrated for even greater effects. For example, Luathas
 coral earrings are very popular. `((+3 Int!))`
 
-![Reryl Earrings](images/areyn_prey_beryl.png)
+![Reryl Earrings](images/areyn_prey_beryl.webp)
 
 **_Beryl Earrings_**: Stimulate thought processes. `((+1 Int))`
 
-![Coral Earrings](images/areyn_prey_coral.png)
+![Coral Earrings](images/areyn_prey_coral.webp)
 
 **_Coral Earrings_**: Greatly enhance memory and problem solving skills. `((+2
 Int))`
 
-![Ruby Earrings](images/areyn_prey_ruby.png)
+![Ruby Earrings](images/areyn_prey_ruby.webp)
 
 **_Ruby Earrings_**: Enhance thinking and strength. `((+1 Str, +1 Int))`
 
-![Silver Earrings](images/areyn_prey_silver.png)
+![Silver Earrings](images/areyn_prey_silver.webp)
 
 **_Silver Earrings_**: Increase strength. `((+1 Str))`
 
-![Gold Earrings](images/areyn_prey_gold.png)
+![Gold Earrings](images/areyn_prey_gold.webp)
 
 **_Gold Earrings_**: Give a tremendous boost to strength. `((+2 Str))`
 
-![Cured Boots](images/areyn_prey_cured.png)
+![Cured Boots](images/areyn_prey_cured.webp)
 
 **_Cured Boots_**: Give a minor increase in dexterity. `((+1 Dex))`
 
-![Shagreen Boots](images/areyn_prey_shag.png)
+![Shagreen Boots](images/areyn_prey_shag.webp)
 
 **_Shagreen Boots_**: Give a moderate increase in dexterity.`((+2 Dex))`
 
-![Cordovan Boots](images/areyn_prey_cord.png)
+![Cordovan Boots](images/areyn_prey_cord.webp)
 
 **_Cordovan Boots_**: Give a large increase in dexterity.`((+3 Dex))`
 
-![Saffian Boots](images/areyn_prey_saff.png)
+![Saffian Boots](images/areyn_prey_saff.webp)
 
 **_Saffian Boots_**: Give a major increase in dexterity.`((+4 Dex))`
 
-![Magma Boots](images/areyn_prey_magma.png)
+![Magma Boots](images/areyn_prey_magma.webp)
 
 **_Magma Boots_**: Give a massive increase in dexterity.`((+5 Dex))`
 
-![Enchanted Boots](images/areyn_prey_enchboot.png)
+![Enchanted Boots](images/areyn_prey_enchboot.webp)
 
 **_Enchanted Boots_**: Give an amazing increase in dexterity.`((+6 Dex))`
 
-![Iron Bracers](images/areyn_prey_ironbrac.png)
+![Iron Bracers](images/areyn_prey_ironbrac.webp)
 
 **_Iron Bracers_**: Give a minor increase in dexterity.`((+1 Dex))`
 
-![Mythril Bracer](images/areyn_prey_mythbrac.png)
+![Mythril Bracer](images/areyn_prey_mythbrac.webp)
 
 **_Mythril Bracers_**: Give a moderate increase in dexterity.`((+2 Dex))`
 
-![Hybrasyl Bracers](images/areyn_prey_hybbrac.png)
+![Hybrasyl Bracers](images/areyn_prey_hybbrac.webp)
 
 **_Hybrasyl Bracers_**: Give a large increase in dexterity.`((+3 Dex))`
 
-![Iron Shield](images/areyn_prey_ironshld.png)
+![Iron Shield](images/areyn_prey_ironshld.webp)
 
 **_Iron Shield_**: The cold iron used to make this shield grants additional
 resistance to magic. `((+10% Magic resistance))`
@@ -1401,7 +1401,7 @@ and have very long duration.
 
 #### _Naomh Aite_
 
-![Marlin](images/areyn_prey_marlin.png)
+![Marlin](images/areyn_prey_marlin.webp)
 
 _Naomh Aite_ is a very powerful protective spell that reduces the damage caused
 to an aisling by about 50%.
@@ -1421,7 +1421,7 @@ spells have a much shorter duration.
 
 #### Grimlok Alliance
 
-![Phailin, Grimlok Queen](images/areyn_prey_phailin.png)
+![Phailin, Grimlok Queen](images/areyn_prey_phailin.webp)
 
 Grimlok Alliance, also known as _Kyongkong_, is most noted for preventing the
 Grimlok of Pravat cave from attacking an aisling. It has a secondary effect,
@@ -1435,7 +1435,7 @@ at the same time.
 
 #### Goblin Alliance
 
-![Bahadir, Goblin Chieftain](images/areyn_prey_bahadir.png)
+![Bahadir, Goblin Chieftain](images/areyn_prey_bahadir.webp)
 
 Goblin Alliance is similar to Grimlok Alliance, keeping Goblins of Pravat Cave
 from attacking the allied aisling. In addition, Goblin Alliance enhances the
@@ -1461,6 +1461,7 @@ cast the various forms of this spell.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #150).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Areyn_Prey/index.html .
 ```

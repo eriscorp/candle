@@ -49,7 +49,7 @@ to refuse. You can also decide that you don't want to be bothered by invitation
 leave your group if you travel from Temuair to Medenia, a new continent, or
 vice versa.
 
-![join_menu](images/armisael_etiquette_join_menu.png)
+![join_menu](images/armisael_etiquette_join_menu.webp)
 
 ### Leave Your Group
 
@@ -78,7 +78,7 @@ of current members. The group leader will appear in different color. You can
 also press 'H', and any group member within your sight will appear in slightly
 yellow color.))`
 
-![group_menu](images/armisael_etiquette_group_menu.png)
+![group_menu](images/armisael_etiquette_group_menu.webp)
 
 ### Use Group Chat
 
@@ -99,7 +99,7 @@ global list, the names in orange colors are the ones suitable to hunt with your
 insights. The names in white colors are either too high of insights or too low
 for you. You can utilize this feature to look for potential group mates.))`
 
-![user_list](images/armisael_etiquette_user_list.png)
+![user_list](images/armisael_etiquette_user_list.webp)
 
 ### Ask Politely
 
@@ -292,6 +292,7 @@ properties of Nexon Inc.))`
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, Lore Contest, 4 May 2005.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20050507122021/http://www.geocities.com/dawassabi/hunting_etiquette.htm .

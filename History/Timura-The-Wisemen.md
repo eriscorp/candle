@@ -51,6 +51,7 @@ _Safar Timura_
 ```
 *Librarian Notes*
 
+Recognized: Village, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Timura_Wisemen.html .
 ```

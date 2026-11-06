@@ -171,6 +171,7 @@ _Nagisa Kaoru, Sal Wizard_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophers Recognized (Events of Temuair post #5).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Nagisa_Scar.html .
 ```

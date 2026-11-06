@@ -9,6 +9,7 @@ _by Rierdann in **Dark Ages**_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, History Contest, 24 January 2003.
 The original copy of this work has been lost, and cannot be found. Do you have it?
 Please contact us.
 ```

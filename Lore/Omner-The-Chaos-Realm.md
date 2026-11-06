@@ -85,7 +85,7 @@ prepare
 
 The first area in which you can encounter creatures.
 
-![Aisean Draco](images/omner_chaos_aisean_draco.png)
+![Aisean Draco](images/omner_chaos_aisean_draco.webp)
 
 **Aisean Draco** -- it means 'rib draco'. These skeletons are remnants of the
 dracos who were trapped when the seal was made. They cannot be truly killed;
@@ -97,7 +97,7 @@ powerful form of bres spells. This fearsome magik works on any aisling in the
 area, at unlimited distance. Fortunately, the creatures cannot use it when
 blinded.
 
-![Batuss](images/omner_chaos_batuss.png)
+![Batuss](images/omner_chaos_batuss.webp)
 
 **Batuss** -- much smaller, they resemble small stone golems. It has been
 observed that they build each other from small piles of stone whenever their
@@ -116,7 +116,7 @@ leads to chaos 1.
 Aisean Dracos and Batuss are found here as well. In addition, one may also see
 an occasional
 
-![Craidhneach](images/omner_chaos_craidhneach.png)
+![Craidhneach](images/omner_chaos_craidhneach.webp)
 
 **Craidhneach** --
 
@@ -135,7 +135,7 @@ Aisean Draco population here is very high.
 
 Aisean Dracos, Craidhneach and Clogad Craidhneach can be found here.
 
-![Clogad Craidhneach](images/omner_chaos_clogad_craidhneach.png)
+![Clogad Craidhneach](images/omner_chaos_clogad_craidhneach.webp)
 
 **Clogad Craidhneach** -- This is a Craidhneach that still bears boots and
 armor made from talos ore. This of course makes them harder to destroy. Those
@@ -153,7 +153,7 @@ EXITS: NW up to 3 SW down to 6.
 
 ## CHAOS 6
 
-![Artan Deamhans](images/omner_chaos_artan_deamhan.png)
+![Artan Deamhans](images/omner_chaos_artan_deamhan.webp)
 
 **Artan Deamhans** -- These gigantic creatures of stone seem to be related to
 the Batuss. They are able to speak in the language of the dracos, leading
@@ -169,7 +169,7 @@ WARNING! To go beyond 6 is to risk certain doom.
 In this accursed floor, many an aisling has perished. No known group has ever
 been able to defeat the loathsome fiend known as the Sgraidht.
 
-![Sgraidht](images/omner_chaos_sgraidht.png)
+![Sgraidht](images/omner_chaos_sgraidht.webp)
 
 **Sgraidht** -- It resembles a human form with a grey tattered cloak and a
 long wooden staff. This malignant evil is the Chandi Mukul of the chaos realm.
@@ -189,7 +189,7 @@ an advantage to aislings, as there are no high walls to block the view. But
 the monsters compensate for this fact, amply. In this area are Artan
 Deamhans, the dread Sgraidht, and the Srad Deamhan.
 
-![Srad Deamhans](images/omner_chaos_srad_deamhan.png)
+![Srad Deamhans](images/omner_chaos_srad_deamhan.webp)
 
 **Srad Deamhans** -- These beings of fire float approximately two arm-lengths
 above the ground.
@@ -203,7 +203,7 @@ spawn by the light of the glowing lava. Sgraidht in great numbers appear,
 making this one of the most dangerous areas in all of the Chaos realm. Srad
 Deamhans float here as well, accompanying the Porboss.
 
-![Porboss](images/omner_chaos_porboss.png)
+![Porboss](images/omner_chaos_porboss.webp)
 
 **Porboss** -- The origins of this creature are unknown. Approximately the
 size of an orc, it has adapted to the extreme heat of its environment. It has
@@ -216,7 +216,7 @@ At this point, the Sgraidht can no longer stand the intense heat. The only
 creatures found at this depth are Srad Deamhans, Porboss, and the Losgann, all
 adapted to incredible heat.
 
-![Losgann](images/omner_chaos_losgann.png)
+![Losgann](images/omner_chaos_losgann.webp)
 
 **Losgann** --Very little is known about this mysterious creature, save that
 it has no skin on its face, clenches enormous fists, is unaffected by fire,
@@ -227,7 +227,7 @@ and does not look friendly.
 The creatures inhabiting this fiery depth are the Porboss, the Losgann, and
 the Kabungkl.
 
-![Kabungkl](images/omner_chaos_kabungkl.png)
+![Kabungkl](images/omner_chaos_kabungkl.webp)
 
 **Kabungkl** -- Floating above the ground a spouting fire, this odd creature
 is truly amazing. Its off appearance has led aislings to dub it, somewhat
@@ -245,7 +245,7 @@ to 10.
 Chaos 12... the greatest depth known to aislings at the time of this writing.
 In this area, one may find the Losgann, the Kabungkl, and the dread Aog Ridir
 
-![Aog Ridir](images/omner_chaos_aog_ridir.png)
+![Aog Ridir](images/omner_chaos_aog_ridir.webp)
 
 **Aog Ridir** -- These fearsome Knights of Death appear as maligned mockeries
 of the great Aosdic knights. Fear their blades, crafted of a metal forgotten
@@ -260,6 +260,7 @@ _a lore, by Omner Garamonde_
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #191).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Omner_Chaos/index.htm .
 ```

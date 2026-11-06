@@ -73,7 +73,7 @@ get enough money if you are patient and willing to work for it in the crypt.
 Later on, you will find many wonderful ways to gain wealth like higgling, gem
 polishing, or praying to the patron of rogues, Fiosachd.
 
-![Dirk](images/harmonie_rogue_dirk.png) ![Snow Secret](images/harmonie_rogue_secret.png)
+![Dirk](images/harmonie_rogue_dirk.webp) ![Snow Secret](images/harmonie_rogue_secret.webp)
 
 When you come into some money,
 you will want to get some basic equipment. A dirk is a good weapon to begin
@@ -82,7 +82,7 @@ you have the funds (1500 coins) and are willing to walk to Suomi weapon shop,
 I suggest you purchase a Snow Secret. It is a small four-bladed weapon, shaped
 like a cross or star designed to be thrown.
 
-![Scout Leather](images/harmonie_rogue_scout.png) ![Cotte](images/harmonie_rogue_cotte.png)
+![Scout Leather](images/harmonie_rogue_scout.webp) ![Cotte](images/harmonie_rogue_cotte.webp)
 
 Next you will want better
 armor than the peasant garb you have. Men may find the scout leather at the
@@ -102,7 +102,7 @@ to her style.
 
 ### The First Trap and Trapping
 
-![Small Trap Icon](images/harmonie_rogue_smalltrp.png) ![Big Trap Icon](images/harmonie_rogue_bigtrap.png)
+![Small Trap Icon](images/harmonie_rogue_smalltrp.webp) ![Big Trap Icon](images/harmonie_rogue_bigtrap.webp)
 
 The first secret I suggest any rogue learn is Needle trap. Bring a dirk to
 Dathi, the special skill trainer of Mileth and for a small sum, he will teach
@@ -139,11 +139,11 @@ is so adept that the great snare is immediately ready.
 
 _Special Traps_
 
-![Blind Trap Icon](images/harmonie_rogue_blind.png) ![Sleep Trap Icon](images/harmonie_rogue_sleep.png) ![Poison Trap Icon](images/harmonie_rogue_poison.png)
+![Blind Trap Icon](images/harmonie_rogue_blind.webp) ![Sleep Trap Icon](images/harmonie_rogue_sleep.webp) ![Poison Trap Icon](images/harmonie_rogue_poison.webp)
 
 ### Unlock
 
-![Unlock Icon](images/harmonie_rogue_lockpick.png)
+![Unlock Icon](images/harmonie_rogue_lockpick.webp)
 
 Unlock is another basic ability of rogues. Using this skill, a rogue may open
 the chests found in the crypts of Mileth or other dungeons. Daithi teaches
@@ -178,7 +178,7 @@ have an assistant aid you. A rogue assistant will increase the amount of
 higgled goods you receive, so try to find a friendly rogue to assist whenever
 you can. Next, the higgler will show you his available wares.
 
-![Cherries](images/harmonie_rogue_cherries.png) ![Grapes](images/harmonie_rogue_grapes.png)
+![Cherries](images/harmonie_rogue_cherries.webp) ![Grapes](images/harmonie_rogue_grapes.webp)
 
 The first two items you may
 higgle are cherries and grapes. These food items have a little nutritional
@@ -187,7 +187,7 @@ use of them. Priests learn to make beothaich deum, known more commonly as
 "reds potions", from cherries and grapes. By higgling these items for a
 priest, you can often get a few beothaich deum in exchange.
 
-![Wine](images/harmonie_rogue_wine.png)
+![Wine](images/harmonie_rogue_wine.webp)
 
 The next item available is wine. Most rogues need no
 instruction in how to dispose of a backpack full of wine, but there are other
@@ -195,14 +195,14 @@ uses for it besides releasing your inhibitions. Wine is required for most
 herbal remedies. By trading them to a herbalist, you can get a wide variety of
 very useful potions.
 
-![Parchment Scroll](images/harmonie_rogue_scroll.png)
+![Parchment Scroll](images/harmonie_rogue_scroll.webp)
 
 Parchment Scrolls are another choice. I have
 found no practical use for these items save one. A wizard may pen magical
 songs upon them that transport the reader instantly to the threshold of the
 city the song is linked to.
 
-![Wolf Skin](images/harmonie_rogue_skin.png)
+![Wolf Skin](images/harmonie_rogue_skin.webp)
 
 Wolf skins are of little real use, but they are more
 valuable to mundanes than any other item you can higgle. As a young aisling, I
@@ -219,7 +219,7 @@ option.
 
 ### Gem Polishing
 
-![Gem Polishing Icon](images/harmonie_rogue_polish.png)
+![Gem Polishing Icon](images/harmonie_rogue_polish.webp)
 
 Gem polishing lets a rogue improve the quality and value of a gem by expending
 some craft time. To polish, the rogue casts the secret anywhere magic may be
@@ -240,11 +240,11 @@ shiny beryl.
 
 _Gems_
 
-![Beryl](images/harmonie_rogue_beryl.png) ![Coral](images/harmonie_rogue_coral.png) ![Ruby](images/harmonie_rogue_ruby.png)
+![Beryl](images/harmonie_rogue_beryl.webp) ![Coral](images/harmonie_rogue_coral.webp) ![Ruby](images/harmonie_rogue_ruby.webp)
 
 ### Appraising and other lore skills
 
-![Lore Skill Icon](images/harmonie_rogue_lore.png)
+![Lore Skill Icon](images/harmonie_rogue_lore.webp)
 
 A rogue may appraise raw gems and a select few other items to find it's value
 and identify its name. If you sell the item, you can expect about half the
@@ -261,7 +261,7 @@ useful information about the item.
 
 ### Tailoring
 
-![Mend Skill Icon](images/harmonie_rogue_tailor.png)
+![Mend Skill Icon](images/harmonie_rogue_tailor.webp)
 
 Tailoring is a skill with many uses. The tailor may repair damaged garments in
 the field, improve the quality of clothing in a tailor shop, or even dye and
@@ -304,7 +304,7 @@ you want a "good Mileth jupe", you must dye a "good jupe".
 
 ### Hairstyling
 
-![Hairstyling Icon](images/harmonie_rogue_hairstyl.png)
+![Hairstyling Icon](images/harmonie_rogue_hairstyl.webp)
 
 Hairstyling is a skill unique to rogues that lets them change the color and
 style of another aisling's hair. To style or dye hair, the stylist and the
@@ -326,9 +326,9 @@ that she is happy with. The client's hair may be styled three times per moon.
 
 ### Stab and Twist
 
-![Stab and Twist Icon](images/harmonie_rogue_stabtwist.png)
+![Stab and Twist Icon](images/harmonie_rogue_stabtwist.webp)
 
-![Harmonie gets vicious on a Cruel](images/harmonie_rogue_poke.png)
+![Harmonie gets vicious on a Cruel](images/harmonie_rogue_poke.webp)
 
 There is not much to say about
 this savage combat maneuver. The rogue must be facing an enemy in melee to
@@ -338,7 +338,7 @@ wound as the weapon exits.
 
 ### Throw Surigam
 
-![Throw Surigam Icon](images/harmonie_rogue_throwsur.png)
+![Throw Surigam Icon](images/harmonie_rogue_throwsur.webp)
 
 Using this skill, a rogue may stand many paces away from an opponent and throw
 a surigam or soori dagger to inflict damage at range. To be effective, the
@@ -356,7 +356,7 @@ assailing a monster.
 
 ### Taunt
 
-![Taunt Icon](images/harmonie_rogue_taunt.png)
+![Taunt Icon](images/harmonie_rogue_taunt.webp)
 
 Taunt lets a rogue draw the attention of a creature without having to get near
 it and strike it. Upon hearing the taunt, most creatures will rush headlong
@@ -376,6 +376,7 @@ available to her.
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #32).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/download/Harmonie_Rogue/index.html .
 ```

@@ -41,7 +41,7 @@ dangerous ambushes… This is where Positioning Tactics come into the picture.
 In this work of lore, I have attempted to describe some of the most common
 ambushes each craft will run into and how to efficiently scatter them.
 
-![Octagram](images/sungam_tactics_octagram.png)
+![Octagram](images/sungam_tactics_octagram.webp)
 
 This was meant to provide you with the inspiration you need to effectively use
 Positioning Tactics. However, there are endless examples of ambushes with
@@ -56,9 +56,9 @@ battle progresses. However, it does require practice.
 
 ## Warrior/Monk Positioning Tactics
 
-![Warrior](images/sungam_tactics_warrior.png)
+![Warrior](images/sungam_tactics_warrior.webp)
 
-![Monk](images/sungam_tactics_monk.png)
+![Monk](images/sungam_tactics_monk.webp)
 
 The unfortunate part of being a Warrior/Monk, when it comes to Positional
 Tactics, is that you really can't do all that much once battle has begun. You
@@ -71,13 +71,13 @@ the three most common examples of ambushes I have run into.
 
 ### Example 1
 
-![Example 1 diagram a](images/sungam_tactics_posi1a.png)
+![Example 1 diagram a](images/sungam_tactics_posi1a.webp)
 
 A typical example. You (the blue square), a second Warrior/Monk and a Priest
 (both green) against two enemies (red) in a completely open environment - no
 trees or walls to interfere.
 
-![Example 1 diagram b](images/sungam_tactics_posi1b.png)
+![Example 1 diagram b](images/sungam_tactics_posi1b.webp)
 
 This would be the "wrong" way to handle the problem. As you can see, both
 enemies would be fighting against you now, giving the Priest a hard time
@@ -86,7 +86,7 @@ around the enemy you were targeting (the top one) and the Warrior/Monk. The
 lower enemy would attempt to follow you all the way around, although at a
 slower pace.
 
-![Example 1 diagram c](images/sungam_tactics_posi1c.png)
+![Example 1 diagram c](images/sungam_tactics_posi1c.webp)
 
 Once you complete your run, have the Priest stand next to you as illustrated
 above. The enemy will now be locked in place (its movement pattern is
@@ -97,20 +97,20 @@ these things unprovoked.
 
 ### Example 2
 
-![Example 2 diagram a](images/sungam_tactics_posi2a.png)
+![Example 2 diagram a](images/sungam_tactics_posi2a.webp)
 
 Another typical situation when hunting in the Woodlands. You (blue), a second
 Warrior/Monk (green) and two enemies (red). Note that there is a tree in the
 middle of the battlefield (grey). Since you don't have a Priest in your group,
 the last thing you want is to fight two enemies at once.
 
-![Example 2 diagram b](images/sungam_tactics_posi2b.png)
+![Example 2 diagram b](images/sungam_tactics_posi2b.webp)
 
 This would be an extremely unfortunate outcome. Should this happen, instruct
 your partner to lure the other enemy around the tree, and then come back and
 position himself next to the tree…
 
-![Example 2 diagram c](images/sungam_tactics_posi2c.png)
+![Example 2 diagram c](images/sungam_tactics_posi2c.webp)
 
 … Like so. This way the enemy on the right would be caught behind the tree,
 completely cut off from the action. You could then proceed to kill the enemy on
@@ -121,21 +121,21 @@ neither of you are Monks.
 
 ### Example 3
 
-![Example 3 diagram a](images/sungam_tactics_posi3a.png)
+![Example 3 diagram a](images/sungam_tactics_posi3a.webp)
 
 For the final example, here's a typical example of what I run into when
 money-hunting in the crypt. You (blue) against two enemies (red) both on the
 other side of a wall. This is one of the times when you should try to think
 about your position before you charge into the battle.
 
-![Example 3 diagram b](images/sungam_tactics_posi3b.png)
+![Example 3 diagram b](images/sungam_tactics_posi3b.webp)
 
 This is a perfect example of what happens when you don't think before you act.
 At this point you'd be very lucky to regain a good position without running
 away first. With two enemies hitting you at once, you'll be out of action
 before long, even if they are "weak".
 
-![Example 3 diagram c](images/sungam_tactics_posi3c.png)
+![Example 3 diagram c](images/sungam_tactics_posi3c.webp)
 
 However, with a little more consideration, you could produce this scenario
 instead. Obviously the enemy is completely incapable of reaching you so you can
@@ -145,7 +145,7 @@ prepared.
 
 ## Priest Positioning Tactics
 
-![Priest](images/sungam_tactics_priest.png)
+![Priest](images/sungam_tactics_priest.webp)
 
 When it comes to positioning tactics, there is no one as versatile as the
 Priest. This, obviously, means that the Priest also carries the greatest
@@ -157,20 +157,20 @@ are three very diverse examples of how a Priest may act in various situations.
 
 ### Example 1
 
-![Example 1 diagram a](images/sungam_tactics_posi4a.png)
+![Example 1 diagram a](images/sungam_tactics_posi4a.webp)
 
 Starting off rather simply, this is really a very unlikely scenario. You
 (blue), a Priest with Deo Shaghaid who's hunting alone, ran into an enemy (red)
 near a tree (grey).
 
-![Example 1 diagram b](images/sungam_tactics_posi4b.png)
+![Example 1 diagram b](images/sungam_tactics_posi4b.webp)
 
 One way of killing the enemy would be to run around and cast Deo Shaghaid as if
 you were a Rogue. However, chances are you'll get hit every once in a while
 (especially when encountering the vicious lag beast) and you'll probably be
 doing more running than casting, attracting other enemies as you wander about.
 
-![Example 1 diagram c](images/sungam_tactics_posi4c.png)
+![Example 1 diagram c](images/sungam_tactics_posi4c.webp)
 
 Instead, position yourself next to the tree like so. This way the enemy doesn't
 stand a chance of reaching you. You can just sit back and cast Deo Shaghaid at
@@ -178,20 +178,20 @@ your own pace, removing puinsein and such from yourself when required.
 
 ### Example 2
 
-![Example 2 diagram a](images/sungam_tactics_posi5a.png)
+![Example 2 diagram a](images/sungam_tactics_posi5a.webp)
 
 Moving on to something a bit more common. In this example, you (blue) will be
 alongside a Warrior/Monk (green) against two enemies (red) with a wall in
 between (grey). Since the enemies are both close to the edge of the wall, the
 Warrior/Monk doesn't stand a chance of blocking them off on his own.
 
-![Example 2 diagram b](images/sungam_tactics_posi5b.png)
+![Example 2 diagram b](images/sungam_tactics_posi5b.webp)
 
 Many Priests would do as such: Let the Warrior/Monk worry about that and simply
 go about your healing business. Unfortunately, it's your mana which will be
 drained, thus making it your problem as much as your partner's.
 
-![Example 2 diagram c](images/sungam_tactics_posi5c.png)
+![Example 2 diagram c](images/sungam_tactics_posi5c.webp)
 
 The good part about this situation is that it's very simple to prevent. Simply
 stand next to your partner and both enemies will be sealed off. Since all you
@@ -201,7 +201,7 @@ think of yourself as part of the wall.
 
 ### Example 3
 
-![Example 3 diagram a](images/sungam_tactics_posi6a.png)
+![Example 3 diagram a](images/sungam_tactics_posi6a.webp)
 
 A bit more advanced now, but still one of the simpler situations that you
 should be able to handle with little to no practice. You (blue) along with two
@@ -209,14 +209,14 @@ Warriors/Monks (green) against two enemies (red) in an open field. Naturally
 you'll want to prevent the second enemy from reaching your Warriors/Monks
 before they're done with the first enemy.
 
-![Example 3 diagram b](images/sungam_tactics_posi6b.png)
+![Example 3 diagram b](images/sungam_tactics_posi6b.webp)
 
 This is how you should not do it. Standing idly by will consume your mana in no
 time. Even if you do have plenty of mana, it'll mean one heck of a repair bill
 for the poor Warrior/Monk, so it's really not a good move to just stand by and
 watch.
 
-![Example 3 diagram c](images/sungam_tactics_posi6c.png)
+![Example 3 diagram c](images/sungam_tactics_posi6c.webp)
 
 Instead, stand next to the lower one of your allies (in this case - it varies
 depending on who the enemy is after) to prevent the enemy from reaching him.
@@ -227,7 +227,7 @@ easy kill.
 
 ## Wizard Positioning Tactics
 
-![Wizard](images/sungam_tactics_wizard.png)
+![Wizard](images/sungam_tactics_wizard.webp)
 
 Wizards generally have two patterns of hunting, the active and the passive
 role. When active, the Wizard will try to kill enemies with his strongest
@@ -242,38 +242,38 @@ Below are three examples of both passive and active roles as a Wizard.
 
 ### Example 1
 
-![Example 1 diagram a](images/sungam_tactics_posi4a.png)
+![Example 1 diagram a](images/sungam_tactics_posi4a.webp)
 
 A typical example when hunting alone. You (blue) meet up with a lone enemy
 (red) near a tree (grey) in the Woodlands. Since you're hunting alone,
 obviously you'll be in your active role, thus your objective is to conceal
 yourself.
 
-![Example 1 diagram b](images/sungam_tactics_posi4b.png)
+![Example 1 diagram b](images/sungam_tactics_posi4b.webp)
 
 I believe it's quite evident that this would be a very unsuccessful way of
 accomplishing that. In this example, the Wizard thought of casting his spells
 before he thought of taking cover - a very bad idea, I might add.
 
-![Example 1 diagram c](images/sungam_tactics_posi4c.png)
+![Example 1 diagram c](images/sungam_tactics_posi4c.webp)
 
 Had the Wizard instead taken cover as shown above, the enemy would be locked in
 place and he could easily take it out at his own pace.
 
 ### Example 2
 
-![Example 2 diagram a](images/sungam_tactics_posi7a.png)
+![Example 2 diagram a](images/sungam_tactics_posi7a.webp)
 
 Basically the same situation as example 1, but this time in the Mileth Crypt
 and with two enemies against you. Again, you'll be in your active role.
 
-![Example 2 diagram b](images/sungam_tactics_posi7b.png)
+![Example 2 diagram b](images/sungam_tactics_posi7b.webp)
 
 As always, focusing on your casting and not on taking cover can get you in some
 pretty bad situations. Running and casting on one enemy might be a simple job,
 but with two enemies you can get in trouble pretty fast.
 
-![Example 2 diagram c](images/sungam_tactics_posi7c.png)
+![Example 2 diagram c](images/sungam_tactics_posi7c.webp)
 
 However, take a stroll along the wall and position yourself like so and you
 won't have to run at all. The enemies will be walking along the wall, as
@@ -282,20 +282,20 @@ way you can kill them at your own leisure.
 
 ### Example 3
 
-![Example 3 diagram a](images/sungam_tactics_posi6a.png)
+![Example 3 diagram a](images/sungam_tactics_posi6a.webp)
 
 Finally an example showing you in your passive role. This group, consisting of
 you (blue) and two Warriors/Monks (green), will probably focus on their ability
 to kill and your ability to cast Fas Nadur, thus making any offensive spells
 from you unnecessary.
 
-![Example 3 diagram b](images/sungam_tactics_posi6b.png)
+![Example 3 diagram b](images/sungam_tactics_posi6b.webp)
 
 However, contrary to what most Wizards seem to believe, this does not mean your
 only job is to cast Fas Nadur. Most Wizards simply do as illustrated above:
 stand by while the Warriors/Monks are assaulted from all sides.
 
-![Example 3 diagram c](images/sungam_tactics_posi6c.png)
+![Example 3 diagram c](images/sungam_tactics_posi6c.webp)
 
 Instead, position yourself as illustrated above. It doesn't require anything of
 you really, except you have to stay there and you can't cast any offensive
@@ -305,7 +305,7 @@ time.
 
 ## Rogue Positioning Tactics
 
-![Rogue](images/sungam_tactics_rogue.png)
+![Rogue](images/sungam_tactics_rogue.webp)
 
 The Rogue is indeed a strange one. While all other crafts can take advantage of
 positioning themselves, the Rogue's speciality is to position the enemies.
@@ -318,19 +318,19 @@ role - a rather large one actually.
 
 ### Example 1
 
-![Example 1 diagram a](images/sungam_tactics_posi8a.png)
+![Example 1 diagram a](images/sungam_tactics_posi8a.webp)
 
 You (blue) are facing three enemies (red), wanting to blind them all. That's a
 fairly simple job, but the two Warriors of your group (not in the sketch) would
 really appreciate it if you blinded them at specific places.
 
-![Example 1 diagram b](images/sungam_tactics_posi8b.png)
+![Example 1 diagram b](images/sungam_tactics_posi8b.webp)
 
 It's very likely they'd be a bit grumpy if you did it like so. While you might
 say that this would be a strange way to do it, I can assure you that some
 actually do something along the lines of this, and it's extremely bothering.
 
-![Example 1 diagram c](images/sungam_tactics_posi8c.png)
+![Example 1 diagram c](images/sungam_tactics_posi8c.webp)
 
 With two Warriors (or Monks) in your group, they'll want to attack the enemies
 from opposite sides in order to do maximum damage. With a line-up as shown
@@ -341,12 +341,12 @@ formation.
 
 ### Example 2
 
-![Example 2 diagram a](images/sungam_tactics_posi9a.png)
+![Example 2 diagram a](images/sungam_tactics_posi9a.webp)
 
 Another simple example. An enemy (red) is right behind you (blue), chasing you
 past a tree. There's only one enemy to blind so there's really no rush.
 
-![Example 2 diagram b](images/sungam_tactics_posi9b.png)
+![Example 2 diagram b](images/sungam_tactics_posi9b.webp)
 
 The simplest thing to do would be to just place a few traps and hope it
 stumbles upon one of them. However, that could easily produce the above
@@ -354,7 +354,7 @@ situation (the black cross denotes the enemy being blinded). As in example 1,
 you'll want the enemy so the Warriors can get it from opposite sides, which is
 impossible in this case.
 
-![Example 2 diagram c](images/sungam_tactics_posi9c.png)
+![Example 2 diagram c](images/sungam_tactics_posi9c.webp)
 
 Instead, hold on to those blind traps for a few more moments and place the
 enemy like so. This way both Warriors have easy access to the enemy, even
@@ -362,14 +362,14 @@ allowing a third and fourth Warrior to join the action.
 
 ### Example 3
 
-![Example 3 diagram a](images/sungam_tactics_posi10a.png)
+![Example 3 diagram a](images/sungam_tactics_posi10a.webp)
 
 Finally moving onto something slightly more advanced. On your right you (blue)
 have two Warriors (green) fighting a lone enemy (red). However, there's an
 enemy approaching from the left, targeting the lower Warrior. Of course, your
 job is to stop it, so how will you accomplish it?
 
-![Example 3 diagram b](images/sungam_tactics_posi10b.png)
+![Example 3 diagram b](images/sungam_tactics_posi10b.webp)
 
 For reasons I am simply unable to understand many just place a blind trap near
 the Warrior and expect him to lead the enemy over it. That is not his job -
@@ -377,7 +377,7 @@ it's yours! This way he'll have to leave the battle he was in, possibly
 dragging the first enemy with him, completely messing up any kind of plan he
 had. Note that the white cross symbolises a blind trap.
 
-![Example 3 diagram c](images/sungam_tactics_posi10c.png)
+![Example 3 diagram c](images/sungam_tactics_posi10c.webp)
 
 This is where the famed dexterity of the Rogue comes into play. You'll have to
 move fast to accomplish this move, but it is possible, and it is your job. This

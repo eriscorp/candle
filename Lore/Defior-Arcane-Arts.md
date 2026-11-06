@@ -641,6 +641,7 @@ Defior Says: Thanks FaustShamen and Northwitch for Pictures ^^.
 ```
 *Librarian Notes*
 
+Recognized: Clave, Lore Contest, 4 May 2005.
 This entry has been heavily edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20050507113015/http://www.localloveconnections.com/AcadamieArcanus/LoreEntry/lore.htm .

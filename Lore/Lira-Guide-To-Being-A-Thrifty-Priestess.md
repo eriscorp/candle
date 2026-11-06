@@ -57,6 +57,7 @@ _as told by Keyne O'Caoindealbhain_
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #175).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Lira_Priestess.html .
 ```

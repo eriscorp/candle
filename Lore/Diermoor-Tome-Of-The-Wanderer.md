@@ -8,7 +8,7 @@ _Diermoor, the wanderer_
 _follower of Luathas_
 
 
-![](images/diermoor_tome_1.png)
+![](images/diermoor_tome_1.webp)
 
 ## The Towns and Cities of Temuair
 
@@ -73,6 +73,7 @@ Luathas acolyte, and seeker of knowledge
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #121).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Diermoor_Wander/index.html .
 ```

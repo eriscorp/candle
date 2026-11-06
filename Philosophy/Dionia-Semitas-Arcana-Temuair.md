@@ -82,6 +82,7 @@ _Dionia Autumne de La Croix_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 2011 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at https://semitas.weebly.com/index.html .
 

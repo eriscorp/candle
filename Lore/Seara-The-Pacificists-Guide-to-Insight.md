@@ -2,7 +2,7 @@
 
 _by Seara in **Dark Ages**_
 
-![Pisk, by Pisk](images/seara_pacifist_pisk_pisk.png)
+![Pisk, by Pisk](images/seara_pacifist_pisk_pisk.webp)
 
 This is not a comprehensive guide to quests. It be a guide for those Aislings
 who seek insight in other ways then hunting. Much of what I have listed here
@@ -341,6 +341,7 @@ _Seara NicCiardha_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #48).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Seara_Pacifist.html .
 ```

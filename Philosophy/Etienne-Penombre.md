@@ -295,6 +295,7 @@ __31st year of Deoch_
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophy Contest, 15 November 2002.
 This entry has been heavily edited to conform to Library formatting.
 The original copy of this document has been lost. It has been reconstructed from fragments.
 ```

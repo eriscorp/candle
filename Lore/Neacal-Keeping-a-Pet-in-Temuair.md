@@ -153,7 +153,7 @@ even enter the dungeon.
 
 ### Pet Bunny
 
-![bunny](images/neacal_pet_bunny.png)
+![bunny](images/neacal_pet_bunny.webp)
 
 _Pet bunnies are soft, very soft. They are hard to keep still but in general
 just likes to jump around in the grass. However, you do not want to let two of
@@ -292,6 +292,7 @@ other than what granted in their rules about contests.))`
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lore Contest, 18 June 2004.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20040729010854/http://www.freewebs.com/qreeek/index.htm .

@@ -43,6 +43,7 @@ _Warrioth Clann, Triath Lord_
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #176).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/LadyKyra_Warrior.html .
 ```

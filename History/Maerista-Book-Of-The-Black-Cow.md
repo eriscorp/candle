@@ -131,6 +131,7 @@ _True friends indeed_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Maerista_BlackCow.html .
 ```

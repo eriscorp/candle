@@ -170,6 +170,7 @@ Marie threw up her hands, her heart no longer hard,
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #107).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Felicity_Nobard.html .
 ```

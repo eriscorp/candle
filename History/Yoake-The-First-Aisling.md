@@ -68,6 +68,7 @@ After four years, my work is finally done. In the meantime of all the work being
 ```
 *Librarian Notes*
 
+Recognized: Clave, History Contest, 24 June 2005.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.thefirstaisling.0catch.com/ .
 ```

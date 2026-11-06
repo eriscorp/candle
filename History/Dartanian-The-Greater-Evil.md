@@ -69,6 +69,7 @@ Collaborated from theories stated by Jean of Loures, mundane gossip, and specula
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Historians Recognized (Events of Temuair post #8).
 
 This work is one of the greatest treasures of Temuair.
 

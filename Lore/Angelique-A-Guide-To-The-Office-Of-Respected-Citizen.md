@@ -34,6 +34,7 @@ _Angelique de Winter_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #32).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2002/community/lore/Angelique_Respected.html .
 ```

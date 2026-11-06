@@ -402,6 +402,7 @@ _Pyotr, monk-philosopher_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophers Recognized (Events of Temuair post #158).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Pyotr_Law.html .
 ```

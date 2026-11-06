@@ -23,6 +23,7 @@ _Translated and documented by Shadeed Sacrenta of Rucesion_
 ```
 *Librarian Notes*
 
+Recognized: Village, Historians Recognized (Events of Temuair post #159).
 This entry has been edited to conform to Library formatting.
 The original copy of this document was lost. It has been reconstructed from fragments.
 ```

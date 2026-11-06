@@ -8,7 +8,7 @@ here I write about this force, hoping to find truth in my own words. By
 studying this energy scientificly, perhaps I found parts of its true nature.
 Perhaps ye shall find some truth, as well.
 
-![Scribblings of a madman](Deksar-Force-of-Magick-Magick.png)
+![Scribblings of a madman](images/Deksar-Force-of-Magick-Magick.webp)
 
 Magick is a manipulation of some type of energy. Many a wizard asked, they all
 say some part of themselves is needed to manipulate the elemental forces. It is
@@ -93,6 +93,7 @@ Summer of the 10th Deoch, 8th Moon, 25th Day_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #36).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Deksar_Magic.html .
 ```

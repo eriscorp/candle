@@ -2,7 +2,7 @@
 
 _by Eugorp in **Dark Ages**_
 
-![](images/eugorp_oren_1.png)
+![](images/eugorp_oren_1.webp)
 
 Hello! I am eugorP, and this is my Lore on the Oren Pirates Quest! Inside I give a detailed, word for word dialogue from Baldo himself. This Lore is quite interactive, so I hope you enjoy your stay and maybe even learn something while you're here.
 
@@ -105,26 +105,26 @@ Baldo will then award you with a Pirate Garb (male) or Pirate Dress (female)
 
 ## Bestiary
 
-![](images/eugorp_oren_2.png)
+![](images/eugorp_oren_2.webp)
 
 ## Maps
 
-![](images/eugorp_oren_3.png)  
+![](images/eugorp_oren_3.webp)  
 ___Oren Island___
 
-![](images/eugorp_oren_4.png)   
+![](images/eugorp_oren_4.webp)   
 ___Oren Ruins___
 
-![](images/eugorp_oren_5.png)  
+![](images/eugorp_oren_5.webp)  
 ___Oren Map___
 
 ## Prizes
 
 There are two prizes that come out of this quest for each gender. 
 
-![](images/eugorp_oren_6.png)The first prize for a male is a Black Pirate Bandana (Killing 9 Oren Pirates), and the second prize is a Pirate Garb (Killing 18 Oren Pirates). You can wear these garments at level 11.
+![](images/eugorp_oren_6.webp)The first prize for a male is a Black Pirate Bandana (Killing 9 Oren Pirates), and the second prize is a Pirate Garb (Killing 18 Oren Pirates). You can wear these garments at level 11.
 
-![](images/eugorp_oren_7.png)The first prize for a female is a Black Pirate Scarf (Killing 9 Oren Pirates) and the second prize is a Pirate Dress (Killing 18 Oren Pirates). You can wear these garments at level 11.
+![](images/eugorp_oren_7.webp)The first prize for a female is a Black Pirate Scarf (Killing 9 Oren Pirates) and the second prize is a Pirate Dress (Killing 18 Oren Pirates). You can wear these garments at level 11.
 
 Upon receiving each prize, you are also awarded 200,000 experience. 
 

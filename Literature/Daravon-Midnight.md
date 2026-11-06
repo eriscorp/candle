@@ -393,6 +393,7 @@ that survived unscathed, atop of it all, was a green cross-shaped necklace...
 ```
 *Librarian Notes*
 
+Recognized: Folk, Bards Recognized (Events of Temuair post #4).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Daravon_Midnight.html .
 ```

@@ -113,7 +113,7 @@ believe above all other "truths" that the dubhaimid are, indeed, sentient. The
 classifications are: pupa, drone, hunter, guard, scholar, creator, leader, and
 priest.
 
-![Pupa](images/Deksar-Dubhaimid-Pupa.png)
+![Pupa](images/Deksar-Dubhaimid-Pupa.webp)
 
 An unevolved dubhaim is at its pupa stage. It has not collected enough **" dark
 energy"** to evolve past the stage right after cocoon. A dubhaimid has a strong
@@ -138,7 +138,7 @@ seem to be more harmonious without complicated directions (although I could
 never totally decipher how the dubhaimid communicate with each other). Most
 common "drones" are known as **" Gast"** and **" Cruel"**.
 
-![Hunter](images/Deksar-Dubhaimid-Hunter.png)
+![Hunter](images/Deksar-Dubhaimid-Hunter.webp)
 
 Be wary if ye see a "hunter" dubhaimid. Their job is to kill all Aislings and
 Mundanes on sight to collect **" dark energy"**. They then bring the **" dark
@@ -235,7 +235,7 @@ for the teaching of the dubhaimid pictograph writings, which I refer to as
 _(note: See the "Forenote" for a brief explanation of the writing system as I
 see it)_
 
-![Some dumbass weird mspaint thing](./Images/Deksar-Dubhaimid-Dubhaim.png) 
+![Some dumbass weird mspaint thing](./images/Deksar-Dubhaimid-Dubhaim.webp) 
 
 **Note by Deksar:** If you are reading this
 in the Loures Library, you should see a copied drawing made by Teirsaes to the
@@ -335,46 +335,46 @@ Note that I am forbidden to show the copies of Teirsaes's drawings anyplace in
 Temuair. Ye must locate the Loures Library `(( e.g. where you are now ))` to see 
 the drawings.
 
-![Glyph](./Images/Deksar-Dubhaimid-Eclipse.png)  
+![Glyph](./images/Deksar-Dubhaimid-Eclipse.webp)  
 
 *Eclipse*: the moon, a large arc over the sun, an
 arc with "beams of light" coming from it.
 
-![Glyph](./Images/Deksar-Dubhaimid-Death.png)  
+![Glyph](./images/Deksar-Dubhaimid-Death.webp)  
 
 *Death*: a broken circle trying to "eat" something which
 resembles a snake.
 
  
-![Glyph](./Images/Deksar-Dubhaimid-Fear.png)  
+![Glyph](./images/Deksar-Dubhaimid-Fear.webp)  
 
 *Fear*: A swiggly line broken at the top, with another
 swiggly line coming out of it and little things inside of them. 
 
-![Glyph](./Images/Deksar-Dubhaimid-Hate.png)  
+![Glyph](./images/Deksar-Dubhaimid-Hate.webp)  
 
 *Hate*: Multiple sharp-looking tringles pointing in every
 direction except one, where a large line encompassed by a circle with an arc
 in it. 
  
-![Delicious ham](./Images/Deksar-Dubhaimid-Dubham.png)
+![Delicious ham](./images/Deksar-Dubhaimid-Dubham.webp)
 
 *Dubham*: 3 large vertical swiggly lines with 4
 broken triangles on 4 different sides. 
 
-![Glyph](./Images/Deksar-Dubhaimid-Others.png)
+![Glyph](./images/Deksar-Dubhaimid-Others.webp)
 
 *Foreign* or *Enemies*: 2 large horizontal swiggly lines with a thin line 
 going through them. The line has 2 "flags" near either ends, and a 
 "radiating" circle in its middle. 
 
-![Glyph](./Images/Deksar-Dubhaimid-End.png)
+![Glyph](./images/Deksar-Dubhaimid-End.webp)
 
 *Fate*: "The End", "The Last Day", "The Final Battle", or
 "Ritual": A helmet-looking object in the middle, intersected by two lines
 which go out to two wing-like things. Below are two broken circles. 
 
-![Scribble](./Images/Deksar-Dubhaimid-Chadul.png)
+![Scribble](./images/Deksar-Dubhaimid-Chadul.webp)
 
 *Chadul*: "The Dark God", or "Ritual": A upside down
 pentagram with 3 triangles filled in and a normal pentagram in the middle.
@@ -394,6 +394,7 @@ Originally Scribed in Loures Library with the assist of Jean Caterouge and Lars 
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophers Recognized (Events of Temuair post #5).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Deksar_Dubhaimid .
 ```

@@ -42,7 +42,7 @@ Aisling had prayed for. This occurs constantly in a' Domhan so the transfer of
 energy into faith and vice versa is constantly occurring in an Aibheis de
 Caochail.
 
-![Energy diagram](./images/Makre-An-Aibheis-Energy.png)
+![Energy diagram](./images/Makre-An-Aibheis-Energy.webp)
 
 ## The significance of an _Aibheis de Caochail_
 
@@ -119,6 +119,7 @@ _Makre_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #36).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Makre_Energy.html .
 ```

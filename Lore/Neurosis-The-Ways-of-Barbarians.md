@@ -34,13 +34,13 @@ such as WindBlade must be used manually by (double clicking the Skill Icon
 )or(using the macro number that the skill is under)And this will Look like
 this-
 
-![WindBlade Not Activated](images/neurosis_barbarian_windblade.png) ![WindBlade Activated](images/neurosis_barbarian_windblade_active.png)
+![WindBlade Not Activated](images/neurosis_barbarian_windblade.webp) ![WindBlade Activated](images/neurosis_barbarian_windblade_active.webp)
 
 Not Activated / Activated
 
 ### Assail
 
-![Assail](images/neurosis_barbarian_assail.png)
+![Assail](images/neurosis_barbarian_assail.webp)
 
 Assail is a basic Assault skill which allows a person to (hit), every Aisling
 will have this skill when their star starts shinning .Once a Aisling chooses a
@@ -56,7 +56,7 @@ working by the flash of it on the Skill Bar.
 
 ### Assault
 
-![Assault](images/neurosis_barbarian_assail.png)
+![Assault](images/neurosis_barbarian_assail.webp)
 
 Assault is the second hand skill you will need to learn.This fighting skill is
 very similar to Assail,it works the same as Assail but the difference is it's
@@ -68,7 +68,7 @@ to be tought in the Mileth Combat Skill Master)_
 
 ### Clobber
 
-![Clobber](images/neurosis_barbarian_clobber.png)
+![Clobber](images/neurosis_barbarian_clobber.webp)
 
 Clobber is the third hand skill you will get incontact with. Clobber is the
 same type of Skill as Assail and Assault,and also works the same way just by
@@ -84,7 +84,7 @@ slay.(Once again these skills are activated just by pressing the spacebar).
 
 ### Wallop
 
-![Wallop](images/neurosis_barbarian_wallop.png)
+![Wallop](images/neurosis_barbarian_wallop.webp)
 
 Wallop is the fourth hand skill you will get incontact with. It works the same
 as the other 3 hand skills but again it Increases the damage of youre Strike
@@ -95,7 +95,7 @@ at a higher insight ,Id guess in youre 50's or 60's. Its range stands up to
 
 ### Two-Handed-Attack
 
-![Two-Handed-Attack](images/neurosis_barbarian_twohanded.png)
+![Two-Handed-Attack](images/neurosis_barbarian_twohanded.webp)
 
 This Skill is one of the best skills a Warrior could get its hands on. This
 skill is the Fifth hand skill,its so great it includes Not 1 hand but 2 hands
@@ -109,7 +109,7 @@ _(Two-Handed-Attack may be tought in Suomi Combat Skill Master)_
 
 ### WindBlade
 
-![WindBlade](images/neurosis_barbarian_windblade.png) ![WindBlade Activated](images/neurosis_barbarian_windblade_active.png)
+![WindBlade](images/neurosis_barbarian_windblade.webp) ![WindBlade Activated](images/neurosis_barbarian_windblade_active.webp)
 
 WindBlade is a very usefull skill a Warrior should learn. This skill is very
 different from the hand skills.WindBlade doesn't work as
@@ -131,7 +131,7 @@ levels of Assail training. _(It may be tought in Mileth Combat Skill Master)_
 
 ### Rescue
 
-![Rescue](images/neurosis_barbarian_rescue.png) ![Rescue Activated](images/neurosis_barbarian_rescue_active.png)
+![Rescue](images/neurosis_barbarian_rescue.webp) ![Rescue Activated](images/neurosis_barbarian_rescue_active.webp)
 
 Rescue is Not a skill used for delivering damage.Though it is used in fighting
 creatures in (groups),or helping someone by covering wool over the enemie's
@@ -151,7 +151,7 @@ a high level of it inorder to get one of the Warriors best skill.
 
 ### Beag Suain
 
-![Beag Suain](images/neurosis_barbarian_beagsuain.png) ![Beag Suain Activated](images/neurosis_barbarian_beagsuain_active.png)
+![Beag Suain](images/neurosis_barbarian_beagsuain.webp) ![Beag Suain Activated](images/neurosis_barbarian_beagsuain_active.webp)
 
 Beag Suain I would say is the most useful skill a Warrior may know. This skill
 is not only helpful to you but to youre fellow Priest aswell. This skill is
@@ -172,7 +172,7 @@ early which will make youre Hunting Adventures alot easier.
 
 ### Ao Beag Suain
 
-![Ao Beag Suain](images/neurosis_barbarian_aobeagsuain.png) ![Ao Beag Suain Activated](images/neurosis_barbarian_aobeagsuain_active.png)
+![Ao Beag Suain](images/neurosis_barbarian_aobeagsuain.webp) ![Ao Beag Suain Activated](images/neurosis_barbarian_aobeagsuain_active.webp)
 
 This type of skill relates to Beag Suain. It simply Neutralizes you from
 Paralization. Its range is 0/100.And the disadvantage of this skill is it
@@ -182,7 +182,7 @@ tought to you in Mileth by the Special Skill Master)_
 
 ### Crasher
 
-![Crasher](images/neurosis_barbarian_crasher.png) ![Crasher Activated](images/neurosis_barbarian_crasher_active.png)
+![Crasher](images/neurosis_barbarian_crasher.webp) ![Crasher Activated](images/neurosis_barbarian_crasher_active.webp)
 
 This is I would say the most damagable skill tought to a Warrior. Its very
 different from the other skills dealing with the usage of it. It works
@@ -208,7 +208,7 @@ skills which you may Benefit from,which help you sute youre own needs.)
 
 ### Look
 
-![Look](images/neurosis_barbarian_look.png)
+![Look](images/neurosis_barbarian_look.webp)
 
 Look is a skill you are tought by the mundane who grants you the privilage of a
 lesson in the (Tutorial).Once you are born and you follow the (Tutorial) a kind
@@ -221,7 +221,7 @@ ground infront of you every Aisling learns this neat skill.
 
 ### Tailor
 
-![Tailor](images/neurosis_barbarian_tailor.png) ![Tailor Activated](images/neurosis_barbarian_tailor_active.png)
+![Tailor](images/neurosis_barbarian_tailor.webp) ![Tailor Activated](images/neurosis_barbarian_tailor_active.webp)
 
 This type of skill is used for armor and armor only. By learning this skill you
 are able to Upgrade youre garments to (4)types Good-Fine-Grand and -Great,and
@@ -242,7 +242,7 @@ is available in Abel Tailor Master-to the right of Abel's Bank)._
 
 ### MendWeapon
 
-![MendWeapon](images/neurosis_barbarian_tailor.png) ![MendWeapon Activated](images/neurosis_barbarian_tailor_active.png)
+![MendWeapon](images/neurosis_barbarian_tailor.webp) ![MendWeapon Activated](images/neurosis_barbarian_tailor_active.webp)
 
 The name speaks for itself.Its a skill used to fix damaged weapons.Ofcourse it
 wont regain all its durability because the skill is new to you and must be
@@ -258,7 +258,7 @@ practice youre WeaponMending.
 
 ### Melee Lore
 
-![Melee Lore](images/neurosis_barbarian_lore.png) ![Melee Lore Activated](images/neurosis_barbarian_lore_active.png)
+![Melee Lore](images/neurosis_barbarian_lore.webp) ![Melee Lore Activated](images/neurosis_barbarian_lore_active.webp)
 
 This skill is a very useful skill,available to all Aislings. It simply allows
 you to Melee(identify) a weapon(sword). Once again to do this you must place
@@ -269,7 +269,7 @@ requirement,durability and last but not least damage. Melee Lore has a range of
 
 ### Armor Lore
 
-![Armor Lore](images/neurosis_barbarian_lore.png) ![Armor Lore Activated](images/neurosis_barbarian_lore_active.png)
+![Armor Lore](images/neurosis_barbarian_lore.webp) ![Armor Lore Activated](images/neurosis_barbarian_lore_active.webp)
 
 This skill is also very useful and very similar to Melee Lore,but instead of
 identifying Weapons,you may identify Armor garments. To use this skill you do
@@ -279,7 +279,7 @@ range is 0/100. _(Armor Lore may be tought in Mileth Special Skill Master )_
 
 ### Throw
 
-![Throw](images/neurosis_barbarian_throw.png) ![Throw Activated](images/neurosis_barbarian_throw_active.png)
+![Throw](images/neurosis_barbarian_throw.webp) ![Throw Activated](images/neurosis_barbarian_throw_active.webp)
 
 Throw is a skill used only on other Aislings. Simply just walk to another
 Aisling and Activate the skill manually in which you may fail or
@@ -303,7 +303,7 @@ Activate.) (Like all spells they require MP(mana) to be casted)
 
 ### Prayer
 
-![Prayer](images/neurosis_barbarian_prayer.png)
+![Prayer](images/neurosis_barbarian_prayer.webp)
 
 Prayer is a spell you cast manually with a special task included. Simply what
 you do is drop the prayer necklace under you (double click on the prayer icon
@@ -330,20 +330,20 @@ nearest Worshiping temple and learn more about these Temuair gods.
 
 ### Nis
 
-![Nis](images/neurosis_barbarian_nis.png)
+![Nis](images/neurosis_barbarian_nis.webp)
 
 Nis is a nice little spell every single Aisling is being tought by a kind
 Mundane who you shall approach making youre way through the (Tutorial). This
 secret allows you to check what Deoch,Moon,Sun,Hour youre at the time. (It will
 appear on youre top scrolling messagebar),and will look something like this-
 
-![Nis message](images/neurosis_barbarian_nis_message.png)
+![Nis message](images/neurosis_barbarian_nis_message.webp)
 
 To Activate it,you must do the (manual method).
 
 ### Lectures
 
-![Lectures](images/neurosis_barbarian_lectures.png)
+![Lectures](images/neurosis_barbarian_lectures.webp)
 
 There are 3 types of Lectures a Warrior may learn. The Arms Lecture,The Combat
 Lecture,and the Guide Lecture. These secrets must be Activated manually.To use
@@ -357,7 +357,7 @@ leactures may be tought in Mileth White Magic Master)_
 
 ### Taunt-Insult-Spit
 
-![Taunt-Insult-Spit](images/neurosis_barbarian_taunt.png)
+![Taunt-Insult-Spit](images/neurosis_barbarian_taunt.webp)
 
 These 3 secrets are very useful for a Warrior though these secrets are also
 available for All Aislings as well. Taunt is the first spell that draws a
@@ -421,7 +421,7 @@ youre fellow Priest's low MP(mana).
 **2.** Always try to carry these special items with you to make youre Adventure
 easier and successful.
 
-(Beothaich Deum) ![Beothaich Deum](images/neurosis_barbarian_beothaich.png)  
+(Beothaich Deum) ![Beothaich Deum](images/neurosis_barbarian_beothaich.webp)  
 Also know as Red Potion.It restores (Life) when one of youre group members gets
 (slulled).What means getting Skulled?Getting Skulled means when youre group
 member runs out of HP(health) and a (Skull)appeares above its head.That skull
@@ -435,21 +435,21 @@ mark of a (Sgrios Scar)in his/hers legend.(Sgrios Scar)is a mark you shouldn't
 be proud of, it stands for (Death). (Red Potions may be made by Priests with a
 special skill which requires (2 cherries and 1 grape) to make.
 
-(Hydele Deum) ![Hydele Deum](images/neurosis_barbarian_hydele.png)  
+(Hydele Deum) ![Hydele Deum](images/neurosis_barbarian_hydele.webp)  
 Also known as Brown Potion.It restores ALL youre (HP). Its a very very useful
 potion to have in youre inventory,it may save youre life and may reduce the
 sweating that youre priest is having when he/she is healing like crazy inorder
 to survive in critical situations. (These Brown Potions may be created only by
 (Monks).So I suggest make friends with a few fellow Monks.)
 
-(Personaca Deum) ![Personaca Deum](images/neurosis_barbarian_personaca.png)  
+(Personaca Deum) ![Personaca Deum](images/neurosis_barbarian_personaca.webp)  
 Has a light brown color.It cures (Poison from youre organism). Poison drains
 youre HP pretty quickly,and is usually casted at you by youre enemy. Its a nice
 handy Potion which is not so important to have because youre Priest should have
 this Secret.But it never hurts to have a couple.These potions are made by
 Monks.
 
-(Betony Deum) ![Betony Deum](images/neurosis_barbarian_betony.png)  
+(Betony Deum) ![Betony Deum](images/neurosis_barbarian_betony.webp)  
 Also known as Vanilla Potion.Once used it casts a spell called _(Naomh aite
 deur)._ This spell eliminates 1/2 damage taken from youre enemy. Its a great
 potion to keep in youre backpack incase a situation gets critical and you must
@@ -565,23 +565,23 @@ Legend :
 
 | Swords | Name | Weight | Level | Durability | DMG-small | DMG-large | Location |
 |---|---|---|---|---|---|---|---|
-| ![Stick](images/neurosis_barbarian_sword_stick.png) | Stick | 3 | 1 | 1000 | 4m14 | 4m14 | \*[blue] |
-| ![Dirk](images/neurosis_barbarian_sword_dirk.png) | Dirk | 4 | 2 | 3000 | 5m15 | 3m13 | \*[blue] \*[orange] \*[purple] \*[red] |
-| ![Eppe](images/neurosis_barbarian_sword_eppe.png) | Eppe | 5 | 2 | 4000 | 3m13 | 5m15 | \*[purple] \*[white] \*[red] |
-| ![Loures Sabre](images/neurosis_barbarian_sword_louressabre.png) | Loures Sabre | 7 | 7 | 6000 | 18m28 | 11m21 | \*[orange] \*[white] \*[yellow] |
-| ![Claidheamh](images/neurosis_barbarian_sword_claidheamh.png) | Claidheamh | 8 | 14 | 7000 | 20m30 | 16m26 | \*[blue] \*[orange] \*[purple] \*[red] |
-| ![Broad Sword](images/neurosis_barbarian_sword_broadsword.png) | Broad Sword | 9 | 17 | 8000 | 16m26 | 20m30 | \*[purple] \*[yellow] |
-| ![Battle Sword](images/neurosis_barbarian_sword_battlesword.png) | Battle Sword | 10 | 26 | 10000 | 33m43 | 33m43 | \*[yellow] |
-| ![Templar](images/neurosis_barbarian_sword_templar.png) | Templar | 12 | 29 | 11000 | 35m45 | 31m41 | \*[white] \*[yellow] |
-| ![Masquerade](images/neurosis_barbarian_sword_masquerade.png) | Masquerade | 15 | 31 | 12000 | 31m41m | 35m45 | \*[white] |
-| ![Bramble](images/neurosis_barbarian_sword_bramble.png) | Bramble | 12 | 41 | 15000 | 40m60 | 34m54 | \*[white] \*[yellow] |
-| ![Black Death](images/neurosis_barbarian_sword_blackdeath.png) | Black Death | 18 | 45 | 16000 | 34m54 | 40m60 | \*[orange] \*[white] \*[yellow] |
-| ![Long Sword](images/neurosis_barbarian_sword_longsword.png) | Long Sword \*[red] | 18 | 56(+) | 20000 | 55m75 | 49m69 | \*[orange] \*[purple] \*[white] \*[yellow] |
-| ![Stilla](images/neurosis_barbarian_sword_stilla.png) | Stilla \*[red] | 25 | 61(+) | 22000 | 49m69 | 55m75 | \*[white] |
-| ![Claidhmore](images/neurosis_barbarian_sword_claidhmore.png) | (2H) Claidhmore \*[green] | 45 | 73(+) | 60000 | 144m184 | 128m168 | Unavailiable from mundanes |
-| ![Emerald Sword](images/neurosis_barbarian_sword_emeraldsword.png) | (2H) Emerald Sword \*[green] | 50 | 79(+) | 66000 | 128m168 | 144m184 | Unavailiable from mundanes |
-| ![Gladius](images/neurosis_barbarian_sword_gladius.png) | (2H) Gladius \*[green] | 70 | 88(+) | 80000 | 154m214 | 138m198 | Unavailiable from mundanes |
-| ![Kindjal](images/neurosis_barbarian_sword_kindjal.png) | (2H) Kindjal \*[green] | 80 | 92(+) | 90000 | 138m198 | 154m214 | Unavailiable from mundanes |
+| ![Stick](images/neurosis_barbarian_sword_stick.webp) | Stick | 3 | 1 | 1000 | 4m14 | 4m14 | \*[blue] |
+| ![Dirk](images/neurosis_barbarian_sword_dirk.webp) | Dirk | 4 | 2 | 3000 | 5m15 | 3m13 | \*[blue] \*[orange] \*[purple] \*[red] |
+| ![Eppe](images/neurosis_barbarian_sword_eppe.webp) | Eppe | 5 | 2 | 4000 | 3m13 | 5m15 | \*[purple] \*[white] \*[red] |
+| ![Loures Sabre](images/neurosis_barbarian_sword_louressabre.webp) | Loures Sabre | 7 | 7 | 6000 | 18m28 | 11m21 | \*[orange] \*[white] \*[yellow] |
+| ![Claidheamh](images/neurosis_barbarian_sword_claidheamh.webp) | Claidheamh | 8 | 14 | 7000 | 20m30 | 16m26 | \*[blue] \*[orange] \*[purple] \*[red] |
+| ![Broad Sword](images/neurosis_barbarian_sword_broadsword.webp) | Broad Sword | 9 | 17 | 8000 | 16m26 | 20m30 | \*[purple] \*[yellow] |
+| ![Battle Sword](images/neurosis_barbarian_sword_battlesword.webp) | Battle Sword | 10 | 26 | 10000 | 33m43 | 33m43 | \*[yellow] |
+| ![Templar](images/neurosis_barbarian_sword_templar.webp) | Templar | 12 | 29 | 11000 | 35m45 | 31m41 | \*[white] \*[yellow] |
+| ![Masquerade](images/neurosis_barbarian_sword_masquerade.webp) | Masquerade | 15 | 31 | 12000 | 31m41m | 35m45 | \*[white] |
+| ![Bramble](images/neurosis_barbarian_sword_bramble.webp) | Bramble | 12 | 41 | 15000 | 40m60 | 34m54 | \*[white] \*[yellow] |
+| ![Black Death](images/neurosis_barbarian_sword_blackdeath.webp) | Black Death | 18 | 45 | 16000 | 34m54 | 40m60 | \*[orange] \*[white] \*[yellow] |
+| ![Long Sword](images/neurosis_barbarian_sword_longsword.webp) | Long Sword \*[red] | 18 | 56(+) | 20000 | 55m75 | 49m69 | \*[orange] \*[purple] \*[white] \*[yellow] |
+| ![Stilla](images/neurosis_barbarian_sword_stilla.webp) | Stilla \*[red] | 25 | 61(+) | 22000 | 49m69 | 55m75 | \*[white] |
+| ![Claidhmore](images/neurosis_barbarian_sword_claidhmore.webp) | (2H) Claidhmore \*[green] | 45 | 73(+) | 60000 | 144m184 | 128m168 | Unavailiable from mundanes |
+| ![Emerald Sword](images/neurosis_barbarian_sword_emeraldsword.webp) | (2H) Emerald Sword \*[green] | 50 | 79(+) | 66000 | 128m168 | 144m184 | Unavailiable from mundanes |
+| ![Gladius](images/neurosis_barbarian_sword_gladius.webp) | (2H) Gladius \*[green] | 70 | 88(+) | 80000 | 154m214 | 138m198 | Unavailiable from mundanes |
+| ![Kindjal](images/neurosis_barbarian_sword_kindjal.webp) | (2H) Kindjal \*[green] | 80 | 92(+) | 90000 | 138m198 | 154m214 | Unavailiable from mundanes |
 
 ### Shields
 
@@ -601,13 +601,13 @@ the weight.
 
 | Shields | Name | Weight | Level | Durability | Armor Class | Location |
 |---|---|---|---|---|---|---|
-| ![Wooden](images/neurosis_barbarian_shield_wooden.png) | Wooden | 4 | 3 | 3000 | -3 | \*[blue] \*[white] |
-| ![Leather](images/neurosis_barbarian_shield_leather.png) | Leather | 5 | 15 | 5000 | -5 | \*[blue] |
-| ![Bronze](images/neurosis_barbarian_shield_bronze.png) | Bronze | 10 | 31 | 7000 | -8 | \*[blue] |
-| ![iron](images/neurosis_barbarian_shield_iron.png) | Iron | Depends | 45 | 9000 | -10 | \*[red] |
-| ![Mythril](images/neurosis_barbarian_shield_mythril.png) | Mythril | Depends | 61 | 11000 | -13 | \*[red] |
-| ![Hy-Brasyl](images/neurosis_barbarian_shield_hybrasyl.png) | Hy-Brasyl | Depends | 77 | 13000 | -15 | \*[red] |
-| ![Talos](images/neurosis_barbarian_shield_talos.png) | Talos | Depends | 90 | 15000 | -18 | \*[red] |
+| ![Wooden](images/neurosis_barbarian_shield_wooden.webp) | Wooden | 4 | 3 | 3000 | -3 | \*[blue] \*[white] |
+| ![Leather](images/neurosis_barbarian_shield_leather.webp) | Leather | 5 | 15 | 5000 | -5 | \*[blue] |
+| ![Bronze](images/neurosis_barbarian_shield_bronze.webp) | Bronze | 10 | 31 | 7000 | -8 | \*[blue] |
+| ![iron](images/neurosis_barbarian_shield_iron.webp) | Iron | Depends | 45 | 9000 | -10 | \*[red] |
+| ![Mythril](images/neurosis_barbarian_shield_mythril.webp) | Mythril | Depends | 61 | 11000 | -13 | \*[red] |
+| ![Hy-Brasyl](images/neurosis_barbarian_shield_hybrasyl.webp) | Hy-Brasyl | Depends | 77 | 13000 | -15 | \*[red] |
+| ![Talos](images/neurosis_barbarian_shield_talos.webp) | Talos | Depends | 90 | 15000 | -18 | \*[red] |
 
 ### Armor
 
@@ -627,23 +627,23 @@ Legend :
 
 | Armors | Name | Weight | Level | Durability | Armor Class | Location | Quest for Armor |
 |---|---|---|---|---|---|---|---|
-| ![Shirt](images/neurosis_barbarian_armor_shirt.png) | Shirt | 2 | 1 | 2000 | -4 | \*[blue] | - |
-| ![Leather Tunic](images/neurosis_barbarian_armor_leathertunic.png) | Leather Tunic | 4 | 1 | 3000 | -11 | \*[blue] | - |
-| ![Jupe](images/neurosis_barbarian_armor_jupe.png) | Jupe | 7 | 11 | 6000 | -17 | \*[white] | - |
-| ![Lorica](images/neurosis_barbarian_armor_lorica.png) | Lorica | 15 | 26 | 9000 | -24 | Visit(Udine's)Armory for quest | Circle 2 Quest |
-| ![Kasmanium](images/neurosis_barbarian_armor_kasmanium.png) | Kasmanium | 25 | 41 | 12000 | -30 | Visit(Piet's)Armory for quest | Circle 3 Quest |
-| ![Chainmail](images/neurosis_barbarian_armor_chainmail.png) | Chainmail | 30 | 56 | 15000 | -36 | Visit(EastWoods(15-1)Faerie for quest | Circle 4 Quest |
-| ![Implet Mail](images/neurosis_barbarian_armor_impletmail.png) | Implet Mail | 40 | 71 | 18000 | -43 | Visit(Abel Crypt's)Dwarf for quest | Circle 5 Quest |
-| ![Platemail](images/neurosis_barbarian_armor_platemail.png) | Platemail | 50 | 86 | 21000 | -49 | Visit(Abel Crypt's)Dwarf for quest | Circle 6 Quest |
-| ![Hy-Brasyl](images/neurosis_barbarian_armor_hybrasyl.png) | Hy-Brasyl | 60 | 97 | 24000 | -55 | Visit(Abel Crypts(10-1)for quest | Circle 7 Quest |
+| ![Shirt](images/neurosis_barbarian_armor_shirt.webp) | Shirt | 2 | 1 | 2000 | -4 | \*[blue] | - |
+| ![Leather Tunic](images/neurosis_barbarian_armor_leathertunic.webp) | Leather Tunic | 4 | 1 | 3000 | -11 | \*[blue] | - |
+| ![Jupe](images/neurosis_barbarian_armor_jupe.webp) | Jupe | 7 | 11 | 6000 | -17 | \*[white] | - |
+| ![Lorica](images/neurosis_barbarian_armor_lorica.webp) | Lorica | 15 | 26 | 9000 | -24 | Visit(Udine's)Armory for quest | Circle 2 Quest |
+| ![Kasmanium](images/neurosis_barbarian_armor_kasmanium.webp) | Kasmanium | 25 | 41 | 12000 | -30 | Visit(Piet's)Armory for quest | Circle 3 Quest |
+| ![Chainmail](images/neurosis_barbarian_armor_chainmail.webp) | Chainmail | 30 | 56 | 15000 | -36 | Visit(EastWoods(15-1)Faerie for quest | Circle 4 Quest |
+| ![Implet Mail](images/neurosis_barbarian_armor_impletmail.webp) | Implet Mail | 40 | 71 | 18000 | -43 | Visit(Abel Crypt's)Dwarf for quest | Circle 5 Quest |
+| ![Platemail](images/neurosis_barbarian_armor_platemail.webp) | Platemail | 50 | 86 | 21000 | -49 | Visit(Abel Crypt's)Dwarf for quest | Circle 6 Quest |
+| ![Hy-Brasyl](images/neurosis_barbarian_armor_hybrasyl.webp) | Hy-Brasyl | 60 | 97 | 24000 | -55 | Visit(Abel Crypts(10-1)for quest | Circle 7 Quest |
 
 #### Helms
 
 | Armors | Name | Weight | Level | Durability | Armor Class | Location |
 |---|---|---|---|---|---|---|
-| ![Implet Mail Helm](images/neurosis_barbarian_armor_impletmailhelm.png) | Implet Mail Helm | 2 | 71 | 18000 | -2 | Included with Implat Mail Armor |
-| ![Platemail Helm](images/neurosis_barbarian_armor_platemailhelm.png) | Platemail Helm | 3 | 86 | 21000 | -4 | Included with Platemail Armor |
-| ![Hy-Brasyl Helm](images/neurosis_barbarian_armor_hybrasylhelm.png) | Hy-Brasyl Helm | 4 | 99 | 24000 | -6 | Included with Hy-Brasyl Armor |
+| ![Implet Mail Helm](images/neurosis_barbarian_armor_impletmailhelm.webp) | Implet Mail Helm | 2 | 71 | 18000 | -2 | Included with Implat Mail Armor |
+| ![Platemail Helm](images/neurosis_barbarian_armor_platemailhelm.webp) | Platemail Helm | 3 | 86 | 21000 | -4 | Included with Platemail Armor |
+| ![Hy-Brasyl Helm](images/neurosis_barbarian_armor_hybrasylhelm.webp) | Hy-Brasyl Helm | 4 | 99 | 24000 | -6 | Included with Hy-Brasyl Armor |
 
 #### The (26 insight)(Circle 2) Armor Quest.
 
@@ -736,17 +736,17 @@ the weight.
 
 | Gauntlet | Name | Weight | Level | Durability | Armor Class | Location |
 |---|---|---|---|---|---|---|
-| ![Leather Gauntlet](images/neurosis_barbarian_gauntlet_leathergauntlet.png) | Leather Gauntlet | 2 | 9 | 3000 | -1 | \*[blue] |
-| ![Iron Gauntlet](images/neurosis_barbarian_gauntlet_irongauntlet.png) | Iron Gauntlet | Depends | 33 | 5000 | -2 | \*[red] |
-| ![Mythril Gauntlet](images/neurosis_barbarian_gauntlet_mythrilgauntlet.png) | Mythril Gauntlet | Depends | 63 | 7000 | -3 | \*[red] |
+| ![Leather Gauntlet](images/neurosis_barbarian_gauntlet_leathergauntlet.webp) | Leather Gauntlet | 2 | 9 | 3000 | -1 | \*[blue] |
+| ![Iron Gauntlet](images/neurosis_barbarian_gauntlet_irongauntlet.webp) | Iron Gauntlet | Depends | 33 | 5000 | -2 | \*[red] |
+| ![Mythril Gauntlet](images/neurosis_barbarian_gauntlet_mythrilgauntlet.webp) | Mythril Gauntlet | Depends | 63 | 7000 | -3 | \*[red] |
 
 #### Greaves
 
 | Armors | Name | Weight | Level | Durability | Armor Class | Location |
 |---|---|---|---|---|---|---|
-| ![Leather Greaves](images/neurosis_barbarian_gauntlet_leathergreaves.png) | Leather Greaves | 4 | 6 | 3000 | -2 | \*[orange] |
-| ![Iron Greaves](images/neurosis_barbarian_gauntlet_irongreaves.png) | Iron Greaves | 6 | 20 | 6000 | -4 | \*[orange] |
-| ![Mythril Greaves](images/neurosis_barbarian_gauntlet_mythrilgreaves.png) | Mythril Greaves | Depends | 59 | 9000 | -6 | \*[red] |
+| ![Leather Greaves](images/neurosis_barbarian_gauntlet_leathergreaves.webp) | Leather Greaves | 4 | 6 | 3000 | -2 | \*[orange] |
+| ![Iron Greaves](images/neurosis_barbarian_gauntlet_irongreaves.webp) | Iron Greaves | 6 | 20 | 6000 | -4 | \*[orange] |
+| ![Mythril Greaves](images/neurosis_barbarian_gauntlet_mythrilgreaves.webp) | Mythril Greaves | Depends | 59 | 9000 | -6 | \*[red] |
 
 ### Shoes-Belts
 
@@ -768,27 +768,27 @@ Legend :
 
 | Shoes | Color | Name | Weight | Level | Durability | Additions | Location |
 |---|---|---|---|---|---|---|---|
-| ![Boots](images/neurosis_barbarian_shoes_boots.png) | Boots | Dark Blue | 2 | 1 | 3000 | - | \*[blue] |
-| ![Grey Boots](images/neurosis_barbarian_shoes_greyboots.png) | Grey Boots | Black | 2 | 11 | 3000 | - | \*[blue] |
-| ![Cured Boots](images/neurosis_barbarian_shoes_curedboots.png) | Cured Boots | Gray | 2 | 24 | 9000 | +1 Dex | \*[blue] |
-| ![Shagreen Boots](images/neurosis_barbarian_shoes_shagreenboots.png) | Shagreen Boots | Green | 2 | 33 | 15000 | +2 Dex | \*[blue] |
-| ![Cordovan Boots](images/neurosis_barbarian_shoes_cordovanboots.png) | Cordovan Boots \*[red] | Orange with Red | 2 | 50 | 21000 | +3 Dex | Unavailabe from the mundanes |
-| ![Lapis Boots](images/neurosis_barbarian_shoes_lapisboots.png) | Lapis Boots \*[red] | Blue | 2 | 56 | 3000 | - | Unavailable from the mundanes |
-| ![Saffian Boots](images/neurosis_barbarian_shoes_saffianboots.png) | Saffian Boots \*[red] | Purple | 2 | 66 | 27000 | +4 Dex | Unavailable from the mundanes |
-| ![Magma Boots](images/neurosis_barbarian_shoes_magmaboots.png) | Magma Boots \*[red] | Red | 2 | 82 | 33000 | +5 Dex | unavailable from the mundanes |
+| ![Boots](images/neurosis_barbarian_shoes_boots.webp) | Boots | Dark Blue | 2 | 1 | 3000 | - | \*[blue] |
+| ![Grey Boots](images/neurosis_barbarian_shoes_greyboots.webp) | Grey Boots | Black | 2 | 11 | 3000 | - | \*[blue] |
+| ![Cured Boots](images/neurosis_barbarian_shoes_curedboots.webp) | Cured Boots | Gray | 2 | 24 | 9000 | +1 Dex | \*[blue] |
+| ![Shagreen Boots](images/neurosis_barbarian_shoes_shagreenboots.webp) | Shagreen Boots | Green | 2 | 33 | 15000 | +2 Dex | \*[blue] |
+| ![Cordovan Boots](images/neurosis_barbarian_shoes_cordovanboots.webp) | Cordovan Boots \*[red] | Orange with Red | 2 | 50 | 21000 | +3 Dex | Unavailabe from the mundanes |
+| ![Lapis Boots](images/neurosis_barbarian_shoes_lapisboots.webp) | Lapis Boots \*[red] | Blue | 2 | 56 | 3000 | - | Unavailable from the mundanes |
+| ![Saffian Boots](images/neurosis_barbarian_shoes_saffianboots.webp) | Saffian Boots \*[red] | Purple | 2 | 66 | 27000 | +4 Dex | Unavailable from the mundanes |
+| ![Magma Boots](images/neurosis_barbarian_shoes_magmaboots.webp) | Magma Boots \*[red] | Red | 2 | 82 | 33000 | +5 Dex | unavailable from the mundanes |
 
 #### Belts
 
 | Belts | Name | Weight | Level | Durability | Additions | Location |
 |---|---|---|---|---|---|---|
-| ![Leather Belt](images/neurosis_barbarian_shoes_leatherbelt.png) | Leather Belt \*[red] | 1 | 12 | 2000 | +1 Wis | Unavailable from the mundanes |
-| ![Mythril Belt](images/neurosis_barbarian_shoes_mythrilbelt.png) | Mythril Belt \*[red] | 1 | 12 | 2000 | +1 Con | Unavailable from the mundanes |
-| ![Hy-Brasyl Belt](images/neurosis_barbarian_shoes_hybrasylbelt.png) | Hy-Brasyl Belt \*[red] | 1 | 12 | 2500 | +1 Wis +1 Con | Unavailable from the mundanes |
-| ![Fire Belt](images/neurosis_barbarian_shoes_firebelt.png) | Fire Belt | 1 | 4 | 1000 | Adds Element to defence | \*[red] |
-| ![Earth Belt](images/neurosis_barbarian_shoes_earthbelt.png) | Earth Belt | 1 | 4 | 1000 | Adds Element to defence | \*[yellow] |
-| ![Wind Belt](images/neurosis_barbarian_shoes_windbelt.png) | Wind Belt | 1 | 4 | 1000 | Adds Element to defence | \*[purple] |
-| ![Sea Belt](images/neurosis_barbarian_shoes_seabelt.png) | Sea Belt | 1 | 4 | 1000 | Adds Element to defence | \*[green] |
-| ![Dark Belt](images/neurosis_barbarian_shoes_darkbelt.png) | Dark Belt \*[red] | 1 | 12 | 2000 | Adds (Dark)protection | unavailable from the mundanes |
+| ![Leather Belt](images/neurosis_barbarian_shoes_leatherbelt.webp) | Leather Belt \*[red] | 1 | 12 | 2000 | +1 Wis | Unavailable from the mundanes |
+| ![Mythril Belt](images/neurosis_barbarian_shoes_mythrilbelt.webp) | Mythril Belt \*[red] | 1 | 12 | 2000 | +1 Con | Unavailable from the mundanes |
+| ![Hy-Brasyl Belt](images/neurosis_barbarian_shoes_hybrasylbelt.webp) | Hy-Brasyl Belt \*[red] | 1 | 12 | 2500 | +1 Wis +1 Con | Unavailable from the mundanes |
+| ![Fire Belt](images/neurosis_barbarian_shoes_firebelt.webp) | Fire Belt | 1 | 4 | 1000 | Adds Element to defence | \*[red] |
+| ![Earth Belt](images/neurosis_barbarian_shoes_earthbelt.webp) | Earth Belt | 1 | 4 | 1000 | Adds Element to defence | \*[yellow] |
+| ![Wind Belt](images/neurosis_barbarian_shoes_windbelt.webp) | Wind Belt | 1 | 4 | 1000 | Adds Element to defence | \*[purple] |
+| ![Sea Belt](images/neurosis_barbarian_shoes_seabelt.webp) | Sea Belt | 1 | 4 | 1000 | Adds Element to defence | \*[green] |
+| ![Dark Belt](images/neurosis_barbarian_shoes_darkbelt.webp) | Dark Belt \*[red] | 1 | 12 | 2000 | Adds (Dark)protection | unavailable from the mundanes |
 
 ### Jewlery
 
@@ -813,42 +813,42 @@ Legend :
 
 | Necklaces | Name | Weight | Level | Durability | Adds Damage | Adds Hit | Location |
 |---|---|---|---|---|---|---|---|
-| ![Fire Necklace](images/neurosis_barbarian_jewelry_firenecklace.png) | Fire Necklace | 1 | 6 | 1000 | 0 | 0 | \*[purple] |
-| ![Earth Necklace](images/neurosis_barbarian_jewelry_earthnecklace.png) | Earth Necklace | 1 | 6 | 1000 | 0 | 0 | \*[purple] |
-| ![Wind Necklace](images/neurosis_barbarian_jewelry_windnecklace.png) | Wind Necklace | 1 | 6 | 1000 | 0 | 0 | \*[purple] |
-| ![Sea Necklace](images/neurosis_barbarian_jewelry_seanecklace.png) | Sea Necklace | 1 | 6 | 1000 | 0 | 0 | \*[purple] \*[green] |
-| ![Amber Necklace](images/neurosis_barbarian_jewelry_ambernecklace.png) | Amber Necklace | 1 | 14 | 3000 | +2 | 0 | \*[blue] |
-| ![Bone Necklace](images/neurosis_barbarian_jewelry_bonenecklace.png) | Bone Necklace | 1 | 15 | 2500 | +1 | +5 | \*[blue] |
-| ![Gold Jade Necklace](images/neurosis_barbarian_jewelry_goldjadenecklace.png) | Gold Jade Necklace | 1 | 10 | 2000 | +1 | 0 | \*[red] \*[yellow] |
-| ![Pearl Necklace](images/neurosis_barbarian_jewelry_pearlnecklace.png) | Pearl Necklace | 1 | 11 | 2000 | 0 | +5 | \*[orange] |
-| ![Jade Necklace](images/neurosis_barbarian_jewelry_jadenecklace.png) | Jade Necklace | 1 | 13 | 3000 | 0 | +10 | \*[red] |
-| ![Prayer Necklace](images/neurosis_barbarian_jewelry_prayernecklace.png) | Prayer Necklace\*[red] | 1 | 0 | 2000 | 0 | 0 | Must worship a God to get. |
+| ![Fire Necklace](images/neurosis_barbarian_jewelry_firenecklace.webp) | Fire Necklace | 1 | 6 | 1000 | 0 | 0 | \*[purple] |
+| ![Earth Necklace](images/neurosis_barbarian_jewelry_earthnecklace.webp) | Earth Necklace | 1 | 6 | 1000 | 0 | 0 | \*[purple] |
+| ![Wind Necklace](images/neurosis_barbarian_jewelry_windnecklace.webp) | Wind Necklace | 1 | 6 | 1000 | 0 | 0 | \*[purple] |
+| ![Sea Necklace](images/neurosis_barbarian_jewelry_seanecklace.webp) | Sea Necklace | 1 | 6 | 1000 | 0 | 0 | \*[purple] \*[green] |
+| ![Amber Necklace](images/neurosis_barbarian_jewelry_ambernecklace.webp) | Amber Necklace | 1 | 14 | 3000 | +2 | 0 | \*[blue] |
+| ![Bone Necklace](images/neurosis_barbarian_jewelry_bonenecklace.webp) | Bone Necklace | 1 | 15 | 2500 | +1 | +5 | \*[blue] |
+| ![Gold Jade Necklace](images/neurosis_barbarian_jewelry_goldjadenecklace.webp) | Gold Jade Necklace | 1 | 10 | 2000 | +1 | 0 | \*[red] \*[yellow] |
+| ![Pearl Necklace](images/neurosis_barbarian_jewelry_pearlnecklace.webp) | Pearl Necklace | 1 | 11 | 2000 | 0 | +5 | \*[orange] |
+| ![Jade Necklace](images/neurosis_barbarian_jewelry_jadenecklace.webp) | Jade Necklace | 1 | 13 | 3000 | 0 | +10 | \*[red] |
+| ![Prayer Necklace](images/neurosis_barbarian_jewelry_prayernecklace.webp) | Prayer Necklace\*[red] | 1 | 0 | 2000 | 0 | 0 | Must worship a God to get. |
 
 #### Earrings
 
 | Earrings | Name | Weight | Level | Durability | Additions | Location |
 |---|---|---|---|---|---|---|
-| ![Gold Earrings](images/neurosis_barbarian_jewelry_goldearrings.png) | Gold Earrings | 1 | 8 | 2000 | +2 Strength | \*[yellow] |
-| ![Silver Earrings](images/neurosis_barbarian_jewelry_silverearrings.png) | Silver Earrings | 1 | 8 | 1000 | +1 Strength | \*[yellow] |
-| ![Coral Earrings](images/neurosis_barbarian_jewelry_coralearrings.png) | Coral Earrings | 1 | 8 | 2000 | +2 Intelligence | \*[blue] |
-| ![Ruby Earrings](images/neurosis_barbarian_jewelry_rubyearrings.png) | Ruby Earrings | 1 | 8 | 1000 | +1 Strength +1 Intelligence | \*[red] |
+| ![Gold Earrings](images/neurosis_barbarian_jewelry_goldearrings.webp) | Gold Earrings | 1 | 8 | 2000 | +2 Strength | \*[yellow] |
+| ![Silver Earrings](images/neurosis_barbarian_jewelry_silverearrings.webp) | Silver Earrings | 1 | 8 | 1000 | +1 Strength | \*[yellow] |
+| ![Coral Earrings](images/neurosis_barbarian_jewelry_coralearrings.webp) | Coral Earrings | 1 | 8 | 2000 | +2 Intelligence | \*[blue] |
+| ![Ruby Earrings](images/neurosis_barbarian_jewelry_rubyearrings.webp) | Ruby Earrings | 1 | 8 | 1000 | +1 Strength +1 Intelligence | \*[red] |
 
 #### Rings
 
 | Rings | Name | Weight | Level | Durability | Adds MP | Adds HP | Additions | Location |
 |---|---|---|---|---|---|---|---|---|
-| ![Emerald Ring](images/neurosis_barbarian_jewelry_emeraldring.png) | Emerald Ring | 1 | 12 | 2000 | 0 | +500 | +2 DMG | \*[red] |
-| ![Small Emerald](images/neurosis_barbarian_jewelry_smallemerald.png) | Small Emerald\*[red] | 1 | 1 | 2000 | 0 | +300 | +2 DMG | CompleteTutorial |
-| ![Spinal Ring](images/neurosis_barbarian_jewelry_spinalring.png) | Spinel Ring | 1 | 11 | 2000 | 0 | +500 | +2 Hit | \*[green] |
-| ![Small Spinel](images/neurosis_barbarian_jewelry_smallspinel.png) | Small Spinel \*[red] | 1 | 1 | 2000 | 0 | +300 | +2 Hit | Complete Tutorial |
-| ![Grave Ring](images/neurosis_barbarian_jewelry_gravering.png) | Grave Ring \*[red] | 1 | 17 | 4000 | +100 | 0 | Protects from the Scars of Sgrios | Unavailable from mundanes |
-| ![Talos Ring](images/neurosis_barbarian_jewelry_talosring.png) | Talos Ring | 1 | 4 | 2000 | 0 | +100 | - | \*[yellow] |
-| ![Ruby Ring](images/neurosis_barbarian_jewelry_rubyring.png) | Ruby Ring | 1 | 6 | 2000 | 0 | +200 | - | \*[blue] |
-| ![Beryl Ring](images/neurosis_barbarian_jewelry_berylring.png) | Beryl Ring | 1 | 5 | 2000 | +50 | 0 | - | \*[green] |
-| ![Coral Ring](images/neurosis_barbarian_jewelry_coralring.png) | Coral Ring | 1 | 14 | 3000 | +100 | 0 | - | \*[green] |
-| ![Amethyst Ring](images/neurosis_barbarian_jewelry_amethystring.png) | Amethyst Ring | 1 | 16 | 4000 | +100 | +200 | - | \*[blue] |
-| ![Red Jade Ring](images/neurosis_barbarian_jewelry_redjadering.png) | Red Jade Ring | 1 | 10 | 3000 | 0 | +100 | - | \*[yellow] |
-| ![Jade Ring](images/neurosis_barbarian_jewelry_jadering.png) | Jade Ring | 1 | 16 | 5000 | +150 | +300 | - | \*[red] |
+| ![Emerald Ring](images/neurosis_barbarian_jewelry_emeraldring.webp) | Emerald Ring | 1 | 12 | 2000 | 0 | +500 | +2 DMG | \*[red] |
+| ![Small Emerald](images/neurosis_barbarian_jewelry_smallemerald.webp) | Small Emerald\*[red] | 1 | 1 | 2000 | 0 | +300 | +2 DMG | CompleteTutorial |
+| ![Spinal Ring](images/neurosis_barbarian_jewelry_spinalring.webp) | Spinel Ring | 1 | 11 | 2000 | 0 | +500 | +2 Hit | \*[green] |
+| ![Small Spinel](images/neurosis_barbarian_jewelry_smallspinel.webp) | Small Spinel \*[red] | 1 | 1 | 2000 | 0 | +300 | +2 Hit | Complete Tutorial |
+| ![Grave Ring](images/neurosis_barbarian_jewelry_gravering.webp) | Grave Ring \*[red] | 1 | 17 | 4000 | +100 | 0 | Protects from the Scars of Sgrios | Unavailable from mundanes |
+| ![Talos Ring](images/neurosis_barbarian_jewelry_talosring.webp) | Talos Ring | 1 | 4 | 2000 | 0 | +100 | - | \*[yellow] |
+| ![Ruby Ring](images/neurosis_barbarian_jewelry_rubyring.webp) | Ruby Ring | 1 | 6 | 2000 | 0 | +200 | - | \*[blue] |
+| ![Beryl Ring](images/neurosis_barbarian_jewelry_berylring.webp) | Beryl Ring | 1 | 5 | 2000 | +50 | 0 | - | \*[green] |
+| ![Coral Ring](images/neurosis_barbarian_jewelry_coralring.webp) | Coral Ring | 1 | 14 | 3000 | +100 | 0 | - | \*[green] |
+| ![Amethyst Ring](images/neurosis_barbarian_jewelry_amethystring.webp) | Amethyst Ring | 1 | 16 | 4000 | +100 | +200 | - | \*[blue] |
+| ![Red Jade Ring](images/neurosis_barbarian_jewelry_redjadering.webp) | Red Jade Ring | 1 | 10 | 3000 | 0 | +100 | - | \*[yellow] |
+| ![Jade Ring](images/neurosis_barbarian_jewelry_jadering.webp) | Jade Ring | 1 | 16 | 5000 | +150 | +300 | - | \*[red] |
 
 _Almost all the images in this Guide were captured from DarkAges,and are
 Property of Nexon._
@@ -860,6 +860,7 @@ _Written and Compiled by Warrior Neurosis Chujin_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #16).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/download/Neurosis_Barbarian/index.html .
 ```

@@ -71,6 +71,7 @@ Indeed we did! If we keep our cool instead of instantly wanting to eat the young
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lore Contest, 15 August 2003.
 This entry has been edited to conform to Library formatting.
 The original was found at http://members.aol.com/fadedwings/lore/, but has been lost.
 This copy was sourced from a community back-up found at https://milethlibrary.weebly.com/lore-aisely-proper-temuairian-etiquette.html .

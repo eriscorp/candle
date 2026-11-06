@@ -344,6 +344,7 @@ _Daravon Ragnar_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #5).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Daravon_Warfare.html .
 ```

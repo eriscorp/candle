@@ -80,6 +80,7 @@ Priest of Fiosachd, Third Circle.
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #209).
 This entry has been edited to conform to Library formatting.
 The original copy of this document was lost. It has been reconstructed from fragments.
 ```

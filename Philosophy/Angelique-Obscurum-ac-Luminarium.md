@@ -4,7 +4,7 @@ _by Angelique in **Dark Ages**_
 
  Darkness|Light
  --------|-------
-![Chadul: Darkness Lord, by Erenthar](images/ange_obscurum_erenthar_darklord.png) | ![Awakening, by Katrionah](images/ange_obscurum_katrionah_awakening.png)
+![Chadul: Darkness Lord, by Erenthar](images/ange_obscurum_erenthar_darklord.webp) | ![Awakening, by Katrionah](images/ange_obscurum_katrionah_awakening.webp)
 
 ## Gnosis
 
@@ -15,9 +15,9 @@ _Over the Grinneals, Danaans, and even Deochs, theology has played a major role 
 Octagram|Figures
 --------|-------
 Figure 1: The Traditional Octagram|Figure 2: Theoretical Arrangement
-[![Figure 1: The Traditional Octagram](images/ange_obscurum_octagram_traditional.png)](images/ange_obscurum_octagram_traditional.png)|[![Figure 2: Theoretical Arrangement](images/ange_obscurum_octagram_new.png)](images/ange_obscurum_octagram_new.png)
+[![Figure 1: The Traditional Octagram](images/ange_obscurum_octagram_traditional.webp)](images/ange_obscurum_octagram_traditional.webp)|[![Figure 2: Theoretical Arrangement](images/ange_obscurum_octagram_new.webp)](images/ange_obscurum_octagram_new.webp)
 Figure 3: Altruism against Selfishness|Figure 4: Order against Chaos
-[![Figure 3: Altruism against Selfishness](images/ange_obscurum_octagram_good_evil.png)](images/ange_obscurum_octagram_good_evil.png)|[![Figure 4: Order against Chaos](images/ange_obscurum_octagram_chaos_order.png)](images/ange_obscurum_octagram_chaos_order_small.png)
+[![Figure 3: Altruism against Selfishness](images/ange_obscurum_octagram_good_evil.webp)](images/ange_obscurum_octagram_good_evil.webp)|[![Figure 4: Order against Chaos](images/ange_obscurum_octagram_chaos_order.webp)](images/ange_obscurum_octagram_chaos_order_small.webp)
 
 ---
 
@@ -48,7 +48,7 @@ Once again, the balance of forces can be seen in the octagram, through the influ
 
 ### Light against Darkness
 
-[![Figure 5: Light and Darkness](images/ange_obscurum_octagram_traditional_with_small.png)](images/ange_obscurum_octagram_traditional_with.png)
+[![Figure 5: Light and Darkness](images/ange_obscurum_octagram_traditional_with_small.webp)](images/ange_obscurum_octagram_traditional_with.webp)
 
 Curiously enough, both Light and Darkness enter the Octogram through the influence of the Trinity of Chaos.  Our Lady of Light, Danaan, gave us her daughter Glioca, and through her love of Deoch, allowed the creation of the Aisling.  However, the Lord of Darkness, Chadul, was once served by Deoch, with Sgrios as his means of defeating mankind.  It is this reason that Gramail is called the weakest of all the Gods, for he is beset on both sides by Light and Dark.  Those of Glioca chide him for his lack of compassion, while those of Sgrios chafe under his rules and measures which stifle the decay of both the land and its people.  However, given the current state of indisposition held by both Danaan and Chadul through the Great Sacrifice, Gramail has been given more room in which to seek out his goals.
 

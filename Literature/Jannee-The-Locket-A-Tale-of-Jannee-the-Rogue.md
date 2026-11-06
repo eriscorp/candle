@@ -397,6 +397,7 @@ one heard anything except Jannee's quiet sobs and Sinthy utter the words,
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #176).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Jannee_Locket.htm .
 ```

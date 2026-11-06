@@ -71,6 +71,7 @@ In the land of Temuair.
 ```
 *Librarian Notes*
 
+Recognized: Folk, Bards Recognized (Events of Temuair post #151).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Mayukichan_Song.htm .
 ```

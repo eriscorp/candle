@@ -147,6 +147,7 @@ Have that Aisling there with you.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #91).
 This entry is considered one of the greatest treasures of Temuair.
 
 This entry has been edited to conform to Library formatting.

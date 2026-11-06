@@ -9,6 +9,7 @@ _by Fyssera in **Dark Ages**_
 ```
 *Librarian Notes*
 
+Recognized: Village, History Contest, 24 June 2005.
 The original copy of this work has been lost, and cannot be found. Do you have it?
 Please contact us.
 ```

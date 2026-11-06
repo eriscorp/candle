@@ -102,6 +102,7 @@ _Leader of the Lords de Niara_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #101).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Nitrotfd_Guard.html .
 ```

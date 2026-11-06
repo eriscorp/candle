@@ -4,7 +4,7 @@ _by Sungam in **Dark Ages**_
 
 _Warrior Lore:_
 
-![Via Equitis](images/sungam_warrior_title.png)
+![Via Equitis](images/sungam_warrior_title.webp)
 
 ## Chapter 1: The Warrior's Path
 
@@ -216,7 +216,7 @@ the Cotehardie and Kasmanium Hauberk):
 
 #### Stick
 
-![Stick](images/sungam_warrior_stick.png)
+![Stick](images/sungam_warrior_stick.webp)
 
 The only weapon you can use with your first insight, and consequently the best.
 You can get one for free by talking with Callough, the weapon smith of Mileth.
@@ -230,7 +230,7 @@ Large: 4-14
 
 #### Shirt (male)
 
-![Shirt (male)](images/sungam_warrior_shirt.png)
+![Shirt (male)](images/sungam_warrior_shirt.webp)
 
 A peasant's clothing. Certainly not fit for an Aisling such as yourself.
 However, until you are initiated into on of the five crafts, this is the only
@@ -244,7 +244,7 @@ Armor Class: -4
 
 #### Blouse (female)
 
-![Blouse (female)](images/sungam_warrior_blouse.png)
+![Blouse (female)](images/sungam_warrior_blouse.webp)
 
 Like the Shirt, this garment is only for the uninitiated. Still it is better
 than nothing.
@@ -257,7 +257,7 @@ Armor Class: -4
 
 #### Boots
 
-![Boots](images/sungam_warrior_boots.png)
+![Boots](images/sungam_warrior_boots.webp)
 
 A fine pair of boots which will serve you well for quite a while. They do not
 offer any special protection but you certainly shouldn't walk around barefoot.
@@ -270,7 +270,7 @@ Bonus: None
 
 #### Leather Tunic (male)
 
-![Leather Tunic (male)](images/sungam_warrior_tunic.png)
+![Leather Tunic (male)](images/sungam_warrior_tunic.webp)
 
 Now it's beginning to look better... The warrior's first armor! This one will
 be a great ally and a symbol of your status as a Warrior of Temuair. It is also
@@ -284,7 +284,7 @@ Armor Class: -11
 
 #### Leather Bliaut (female)
 
-![Leather Bliaut (female)](images/sungam_warrior_bliaut.png)
+![Leather Bliaut (female)](images/sungam_warrior_bliaut.webp)
 
 Like the Leather Tunic, this is a fine garment indeed. Your first step on the
 warrior's path should begin with this armor.
@@ -299,7 +299,7 @@ Armor Class: -11
 
 #### Eppe
 
-![Eppe](images/sungam_warrior_eppe.png)
+![Eppe](images/sungam_warrior_eppe.webp)
 
 Actually the Eppe isn't as good a weapon as the Stick for the enemies you will
 be facing (small type enemies), but at least it looks better...
@@ -313,7 +313,7 @@ Large: 5-15
 
 #### Dirk
 
-![Dirk](images/sungam_warrior_dirk.png)
+![Dirk](images/sungam_warrior_dirk.webp)
 
 Many think that the Eppe is better than the Dirk due to its appearance, but
 actually the Dirk is better than both the Stick and the Eppe for the small
@@ -330,7 +330,7 @@ Large: 3-13
 
 #### Wooden Shield
 
-![Wooden Shield](images/sungam_warrior_woodshie.png)
+![Wooden Shield](images/sungam_warrior_woodshie.webp)
 
 As a Warrior a shield is essential to your further progress. This is the only
 one you will be able to use for a very long time, so ignore its lack in
@@ -346,7 +346,7 @@ Armor Class: -3
 
 #### Ruby Ring
 
-![Ruby Ring](images/sungam_warrior_spinel.png)
+![Ruby Ring](images/sungam_warrior_spinel.webp)
 
 In case you already have the Small Spinel and Small Emerald Rings which you can
 gain in the Tutorial this is not worth its price. However, if you do not have
@@ -362,7 +362,7 @@ Bonus: +200HP
 
 #### Leather Greaves
 
-![Leather Greaves](images/sungam_warrior_leagreav.png)
+![Leather Greaves](images/sungam_warrior_leagreav.webp)
 
 Good defense but also a high weight. You might not notice this until you get
 your next armor but by then you probably won't be able to equip these unless
@@ -378,7 +378,7 @@ Armor Class: -2
 
 #### Loures Saber
 
-![Loures Saber](images/sungam_warrior_loures.png)
+![Loures Saber](images/sungam_warrior_loures.webp)
 
 Finally you can get a new sword. This one is indeed worth it as well. Much
 better attack damage and a much improved appearance. I doubt I even need to
@@ -395,7 +395,7 @@ Large: 18-28
 
 #### Gold Earrings
 
-![Gold Earrings](images/sungam_warrior_goldear.png)
+![Gold Earrings](images/sungam_warrior_goldear.webp)
 
 Essential to the warrior's ever growing set of equipment. Light-weight, fairly
 cheap and very effective, these earrings should be an obvious buy.
@@ -410,7 +410,7 @@ Bonus: +2 STR
 
 #### Leather Gauntlet
 
-![Leather Gauntlet](images/sungam_warrior_leagauntlet.png)
+![Leather Gauntlet](images/sungam_warrior_leagauntlet.webp)
 
 A nice addition to your armory... Not all that much defensive power but if you
 can carry them it's still worth it. If you can afford it, get two of these.
@@ -425,7 +425,7 @@ Armor Class: -1
 
 #### Jupe (male)
 
-![Jupe (male)](images/sungam_warrior_jupe.png)
+![Jupe (male)](images/sungam_warrior_jupe.webp)
 
 MUCH better! Now you're on the right track to look like a warrior! Not only
 that, but the armor class of this garment is greatly improved. Only bad point
@@ -440,7 +440,7 @@ Armor Class: -17
 
 #### Cuirass (female)
 
-![Cuirass (female)](images/sungam_warrior_cuirass.png)
+![Cuirass (female)](images/sungam_warrior_cuirass.webp)
 
 The 2nd circle, which you enter after your 11th insight, certainly offers some
 great garments. Like the Jupe it does have quite a high weight but still worth
@@ -454,7 +454,7 @@ Armor Class: -17
 
 #### Grey Boots
 
-![Grey Boots](images/sungam_warrior_greyboot.png)
+![Grey Boots](images/sungam_warrior_greyboot.webp)
 
 Like your old boots these do not offer anything in terms of bonuses or armor
 and are merely a proof of your social status. By now you should be able to find
@@ -468,7 +468,7 @@ Bonus: None
 
 #### Spinel Ring
 
-![Spinel Ring](images/sungam_warrior_spinel.png)
+![Spinel Ring](images/sungam_warrior_spinel.webp)
 
 I only want to say two words...: "Get them!"... At least that's what I wish I
 could say. But unfortunately these are extremely expensive. If you can get an
@@ -485,7 +485,7 @@ Bonus: +500HP and +2 HIT
 
 #### Emerald Ring
 
-![Emerald Ring](images/sungam_warrior_emerald.png)
+![Emerald Ring](images/sungam_warrior_emerald.webp)
 
 If you already have Spinel rings, there isn't much of a reason to get one of
 these. And remember that they are even more expensive than the Spinels so you
@@ -502,7 +502,7 @@ Bonus: +500HP and +2 DAM
 
 #### Fire/Sea/Wind/Earth Leather Belt
 
-![Fire/Sea/Wind/Earth Leather Belt](images/sungam_warrior_leabelt.png)
+![Fire/Sea/Wind/Earth Leather Belt](images/sungam_warrior_leabelt.webp)
 
 Much better than the normal elemental belts for two reasons: 1. It's free and
 easy to find. 2. It gives a bonus to your wisdom. You should get it for the
@@ -518,7 +518,7 @@ Bonus: Fire/Water/Wind/Earth magic resistance and +1 WIS
 
 #### Fire/Sea/Wind/Earth Mythril Belt
 
-![Fire/Sea/Wind/Earth Mythril Belt](images/sungam_warrior_mythbelt.png)
+![Fire/Sea/Wind/Earth Mythril Belt](images/sungam_warrior_mythbelt.webp)
 
 Not all that much different from Leather Belts... It is mostly a matter of
 preferance between wisdom and constitution. Unlike most other items you've
@@ -536,7 +536,7 @@ Bonus: Fire/Water/Wind/Earth magic resistance and +1 CON
 
 #### Claidheamh
 
-![Claidheamh](images/sungam_warrior_claidheamh.png)
+![Claidheamh](images/sungam_warrior_claidheamh.webp)
 
 Your first large sword. This one is quite a bit better than the Loures Saber
 for small enemies which still should be the only ones you battle. Since it is
@@ -553,7 +553,7 @@ Large: 16-26
 
 #### Leather Shield
 
-![Leather Shield](images/sungam_warrior_leashiel.png)
+![Leather Shield](images/sungam_warrior_leashiel.webp)
 
 Didn't I say you'd have to wait a while for this one? Well it was worth it.
 Both defensive strength and appearance are much better with this addition.
@@ -568,7 +568,7 @@ Armor Class: -8
 
 #### Broad Sword
 
-![Broad Sword](images/sungam_warrior_broad.png)
+![Broad Sword](images/sungam_warrior_broad.webp)
 
 This sword may look good but actually you shouldn't use it... It is great for
 large enemies but even now the majority of enemies you will fight are of the
@@ -588,7 +588,7 @@ Large: 20-30
 
 #### Iron Greaves
 
-![Iron Greaves](images/sungam_warrior_irongreaves.png)
+![Iron Greaves](images/sungam_warrior_irongreaves.webp)
 
 Heavy and expensive armory and not all that much more armor than the Leather
 version. If you can carry and afford it go ahead. Otherwise you won't miss out
@@ -604,7 +604,7 @@ Armor Class: -4
 
 #### Cured Boots
 
-![Cured Boots](images/sungam_warrior_curedboo.png)
+![Cured Boots](images/sungam_warrior_curedboo.webp)
 
 Finally a pair of boots that offer a bonus! In addition it is pretty easy to
 find enchanted versions of these. I suggest you get them as soon as you can.
@@ -619,7 +619,7 @@ Bonus: +1 DEX
 
 #### Battle Sword
 
-![Battle Sword](images/sungam_warrior_battlesword.png)
+![Battle Sword](images/sungam_warrior_battlesword.webp)
 
 An incredibly good sword! Run all the way to Piet and purchase one of these,
 the instant you reach insight 26. Actually you might want to carry one with
@@ -639,7 +639,7 @@ Large: 33-43
 
 #### Lorica/Cotehardie
 
-![Lorica/Cotehardie](images/sungam_warrior_lorica.png)
+![Lorica/Cotehardie](images/sungam_warrior_lorica.webp)
 
 New armor! This is actually a pretty weird one... all other crafts only gain a
 new armor for each new circle they enter, but the warriors' system is very
@@ -665,7 +665,7 @@ Armor Class: -25
 
 #### Templar
 
-![Templar](images/sungam_warrior_templar.png)
+![Templar](images/sungam_warrior_templar.webp)
 
 A very nice sword and better at handling small type enemies than the Battle
 Sword. However, since you probably have problems carrying all your equipment
@@ -686,7 +686,7 @@ Large: 31-41
 
 #### Masquerade
 
-![Masquerade](images/sungam_warrior_masqurade.png)
+![Masquerade](images/sungam_warrior_masqurade.webp)
 
 Exactly like the Templar in comparison to the Battle Sword except that it is
 better against large enemies and worse against small ones. In addition it is
@@ -703,7 +703,7 @@ Large: 35-45
 
 #### Bronze Shield
 
-![Bronze Shield](images/sungam_warrior_bronzesh.png)
+![Bronze Shield](images/sungam_warrior_bronzesh.webp)
 
 A very heavy shield but also an effective one. If you can carry it, you should.
 You might also want to give up on a bit of your equipment to make room for this
@@ -720,7 +720,7 @@ Armor Class: -10
 
 #### Shagreen Boots
 
-![Shagreen Boots](images/sungam_warrior_shagreen.png)
+![Shagreen Boots](images/sungam_warrior_shagreen.webp)
 
 Very nice boots with an increased bonus over the Cured Boots. It is also quite
 possible to find enchanted pairs of these albeit a bit rarer.
@@ -733,7 +733,7 @@ Bonus: +2 DEX
 
 #### Iron Gauntlet
 
-![Iron Gauntlet](images/sungam_warrior_irongaun.png)
+![Iron Gauntlet](images/sungam_warrior_irongaun.webp)
 
 A very nice piece of armor. It's weight-to-armor relation is a bit better than
 that of Leather Gauntlets so if you can carry the extra weight it's worth it.
@@ -751,7 +751,7 @@ Armor Class: -2
 
 #### Bramble
 
-![Bramble](images/sungam_warrior_bramble.png)
+![Bramble](images/sungam_warrior_bramble.webp)
 
 Incredible sword... words cannot express how powerful this sword is. Its attack
 damage is awesome and on top of that its weight is incredibly low. Just get
@@ -766,7 +766,7 @@ Large: 34-54
 
 #### Kasmanium Armor/Kasmanium Hauberk
 
-![Kasmanium Armor/Kasmanium Hauberk](images/sungam_warrior_kasmanium.png)
+![Kasmanium Armor/Kasmanium Hauberk](images/sungam_warrior_kasmanium.webp)
 
 This is a heavy one... However, I doubt I could talk you out of getting this
 one as its appearance is incredibly beautiful. Its armor class is also pretty
@@ -792,7 +792,7 @@ list.
 
 #### Assail
 
-![Assail](images/sungam_warrior_assail.png)
+![Assail](images/sungam_warrior_assail.webp)
 
 Your basic attack and the warrior's most trusted ability. You will be using
 this from the day you become an Aisling and til' you retire. It is the first
@@ -814,7 +814,7 @@ Cost: None.
 
 #### Assault
 
-![Assault](images/sungam_warrior_assail.png)
+![Assault](images/sungam_warrior_assail.webp)
 
 The first addition to your Linked Attacks. Whenever you do a normal attack with
 Assail, Assault will automatically be linked right after it. It will increase
@@ -836,7 +836,7 @@ Cost: 500 coins and a Centipede's Gland
 
 #### Clobber
 
-![Clobber](images/sungam_warrior_clobber.png)
+![Clobber](images/sungam_warrior_clobber.webp)
 
 The third strike in the Linked Attacks. Now your basic attack is becoming very
 powerful indeed. Enemies that it took many hits to strike down before will now
@@ -855,7 +855,7 @@ Cost: 1000 coins and a Mantis' Eye
 
 #### Wallop
 
-![Wallop](images/sungam_warrior_wallop.png)
+![Wallop](images/sungam_warrior_wallop.webp)
 
 Fourth and final Linked Attack covered in this Lore. Like Clobber it will
 increase your basic attack strength quite a bit. Learn it and make good use of
@@ -878,7 +878,7 @@ Cost: One Stilla, a Battle Sword and 10000 coins
 
 #### Wind Blade
 
-![Wind Blade](images/sungam_warrior_wind.png)
+![Wind Blade](images/sungam_warrior_wind.webp)
 
 An incredible attack and the only independant attack skill covered in this
 Lore. At first you will notice that it fails a lot but as you practice it you
@@ -901,7 +901,7 @@ Cost: 5000 coins and a Bat's Wing
 
 #### Rescue
 
-![Rescue](images/sungam_warrior_rescue.png)
+![Rescue](images/sungam_warrior_rescue.webp)
 
 At first this skill seems utterly useless. However, later you will have much
 use for this noble attack. It is used just like Wind Blade (except it doesn't
@@ -926,7 +926,7 @@ Cost: 1000 coins
 
 #### Tailoring
 
-![Tailoring](images/sungam_warrior_tailor.png)
+![Tailoring](images/sungam_warrior_tailor.webp)
 
 A more socially oriented skill than the ones above. Not only does this skill
 allow you to repair your armor without the aid of a mundane smith but it also
@@ -952,7 +952,7 @@ Cost: 1000 coins, one Shirt and one Blouse (buy both in Mileth Higgle Shop)
 
 #### Mend Weapon
 
-![Mend Weapon](images/sungam_warrior_tailor.png)
+![Mend Weapon](images/sungam_warrior_tailor.webp)
 
 Actually not as useful for warriors as one would think... Like Tailoring it can
 be used to repair your equipment, in this case your sword, but unlike Tailoring
@@ -972,7 +972,7 @@ Cost: 2500 coins and a Good Claidheamh (have a rogue smith it)
 
 #### Melee Lore
 
-![Melee Lore](images/sungam_warrior_lore.png)
+![Melee Lore](images/sungam_warrior_lore.webp)
 
 A very useful skill! With this you can identify any sword without a priest. In
 addition you can gain information about how powerful the sword is, its weight,
@@ -988,7 +988,7 @@ Cost: 5000 coins
 
 #### Armor Lore
 
-![Armor Lore](images/sungam_warrior_lore.png)
+![Armor Lore](images/sungam_warrior_lore.webp)
 
 Exactly like Melee Lore except usable on just about any other type of
 equipment! This includes: clothes, helmets, gauntlets, greaves, necklaces,
@@ -1009,7 +1009,7 @@ Cost: 1000 coins and one pair of Leather Greaves
 
 #### Taunt
 
-![Taunt](images/sungam_warrior_taunt.png)
+![Taunt](images/sungam_warrior_taunt.webp)
 
 One of the few semi-useful secrets warriors can learn (which are covered in
 this Lore)... Using this secret will make an unharmed enemy pursue you. Useful
@@ -1028,7 +1028,7 @@ Cost: 500 coins and a Centipede's Gland
 
 #### Spit
 
-![Spit](images/sungam_warrior_taunt.png)
+![Spit](images/sungam_warrior_taunt.webp)
 
 An "improved" version of Taunt. This secret requires almost no time at all to
 use, but on the other hand it has failed more than rescue did at level 0 in my
@@ -1045,7 +1045,7 @@ Cost: 1000 coins
 
 #### Arms Lecture
 
-![Arms Lecture](images/sungam_warrior_lecture.png)
+![Arms Lecture](images/sungam_warrior_lecture.webp)
 
 Have another Aisling drop a coin in front of you after you use this and he will
 learn of arms like he could by talking with the smiths of Mileth. Not all that
@@ -1061,7 +1061,7 @@ Cost: 500 coins
 
 #### Woods Lecture
 
-![Woods Lecture](images/sungam_warrior_lecture.png)
+![Woods Lecture](images/sungam_warrior_lecture.webp)
 
 Exactly like Arms Lecture, except that it teaches about the Woods as told by
 Fae, the faerie priestess of Mileth.
@@ -1075,7 +1075,7 @@ Cost: 500 coins
 
 #### Combat Lecture
 
-![Combat Lecture](images/sungam_warrior_lecture.png)
+![Combat Lecture](images/sungam_warrior_lecture.webp)
 
 Exactly like Arms and Woods Lectures, except that it teaches about Combat as
 told by the Warrior Master of Mileth.
@@ -1089,7 +1089,7 @@ Cost: 500 coins
 
 #### Guide Lecture
 
-![Guide Lecture](images/sungam_warrior_lecture.png)
+![Guide Lecture](images/sungam_warrior_lecture.webp)
 
 Unlike the other Lectures this one actually is somewhat useful... Instead of
 having to go to the Temple of Choosing or the Fae Priestess of Suomi to Guide
@@ -1113,6 +1113,7 @@ _Warrior of Glioca_
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/download/Sungam_Warrior/index.html .
 ```

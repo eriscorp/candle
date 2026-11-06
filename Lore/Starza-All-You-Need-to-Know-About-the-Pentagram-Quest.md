@@ -143,6 +143,7 @@ Remember to work together, have patience, and most importantly, HAVE FUN!
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #212).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Starza_Penta.htm .
 ```

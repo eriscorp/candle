@@ -45,6 +45,7 @@ _Winter, Deoch 14_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Historians Recognized (Events of Temuair post #114).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Peppin_Tuatha.html .
 ```

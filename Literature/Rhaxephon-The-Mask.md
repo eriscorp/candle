@@ -240,6 +240,7 @@ THE END
 ```
 *Librarian Notes*
 
+Recognized: Village, Literature Contest, 30 December 2004.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20050116224341/http://www.freewebs.com/ryuukishi/rhaxephon/the_mask.htm .

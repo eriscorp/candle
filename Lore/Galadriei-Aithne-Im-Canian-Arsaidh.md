@@ -12,30 +12,30 @@ To further imaginations of certain meanings, i added some drawings.
   
 |Imagination|Old Tongue|Temuair Slang|Translation|
 |-|-|-|-|
-|![](images/galadriei_tongue_2.png)|aisling||dream|
+|![](images/galadriei_tongue_2.webp)|aisling||dream|
 ||àite|aite|place|
 ||ao||not|
 ||aonaran||hermit|
 ||aois-dà|aosda|age-two|
 ||àrd|ard|high, great|
-|![](images/galadriei_tongue_3.png)|armachd||armour|
-|![](images/galadriei_tongue_4.png)|athar||air|
+|![](images/galadriei_tongue_3.webp)|armachd||armour|
+|![](images/galadriei_tongue_4.webp)|athar||air|
 ||baiseach|bais|heavy shower|
-|![](images/galadriei_tongue_5.png)|beag|small|
-|![](images/galadriei_tongue_6.png)|beannachd|beannach|blessing|
+|![](images/galadriei_tongue_5.webp)|beag|small|
+|![](images/galadriei_tongue_6.webp)|beannachd|beannach|blessing|
 ||beatha||life|
 ||beathach||animal, beast
 ||beothaich||kindle, light|
-|![](images/galadriei_tongue_7.png)|breisleach|breisleich|confusion|
-|![](images/galadriei_tongue_8.png)|càil|cail|vigour|
+|![](images/galadriei_tongue_7.webp)|breisleach|breisleich|confusion|
+|![](images/galadriei_tongue_8.webp)|càil|cail|vigour|
 ||callaid-bhròin||elegy|
-|![](images/galadriei_tongue_9.png)|ceannlaidir||obstinate|
+|![](images/galadriei_tongue_9.webp)|ceannlaidir||obstinate|
 ||cha-dùil|chadul||no-element, no-hope
 ||còmhraig||fight, combat|
 ||còmhla|comlha|together|
-|![](images/galadriei_tongue_10.png)|cràdh|cradh|torment|
-|![](images/galadriei_tongue_11.png)|creag||rock|
-|![](images/galadriei_tongue_12.png)|dachaidh||home|
+|![](images/galadriei_tongue_10.webp)|cràdh|cradh|torment|
+|![](images/galadriei_tongue_11.webp)|creag||rock|
+|![](images/galadriei_tongue_12.webp)|dachaidh||home|
 ||dall||blind|
 ||daonnan||danaan|always|
 ||deireas|deiras|injury|
@@ -44,44 +44,44 @@ To further imaginations of certain meanings, i added some drawings.
 ||deur|deum|drop|
 ||dhuit|dhat|to you|
 ||dia||god|
-|![](images/galadriei_tongue_13.png)|dìon|dion|protection|
+|![](images/galadriei_tongue_13.webp)|dìon|dion|protection|
 ||dorcha||dark, dusty|
-|![](images/galadriei_tongue_14.png)|dubh-ainmhidh|dubhaimid|dark beast|
+|![](images/galadriei_tongue_14.webp)|dubh-ainmhidh|dubhaimid|dark beast|
 ||fàs|fas|grow|
 ||féin|fein|self|
-|![](images/galadriei_tongue_18.png)|fiosachd||divination|
+|![](images/galadriei_tongue_18.webp)|fiosachd||divination|
 ||gar||near|
-|![](images/galadriei_tongue_19.png)|gliocas|glioca|wisdom|
+|![](images/galadriei_tongue_19.webp)|gliocas|glioca|wisdom|
 ||gramail||strong, vigorous
-|![](images/galadriei_tongue_20.png)|ìoc|ioc|cure|
+|![](images/galadriei_tongue_20.webp)|ìoc|ioc|cure|
 ||ionad||place|
-|![](images/galadriei_tongue_21.png)|là|la|day|
+|![](images/galadriei_tongue_21.webp)|là|la|day|
 ||lamh||hand|
 ||leasaich||improve|
-|![](images/galadriei_tongue_22.png)|luathas||swiftness|
-|![](images/galadriei_tongue_23.png)|manach||monk|
+|![](images/galadriei_tongue_22.webp)|luathas||swiftness|
+|![](images/galadriei_tongue_23.webp)|manach||monk|
 ||math||good|
 ||meall||lump|
 ||mór|mor|great|
 ||nàdur|nadur|nature|
 ||naomh||holy|
 ||nochd||night|
-|![](images/galadriei_tongue_24.png)|pràmh|pramh|slumber|
+|![](images/galadriei_tongue_24.webp)|pràmh|pramh|slumber|
 ||puinneag||beat|
-|![](images/galadriei_tongue_25.png)|puinsean|puinsein|poison|
+|![](images/galadriei_tongue_25.webp)|puinsean|puinsein|poison|
 ||rath||prosperity|
 ||saighead||arrow|
-|![](images/galadriei_tongue_26.png)|sal||sea|
-![](images/galadriei_tongue_27.png)|seun||charm|
-|![](images/galadriei_tongue_28.png)|sgrios||destroy|
-|![](images/galadriei_tongue_29.png)|slàn|slan|healthy|
+|![](images/galadriei_tongue_26.webp)|sal||sea|
+![](images/galadriei_tongue_27.webp)|seun||charm|
+|![](images/galadriei_tongue_28.webp)|sgrios||destroy|
+|![](images/galadriei_tongue_29.webp)|slàn|slan|healthy|
 ||spìon|spion|pluck up, pull, tear|
-|![](images/galadriei_tongue_30.png)|spiorad||spirit|
-|![](images/galadriei_tongue_31.png)|srad||fire|
+|![](images/galadriei_tongue_30.webp)|spiorad||spirit|
+|![](images/galadriei_tongue_31.webp)|srad||fire|
 ||strìoch|strioch|streak, line|
 ||suain||sleep|
 ||tìr-mùir|temuair|earth-sea|
-|![](images/galadriei_tongue_32.png)|tuatha||people|
+|![](images/galadriei_tongue_32.webp)|tuatha||people|
 
 Some few words i discovered are of certain dialects: reannán (used was reannan) which means 'star'. Also two words in some of Lethalia's works, which do not have a direct representation in 'old tongue': lioarlan which means 'library' and ynsagh which means 'knowledge'. 
  
@@ -98,6 +98,7 @@ _Sal Mage of Temuair_
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #48).
 This entry has been edited to conform to Library formatting.
 The original can be viewed here http://www.darkages.com/community/lore/Galadriei_Tongue/index.html .
 ```

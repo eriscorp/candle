@@ -119,6 +119,7 @@ _Hollie Ileen_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Historians Recognized (Events of Temuair post #23).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Hollie_Tenes/Introduction.html .
 ```

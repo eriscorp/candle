@@ -45,6 +45,7 @@ Upon returning home, these five Aislings constructed a granite shrine to Cail at
 ```
 *Librarian Notes*
 
+Recognized: Village, Historians Recognized (Events of Temuair post #138).
 This entry has been edited to conform to Library formatting.
 The original copy of this document was lost. It has been reconstructed from fragments.
 ```

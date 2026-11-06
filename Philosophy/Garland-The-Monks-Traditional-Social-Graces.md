@@ -355,6 +355,7 @@ _Monk and follower of Cail's beliefs_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophers Recognized (Events of Temuair post #22).
 This work is considered one of the greatest treasures of Temuair.
 
 This entry has been edited to conform to Library formatting.

@@ -416,6 +416,7 @@ A non-traditional fellowship has begun to take root in the recent Deochs. Danaan
 ```
 *Librarian Notes*
 
+Recognized: Clave, Lore Contest, 15 August 2003.
 This work is recently recovered from being lost, and is still in the process of being
 formatted to library specifications.
 

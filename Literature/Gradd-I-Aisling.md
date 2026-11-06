@@ -99,6 +99,7 @@ _Finid_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Story Contest, 19 December 2001.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Gradd_Aisling.html .
 ```
