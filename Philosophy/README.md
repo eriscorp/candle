@@ -61,6 +61,7 @@ you have these works, by all means, get in touch with us._
 | Dominique          | [Dance With Me!](Dominique-Dance-With-Me.md)                                                                                     |
 | DoomHealer         | [The Philosophy of Power](DoomHealer-The-Philosophy-of-Power.md)                                                                 |
 | Dryst              | [Schisms of Temuairan Religion](Dryst-Schisms-of-Temuairan-Religion.md)                                                          |
+| Elimy              | [The Listening of Sgrios](Elimy-The-Listening-of-Sgrios.md)                                                                      |
 | Enclave            | [The Aisling Belief of Evil](Enclave-The-Aisling-Belief-of-Evil.md)                                                              |
 | Etienne            | ![Treasure of Temuair](../images/octagram.webp) [De Obscurité et Lumière](Etienne-De-Obscurite-et-Lumiere.md)                                                                    |
 | Etienne            | ![Treasure of Temuair](../images/octagram.webp) [Economia](Etienne-Economia.md)                                                                                                  |
@@ -79,6 +80,9 @@ you have these works, by all means, get in touch with us._
 | Grim               | [The Hexagram : The Inversion of Balance](Grim-Hexagram.md)                                                                      |
 | Hendle             | [From Whence Nightmares Come](Hendle-From-Whence-Nightmares-Come.md)                                                             |
 | Hjiryon            | ![This work has been lost](../images/questionmark.webp) [Matters of Faith](Hjiryon-Matters-of-Faith.md)                                                                                  |
+| Ilomilo            | [An Aisling Work on the Nature of the Gods](Ilomilo-An-Aisling-Work-on-the-Nature-of-the-Gods.md)                                |
+| Inuyoko            | [A Theology of Conjunction](Inuyoko-A-Theology-of-Conjunction.md)                                                                |
+| Inuyoko            | [An Analysis of the Regional Musics of Temuair and Medenia](Inuyoko-An-Analysis-of-the-Regional-Musics-of-Temuair-and-Medenia.md) |
 | Jabedin            | ![This work has been lost](../images/questionmark.webp) [The Philosophy About Our Philosophy](Jabedin-The-Philosophy-About-Our-Philosophy.md)                                            |
 | Jakkal             | [Revelation of the Goblin and Kobold Gateway to the East](Jakkal-Gateway-to-the-East.md)                                         |
 | Kailieann          | [Lagorah Dubhaimid](Kailieann-Lagorah-Dubhaimid.md)                                                                              |
@@ -87,11 +91,15 @@ you have these works, by all means, get in touch with us._
 | Katrionah          | [Darkness and the Dubhaimid](Katrionah-Darkness-and-the-Dubhaimid.md)                                                            |
 | Katrionah          | [Timeless](Katrionah-Timeless.md)                                                                                                |
 | Kedian             | [Aosdic Mystic Theory](Kedian-Aosdic-Mystic-Theory.md)                                                                           |
+| Kedian             | [From the Flame, Truth: Eight Lectures from the Edge of Temuair](Kedian-From-the-Flame-Truth.md)                                 |
+| Kedian             | [The Medium is the Message: Eight Ways Our World Knows Itself](Kedian-The-Medium-is-the-Message.md)                              |
 | Kedian             | [Wizards and their Magick](Kedian-Wizards-and-Magick.md)                                                                         |
+| Kelberkai          | [Magic Charms](Kelberkai-Magic-Charms.md)                                                                                        |
 | Khay               | [The Tenets of Oran](Khay-Tenets-of-Oran.md)                                                                                     |
 | Klaisya            | [The Philosophy of Punishment](Klaisya-The-Philosophy-of-Punishment.md)                                                          |
 | Klaudaryn          | [The Coming Dawn - Signs and Portents of a New Age?](Klaudaryn-The-Coming-Dawn.md)                                               |
 | Korda              | [A Utopian Society](Korda-A-Utopian-Society.md)                                                                                  |
+| KupoMog            | [The Completed Circuit: On the Opposing Gods of Temuair](KupoMog-The-Completed-Circuit.md)                                       |
 | LatentAura         | [Psychology of the Classes](LatentAura-Psychology-of-the-Classes.md)                                                             |
 | Lethalia           | ![Treasure of Temuair](../images/octagram.webp) [Caroun: The Sacrifice](Lethalia-Caroun-The-Sacrifice.md)                                                                        |
 | Lothe              | ![This work has been lost](../images/questionmark.webp) [The Priest](Lothe-The-Priest.md)                                                                                                |
@@ -108,6 +116,7 @@ you have these works, by all means, get in touch with us._
 | Nephthys           | [Mythology of Temuair](Nephthys-Mythology-of-Temuair.md)                                                                         |
 | Nietzche           | ![This work has been lost](../images/questionmark.webp) [The Kobold Question](Nietzche-The-Kobold-Question.md)                                                                           |
 | NitroTFD           | [Gods de Temuair](NitroTFD-Gods-de-Temuair.md)                                                                                   |
+| NotVorlof          | [The Broken Cycle: Echoes of another Lost Civilization](NotVorlof-The-Broken-Cycle.md)                                           |
 | Paladine           | [The Conix Stone & Faith](Paladine-The-Conix-Stone-and-Faith.md)                                                                 |
 | Perihelion         | [On the Nature of Heresy](Perihelion-On-the-Nature-of-Heresy.md)                                                                 |
 | Phalos             | [Revelations of Druidic Prophecies](Phalos-Revelations-of-Druidic-Prophecies.md)                                                 |
@@ -131,6 +140,7 @@ you have these works, by all means, get in touch with us._
 | Sophocles          | [Thoughts on Temuairan Existence: Planar Theory](Sophocles-Thoughts-on-Temuairan-Existence.md)                                   |
 | Stella             | [Marble Figures](Stella-Marble-Figures.md)                                                                                       |
 | Suspected          | [Temuair Astronomy](Suspected-Astronomy.md)                                                                                      |
+| Suspected          | [The Kindness of Strangers: What it means to be Sparked](Suspected-The-Kindness-of-Strangers.md)                                 |
 | Synnovea           | [The Malformed Spark Manifesto](Synnovea-The-Malformed-Spark-Manifesto.md)                                                       |
 | Therisa            | [The Aisling Family](Therisa-The-Aisling-Family.md)                                                                              |
 | Thissus            | [Prospects of Darkness](Thissus-Prospects-of-Darkness.md)                                                                        |
@@ -146,6 +156,7 @@ you have these works, by all means, get in touch with us._
 | Wintermoon         | [Theory of Energy Balance](Wintermoon-Theory-of-Energy-Balance.md)                                                               |
 | Wuhao              | [A Beginners Guide to Theology](Wuhao-A-Beginners-Guide-to-Theology.md)                                                          |
 | Wyrmo              | [Treatise on the Elements And Their Functions](Wyrmo-Treatise-on-the-Elements-and-Their-Functions.md)                            |
+| XiaoLei            | [Space and Time of Temuair](XiaoLei-Space-and-Time-of-Temuair.md)                                                                |
 | Xilan              | [Dusgadh de Chadul](Xilan-Dusgadh-de-Chadul.md)                                                                                  |
 | Zelina             | [The Holy Doctrine of Balance: Worship of Sgrios](Zelina-The-Holy-Doctrine-of-Balance.md)                                        |
 | Zemial             | [Of Dual Theory: World and Gods](Zemial-Of-Dual-Theory-of-World-and-Gods.md)                                                     |

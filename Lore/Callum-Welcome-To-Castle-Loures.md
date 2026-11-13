@@ -28,7 +28,7 @@ In order to gain access to the servant passages, I had to give something in retu
 
 A keen Aisling can predict where some of the secret tunnels may be. Here in the main kitchen is the primary entrance to the servant tunnels. By turning this candle clockwise (on left), it opens a secret door in the pantry (see right). Here, from the kitchen, all of the Royal meals are cooked and transported all throughout the castle. The servants dart in and out of the kitchen without detection. Discretion is a very valuable trait to the servants. If an Aisling or Noble were to see you, most of the time it could mean your job. 
 
-![Servant's Passage](images/callum_loures6.png)
+![Servant's Passage](images/callum_loures_6.webp)
 
 A lowly servant would not wish to gain the ire of the petty mundane nobles...
 

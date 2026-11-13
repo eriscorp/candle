@@ -1,5 +1,5 @@
 # Dubhaimid Hero
-_by Tmander in **Dark Ages**_
+_by Kadesh in **Dark Ages**_
 
 Hek!! When i was a smal shadow in the ruins of Tascarnach, Pops used to tell us about Grathwretch!!  
 The BIGGEST HERO for all the dark ones!  

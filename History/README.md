@@ -24,6 +24,7 @@ with us._
 | Ayshilin           | ![Treasure of Temuair](../images/octagram.webp) [Dorcha Reannán a. Chadul: Dark Star of Chadul](Ayshilin-Dorcha-Reannan-A-Chadul.md)                                             |
 | Azalea             | ![This work has been lost](../images/questionmark.webp) [The Great Pig](Azalea-The-Great-Pig.md)                                                                                         |
 | Bacae              | ![This work has been lost](../images/questionmark.webp) [The Dubhaimid Hero](Bacae-Dubhaimid-Hero.md)                                                                                    |
+| Blanche            | [History of Meallaire](Blanche-History-of-Meallaire.md)                                                                          |
 | Brittany           | [The History of Medenia](Brittany-The-History-Of-Medenia.md)                                                                     |
 | Cazbrileth         | [A History of the Nobility of Temuair](Cazbrileth-A-History-Of-The-Nobility-Of-Temuair.md)                                       |
 | Chamise            | [Discovery of the Nadurra Necklace](Chamise-Discovery-Of-The-Nadurra-Necklace.md)                                                |
@@ -53,6 +54,7 @@ with us._
 | Fyssera            | ![This work has been lost](../images/questionmark.webp) [The Loures Child](Fyssera-The-Loures-Child.md)                                                                                  |
 | Hihaku             | [The Trial of the Navarre](Hihaku-The-Trials-Of-The-Navarre.md)                                                                  |
 | Hollie             | [Journal of Keefe Tenes - A Prelude of the 9th Aeon](Hollie-The-Journal-Of-Keefe-Tenes.md)                                       |
+| HuHuman            | [The Children of Grinneal](HuHuman-The-Children-of-Grinneal.md)                                                                  |
 | Imajica            | [A History of Monks in Temuair](Imajica-A-History-Of-Monks-In-Temuair.md)                                                        |
 | Jeconiah           | ![This work has been lost](../images/questionmark.webp) [Snake Eyes](Jeconiah-Snake-Eyes.md)                                                                                             |
 | Jimmytahand        | ![This work has been lost](../images/questionmark.webp) [Birth of Sgrian Temple](Jimmytahand-Birth-of-Sgrian-Temple.md)                                                                  |
@@ -68,9 +70,11 @@ with us._
 | Lynxus             | [Pravat Battle](Lynxus-Pravat-Battle.md)                                                                                         |
 | Maerista           | [The Book of the Black Cow: Aosdan Mythology of the 2nd Aeon](Maerista-Book-Of-The-Black-Cow.md)                                 |
 | Marlanda           | [The Priest at Pravat Cave](Marlanda-The-Priest-At-Pravat.md)                                                                    |
+| Merisa             | [The Blackstar Village: Forebodings, Whispers, and A Call to Arms](Merisa-The-Blackstar-Village.md)                              |
 | Mikado             | [Scrolls of Danaan](Mikado-Scrolls-Of-Danaan.md)                                                                                 |
 | Mundanes           | [History of Temuair](Mundanes-History-of-Temuair.md)                                                                             |
 | Mundanes           | [Temuair Timeline](Mundanes-Timeline-of-Temuair.md)                                                                              |
+| Nadja              | [History of the Frostveil Coven and the Tauren Creant](Nadja-History-of-the-Frostveil-Coven-and-the-Tauren-Creant.md)            |
 | Napie              | [Shadows of Aosda](Napie-Shadows-Of-Aosda.md)                                                                                    |
 | Naze               | [Caroun](Naze-Caroun.md)                                                                                                         |
 | Nenya              | [A Short History of the Eldar](Nenya-A-Short-History-Of-The-Eldar.md)                                                            |
@@ -81,6 +85,7 @@ with us._
 | Obiwan             | [The Rise of Andor](Obiwan-The-Rise-Of-Andor.md)                                                                                 |
 | Peppin             | [Astrid - The Kidnapped Undine Children](Peppin-Astrid-The-Kidnapped-Children-Of-Undine.md)                                      |
 | Peppin             | [The Tuatha de Danaan, the Aosda and the Mag Mell?](Peppin-The-Tuatha-De-Danann.md)                                              |
+| Ramanayan          | [28 to 44](Ramanayan-28-to-44.md)                                                                                                |
 | Ramanayan          | [Chaos Ascendant: A history of the third cycle of the gods (Deochs 17-24)](Ramanayan-Chaos-Ascendant.md)                         |
 | Ramanayan          | [The Forgotten War](Ramanayan-The-Forgotten-War.md)                                                                              |
 | Ramiel             | ![This work has been lost](../images/questionmark.webp) [The Historical Significance of Mileth Altar](Ramiel-The-Historical-Significance-of-Mileth-Altar.md)                             |
