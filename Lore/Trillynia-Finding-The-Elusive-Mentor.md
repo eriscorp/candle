@@ -47,6 +47,7 @@ _Deoch 20_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #212).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Trillynia_Mentor/default.htm .
 Subpages of the entry have suffered graphical corruption and contribute nothing of usefulness to the entry, and have been removed.

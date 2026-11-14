@@ -33,6 +33,7 @@ _Cronus Gainsborough_
 ```
 *Librarian Notes*
 
+Recognized: Village, Historians Recognized (Events of Temuair post #63).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Cronus_Shadowswar.html .
 ```

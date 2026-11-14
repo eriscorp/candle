@@ -2,7 +2,7 @@
 
 _by Paladine in **Dark Ages**_
 
-![Politicia Dominica: The Complete Political Lore](images/paladine_politica_title.png)
+![Politicia Dominica: The Complete Political Lore](images/paladine_politica_title.webp)
 
 ## Table of Contents
 
@@ -81,7 +81,7 @@ you are unfamiliar with such.
 
 > _The House Branch is the law making branch of Temurian government._
 
-![Political Diagram](images/paladine_politica_fig1-1.png)
+![Political Diagram](images/paladine_politica_fig1-1.webp)
 
 The sections ahead outline the various parts of the Political system and should
 answer any questions ye may have about the great Temurian Political System.
@@ -177,7 +177,7 @@ advantage or a disadvantage in any situation.
 Now let's look at a chart which covers clout earned/lost by the different
 tactics one uses to gain clout:
 
-![Clout methodology](images/paladine_politica_fig1-2.png)
+![Clout methodology](images/paladine_politica_fig1-2.webp)
 
 This of course leads us into believing that only a good campaigner can avoid
 attacks/widdles and gain support and endowment from Aislings that populate our
@@ -264,9 +264,9 @@ modify a garment. Even out of office, your Respected Citizen mark stays with
 you and you shall still have access to the dyes and tailoring materials.
 Respected Citizens can only admit new citizens while in office.
 
-![Respected Citizen](images/paladine_politica_respected.png)
+![Respected Citizen](images/paladine_politica_respected.webp)
 
-![Respected Citizen](images/paladine_politica_nrespect.png)
+![Respected Citizen](images/paladine_politica_nrespect.webp)
 
 Requirements:
 
@@ -313,9 +313,9 @@ times, but dealing with these hardships now can lead to greater political power
 later. For this position is required to earn the office of captain, and then
 eventually... Judge.
 
-![Guard](images/paladine_politica_guard.png)
+![Guard](images/paladine_politica_guard.webp)
 
-![Guard](images/paladine_politica_nguard.png)
+![Guard](images/paladine_politica_nguard.webp)
 
 Requirements:
 
@@ -366,9 +366,9 @@ maintaining city order. Demagogues have access to the Exile command, and at a
 Burgess' request or if all the Demagogues agree, (s)he can flex this muscle and
 remove someone from their city on a permanent basis.
 
-![Demagogue](images/paladine_politica_demagogue.png)
+![Demagogue](images/paladine_politica_demagogue.webp)
 
-![Demagogue](images/paladine_politica_ndema.png)
+![Demagogue](images/paladine_politica_ndema.webp)
 
 Requirements:
 
@@ -407,9 +407,9 @@ it be sending your troops on patrols or handling a crime in the city. Guard
 Captains have access to the banish command. Of course, a Guard Captain should
 always be available when needed.
 
-![Guard Captain](images/paladine_politica_guardcapt.png)
+![Guard Captain](images/paladine_politica_guardcapt.webp)
 
-![Guard Captain](images/paladine_politica_nguardcap.png)
+![Guard Captain](images/paladine_politica_nguardcap.webp)
 
 Requirements:
 
@@ -452,9 +452,9 @@ truly powerful and necessary in any political system. They are fair, justice
 dealing, warm hearted individuals who see all are innocent under the eyes of
 Gramail.
 
-![Judge](images/paladine_politica_judge.png)
+![Judge](images/paladine_politica_judge.webp)
 
-![Judge](images/paladine_politica_njudge.png)
+![Judge](images/paladine_politica_njudge.webp)
 
 Requirements:
 
@@ -495,9 +495,9 @@ the work, the burgess can don his/her cloak/pompadour and walk about and
 impress the citizens. The burgess is viewed more of a socialite than anything,
 and it should be their main concern to interact with the citizens.
 
-![Burgess](images/paladine_politica_burgess.png)
+![Burgess](images/paladine_politica_burgess.webp)
 
-![Burgess](images/paladine_politica_nburgess.png)
+![Burgess](images/paladine_politica_nburgess.webp)
 
 Requirements:
 
@@ -579,7 +579,7 @@ of office.
 The law is then posted to the Law board located in the village where all the
 Aislings can take note and adapt as necessary.
 
-![Basic steps in Law Creation](images/paladine_politica_fig3-1.png)
+![Basic steps in Law Creation](images/paladine_politica_fig3-1.webp)
 
 I don't want to get into a system of checks and balances too heavily, but
 within the law creation side of the system, there exists the relationship
@@ -814,9 +814,9 @@ Luathas Shrine as you leave Rucesion headed for Dubhaim castle. The Mileth
 Plaza is located due east of the Glioca Shrine as you leave Mileth. I have
 sketched some images below for you to take reference of.
 
-![Rucesion Plaza](images/paladine_politica_faq1-1.png)
+![Rucesion Plaza](images/paladine_politica_faq1-1.webp)
 
-![Mileth Plaza](images/paladine_politica_faq1-2.png)
+![Mileth Plaza](images/paladine_politica_faq1-2.webp)
 
 **Question 2: What is the "Guards List"?**
 
@@ -872,6 +872,7 @@ the authors consent. Certain images are © Nexon, Inc.))`
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 1999 (Mileth College master list).
 This work is one of the greatest treasures of Temuair.
 
 This entry has been heavily edited to conform to Library formatting.

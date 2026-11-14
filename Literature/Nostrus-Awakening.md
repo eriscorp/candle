@@ -27,6 +27,7 @@ Lead my sword and be my guide
 ```
 *Librarian Notes*
 
+Recognized: Village, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Nostrus_Awakening.html .
 ```

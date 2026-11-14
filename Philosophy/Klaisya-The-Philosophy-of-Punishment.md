@@ -216,6 +216,7 @@ _Amatuer Temuairian Philosopher_
 ```
 *Librarian Notes*
 
+Recognized: Clave, Philosophy Contest, 29 July 2004.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20041030173931/http://www.geocities.com/komeirada/daphilosophy/klaisya.html .

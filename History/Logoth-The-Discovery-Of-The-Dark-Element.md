@@ -25,6 +25,7 @@ The rest of the scroll is badly burnt, and I have little hope of finding out wha
 ```
 *Librarian Notes*
 
+Recognized: Village, Historians Recognized (Events of Temuair post #110).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Logoth_Dark.html .
 ```

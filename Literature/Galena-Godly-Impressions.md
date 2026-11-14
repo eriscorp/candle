@@ -51,6 +51,7 @@ extinguish the flames.
 ```
 *Librarian Notes*
 
+Recognized: Folk, Literature Contest, 29 March 2002.
 This entry has been edited to conform to Library formatting.
 The original can be found at https://www.darkages.com/2000/community/lit/Galena_Godly.htm .
 ```

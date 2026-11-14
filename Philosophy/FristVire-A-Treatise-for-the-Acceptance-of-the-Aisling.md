@@ -54,7 +54,7 @@ _Frist Vire, Deoch 31, 9th Moon_
 
 ## Danaan's Folly
 
-![Danaan's Folly](./images/FristVire-Treatise-DanaanFolly.png)
+![Danaan's Folly](./images/FristVire-Treatise-DanaanFolly.webp)
 
 ### Abstract
 
@@ -71,7 +71,7 @@ ordered and potent nature of the Aisling condition. I intend to prove that
 these oddities are not emblems of affliction, but rather are forces channeled
 through our energetic allies.
 
-![Diagram](./images/FristVire-Treatise-BodySpirit.png)
+![Diagram](./images/FristVire-Treatise-BodySpirit.webp)
 
 Figure 1: clannach deartháir (three Aislings shown)
 
@@ -89,7 +89,7 @@ host of birthmarks, is crudely illustrated below (Figure 2). It demonstrates a
 distinct ethereal essence and can account for those aspects Eachann's model
 cannot.
 
-![Diagram](./images/image-missing.png)
+![Diagram](./images/image-missing.webp)
 
 Figure 2: clannach athar (three Aislings shown)
 
@@ -247,6 +247,7 @@ _(remainder of manuscript omitted)_
 ```
 *Librarian Notes*
 
+Recognized: Clave, Philosophy Contest, 15 November 2002.
 The original copy of this document has been lost. It has been reconstructed from fragments.
 
 This entry has been heavily edited to conform to Library formatting.

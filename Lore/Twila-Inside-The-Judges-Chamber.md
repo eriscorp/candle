@@ -127,6 +127,7 @@ _Deoch 13, Fall_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #90).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Twila_Judge.html .
 ```

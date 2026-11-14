@@ -215,6 +215,7 @@ Aislings | [Rasputen, "Depths of Society"](Rasputen-Depths-of-Society.md)
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #137).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Vendes_Culture.html .
 ```

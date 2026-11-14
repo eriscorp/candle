@@ -740,6 +740,7 @@ She never forgot.
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #174).
 KTN: This entry needs more editing, the original has wonky italics which confused
 the markdown conversion.
 

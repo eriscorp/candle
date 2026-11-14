@@ -143,11 +143,11 @@ sal fas srad
 
 Here is the cycle of elements shown in their ancient positioning. The arrows show the directions of dominance. Each element is weak against itself.
 
-![Elements](images/lethalia_lioarlan_cycle.png)
+![Elements](images/lethalia_lioarlan_cycle.webp)
 
 Here is the table of elements showing the useful attacks and defense. "Fas" is the tuatha's word for "increase".
 
-![Elements](images/lethalia_lioarlan_elements.png)
+![Elements](images/lethalia_lioarlan_elements.webp)
 
 __Creatures__
 Elements are the fabric of nature. Creatures are affected by different elements. There are several creatures which have been touched, or can touch the pure elements. This makes them very dangerous. You may find yourself assaulted by a wolf who summons a shock of athar upon you. However, knowing which element the creatures is kin to is your advantage.
@@ -227,7 +227,7 @@ This scroll will help you to understand a bit about the religions of Temuair
 
 Allow me to arrange some pebbles into an octagram and then correspond the deities to one point of the octagram. (This is what she said to me, I will use my sketch.) If you were to trace lines from each point, you would find the two allies. If you were to look at the neighbors of the octagrams, you will find the enemeies of that diety. Examine the allies and enemies of the gods and then consult the octragram. 
 
-![Elements](images/lethalia_lioarlan_octagram_temp.png)
+![Elements](images/lethalia_lioarlan_octagram_temp.webp)
 
 Each god is the head of a particular trinity. Their allies are the lesser members of the trinity. As the faith in the god, its allies grows, the strength of the god's influence grows. As the faith of the god's enemies grows, the god's inluence wanes. The power of a priest is dependent on the god's influence. Faith grows with the initiate worshippers. 
 
@@ -249,79 +249,79 @@ I have also listed which insight ye must be in order to wear them, how much they
 
 |Monk|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Earth Bodice](images/lethalia_lioarlan_female_monk_1.png)|Earth Bodice|1st insight|850 coins|-7|4 stones|Hali's Goods - Undine|
-|![Lotus Bodice](images/lethalia_lioarlan_female_monk_11.png)|Lotus Bodice|11th insight|8,850 coins|-14|4 stones|Hali's Goods - Undine|
-|![Moon Bodice](images/lethalia_lioarlan_female_monk_41.png)|Moon Bodice|41st insight|Respected Citizen|N/A|N/A|Undine - Cail's Temple|
-|![Lightning Garb](images/lethalia_lioarlan_female_monk_71.png)|Lignting Garb|71st insight|Blessed Mithril Bracer|N/A|N/A|Sylvan in Woods|
+|![Earth Bodice](images/lethalia_lioarlan_female_monk_1.webp)|Earth Bodice|1st insight|850 coins|-7|4 stones|Hali's Goods - Undine|
+|![Lotus Bodice](images/lethalia_lioarlan_female_monk_11.webp)|Lotus Bodice|11th insight|8,850 coins|-14|4 stones|Hali's Goods - Undine|
+|![Moon Bodice](images/lethalia_lioarlan_female_monk_41.webp)|Moon Bodice|41st insight|Respected Citizen|N/A|N/A|Undine - Cail's Temple|
+|![Lightning Garb](images/lethalia_lioarlan_female_monk_71.webp)|Lignting Garb|71st insight|Blessed Mithril Bracer|N/A|N/A|Sylvan in Woods|
 
 |Priest|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Gorget Gown](images/lethalia_lioarlan_female_priest_1.png)|Gorget Gown|1st insight|800 coins|-8|4 stones|Brody's Goods - Mileth|
-|![Mystic Gown](images/lethalia_lioarlan_female_priest_11.png)|Mystic Gown|11th insight|8,300 coins|-17|5 stones|Jean's Magic - Loures|
-|![Elle](images/lethalia_lioarlan_female_priest_41.png)|Elle|41st insight|Respected Citizen|N/A|N/A|Any Temple|
-|![Dolman](images/lethalia_lioarlan_female_priest_71.png)|Dolman|71st insight|Holy Kronos|N/A|N/A|Sylvan in Woods|
+|![Gorget Gown](images/lethalia_lioarlan_female_priest_1.webp)|Gorget Gown|1st insight|800 coins|-8|4 stones|Brody's Goods - Mileth|
+|![Mystic Gown](images/lethalia_lioarlan_female_priest_11.webp)|Mystic Gown|11th insight|8,300 coins|-17|5 stones|Jean's Magic - Loures|
+|![Elle](images/lethalia_lioarlan_female_priest_41.webp)|Elle|41st insight|Respected Citizen|N/A|N/A|Any Temple|
+|![Dolman](images/lethalia_lioarlan_female_priest_71.webp)|Dolman|71st insight|Holy Kronos|N/A|N/A|Sylvan in Woods|
 
 |Rogue|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Cotte](images/lethalia_lioarlan_female_rogue_1.png)|Cotte|1st insight|800 coins|-8|4 stones|Brody's Goods - Mileth|
-|![Brigandine](images/lethalia_lioarlan_female_rogue_11.png)|Brigandine|11th insight|8,300 coins|-17|5 stones|Jean's Magic - Loures|
-|![Corsette](images/lethalia_lioarlan_female_rogue_41.png)|Corsette|41st insight|Respected Citizen|N/A|N/A|Lamont's Storage - Abel|
-|![Pebble Rose](images/lethalia_lioarlan_female_rogue_71.png)|Pebble Rose|71st insight|Blessed Mithril Bracer|N/A|N/A|Sylvan in Woods|
+|![Cotte](images/lethalia_lioarlan_female_rogue_1.webp)|Cotte|1st insight|800 coins|-8|4 stones|Brody's Goods - Mileth|
+|![Brigandine](images/lethalia_lioarlan_female_rogue_11.webp)|Brigandine|11th insight|8,300 coins|-17|5 stones|Jean's Magic - Loures|
+|![Corsette](images/lethalia_lioarlan_female_rogue_41.webp)|Corsette|41st insight|Respected Citizen|N/A|N/A|Lamont's Storage - Abel|
+|![Pebble Rose](images/lethalia_lioarlan_female_rogue_71.webp)|Pebble Rose|71st insight|Blessed Mithril Bracer|N/A|N/A|Sylvan in Woods|
 
 |Warrior|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Leather Bliaut](images/lethalia_lioarlan_female_warrior_1.png)|Leather Bliaut|1st insight|950 coins|-11|4 stones|Brody's Goods - Mileth|
-|![Curiass](images/lethalia_lioarlan_female_warrior_11.png)|Cuirass|11th insight|9,450 coins|-17|9 stones|Leo's Armor - Piet|
-|![Cotehardie](images/lethalia_lioarlan_female_warrior_26.png)|Cotehardie|26th insight|3rd Skill Tailor|N/A|N/A|Alexios's Armor - Undine|
-|![Kasmanium Hauberk](images/lethalia_lioarlan_female_warrior_41.png)|Kasmanium Hauberk|41st Insight|3rd Skill Tailor|N/A|N/A|Leo's Armor - Piet|
-|![Surplice Bodice](images/lethalia_lioarlan_female_warrior_56.png)|Surplice Bodice|56th insight|6 Finished Rubies|N/A|N/A|Dwarf - Abel Crypt|
-|![Labyrinth Mail](images/lethalia_lioarlan_female_warrior_71.png)|Labyrinth Mail|71st insight|22 Jade Rings|N/A|N/A|Dwarf - Abel Crypt|
+|![Leather Bliaut](images/lethalia_lioarlan_female_warrior_1.webp)|Leather Bliaut|1st insight|950 coins|-11|4 stones|Brody's Goods - Mileth|
+|![Curiass](images/lethalia_lioarlan_female_warrior_11.webp)|Cuirass|11th insight|9,450 coins|-17|9 stones|Leo's Armor - Piet|
+|![Cotehardie](images/lethalia_lioarlan_female_warrior_26.webp)|Cotehardie|26th insight|3rd Skill Tailor|N/A|N/A|Alexios's Armor - Undine|
+|![Kasmanium Hauberk](images/lethalia_lioarlan_female_warrior_41.webp)|Kasmanium Hauberk|41st Insight|3rd Skill Tailor|N/A|N/A|Leo's Armor - Piet|
+|![Surplice Bodice](images/lethalia_lioarlan_female_warrior_56.webp)|Surplice Bodice|56th insight|6 Finished Rubies|N/A|N/A|Dwarf - Abel Crypt|
+|![Labyrinth Mail](images/lethalia_lioarlan_female_warrior_71.webp)|Labyrinth Mail|71st insight|22 Jade Rings|N/A|N/A|Dwarf - Abel Crypt|
 
 |Wizard|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Magi Skirt](images/lethalia_lioarlan_female_wizard_1.png)|Magi Skirt|1st insight|750 coins|-5|4 stones|Arnljot's Goods - Mileth|
-|![Benusta](images/lethalia_lioarlan_female_wizard_11.png)|Benusta|11th insight|7,750 coins|-9|5 stones|Huberto's Goods - Loures|
-|![Stoller](images/lethalia_lioarlan_female_wizard_41.png)|Stoller|41st insight|Respected Citizen|N/A|N/A|Jean's Magic - Abel|
-|![Clymouth](images/lethalia_lioarlan_female_wizard_71.png)|Clymouth|71st insight|6 Finished Talos|N/A|N/A|Sylvan in Woods|
+|![Magi Skirt](images/lethalia_lioarlan_female_wizard_1.webp)|Magi Skirt|1st insight|750 coins|-5|4 stones|Arnljot's Goods - Mileth|
+|![Benusta](images/lethalia_lioarlan_female_wizard_11.webp)|Benusta|11th insight|7,750 coins|-9|5 stones|Huberto's Goods - Loures|
+|![Stoller](images/lethalia_lioarlan_female_wizard_41.webp)|Stoller|41st insight|Respected Citizen|N/A|N/A|Jean's Magic - Abel|
+|![Clymouth](images/lethalia_lioarlan_female_wizard_71.webp)|Clymouth|71st insight|6 Finished Talos|N/A|N/A|Sylvan in Woods|
 
 #### Male Armor
 
 |Monk|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Dobok](images/lethalia_lioarlan_male_monk_1.png)|Dobok|1st insight|850 coins|-7|4 stones|Hali's Goods - Undine|
-|![Culotte](images/lethalia_lioarlan_male_monk_11.png)|Culotte|11th insight|8,850 coins|-14|4 stones|Hali's Goods - Undine|
-|![Earth Garb](images/lethalia_lioarlan_male_monk_41.png)|Earth Garb|41st insight|Respected Citizen|N/A|N/A|Undine - Cail's Temple|
-|![Wind Garb](images/lethalia_lioarlan_male_monk_71.png)|Wind Garb|71st insight|Blessed Mithril Bracer|N/A|N/A|Sylvan in Woods|
+|![Dobok](images/lethalia_lioarlan_male_monk_1.webp)|Dobok|1st insight|850 coins|-7|4 stones|Hali's Goods - Undine|
+|![Culotte](images/lethalia_lioarlan_male_monk_11.webp)|Culotte|11th insight|8,850 coins|-14|4 stones|Hali's Goods - Undine|
+|![Earth Garb](images/lethalia_lioarlan_male_monk_41.webp)|Earth Garb|41st insight|Respected Citizen|N/A|N/A|Undine - Cail's Temple|
+|![Wind Garb](images/lethalia_lioarlan_male_monk_71.webp)|Wind Garb|71st insight|Blessed Mithril Bracer|N/A|N/A|Sylvan in Woods|
 
 |Priest|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Cowl](images/lethalia_lioarlan_male_priest_1.png)|Cowl|1st insight|800 coins|-8|4 stones|Brody's Goods - Mileth|
-|![Galuchat Coat](images/lethalia_lioarlan_male_priest_11.png)|Galuchat Coat|11th insight|8,300 coins|-17|5 stones|Huberto's Goods - Rucesion|
-|![Mantle](images/lethalia_lioarlan_male_priest_41.png)|Mantle|41st insight|Respected Citizen|N/A|N/A|Any Temple|
-|![Heirophant](images/lethalia_lioarlan_male_priest_71.png)|Hierophant|71st insight|Holy Kronos|N/A|N/A|Sylvan in Woods|
+|![Cowl](images/lethalia_lioarlan_male_priest_1.webp)|Cowl|1st insight|800 coins|-8|4 stones|Brody's Goods - Mileth|
+|![Galuchat Coat](images/lethalia_lioarlan_male_priest_11.webp)|Galuchat Coat|11th insight|8,300 coins|-17|5 stones|Huberto's Goods - Rucesion|
+|![Mantle](images/lethalia_lioarlan_male_priest_41.webp)|Mantle|41st insight|Respected Citizen|N/A|N/A|Any Temple|
+|![Heirophant](images/lethalia_lioarlan_male_priest_71.webp)|Hierophant|71st insight|Holy Kronos|N/A|N/A|Sylvan in Woods|
 
 |Rogue|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Scout Leather](images/lethalia_lioarlan_male_rogue_1.png)|Scout Leather|1st insight|900 coins|10|4 stones|Huberto's Goods - Rucesion|
-|![Dwarvish Leather](images/lethalia_lioarlan_male_rogue_11.png)|Dwarvish Leather|11th insight|9400 coins|-20|5 stones|Jilt's Storage - Piet|
-|![Paluten](images/lethalia_lioarlan_male_rogue_41.png)|Paluten|41st insight|Respected Citizen|N/A|N/A|Lamont's Storage - Abel|
-|![Keaton](images/lethalia_lioarlan_male_rogue_71.png)|Keaton|71st insight|12 Finished Rubies|N/A|N/A|Sylvan in Woods|
+|![Scout Leather](images/lethalia_lioarlan_male_rogue_1.webp)|Scout Leather|1st insight|900 coins|10|4 stones|Huberto's Goods - Rucesion|
+|![Dwarvish Leather](images/lethalia_lioarlan_male_rogue_11.webp)|Dwarvish Leather|11th insight|9400 coins|-20|5 stones|Jilt's Storage - Piet|
+|![Paluten](images/lethalia_lioarlan_male_rogue_41.webp)|Paluten|41st insight|Respected Citizen|N/A|N/A|Lamont's Storage - Abel|
+|![Keaton](images/lethalia_lioarlan_male_rogue_71.webp)|Keaton|71st insight|12 Finished Rubies|N/A|N/A|Sylvan in Woods|
 
 |Warrior|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Leather Tunic](images/lethalia_lioarlan_male_warrior_1.png)|Leather Tunic|1st insight|950 coins|-8|4 stones|Brody's Goods - Mileth|
-|![Jupe](images/lethalia_lioarlan_male_warrior_11.png)|Jupe|11th insight|9,450 coins|-17|9 stones|Lowell's Weapons - Loures|
-|![Lorica](images/lethalia_lioarlan_male_warrior_26.png)|Lorica|26th insight|3rd Skill Tailor|N/A|N/A|Alexios's Armor - Undine|
-|![Chain Mail](images/lethalia_lioarlan_male_warrior_41.png)|Chain Mail|41st Insight|3rd Skill Tailor|N/A|N/A|Leo's Armor - Piet|
-|![Iplet Mail](images/lethalia_lioarlan_male_warrior_56.png)|Iplet Mail|56th insight|6 Finished Rubies|N/A|N/A|Dwarf - Abel Crypt|
-|![Platemail](images/lethalia_lioarlan_male_warrior_71.png)|Platemail|71st insight|12 Jade Rings|N/A|N/A|Dwarf - Abel Crypt|
+|![Leather Tunic](images/lethalia_lioarlan_male_warrior_1.webp)|Leather Tunic|1st insight|950 coins|-8|4 stones|Brody's Goods - Mileth|
+|![Jupe](images/lethalia_lioarlan_male_warrior_11.webp)|Jupe|11th insight|9,450 coins|-17|9 stones|Lowell's Weapons - Loures|
+|![Lorica](images/lethalia_lioarlan_male_warrior_26.webp)|Lorica|26th insight|3rd Skill Tailor|N/A|N/A|Alexios's Armor - Undine|
+|![Chain Mail](images/lethalia_lioarlan_male_warrior_41.webp)|Chain Mail|41st Insight|3rd Skill Tailor|N/A|N/A|Leo's Armor - Piet|
+|![Iplet Mail](images/lethalia_lioarlan_male_warrior_56.webp)|Iplet Mail|56th insight|6 Finished Rubies|N/A|N/A|Dwarf - Abel Crypt|
+|![Platemail](images/lethalia_lioarlan_male_warrior_71.webp)|Platemail|71st insight|12 Jade Rings|N/A|N/A|Dwarf - Abel Crypt|
 
 |Wizard|Armor|Insight|Cost/Help|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Gardcorp](images/lethalia_lioarlan_male_wizard_1.png)|Magi Skirt|1st insight|750 coins|-5|4 stones|Huberto's Goods - Loures|
-|![Journeyman](images/lethalia_lioarlan_male_wizard_11.png)|Benusta|11th insight|7,750 coins|-9|6 stones|Huberto's Goods - Loures|
-|![Lorum](images/lethalia_lioarlan_male_wizard_41.png)|Stoller|41st insight|Respected Citizen|N/A|N/A|Jean's Magic - Abel|
-|![Mane](images/lethalia_lioarlan_male_wizard_71.png)|Clymouth|71st insight|12 Magic Cordovan Boots|N/A|N/A|Sylvan in Woods|
+|![Gardcorp](images/lethalia_lioarlan_male_wizard_1.webp)|Magi Skirt|1st insight|750 coins|-5|4 stones|Huberto's Goods - Loures|
+|![Journeyman](images/lethalia_lioarlan_male_wizard_11.webp)|Benusta|11th insight|7,750 coins|-9|6 stones|Huberto's Goods - Loures|
+|![Lorum](images/lethalia_lioarlan_male_wizard_41.webp)|Stoller|41st insight|Respected Citizen|N/A|N/A|Jean's Magic - Abel|
+|![Mane](images/lethalia_lioarlan_male_wizard_71.webp)|Clymouth|71st insight|12 Magic Cordovan Boots|N/A|N/A|Sylvan in Woods|
 
 ### Miscellaneous Armor
 
@@ -329,70 +329,70 @@ This scroll will help ye to understand a bit about the miscellaneous armor found
 
 |Belt|Name|Insight|Cost|Weight|Purchase Location|
 |-|-|-|-|-|-|
-|![Dark Belt](images/lethalia_lioarlan_misc_belt_1.png)|Dark Belt|12th insight|Found|1 stone|Found|
-|![Earth Belt](images/lethalia_lioarlan_misc_belt_2.png)|Earth Belt| 4th insight|10,000 coins|1 stone|Leo's Armor - Piet|
-|![Fire Belt](images/lethalia_lioarlan_misc_belt_3.png)|Fire Belt|4th insight|10,000 coins|1 stone|Valdemar's Armor - Suomi|
-|![Hy-brasyl Belt](images/lethalia_lioarlan_misc_belt_4.png)|Hy-brasyl Belt|12th insight|Found|1 stone|Found|
-|![Leather Belt](images/lethalia_lioarlan_misc_belt_5.png)|Leather Belt|12th insight|Found|1 stone|Found|
-|![Mythril Belt](images/lethalia_lioarlan_misc_belt_6.png)|Mythril Belt|12th insight|Found|1 stone|Found|
-|![Sea Belt](images/lethalia_lioarlan_misc_belt_7.png)|Sea Belt|4th insight|10,000 coins|1 stone|Alexios's Armor - Undine|
-|![Wind Belt](images/lethalia_lioarlan_misc_belt_8.png)|Wind Belt|4th insight|10,000 coins|1 stone|Carlos's Armor - Rucesion|
+|![Dark Belt](images/lethalia_lioarlan_misc_belt_1.webp)|Dark Belt|12th insight|Found|1 stone|Found|
+|![Earth Belt](images/lethalia_lioarlan_misc_belt_2.webp)|Earth Belt| 4th insight|10,000 coins|1 stone|Leo's Armor - Piet|
+|![Fire Belt](images/lethalia_lioarlan_misc_belt_3.webp)|Fire Belt|4th insight|10,000 coins|1 stone|Valdemar's Armor - Suomi|
+|![Hy-brasyl Belt](images/lethalia_lioarlan_misc_belt_4.webp)|Hy-brasyl Belt|12th insight|Found|1 stone|Found|
+|![Leather Belt](images/lethalia_lioarlan_misc_belt_5.webp)|Leather Belt|12th insight|Found|1 stone|Found|
+|![Mythril Belt](images/lethalia_lioarlan_misc_belt_6.webp)|Mythril Belt|12th insight|Found|1 stone|Found|
+|![Sea Belt](images/lethalia_lioarlan_misc_belt_7.webp)|Sea Belt|4th insight|10,000 coins|1 stone|Alexios's Armor - Undine|
+|![Wind Belt](images/lethalia_lioarlan_misc_belt_8.webp)|Wind Belt|4th insight|10,000 coins|1 stone|Carlos's Armor - Rucesion|
 
 |Belt|Name|Insight|Cost|Magic|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Boots](images/lethalia_lioarlan_misc_boot_1.png)|Boots|1st insight|1,000 coins|N/A|2 Stones|Torrance's Armor - Mileth|
-|![Grey Boots](images/lethalia_lioarlan_misc_boot_2.png)|Grey Boots|11th insight|10,000 coins|N/A|2 Stones|Torrance's Armor - Mileth|
-|![Cured Boots](images/lethalia_lioarlan_misc_boot_3.png)|Cured Boots|24th insight|5,000 coins|+1 Dexterity|2 Stones|Torrance's Armor - Mileth|
-|![Shagreen Boots](images/lethalia_lioarlan_misc_boot_4.png)|Shagreen Boots|24th insight|10,000 coins|+2 Dexterity|2 Stones|Torrance's Armor - Mileth|
-|![Cordovan Boots](images/lethalia_lioarlan_misc_boot_5.png)|Cordovan Boots|50th insight|Found|+3 Dexterity|2 Stones|Found|
-|![Lapis Boots](images/lethalia_lioarlan_misc_boot_6.png)|Lapis Boots|56th insight|5,000 coins|N/A|2 stone|Jilt's Storage - Piet|
-|![Saffian Boots](images/lethalia_lioarlan_misc_boot_7.png)|Saffian Boots|66th insight|Found|+4 Dexterity|2 stone|Found|
-|![Magma Boots](images/lethalia_lioarlan_misc_boot_8.png)|Magma Boots|82nd insight|found|+5 Dexterity|2 stone|Found|
+|![Boots](images/lethalia_lioarlan_misc_boot_1.webp)|Boots|1st insight|1,000 coins|N/A|2 Stones|Torrance's Armor - Mileth|
+|![Grey Boots](images/lethalia_lioarlan_misc_boot_2.webp)|Grey Boots|11th insight|10,000 coins|N/A|2 Stones|Torrance's Armor - Mileth|
+|![Cured Boots](images/lethalia_lioarlan_misc_boot_3.webp)|Cured Boots|24th insight|5,000 coins|+1 Dexterity|2 Stones|Torrance's Armor - Mileth|
+|![Shagreen Boots](images/lethalia_lioarlan_misc_boot_4.webp)|Shagreen Boots|24th insight|10,000 coins|+2 Dexterity|2 Stones|Torrance's Armor - Mileth|
+|![Cordovan Boots](images/lethalia_lioarlan_misc_boot_5.webp)|Cordovan Boots|50th insight|Found|+3 Dexterity|2 Stones|Found|
+|![Lapis Boots](images/lethalia_lioarlan_misc_boot_6.webp)|Lapis Boots|56th insight|5,000 coins|N/A|2 stone|Jilt's Storage - Piet|
+|![Saffian Boots](images/lethalia_lioarlan_misc_boot_7.webp)|Saffian Boots|66th insight|Found|+4 Dexterity|2 stone|Found|
+|![Magma Boots](images/lethalia_lioarlan_misc_boot_8.webp)|Magma Boots|82nd insight|found|+5 Dexterity|2 stone|Found|
 
 |Bracers|Name|Insight|Cost|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Leather Bracers](images/lethalia_lioarlan_misc_bracer_1.png)|Leather Bracers|9th insight|Found|-1|2 stone|Found|
-|![Iron Bracers](images/lethalia_lioarlan_misc_bracer_2.png)|Iron Bracers|33rd insight|15,000 coins|-2|3 stones|Alexios's Armor - Undine|
-|![Mythril Bracers](images/lethalia_lioarlan_misc_bracer_3.png)|Mythril Bracers|63rd insight|Found|-3|4 stones|Found|
+|![Leather Bracers](images/lethalia_lioarlan_misc_bracer_1.webp)|Leather Bracers|9th insight|Found|-1|2 stone|Found|
+|![Iron Bracers](images/lethalia_lioarlan_misc_bracer_2.webp)|Iron Bracers|33rd insight|15,000 coins|-2|3 stones|Alexios's Armor - Undine|
+|![Mythril Bracers](images/lethalia_lioarlan_misc_bracer_3.webp)|Mythril Bracers|63rd insight|Found|-3|4 stones|Found|
 
 |Gauntlets|Name|Insight|Cost|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Leather Gauntlet](images/lethalia_lioarlan_misc_gauntlet_1.png)|Leather Gauntlet|9th insight|2,000 coins|-1|2 stone|Torrance's Armor - Mileth|
-|![Iron Gauntelt](images/lethalia_lioarlan_misc_gauntlet_2.png)|Iron Gauntlet|33rd insight|8,850 coins|-2|3 stones|Found|
-|![Mythril Gauntlet](images/lethalia_lioarlan_misc_gauntlet_3.png)|Mythril Gauntlet|63rd insight|Found|-3|4 stones|Found|
+|![Leather Gauntlet](images/lethalia_lioarlan_misc_gauntlet_1.webp)|Leather Gauntlet|9th insight|2,000 coins|-1|2 stone|Torrance's Armor - Mileth|
+|![Iron Gauntelt](images/lethalia_lioarlan_misc_gauntlet_2.webp)|Iron Gauntlet|33rd insight|8,850 coins|-2|3 stones|Found|
+|![Mythril Gauntlet](images/lethalia_lioarlan_misc_gauntlet_3.webp)|Mythril Gauntlet|63rd insight|Found|-3|4 stones|Found|
 
 |Greaves|Name|Insight|Cost|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Leather Greaves](images/lethalia_lioarlan_misc_greaves_1.png)|Leather Greaves|9th insight|Found|-1|2 stone|Found|
-|![Iron Greaves](images/lethalia_lioarlan_misc_greaves_2.png)|Iron Greaves|33rd insight|15,050 coins|-2|3 stones|Alexios's Armor - Undine|
-|![Mythril Greaves](images/lethalia_lioarlan_misc_greaves_3.png)|Mythril Greaves|63rd insight|Found|-3|4 stones|Found|
+|![Leather Greaves](images/lethalia_lioarlan_misc_greaves_1.webp)|Leather Greaves|9th insight|Found|-1|2 stone|Found|
+|![Iron Greaves](images/lethalia_lioarlan_misc_greaves_2.webp)|Iron Greaves|33rd insight|15,050 coins|-2|3 stones|Alexios's Armor - Undine|
+|![Mythril Greaves](images/lethalia_lioarlan_misc_greaves_3.webp)|Mythril Greaves|63rd insight|Found|-3|4 stones|Found|
 
 |Helmets|Name|Insight|Cost|Weight|Special|Purchase Location|
 |-|-|-|-|-|-|-|
-|![Holy Cap](images/lethalia_lioarlan_misc_hats_1.png)|Holy Cap|11th insight|10,000 coins|1 stone|Male Priest|Jean's Magic - Loures|
-|![Holy Chief](images/lethalia_lioarlan_misc_hats_2.png)|Holy Chief|11th insight|10,000 coins|1 stone|Male Priest|Huberto's Goods - Rucesion|
-|![Holy Conical](images/lethalia_lioarlan_misc_hats_3.png)|Holy Conical|11th insight|10,000 coins|1 stone|All Priests|Underground Jail - Loures|
-|![Holy Toque](images/lethalia_lioarlan_misc_hats_4.png)|Holy Toque|11th insight|10,000 coins|1 stone|Female Priest|Lamont's Storage - Abel|
-|![Holy Vermillion](images/lethalia_lioarlan_misc_hats_5.png)|Holy Vermillion|11th insight|10,000 coins|1 stone|Female Priest|Jean's Magic - Loures|
-|![Holy Wimple](images/lethalia_lioarlan_misc_hats_6.png)|Holy Wimple|11th insight|10,000 coins|1 stone|Male Priest|Lamont's Storage - Abel|
-|![Magus Cap](images/lethalia_lioarlan_misc_hats_7.png)|Magus Cap|11th insight|10,000 coins|1 stone|Male Wizard|Huberto's Goods - Rucesion|
-|![Magus Chief](images/lethalia_lioarlan_misc_hats_8.png)|Magus Chief|11th insight|10,000 coins|1 stone|Male Wizard|Huberto's Goods - Rucesion|
-|![Magus Conical](images/lethalia_lioarlan_misc_hats_9.png)|Magus Conical|11th insight|10,000 coins|1 stone|All Wizards|Jean's Magic - Loures|
-|![Magus Toque](images/lethalia_lioarlan_misc_hats_10.png)|Magus Toque|11th insight|10,000 coins|1 stone|Female Wizard|Leo's Armor - Piet|
-|![Magus Wimple](images/lethalia_lioarlan_misc_hats_11.png)|Magus Wimple|11th insight|10,000 coins|1 stone|Female Wizard|Huberto's Armor - Rucesion|
-|![Labryrinth Helmet](images/lethalia_lioarlan_misc_hats_12.png)|Labyrinth Helmet|71st insight|N/A|N/A|Female Warrior|Made With Armor|
-|![Iplet Helmet](images/lethalia_lioarlan_misc_hats_13.png)|Iplet Helmet|71st insight|N/A|N/A|Male Warrior|Made With Armor|
-|![Platemail Helmet](images/lethalia_lioarlan_misc_hats_14.png)|Iplet Helmet|86th insight|N/A|N/A|Male Warrior|Made With Armor|
+|![Holy Cap](images/lethalia_lioarlan_misc_hats_1.webp)|Holy Cap|11th insight|10,000 coins|1 stone|Male Priest|Jean's Magic - Loures|
+|![Holy Chief](images/lethalia_lioarlan_misc_hats_2.webp)|Holy Chief|11th insight|10,000 coins|1 stone|Male Priest|Huberto's Goods - Rucesion|
+|![Holy Conical](images/lethalia_lioarlan_misc_hats_3.webp)|Holy Conical|11th insight|10,000 coins|1 stone|All Priests|Underground Jail - Loures|
+|![Holy Toque](images/lethalia_lioarlan_misc_hats_4.webp)|Holy Toque|11th insight|10,000 coins|1 stone|Female Priest|Lamont's Storage - Abel|
+|![Holy Vermillion](images/lethalia_lioarlan_misc_hats_5.webp)|Holy Vermillion|11th insight|10,000 coins|1 stone|Female Priest|Jean's Magic - Loures|
+|![Holy Wimple](images/lethalia_lioarlan_misc_hats_6.webp)|Holy Wimple|11th insight|10,000 coins|1 stone|Male Priest|Lamont's Storage - Abel|
+|![Magus Cap](images/lethalia_lioarlan_misc_hats_7.webp)|Magus Cap|11th insight|10,000 coins|1 stone|Male Wizard|Huberto's Goods - Rucesion|
+|![Magus Chief](images/lethalia_lioarlan_misc_hats_8.webp)|Magus Chief|11th insight|10,000 coins|1 stone|Male Wizard|Huberto's Goods - Rucesion|
+|![Magus Conical](images/lethalia_lioarlan_misc_hats_9.webp)|Magus Conical|11th insight|10,000 coins|1 stone|All Wizards|Jean's Magic - Loures|
+|![Magus Toque](images/lethalia_lioarlan_misc_hats_10.webp)|Magus Toque|11th insight|10,000 coins|1 stone|Female Wizard|Leo's Armor - Piet|
+|![Magus Wimple](images/lethalia_lioarlan_misc_hats_11.webp)|Magus Wimple|11th insight|10,000 coins|1 stone|Female Wizard|Huberto's Armor - Rucesion|
+|![Labryrinth Helmet](images/lethalia_lioarlan_misc_hats_12.webp)|Labyrinth Helmet|71st insight|N/A|N/A|Female Warrior|Made With Armor|
+|![Iplet Helmet](images/lethalia_lioarlan_misc_hats_13.webp)|Iplet Helmet|71st insight|N/A|N/A|Male Warrior|Made With Armor|
+|![Platemail Helmet](images/lethalia_lioarlan_misc_hats_14.webp)|Iplet Helmet|86th insight|N/A|N/A|Male Warrior|Made With Armor|
 
 |Shield|Name|Insight|Cost|Purchase Location|
 |-|-|-|-|-|
-|![Wooden Shield](images/lethalia_lioarlan_misc_shield_1.png)|Wooden Shield|1st insight|100 coins|Torrance's Armor - Mileth|
-|![Leather Shield](images/lethalia_lioarlan_misc_shield_2.png)|Leather Shield|15th insight|750 coins|Leo's Armor - Piet|
-|![Bronze Shield](images/lethalia_lioarlan_misc_shield_3.png)|Bronze Shield|31st insight|3,750 coins|Valdemar's Armor - Suomi|
-|![Iron Shield](images/lethalia_lioarlan_misc_shield_4.png)|Iron Shield|45th insight|Found|Found|
-|![Mythril Shield](images/lethalia_lioarlan_misc_shield_5.png)|Mythril Shield|61st insight|Found|Found|
-|![Hy-Brasyl Shield](images/lethalia_lioarlan_misc_shield_6.png)|Hy-Brasyl Shield|77th insight|Found|Found|
-|![Talos Shield](images/lethalia_lioarlan_misc_shield_7.png)|Talos Shield|90th insight|Found|Found|
+|![Wooden Shield](images/lethalia_lioarlan_misc_shield_1.webp)|Wooden Shield|1st insight|100 coins|Torrance's Armor - Mileth|
+|![Leather Shield](images/lethalia_lioarlan_misc_shield_2.webp)|Leather Shield|15th insight|750 coins|Leo's Armor - Piet|
+|![Bronze Shield](images/lethalia_lioarlan_misc_shield_3.webp)|Bronze Shield|31st insight|3,750 coins|Valdemar's Armor - Suomi|
+|![Iron Shield](images/lethalia_lioarlan_misc_shield_4.webp)|Iron Shield|45th insight|Found|Found|
+|![Mythril Shield](images/lethalia_lioarlan_misc_shield_5.webp)|Mythril Shield|61st insight|Found|Found|
+|![Hy-Brasyl Shield](images/lethalia_lioarlan_misc_shield_6.webp)|Hy-Brasyl Shield|77th insight|Found|Found|
+|![Talos Shield](images/lethalia_lioarlan_misc_shield_7.webp)|Talos Shield|90th insight|Found|Found|
 
 ### Weapons
 
@@ -406,27 +406,27 @@ __Mileth__ - Callough's Weapon Shop - Honest man's weapons big and small
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Stick](images/lethalia_lioarlan_misc_weapon_1.png)|Stick|1st insight|100 coins|3 stone|
-|![Dirk](images/lethalia_lioarlan_misc_weapon_2.png)|Dirk|2nd insight|600 coins|4 stone|
-|![Claidheamh](images/lethalia_lioarlan_misc_weapon_3.png)|Claidheamh|14th insight|1,300 coins|8 stone|
+|![Stick](images/lethalia_lioarlan_misc_weapon_1.webp)|Stick|1st insight|100 coins|3 stone|
+|![Dirk](images/lethalia_lioarlan_misc_weapon_2.webp)|Dirk|2nd insight|600 coins|4 stone|
+|![Claidheamh](images/lethalia_lioarlan_misc_weapon_3.webp)|Claidheamh|14th insight|1,300 coins|8 stone|
 
 __Abel__ - Vidar's Weapon Shop
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Dirk](images/lethalia_lioarlan_misc_weapon_2.png)|Dirk|2nd insight|500 coins|4 stone|
-|![Loures Saber](images/lethalia_lioarlan_misc_weapon_4.png)|Loures Saber|14th insight|1,500 coins|7 stone|
-|![Claidheamh](images/lethalia_lioarlan_misc_weapon_3.png)|Claidheamh|14th insight|1,300 coins|8 stone|
+|![Dirk](images/lethalia_lioarlan_misc_weapon_2.webp)|Dirk|2nd insight|500 coins|4 stone|
+|![Loures Saber](images/lethalia_lioarlan_misc_weapon_4.webp)|Loures Saber|14th insight|1,500 coins|7 stone|
+|![Claidheamh](images/lethalia_lioarlan_misc_weapon_3.webp)|Claidheamh|14th insight|1,300 coins|8 stone|
 
 __Rucesion__ - Marcelo's Weapon Shop
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Dirk](images/lethalia_lioarlan_misc_weapon_2.png)|Dirk|2nd insight|500 coins|4 stone|
-|![Eppe](images/lethalia_lioarlan_misc_weapon_5.png)|Eppe|2nd insight|500 coins|5 stone|
-|![Claidheamh](images/lethalia_lioarlan_misc_weapon_3.png)|Claidheamh|14th insight|1,300 coins|8 stone|
-|![Broad Sword](images/lethalia_lioarlan_misc_weapon_6.png)|Broad Sword|17th insight|1,700 coins|9 stone|
-|![Long Sword](images/lethalia_lioarlan_misc_weapon_7.png)|Long Sword|56th insight|12,200 coins|18 stone|
+|![Dirk](images/lethalia_lioarlan_misc_weapon_2.webp)|Dirk|2nd insight|500 coins|4 stone|
+|![Eppe](images/lethalia_lioarlan_misc_weapon_5.webp)|Eppe|2nd insight|500 coins|5 stone|
+|![Claidheamh](images/lethalia_lioarlan_misc_weapon_3.webp)|Claidheamh|14th insight|1,300 coins|8 stone|
+|![Broad Sword](images/lethalia_lioarlan_misc_weapon_6.webp)|Broad Sword|17th insight|1,700 coins|9 stone|
+|![Long Sword](images/lethalia_lioarlan_misc_weapon_7.webp)|Long Sword|56th insight|12,200 coins|18 stone|
 
 __Loures__ - Marlon's Weapon Shop
 
@@ -434,23 +434,23 @@ Normal Weapons
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Eppe](images/lethalia_lioarlan_misc_weapon_5.png)|Eppe|2nd insight|500 coins|5 stone|
-|![Loures Saber](images/lethalia_lioarlan_misc_weapon_4.png)|Loures Saber|14th insight|1,500 coins|7 stone|
-|![Templar](images/lethalia_lioarlan_misc_weapon_8.png)|Templar|29th insight|4,500 coins|12 stone|
-|![Masquerade](images/lethalia_lioarlan_misc_weapon_9.png)|Masquerade|31st insight|5,500 coins|15 stone|
-|![Bramble](images/lethalia_lioarlan_misc_weapon_10.png)|Bramble|41st insight|9,200 coins|12 stone|
-|![Black Death](images/lethalia_lioarlan_misc_weapon_11.png)|Black Death|45th insight|8,800 coins|18 stone|
-|![Long Sword](images/lethalia_lioarlan_misc_weapon_7.png)|Long Sword|56th insight|12,200 coins|18 stone|
-|![Stilla](images/lethalia_lioarlan_misc_weapon_12.png)|Stilla|61st insight|11,800 coins|25 stone|
+|![Eppe](images/lethalia_lioarlan_misc_weapon_5.webp)|Eppe|2nd insight|500 coins|5 stone|
+|![Loures Saber](images/lethalia_lioarlan_misc_weapon_4.webp)|Loures Saber|14th insight|1,500 coins|7 stone|
+|![Templar](images/lethalia_lioarlan_misc_weapon_8.webp)|Templar|29th insight|4,500 coins|12 stone|
+|![Masquerade](images/lethalia_lioarlan_misc_weapon_9.webp)|Masquerade|31st insight|5,500 coins|15 stone|
+|![Bramble](images/lethalia_lioarlan_misc_weapon_10.webp)|Bramble|41st insight|9,200 coins|12 stone|
+|![Black Death](images/lethalia_lioarlan_misc_weapon_11.webp)|Black Death|45th insight|8,800 coins|18 stone|
+|![Long Sword](images/lethalia_lioarlan_misc_weapon_7.webp)|Long Sword|56th insight|12,200 coins|18 stone|
+|![Stilla](images/lethalia_lioarlan_misc_weapon_12.webp)|Stilla|61st insight|11,800 coins|25 stone|
 
 Soori (Rogue Only)
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Snow Dagger](images/lethalia_lioarlan_misc_weapon_13.png)|Snow Dagger|1st insight|1,000 coins|3 stone|
-|![Center Dagger](images/lethalia_lioarlan_misc_weapon_14.png)|Center Dagger|4th insight|3,000 coins|5 stone|
-|![Blossom Dagger](images/lethalia_lioarlan_misc_weapon_15.png)|Blossom Dagger|14th insight|7,000 coins|7 stone|
-|![Moon Dagger](images/lethalia_lioarlan_misc_weapon_16.png)|Moon Dagger|30th insight|12,000 coins|9 stone|
+|![Snow Dagger](images/lethalia_lioarlan_misc_weapon_13.webp)|Snow Dagger|1st insight|1,000 coins|3 stone|
+|![Center Dagger](images/lethalia_lioarlan_misc_weapon_14.webp)|Center Dagger|4th insight|3,000 coins|5 stone|
+|![Blossom Dagger](images/lethalia_lioarlan_misc_weapon_15.webp)|Blossom Dagger|14th insight|7,000 coins|7 stone|
+|![Moon Dagger](images/lethalia_lioarlan_misc_weapon_16.webp)|Moon Dagger|30th insight|12,000 coins|9 stone|
 
 __Piet__ - Gunnar's Weapon Shop - Fine Northern Ardmagh Blades
 
@@ -458,13 +458,13 @@ Normal Weapons
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Loures Saber](images/lethalia_lioarlan_misc_weapon_4.png)|Loures Saber|14th insight|1,500 coins|7 stone|
-|![Broad Sword](images/lethalia_lioarlan_misc_weapon_6.png)|Broad Sword|17th insight|1,700 coins|9 stone|
-|![Battle Sword](images/lethalia_lioarlan_misc_weapon_17.png)|Battle Sword|26th insight|5,000 coins|10 stone|
-|![Templar](images/lethalia_lioarlan_misc_weapon_8.png)|Templar|29th insight|4,500 coins|12 stone|
-|![Bramble](images/lethalia_lioarlan_misc_weapon_10.png)|Bramble|41st insight|9,200 coins|12 stone|
-|![Black Death](images/lethalia_lioarlan_misc_weapon_11.png)|Black Death|45th insight|8,800 coins|18 stone|
-|![Long Sword](images/lethalia_lioarlan_misc_weapon_7.png)|Long Sword|56th insight|12,200 coins|18 stone|
+|![Loures Saber](images/lethalia_lioarlan_misc_weapon_4.webp)|Loures Saber|14th insight|1,500 coins|7 stone|
+|![Broad Sword](images/lethalia_lioarlan_misc_weapon_6.webp)|Broad Sword|17th insight|1,700 coins|9 stone|
+|![Battle Sword](images/lethalia_lioarlan_misc_weapon_17.webp)|Battle Sword|26th insight|5,000 coins|10 stone|
+|![Templar](images/lethalia_lioarlan_misc_weapon_8.webp)|Templar|29th insight|4,500 coins|12 stone|
+|![Bramble](images/lethalia_lioarlan_misc_weapon_10.webp)|Bramble|41st insight|9,200 coins|12 stone|
+|![Black Death](images/lethalia_lioarlan_misc_weapon_11.webp)|Black Death|45th insight|8,800 coins|18 stone|
+|![Long Sword](images/lethalia_lioarlan_misc_weapon_7.webp)|Long Sword|56th insight|12,200 coins|18 stone|
 
 __Suomi__ - Gunnar's Weapon Shop - Fine Northern Ardmagh Blades
 
@@ -472,19 +472,19 @@ Normal Weapons
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Dirk](images/lethalia_lioarlan_misc_weapon_2.png)|Dirk|2nd insight|500 coins|4 stone|
-|![Eppe](images/lethalia_lioarlan_misc_weapon_5.png)|Eppe|2nd insight|500 coins|5 stone|
-|![Claidheamh](images/lethalia_lioarlan_misc_weapon_3.png)|Claidheamh|14th insight|1,300 coins|8 stone|
+|![Dirk](images/lethalia_lioarlan_misc_weapon_2.webp)|Dirk|2nd insight|500 coins|4 stone|
+|![Eppe](images/lethalia_lioarlan_misc_weapon_5.webp)|Eppe|2nd insight|500 coins|5 stone|
+|![Claidheamh](images/lethalia_lioarlan_misc_weapon_3.webp)|Claidheamh|14th insight|1,300 coins|8 stone|
 
 Secrets (Rogue Only)
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Snow Secret](images/lethalia_lioarlan_misc_weapon_18.png)|Snow Secret|1st insight|1,500 coins|3 stone|
-|![Center Secret](images/lethalia_lioarlan_misc_weapon_19.png)|Center Secret|7th insight|4,000 coins|5 stone|
-|![Blossom Secret](images/lethalia_lioarlan_misc_weapon_20.png)|Blossom Secret|21st insight|10,000 coins|7 stone|
-|![Moon Secret](images/lethalia_lioarlan_misc_weapon_21.png)|Moon Secret|39th insight|15,000 coins|9 stone|
-|![Light Secret](images/lethalia_lioarlan_misc_weapon_22.png)|Light Secret|52th insight|23,000 coins|11 stone|
+|![Snow Secret](images/lethalia_lioarlan_misc_weapon_18.webp)|Snow Secret|1st insight|1,500 coins|3 stone|
+|![Center Secret](images/lethalia_lioarlan_misc_weapon_19.webp)|Center Secret|7th insight|4,000 coins|5 stone|
+|![Blossom Secret](images/lethalia_lioarlan_misc_weapon_20.webp)|Blossom Secret|21st insight|10,000 coins|7 stone|
+|![Moon Secret](images/lethalia_lioarlan_misc_weapon_21.webp)|Moon Secret|39th insight|15,000 coins|9 stone|
+|![Light Secret](images/lethalia_lioarlan_misc_weapon_22.webp)|Light Secret|52th insight|23,000 coins|11 stone|
 
 __Suomi__ - Gunnar's Weapon Shop - Fine Northern Ardmagh Blades
 
@@ -494,7 +494,7 @@ Hali - Humble Higgler of Undine
 
 |Weapon|Name|Insight|Cost|Weight|
 |-|-|-|-|-|
-|![Whip](images/lethalia_lioarlan_misc_weapon_23.png)|Whip|26th insight ROGUE Only|20,000 coins|10 stone|
+|![Whip](images/lethalia_lioarlan_misc_weapon_23.webp)|Whip|26th insight ROGUE Only|20,000 coins|10 stone|
 
 ## Jewelry
 
@@ -507,12 +507,12 @@ This scroll will help ye to understand a bit about the magical earrings of Temua
 
 |Earrings|Name|Insight|Cost|Magic|Purchase Location|
 |-|-|-|-|-|-|
-|![Beryl Earrings](images/lethalia_lioarlan_misc_ears_1.png)|Beryl Earrings|8th insight|3,000 coins|+1 Intelligence|Torrance's Armor Shop - Mileth <br> Jilt's Storage - Piet|
-|![Coral Earrings](images/lethalia_lioarlan_misc_ears_2.png)|Coral Earrings|8th insight|8,000 coins|+2 Intelligence|Torrance's Armor Shop - Mileth <br> Cian's Magic Shop - Piet|
-|![Silver Earrings](images/lethalia_lioarlan_misc_ears_3.png)|Silver Earrings|8th insight|3,000 coins|+1 Strength|Leo's Armor Shop - Piet <br> Valdemar's Armor Shop - Suomi|
-|![Gold Earrings](images/lethalia_lioarlan_misc_ears_4.png)|Gold Earrings|8th insight|10,000 coins|+2 Strength|Leo's Armor Shop - Piet|
-|![Ruby Earrings](images/lethalia_lioarlan_misc_ears_5.png)|Ruby Earrings|8th insight|10,000 coins|+1 Intelligence <br> +1 Strength|Valdemar's Armor Shop - Suomi|
-|![Pearl Earrings](images/lethalia_lioarlan_misc_ears_6.png)|Pearl Earrings|14th insight|Found|+200 Mana|Found|
+|![Beryl Earrings](images/lethalia_lioarlan_misc_ears_1.webp)|Beryl Earrings|8th insight|3,000 coins|+1 Intelligence|Torrance's Armor Shop - Mileth <br> Jilt's Storage - Piet|
+|![Coral Earrings](images/lethalia_lioarlan_misc_ears_2.webp)|Coral Earrings|8th insight|8,000 coins|+2 Intelligence|Torrance's Armor Shop - Mileth <br> Cian's Magic Shop - Piet|
+|![Silver Earrings](images/lethalia_lioarlan_misc_ears_3.webp)|Silver Earrings|8th insight|3,000 coins|+1 Strength|Leo's Armor Shop - Piet <br> Valdemar's Armor Shop - Suomi|
+|![Gold Earrings](images/lethalia_lioarlan_misc_ears_4.webp)|Gold Earrings|8th insight|10,000 coins|+2 Strength|Leo's Armor Shop - Piet|
+|![Ruby Earrings](images/lethalia_lioarlan_misc_ears_5.webp)|Ruby Earrings|8th insight|10,000 coins|+1 Intelligence <br> +1 Strength|Valdemar's Armor Shop - Suomi|
+|![Pearl Earrings](images/lethalia_lioarlan_misc_ears_6.webp)|Pearl Earrings|14th insight|Found|+200 Mana|Found|
 
 ### Necklaces
 
@@ -520,17 +520,17 @@ This scroll will help ye to understand a bit about the magical necklaces of Temu
 
 |Necklace|Name|Insight|Cost|Magic|Purchase Location|
 |-|-|-|-|-|-|
-|![Fire Necklace](images/lethalia_lioarlan_misc_neck_1.png)|Fire Necklace|8th insight|10,000 coins|Srad Offense|Carlos's Armor Shop - Rucesion|
-|![Wind Necklace](images/lethalia_lioarlan_misc_neck_2.png)|Wind Necklace|8th insight|10,000 coins|Athar Offense|Carlos's Armor Shop - Rucesion|
-|![Earth Necklace](images/lethalia_lioarlan_misc_neck_3.png)|Earth Necklace|8th insight|10,000 coins|Earth Offense|Carlos's Armor Shop - Rucesion|
-|![Sea Necklace](images/lethalia_lioarlan_misc_neck_4.png)|Sea Necklace|8th insight|10,000 coins|Sal Offense|Carlos's Armor Shop - Rucesion|
-|![Pearl Necklace](images/lethalia_lioarlan_misc_neck_5.png)|Pearl Necklace|9th insight|800 coins|+5 Hit|Valdemar's Armor Shop - Suomi|
-|![Gold Jade Necklace](images/lethalia_lioarlan_misc_neck_6.png)|Gold Jade Necklace|10th insight|800 coins|+1 Hit|Leo's Armor Shop - Piet|
-|![Jade Necklace](images/lethalia_lioarlan_misc_neck_7.png)|Jade Necklace|13th insight|1,600 coins|+10 Hit|Valdemar's Armor Shop - Suomi|
-|![Amber Necklace](images/lethalia_lioarlan_misc_neck_8.png)|Amber Necklace|14th insight|1,600|+1 Damage|Torrance's Armor Shop - Mileth|
-|![Bone Necklace](images/lethalia_lioarlan_misc_neck_9.png)|Bone Necklace|15th insight|1,500|+5 Hit|Torrance's Armor Shop - Mileth|
-|![Prayer Necklace](images/lethalia_lioarlan_misc_neck_10.png)|Prayer Necklace|1st insight|Join a Temple||Any Temple|
-|![Nadurra Necklace](images/lethalia_lioarlan_misc_neck_11.png)|Nadurra Necklace|11th insight|5,000 coins||Kiril's Magic Shop - Undine|
+|![Fire Necklace](images/lethalia_lioarlan_misc_neck_1.webp)|Fire Necklace|8th insight|10,000 coins|Srad Offense|Carlos's Armor Shop - Rucesion|
+|![Wind Necklace](images/lethalia_lioarlan_misc_neck_2.webp)|Wind Necklace|8th insight|10,000 coins|Athar Offense|Carlos's Armor Shop - Rucesion|
+|![Earth Necklace](images/lethalia_lioarlan_misc_neck_3.webp)|Earth Necklace|8th insight|10,000 coins|Earth Offense|Carlos's Armor Shop - Rucesion|
+|![Sea Necklace](images/lethalia_lioarlan_misc_neck_4.webp)|Sea Necklace|8th insight|10,000 coins|Sal Offense|Carlos's Armor Shop - Rucesion|
+|![Pearl Necklace](images/lethalia_lioarlan_misc_neck_5.webp)|Pearl Necklace|9th insight|800 coins|+5 Hit|Valdemar's Armor Shop - Suomi|
+|![Gold Jade Necklace](images/lethalia_lioarlan_misc_neck_6.webp)|Gold Jade Necklace|10th insight|800 coins|+1 Hit|Leo's Armor Shop - Piet|
+|![Jade Necklace](images/lethalia_lioarlan_misc_neck_7.webp)|Jade Necklace|13th insight|1,600 coins|+10 Hit|Valdemar's Armor Shop - Suomi|
+|![Amber Necklace](images/lethalia_lioarlan_misc_neck_8.webp)|Amber Necklace|14th insight|1,600|+1 Damage|Torrance's Armor Shop - Mileth|
+|![Bone Necklace](images/lethalia_lioarlan_misc_neck_9.webp)|Bone Necklace|15th insight|1,500|+5 Hit|Torrance's Armor Shop - Mileth|
+|![Prayer Necklace](images/lethalia_lioarlan_misc_neck_10.webp)|Prayer Necklace|1st insight|Join a Temple||Any Temple|
+|![Nadurra Necklace](images/lethalia_lioarlan_misc_neck_11.webp)|Nadurra Necklace|11th insight|5,000 coins||Kiril's Magic Shop - Undine|
 
 ### Rings
 
@@ -538,19 +538,19 @@ This scroll will help ye to understand a bit about the magical rings of Temuair
 
 |Ring|Name|Insight|Cost|Magic|Purchase Location|
 |-|-|-|-|-|-|
-|![Small Spinel Ring](images/lethalia_lioarlan_misc_ring_1.png)|Small Spinel Ring|1st insight|Found|+300 Health <br> +2 Damage |Raghnall the Wizard - Tutorial|
-|![Small Emerald Ring](images/lethalia_lioarlan_misc_ring_2.png)|Small Emerald Ring| insight|Found|+300 Health <br> +2 Hit |Raghnall the Wizard - Tutorial|
-|![Talos Ring](images/lethalia_lioarlan_misc_ring_3.png)|Talos Ring|4th insight|3,000 coins|+100 Health|Leo's Armor Shop - Piet|
-|![Beryl Ring](images/lethalia_lioarlan_misc_ring_4.png)|Beryl Ring|5th insight|3,000 coins|+50 Mana|Alexios's Armor Shop - Undine|
-|![Ruby Ring](images/lethalia_lioarlan_misc_ring_5.png)|Ruby Ring|6th insight|20,000 coins|+200 Health|Torreance's Armor Shop - Mileth|
-|![Coral Ring](images/lethalia_lioarlan_misc_ring_6.png)|Coral Ring|7th insight|20,000 coins|+100 Mana|Steiner's Armor Shop - Abel <br> Alexios's Armor Shop - Undine|
-|![Lapis Ring](images/lethalia_lioarlan_misc_ring_7.png)|Lapis Ring|8th insight|50,000 coins|+300 Health <br> +2 Damage|Alexios's Armor Shop - Undine|
-|![Red Jade Ring](images/lethalia_lioarlan_misc_ring_8.png)|Red Jade Ring|10th insight|5,000 coins|+200 Health <br> +100 Mana|Leo's Armor Shop - Piet|
-|![Spinel Ring](images/lethalia_lioarlan_misc_ring_9.png)|Spinel Ring|11th insight|5,000 coins|+500 Health <br> +2 Hit|Leo's Armor Shop - Piet|
-|![Amethyst Ring](images/lethalia_lioarlan_misc_ring_10.png)|Amethyst Ring|12th insight|50,000 coins|+200 Health <br> +100 Mana|Torreance's Armor Shop - Mileth|
-|![Emerald Ring](images/lethalia_lioarlan_misc_ring_11.png)|Emerald Ring|12th insight|6,000 coins|+500 Health <br> +2 Damage|Valdemar's Armor Shop - Suomi <br> Black Market <br> Mentor|
-|![Jade Ring](images/lethalia_lioarlan_misc_ring_12.png)|Jade Ring|16th insight|100,000 coins|+300 Health <br> +150 Mana|Valdemar's Armor Shop - Suomi <br> Black Market|
-|![Grave Ring](images/lethalia_lioarlan_misc_ring_13.png)|Grave Ring|9th insight|Found|+150 Mana|Found|
+|![Small Spinel Ring](images/lethalia_lioarlan_misc_ring_1.webp)|Small Spinel Ring|1st insight|Found|+300 Health <br> +2 Damage |Raghnall the Wizard - Tutorial|
+|![Small Emerald Ring](images/lethalia_lioarlan_misc_ring_2.webp)|Small Emerald Ring| insight|Found|+300 Health <br> +2 Hit |Raghnall the Wizard - Tutorial|
+|![Talos Ring](images/lethalia_lioarlan_misc_ring_3.webp)|Talos Ring|4th insight|3,000 coins|+100 Health|Leo's Armor Shop - Piet|
+|![Beryl Ring](images/lethalia_lioarlan_misc_ring_4.webp)|Beryl Ring|5th insight|3,000 coins|+50 Mana|Alexios's Armor Shop - Undine|
+|![Ruby Ring](images/lethalia_lioarlan_misc_ring_5.webp)|Ruby Ring|6th insight|20,000 coins|+200 Health|Torreance's Armor Shop - Mileth|
+|![Coral Ring](images/lethalia_lioarlan_misc_ring_6.webp)|Coral Ring|7th insight|20,000 coins|+100 Mana|Steiner's Armor Shop - Abel <br> Alexios's Armor Shop - Undine|
+|![Lapis Ring](images/lethalia_lioarlan_misc_ring_7.webp)|Lapis Ring|8th insight|50,000 coins|+300 Health <br> +2 Damage|Alexios's Armor Shop - Undine|
+|![Red Jade Ring](images/lethalia_lioarlan_misc_ring_8.webp)|Red Jade Ring|10th insight|5,000 coins|+200 Health <br> +100 Mana|Leo's Armor Shop - Piet|
+|![Spinel Ring](images/lethalia_lioarlan_misc_ring_9.webp)|Spinel Ring|11th insight|5,000 coins|+500 Health <br> +2 Hit|Leo's Armor Shop - Piet|
+|![Amethyst Ring](images/lethalia_lioarlan_misc_ring_10.webp)|Amethyst Ring|12th insight|50,000 coins|+200 Health <br> +100 Mana|Torreance's Armor Shop - Mileth|
+|![Emerald Ring](images/lethalia_lioarlan_misc_ring_11.webp)|Emerald Ring|12th insight|6,000 coins|+500 Health <br> +2 Damage|Valdemar's Armor Shop - Suomi <br> Black Market <br> Mentor|
+|![Jade Ring](images/lethalia_lioarlan_misc_ring_12.webp)|Jade Ring|16th insight|100,000 coins|+300 Health <br> +150 Mana|Valdemar's Armor Shop - Suomi <br> Black Market|
+|![Grave Ring](images/lethalia_lioarlan_misc_ring_13.webp)|Grave Ring|9th insight|Found|+150 Mana|Found|
 
 ## Curiosities, Gifts and Gems
 
@@ -562,18 +562,18 @@ This scroll has useful information on some items that did not quite fit into oth
 
 #### Scrolls
 
-![Parchment Scrolls](images/lethalia_lioarlan_misc_junk_1.png)Parchment Scrolls - These scrolls are used by wizards to scribe songs of different towns in Temuair. They can be bought from Dar's magic shop in Mileth for 500 coins.
+![Parchment Scrolls](images/lethalia_lioarlan_misc_junk_1.webp)Parchment Scrolls - These scrolls are used by wizards to scribe songs of different towns in Temuair. They can be bought from Dar's magic shop in Mileth for 500 coins.
 
-![Songs](images/lethalia_lioarlan_misc_junk_2.png)Songs - Songs are magical tunes about specific towns scribed by wizards onto Parchment Scrolls. They can also be made through prayer to a god of Temuair. These scrolls are called songs because when you sing the words that are scribed onto them, you will be magically transported through time to the town that the song was written about.
+![Songs](images/lethalia_lioarlan_misc_junk_2.webp)Songs - Songs are magical tunes about specific towns scribed by wizards onto Parchment Scrolls. They can also be made through prayer to a god of Temuair. These scrolls are called songs because when you sing the words that are scribed onto them, you will be magically transported through time to the town that the song was written about.
 
 
 #### Tools
 
-![Cloth Glove](images/lethalia_lioarlan_misc_junk_3.png)Cloth Gloves - Cloth gloves must be worn in order for herbalists to gather necessary ingredients to produce potions. They can be bought from Bertil, the Fae priestess, in Suomi for 250 coins.
+![Cloth Glove](images/lethalia_lioarlan_misc_junk_3.webp)Cloth Gloves - Cloth gloves must be worn in order for herbalists to gather necessary ingredients to produce potions. They can be bought from Bertil, the Fae priestess, in Suomi for 250 coins.
 
-![Lockpicks](images/lethalia_lioarlan_misc_junk_4.png)Lockpicks - Lockpicks are very handy tools designed specifically for rogues. They are used in connection with the unlock skill to open chests ye will find in the crypts. Ye must be of the 3rd insight to use them and they can be purchased from the rogue trainer in Mileth, Rucesion, or Suomi. They cost 5,000 coins and weigh 1 stone.
+![Lockpicks](images/lethalia_lioarlan_misc_junk_4.webp)Lockpicks - Lockpicks are very handy tools designed specifically for rogues. They are used in connection with the unlock skill to open chests ye will find in the crypts. Ye must be of the 3rd insight to use them and they can be purchased from the rogue trainer in Mileth, Rucesion, or Suomi. They cost 5,000 coins and weigh 1 stone.
 
-![Blue Powder](images/lethalia_lioarlan_misc_junk_5.png)Blue Powders - These powders are used by rogues to construct a blinding bomb called a smokey sphere. These powders can only be made by wizards. Components needed to make them are eyes, wolf teeth or skulls.
+![Blue Powder](images/lethalia_lioarlan_misc_junk_5.webp)Blue Powders - These powders are used by rogues to construct a blinding bomb called a smokey sphere. These powders can only be made by wizards. Components needed to make them are eyes, wolf teeth or skulls.
 
 Smokey Spheres - These spheres are actually more of a bomb than a plain ol' sphere. When thrown by a rogue they will blind all Aislings or creatures within a specified area. They can be constructed by rogues or bought from either Huberto's goods shop in Rucesion or Hali's goods shop in Undine for 5,000 coins.
 
@@ -583,30 +583,30 @@ There are many good things in Temuair to eat. Take someone out on a dinner date,
 
 #### Drinks
 
-![Brandy](images/lethalia_lioarlan_misc_drink_1.png)Brandy - This is a great drink for a romantic dinner by candlelight or serve it at a party. You can buy Brandy from Cassidy's storage shop in Mileth, Aingeal's tavern in Mileth, Frida's tavern in Abel, or Bella's tavern in Piet for 200 coins.
+![Brandy](images/lethalia_lioarlan_misc_drink_1.webp)Brandy - This is a great drink for a romantic dinner by candlelight or serve it at a party. You can buy Brandy from Cassidy's storage shop in Mileth, Aingeal's tavern in Mileth, Frida's tavern in Abel, or Bella's tavern in Piet for 200 coins.
 
-![Rum](images/lethalia_lioarlan_misc_drink_2.png)Rum - This hearty drink is a welcome refreshment for a warrior coming back from the battle. Ye can buy rum from Aingeal's tavern in Mileth, Frida's tavern in Abel, or Viveka's tavern in Suomi for 100 coins.
+![Rum](images/lethalia_lioarlan_misc_drink_2.webp)Rum - This hearty drink is a welcome refreshment for a warrior coming back from the battle. Ye can buy rum from Aingeal's tavern in Mileth, Frida's tavern in Abel, or Viveka's tavern in Suomi for 100 coins.
 
-![Wine](images/lethalia_lioarlan_misc_drink_3.png)Wine - The drink of the gods is what I say. So much can be done with wine. Ye can sacrifice it to the gods in the Mileth Altar, give it to friends, or give it to herbalists to make potions with. An all round good drink. It's a little more expensive than the other beverages of Temuair though, and most of the time scarce due to the massive use in making potions. Ye can buy wine from Frida's tavern in Abel, Bella's tavern in Piet, Chloe's tavern in Undine, or Viveka's tavern in Suomi for 500 coins.
+![Wine](images/lethalia_lioarlan_misc_drink_3.webp)Wine - The drink of the gods is what I say. So much can be done with wine. Ye can sacrifice it to the gods in the Mileth Altar, give it to friends, or give it to herbalists to make potions with. An all round good drink. It's a little more expensive than the other beverages of Temuair though, and most of the time scarce due to the massive use in making potions. Ye can buy wine from Frida's tavern in Abel, Bella's tavern in Piet, Chloe's tavern in Undine, or Viveka's tavern in Suomi for 500 coins.
 
 
 #### Foods
 
-![Apples](images/lethalia_lioarlan_misc_food_1.png)Apples - A great hearty snack. Try Keegan's apples, he grows the biggest, juiciest apples anywhere in Temuair. If ye have trouble finding Keegan awake, ye can also buy them from Oona's restaraunt in Mileth, or Aud's restaurant in Abel for a mere 5 coins.
+![Apples](images/lethalia_lioarlan_misc_food_1.webp)Apples - A great hearty snack. Try Keegan's apples, he grows the biggest, juiciest apples anywhere in Temuair. If ye have trouble finding Keegan awake, ye can also buy them from Oona's restaraunt in Mileth, or Aud's restaurant in Abel for a mere 5 coins.
 
-![Baguette](images/lethalia_lioarlan_misc_food_2.png)Baguette - A nice filling home baked roll and a nice change from sliced bread. Ye can buy baguettes from Oona's restaurant in Mileth or Alleen's restaurant in Piet for 10 coins.
+![Baguette](images/lethalia_lioarlan_misc_food_2.webp)Baguette - A nice filling home baked roll and a nice change from sliced bread. Ye can buy baguettes from Oona's restaurant in Mileth or Alleen's restaurant in Piet for 10 coins.
 
-![Beef](images/lethalia_lioarlan_misc_food_3.png)Beef - Hearty for a meal indeed, but when ye walk by those poor friendly cows next to Cian's magic shop in Mileth, it just makes ye want to stick to eatin' ye veggies. If ye must know, ye can buy beef from Oona's restaurant in Mileth, Alleen's restaurant in Piet, or Gudny's restaurant in Suomi for 35 coins.
+![Beef](images/lethalia_lioarlan_misc_food_3.webp)Beef - Hearty for a meal indeed, but when ye walk by those poor friendly cows next to Cian's magic shop in Mileth, it just makes ye want to stick to eatin' ye veggies. If ye must know, ye can buy beef from Oona's restaurant in Mileth, Alleen's restaurant in Piet, or Gudny's restaurant in Suomi for 35 coins.
 
-![Bread Slice](images/lethalia_lioarlan_misc_food_4.png)Bread Slice - A must have for any meal. Ye can buy sliced bread from Aud's restaurant in Abel, Damara's restaurant in Undine, or Gudny's restaurant in Suomi for a mere 5 coins.
+![Bread Slice](images/lethalia_lioarlan_misc_food_4.webp)Bread Slice - A must have for any meal. Ye can buy sliced bread from Aud's restaurant in Abel, Damara's restaurant in Undine, or Gudny's restaurant in Suomi for a mere 5 coins.
 
-![Cherry](images/lethalia_lioarlan_misc_food_5.png)Cherry - A great fruit, not only good for you but useful as well. A bit expensive if ye ask me, but I'd say they're worth it. Cherries are one of the key ingredients used by priests in making the life giving potion called Beothaich deums, or as they are affectionately called, "Reds". Ye can buy cherries from the farmer Goran in Suomi. Ye can either buy them for 50 coins each, or ye can harvest 3 dozen of them ye'self for 1000 coins. Ye can also buy cherries from Alleen's restaurant in Piet, Damara's restaurant in Undine, or Gudny's restaurant in Suomi for 50 coins.
+![Cherry](images/lethalia_lioarlan_misc_food_5.webp)Cherry - A great fruit, not only good for you but useful as well. A bit expensive if ye ask me, but I'd say they're worth it. Cherries are one of the key ingredients used by priests in making the life giving potion called Beothaich deums, or as they are affectionately called, "Reds". Ye can buy cherries from the farmer Goran in Suomi. Ye can either buy them for 50 coins each, or ye can harvest 3 dozen of them ye'self for 1000 coins. Ye can also buy cherries from Alleen's restaurant in Piet, Damara's restaurant in Undine, or Gudny's restaurant in Suomi for 50 coins.
 
-![Chicken](images/lethalia_lioarlan_misc_food_6.png)Chicken - Another great part of a hearty meal, although I do wonder where they keep or find these chickens since I've never seen any before. Ye can buy chicken from Oona's restaurant in Mileth, Aud's restaurant in Abel, Alleen's restaurant in Piet, Damara's restaurant in Undine, or Gudny's restaurant in Suomi for 20 coins.
+![Chicken](images/lethalia_lioarlan_misc_food_6.webp)Chicken - Another great part of a hearty meal, although I do wonder where they keep or find these chickens since I've never seen any before. Ye can buy chicken from Oona's restaurant in Mileth, Aud's restaurant in Abel, Alleen's restaurant in Piet, Damara's restaurant in Undine, or Gudny's restaurant in Suomi for 20 coins.
 
-![Grapes](images/lethalia_lioarlan_misc_food_7.png)Grapes - Another delicious fruit that's quite useful and greatly needed as well. Grapes are the second ingredient needed in creating the life giving potions, Beothaich deums, or as they are affectionately called, "Reds". Grapes can be bought from Alvar, the farmer in Suomi for 10 coins a bunch, or ye can harvest 18 bunches ye'self for 100 coins. Ye can also buy grapes from Alleen's restaurant in Piet for 10 coins a bunch.
+![Grapes](images/lethalia_lioarlan_misc_food_7.webp)Grapes - Another delicious fruit that's quite useful and greatly needed as well. Grapes are the second ingredient needed in creating the life giving potions, Beothaich deums, or as they are affectionately called, "Reds". Grapes can be bought from Alvar, the farmer in Suomi for 10 coins a bunch, or ye can harvest 18 bunches ye'self for 100 coins. Ye can also buy grapes from Alleen's restaurant in Piet for 10 coins a bunch.
 
-![Vegetables](images/lethalia_lioarlan_misc_food_8.png)Vegetables - A vital part of all meals. Vegetables will help with vitality and help keep ye strong in battle. Ye can buy vegetables from Oona's restaurant in Mileth or Aud's restaurant in Abel for a mere 5 coins.
+![Vegetables](images/lethalia_lioarlan_misc_food_8.webp)Vegetables - A vital part of all meals. Vegetables will help with vitality and help keep ye strong in battle. Ye can buy vegetables from Oona's restaurant in Mileth or Aud's restaurant in Abel for a mere 5 coins.
 
 ### Gems
 
@@ -614,25 +614,25 @@ This scroll will give ye a little information on gems found about Temuair.
 
 Gems are most commonly found in a raw state. They can, however, be polished to beautiful and valuable stones by rogues. In order to find out what ye gem is worth, ye can have a rogue appraise it for ye. Ye can also have a priest properly identify it so ye know what state the gem is in. Be aware though, whatever a gem is worth, ye will only get half that amount from the Mundanes when selling it. Most mundanes will offer a price before buying it from ye. 
 
-![Beyrl](images/lethalia_lioarlan_misc_gem_1.png)Beryl - This gem can be sold for a profit or used by rogues to craft Beryl and Emerald Rings. It is also needed to learn specific spells or skills.
+![Beyrl](images/lethalia_lioarlan_misc_gem_1.webp)Beryl - This gem can be sold for a profit or used by rogues to craft Beryl and Emerald Rings. It is also needed to learn specific spells or skills.
 
-![Coral](images/lethalia_lioarlan_misc_gem_2.png)Coral - This gem can be sold for a profit higher than beryl. It can also be used by rogues to craft Coral and Lapis rings.
+![Coral](images/lethalia_lioarlan_misc_gem_2.webp)Coral - This gem can be sold for a profit higher than beryl. It can also be used by rogues to craft Coral and Lapis rings.
 
-![Ruby](images/lethalia_lioarlan_misc_gem_3.png)Ruby - This gem can be sold for a profit higher than coral. Rubies are needed to learn specific higher insight spells as well. They can also be used by rogues to craft Amethyst, Red Jade, Ruby, and Spinel rings.
+![Ruby](images/lethalia_lioarlan_misc_gem_3.webp)Ruby - This gem can be sold for a profit higher than coral. Rubies are needed to learn specific higher insight spells as well. They can also be used by rogues to craft Amethyst, Red Jade, Ruby, and Spinel rings.
 
-![Talos](images/lethalia_lioarlan_misc_gem_4.png)Talos - This can be sold for a profit. If not a good one from the Mundanes, ye can get quite a bit from eager Aislings as this gem is so rare. It is needed to craft certain armors and can also be used by rogues to craft Talos Rings.
+![Talos](images/lethalia_lioarlan_misc_gem_4.webp)Talos - This can be sold for a profit. If not a good one from the Mundanes, ye can get quite a bit from eager Aislings as this gem is so rare. It is needed to craft certain armors and can also be used by rogues to craft Talos Rings.
 
-![Hy-brasyl](images/lethalia_lioarlan_misc_gem_5.png)Hybrasyl - This gem is very rare and sought after. I'm not certain if there are any Mundanes who will buy it, but I do know ye can make a great profit by selling it to another Aisling. I belive these gems are also needed to craft a specific armor.
+![Hy-brasyl](images/lethalia_lioarlan_misc_gem_5.webp)Hybrasyl - This gem is very rare and sought after. I'm not certain if there are any Mundanes who will buy it, but I do know ye can make a great profit by selling it to another Aisling. I belive these gems are also needed to craft a specific armor.
 
 ### Gifts
 
 Welcome to me gift list. These gifts are extravagant so if ye cannot afford them, wine is always nice *smiles*. And don't forget there are other appropriate gifts for different situations, use ye imagination.
 
-![Rose Bouquet](images/lethalia_lioarlan_misc_junk_6.png)Rose Bouquet - These beautiful rose bouquets are the perfect gift for an engagement. They also look nice at weddings. *winks* They can be bought from Viveka's tavern in Suomi for 50,000 coins.
+![Rose Bouquet](images/lethalia_lioarlan_misc_junk_6.webp)Rose Bouquet - These beautiful rose bouquets are the perfect gift for an engagement. They also look nice at weddings. *winks* They can be bought from Viveka's tavern in Suomi for 50,000 coins.
 
-![Spring Bouquet](images/lethalia_lioarlan_misc_junk_7.png)Spring Bouquet - These beautiful spring bouquets are perfect to give someone ye love in honor of the changing of the seasons and the ever blooming of relationships. As rose bouquets, they also look nice at weddings. *winks* They can be bought from Saskia's inn in Piet for 100,000 coins.
+![Spring Bouquet](images/lethalia_lioarlan_misc_junk_7.webp)Spring Bouquet - These beautiful spring bouquets are perfect to give someone ye love in honor of the changing of the seasons and the ever blooming of relationships. As rose bouquets, they also look nice at weddings. *winks* They can be bought from Saskia's inn in Piet for 100,000 coins.
 
-![Spring Bouquet](images/lethalia_lioarlan_misc_junk_8.png)Hair Band - These hair bands are very extravagant and are a nice accessory to wear to social gatherings. They also look very nice on a bride in place of the veil at weddings. They can be bought from Leo's armor shop in Piet for a steep 1,000,000 coins.
+![Spring Bouquet](images/lethalia_lioarlan_misc_junk_8.webp)Hair Band - These hair bands are very extravagant and are a nice accessory to wear to social gatherings. They also look very nice on a bride in place of the veil at weddings. They can be bought from Leo's armor shop in Piet for a steep 1,000,000 coins.
 
 ### Spoils
 
@@ -642,68 +642,68 @@ This scroll is specially dedicated to ye younger Aislings out there who are look
 
 Be careful in the Mileth crypt. There are many creatures there that will attack on sight. They will also follow ye around the crypt attacking ye until ye leave the area if they have their sights set on ye. Also, once ye reach the 3rd level of the crypt, the creatures start to conjure the elements and will cast devistating spells on ye. Be sure to bring companions for help. 
 
-![Drops](images/lethalia_lioarlan_misc_drops_1.png)Mold - Mold can be found on the 1st and 2nd levels of the Mileth crypt. It is dropped by rats or centipedes after battle. Mold might seem worthless to ye, but the alchemist, Cian, in Mileth, will buy this mold from ye for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_1.webp)Mold - Mold can be found on the 1st and 2nd levels of the Mileth crypt. It is dropped by rats or centipedes after battle. Mold might seem worthless to ye, but the alchemist, Cian, in Mileth, will buy this mold from ye for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_2.png)Moldy Baguette - Moldy baguettes can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy this moldy bread from ye for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_2.webp)Moldy Baguette - Moldy baguettes can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy this moldy bread from ye for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_3.png)Rotten Apple - Rotten fruit can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy these rotten fruits from ye for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_3.webp)Rotten Apple - Rotten fruit can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy these rotten fruits from ye for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_4.png)Rotten Cherry - Rotten fruit can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy these rotten fruits from ye for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_4.webp)Rotten Cherry - Rotten fruit can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy these rotten fruits from ye for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_5.png)Rotten Grapes - Rotten fruit can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy these rotten fruits from ye for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_5.webp)Rotten Grapes - Rotten fruit can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy these rotten fruits from ye for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_6.png)Rotten Vegetable - Rotten vegetables can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy these rotten vegetables from ye for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_6.webp)Rotten Vegetable - Rotten vegetables can be found on the 1st and 2nd levels of the crypt. They are dropped by rats after battle. Ye may think it worthless, but the alchemist, Cian, in Mileth, will buy these rotten vegetables from ye for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_7.png)Spider Eye - These eyes can be found in the 1st to 4th levels of the Mileth crypt. They are dropped by spiders after battle.
+![Drops](images/lethalia_lioarlan_misc_drops_7.webp)Spider Eye - These eyes can be found in the 1st to 4th levels of the Mileth crypt. They are dropped by spiders after battle.
 
-![Drops](images/lethalia_lioarlan_misc_drops_8.png)Spiders Silk - This silk is dropped by spiders beginning on the 2nd level of the crypt. It is somewhat rare and sought after by young Aislings who are learning the ways of Arcane Magic.
+![Drops](images/lethalia_lioarlan_misc_drops_8.webp)Spiders Silk - This silk is dropped by spiders beginning on the 2nd level of the crypt. It is somewhat rare and sought after by young Aislings who are learning the ways of Arcane Magic.
 
-![Drops](images/lethalia_lioarlan_misc_drops_9.png)Centipede Gland - These glands are dropped by centipedes in the Mileth Crypt. They come in handy to learn numerous skills and spells. Be careful though, even though a centipede is only a bug, it's got a mean bite.
+![Drops](images/lethalia_lioarlan_misc_drops_9.webp)Centipede Gland - These glands are dropped by centipedes in the Mileth Crypt. They come in handy to learn numerous skills and spells. Be careful though, even though a centipede is only a bug, it's got a mean bite.
 
-![Drops](images/lethalia_lioarlan_misc_drops_10.png)Bat's Wing - These wings are dropped by bats after battle. Ye can find them beginning on the 3rd level of the crypt. Be careful though, it could prove deadly to try to find them. There are also other wings that ye can find, those of the Great Bat and White bat. These are found deep within the crypt.
+![Drops](images/lethalia_lioarlan_misc_drops_10.webp)Bat's Wing - These wings are dropped by bats after battle. Ye can find them beginning on the 3rd level of the crypt. Be careful though, it could prove deadly to try to find them. There are also other wings that ye can find, those of the Great Bat and White bat. These are found deep within the crypt.
 
-![Drops](images/lethalia_lioarlan_misc_drops_11.png)Scorpion Sting - These stings are dropped by scorpions after battle. Scorpions can be found beginning on the 5th level of the Mileth Crypt. Aside from being valuable, they are sought after to learn skills and spells as well.
+![Drops](images/lethalia_lioarlan_misc_drops_11.webp)Scorpion Sting - These stings are dropped by scorpions after battle. Scorpions can be found beginning on the 5th level of the Mileth Crypt. Aside from being valuable, they are sought after to learn skills and spells as well.
 
-![Drops](images/lethalia_lioarlan_misc_drops_12.png)Succubus Hair - These hairs are dropped by a Succubus after battle. Succubus are creatures of the dubhamid that are summoned from another realm by followers of Sgrios to destroy lives and claim souls for their god. They are beasts that look almost like a human woman with wings. If you ever see a Succubus, it would be a good idea to run the other way. They are vile creatures who cast fatal magic upon all those within sight. I have listed this spoil here because often, these followers of Sgrios summon them in the crypt.
+![Drops](images/lethalia_lioarlan_misc_drops_12.webp)Succubus Hair - These hairs are dropped by a Succubus after battle. Succubus are creatures of the dubhamid that are summoned from another realm by followers of Sgrios to destroy lives and claim souls for their god. They are beasts that look almost like a human woman with wings. If you ever see a Succubus, it would be a good idea to run the other way. They are vile creatures who cast fatal magic upon all those within sight. I have listed this spoil here because often, these followers of Sgrios summon them in the crypt.
 
 #### East Woodlands
 
-![Drops](images/lethalia_lioarlan_misc_drops_13.png)Vipers Gland - These glands can be found in the Enchanged Garden area and the Wastlands area of the East Woodlands. They are dropped by the tiny vipers after battle.
+![Drops](images/lethalia_lioarlan_misc_drops_13.webp)Vipers Gland - These glands can be found in the Enchanged Garden area and the Wastlands area of the East Woodlands. They are dropped by the tiny vipers after battle.
 
-![Drops](images/lethalia_lioarlan_misc_drops_14.png)Wax - There are two types of natural wax, raw wax and royal wax. They are dropped after battle by bees or wasps in the Enchanted Garden area, the Wastelands area, and the Woodland Trail areas of the East Woodlands. This wax can be used to make fire protection belts by herbalists. Before these belts are properly identified, they will seem to be speckled wax. Wax is also needed by priests to learn healing spells.
+![Drops](images/lethalia_lioarlan_misc_drops_14.webp)Wax - There are two types of natural wax, raw wax and royal wax. They are dropped after battle by bees or wasps in the Enchanted Garden area, the Wastelands area, and the Woodland Trail areas of the East Woodlands. This wax can be used to make fire protection belts by herbalists. Before these belts are properly identified, they will seem to be speckled wax. Wax is also needed by priests to learn healing spells.
 
-![Drops](images/lethalia_lioarlan_misc_drops_15.png)Bee Stings - Bee stings are dropped after battle by bees or wasps in the Enchanted Garden area, the Wastelands area, and the Woodland Trail areas of the East Woodlands. These stings can be sold for a profit and they are sometimes needed to learn skills. ((I think))
+![Drops](images/lethalia_lioarlan_misc_drops_15.webp)Bee Stings - Bee stings are dropped after battle by bees or wasps in the Enchanted Garden area, the Wastelands area, and the Woodland Trail areas of the East Woodlands. These stings can be sold for a profit and they are sometimes needed to learn skills. ((I think))
 
-![Drops](images/lethalia_lioarlan_misc_drops_16.png)Honey - There are two types of natural honey, raw honey and royal honey. Raw honey is useful to eat if ye are hurt as it will give a little vitality back to ye. It's best not to rely on honey for healing though as it doesn't give much vitality. Honey is dropped after battle by bees or wasps in the Enchanted Garden area, the Wastelands area, and the Woodland Trail areas of the East Woodlands.
+![Drops](images/lethalia_lioarlan_misc_drops_16.webp)Honey - There are two types of natural honey, raw honey and royal honey. Raw honey is useful to eat if ye are hurt as it will give a little vitality back to ye. It's best not to rely on honey for healing though as it doesn't give much vitality. Honey is dropped after battle by bees or wasps in the Enchanted Garden area, the Wastelands area, and the Woodland Trail areas of the East Woodlands.
 
-![Drops](images/lethalia_lioarlan_misc_drops_17.png)Mantis Eyes - These eyes are dropped after battle by mantises in the Enchanted Garden area, the Wastelands area, and the Woodland Trail areas of the East Woodlands. They may be needed for skills or spells. They can be sold for a nice profit or given to a wizard to make blue powders as well.
+![Drops](images/lethalia_lioarlan_misc_drops_17.webp)Mantis Eyes - These eyes are dropped after battle by mantises in the Enchanted Garden area, the Wastelands area, and the Woodland Trail areas of the East Woodlands. They may be needed for skills or spells. They can be sold for a nice profit or given to a wizard to make blue powders as well.
 
-![Drops](images/lethalia_lioarlan_misc_drops_18.png)Wolf Skin - These skins are dropped after battle by wolves in the Woodland Trail areas and the Kobold's Vale areas of the East Woodlands. They can be sold in Abel for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_18.webp)Wolf Skin - These skins are dropped after battle by wolves in the Woodland Trail areas and the Kobold's Vale areas of the East Woodlands. They can be sold in Abel for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_19.png)Wolf Fur - These furs are dropped after battle by wolves in the Woodland Trail areas and Kobold's Vale areas of the East Woodlands. They can also be found in the sacrificial grounds known as Astrid. They can be sold in Abel for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_19.webp)Wolf Fur - These furs are dropped after battle by wolves in the Woodland Trail areas and Kobold's Vale areas of the East Woodlands. They can also be found in the sacrificial grounds known as Astrid. They can be sold in Abel for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_20.png)Wolf Locks - These tiny locks of hair are very rare and valuable. They are dropped after battle by wolves in the Woodland Trail areas and Kobold's Vale areas of the East Woodlands. They are sometimes needed to learn spells or skills. They can also be sold for a very nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_20.webp)Wolf Locks - These tiny locks of hair are very rare and valuable. They are dropped after battle by wolves in the Woodland Trail areas and Kobold's Vale areas of the East Woodlands. They are sometimes needed to learn spells or skills. They can also be sold for a very nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_21.png)Skulls - There are 3 types of skulls that can be found. They are Kobold Skulls, Goblin Skulls, and Hobgobblin Skulls. They are found in the Kobold's Vale areas and Goblin's Way area of the East Woodlands. They can also be found in the sacrificial area known as Astrid. These skulls can be used by wizards to make blue powder and can also be sold for a nice profit.
+![Drops](images/lethalia_lioarlan_misc_drops_21.webp)Skulls - There are 3 types of skulls that can be found. They are Kobold Skulls, Goblin Skulls, and Hobgobblin Skulls. They are found in the Kobold's Vale areas and Goblin's Way area of the East Woodlands. They can also be found in the sacrificial area known as Astrid. These skulls can be used by wizards to make blue powder and can also be sold for a nice profit.
 
-![Drops](images/lethalia_lioarlan_misc_drops_22.png)Flowers - These flowers are dropped after battle by a mushroom-type creature called a Shrieker in the Goblin's Way area of the East Woodlands. I'm not quite sure what they are used for and I do not belive ye can sell them, but they do make a nice decoration at weddings or a nice gift to friends.
+![Drops](images/lethalia_lioarlan_misc_drops_22.webp)Flowers - These flowers are dropped after battle by a mushroom-type creature called a Shrieker in the Goblin's Way area of the East Woodlands. I'm not quite sure what they are used for and I do not belive ye can sell them, but they do make a nice decoration at weddings or a nice gift to friends.
 
 
 #### Pravat Caves
 
-![Drops](images/lethalia_lioarlan_misc_drops_23.png)Draco Jaw - These jaw bones are sometimes dropped after battle by Draco Hatchlings in the Pravat Caves. Ye may also be able to find them in the Kasmanium Mine, but I'm not quite certain about that since I have yet to understand the mysteries of that place.
+![Drops](images/lethalia_lioarlan_misc_drops_23.webp)Draco Jaw - These jaw bones are sometimes dropped after battle by Draco Hatchlings in the Pravat Caves. Ye may also be able to find them in the Kasmanium Mine, but I'm not quite certain about that since I have yet to understand the mysteries of that place.
 
 ### Wedddings
 
 Marriage is a sacred event and a wonderful day in any Aislings life who decides to join in love with another. A marriage is a bond that is not meant to be broken, therefore it should be a special day to be remembered. There have been clothes specifically tailored for these special times. There is also another joining of love in Temuair - Fae Love. Fae love is different from the traditional wedding in the sense that any two people can be joined in Fae Love. Fae Love is a binding of souls. It does not have to be a man and woman joined in fae love, any two Aislings can be joined, but ye should make sure that the love is true, even if it is not a more traditional romantic love. These garments are not usually worn for a ceremony of Fae Love, but it is your day and ye should wear what will make ye happy.
 
-![Junk](images/lethalia_lioarlan_misc_junk_9.png)White Satin Gown - These beautiful gowns are for your special day, although costly, they will add a great memory to ye life in Temuair. Look as beautiful as ye feel on ye wedding day. Ye can buy these gowns from Jilt's storage shop in Piet for 500,000 coins.
+![Junk](images/lethalia_lioarlan_misc_junk_9.webp)White Satin Gown - These beautiful gowns are for your special day, although costly, they will add a great memory to ye life in Temuair. Look as beautiful as ye feel on ye wedding day. Ye can buy these gowns from Jilt's storage shop in Piet for 500,000 coins.
 
-![Junk](images/lethalia_lioarlan_misc_junk_10.png)Wedding Veil - These delicate veils are the perfect companion for the beautifully tailored wedding gown on your special day. The traditional lifting of the veil to kiss the bride can make your new husband fall to his knees. Ye can buy these veils from Jilt's storage shop in Piet for 50,000 coins.
+![Junk](images/lethalia_lioarlan_misc_junk_10.webp)Wedding Veil - These delicate veils are the perfect companion for the beautifully tailored wedding gown on your special day. The traditional lifting of the veil to kiss the bride can make your new husband fall to his knees. Ye can buy these veils from Jilt's storage shop in Piet for 50,000 coins.
 
-![Junk](images/lethalia_lioarlan_misc_junk_11.png)Hair Band - Add a little spark of diversity to your traditional wedding by wearing this hair band in place of the veil. A nice touch in spring or summer. Ye can buy these hair bands from Leo's armor shop in Piet for 1,000,000 coins. A little pricey, but if a complete traditional look is not for ye, this is a great look.
+![Junk](images/lethalia_lioarlan_misc_junk_11.webp)Hair Band - Add a little spark of diversity to your traditional wedding by wearing this hair band in place of the veil. A nice touch in spring or summer. Ye can buy these hair bands from Leo's armor shop in Piet for 1,000,000 coins. A little pricey, but if a complete traditional look is not for ye, this is a great look.
 
-![Junk](images/lethalia_lioarlan_misc_junk_12.png)Tuxedo - These luxuriously crafted tuxedos are a perfect match for the White Satin Gown of the wife to be. Who says wedding days are more for a bride than a groom? Enjoy ye day and look as special as ye bride. Ye can buy these tuxedos from Jilt's storage shop in Piet for 500,000 coins.
+![Junk](images/lethalia_lioarlan_misc_junk_12.webp)Tuxedo - These luxuriously crafted tuxedos are a perfect match for the White Satin Gown of the wife to be. Who says wedding days are more for a bride than a groom? Enjoy ye day and look as special as ye bride. Ye can buy these tuxedos from Jilt's storage shop in Piet for 500,000 coins.
 
 ## Places of Interest
 
@@ -1277,6 +1277,7 @@ Upon entering the Mileth Tavern, they sat and ordered their drinks. "A round of 
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 1999 (Mileth College master list).
 This work is one of the greatest treasures of Temuair.
 
 This entry has been edited to conform to Library formatting.

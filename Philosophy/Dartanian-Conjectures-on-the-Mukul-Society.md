@@ -361,6 +361,7 @@ _Treatise written in late winter, Deoch 7, by Dartanian Lestor_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 1999 (Mileth College master list).
 This work is considered one of the greatest treasures of Temuair.
 
 This entry has been heavily edited to conform to Library formatting.

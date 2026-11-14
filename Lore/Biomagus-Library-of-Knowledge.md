@@ -2,11 +2,11 @@
 
 _by Biomagus in **Dark Ages**_
 
-![Library of Knowledge](images/biomagus_library_main_nav.png)
+![Library of Knowledge](images/biomagus_library_main_nav.webp)
 
 ## Laibridh M'aithne
 
-![Faerie](images/biomagus_library_fariestart.png)
+![Faerie](images/biomagus_library_fariestart.webp)
 
 Welcome to Laibridh M'aithne. This is inscriptions in the ancient tongue
 meaning "Library of Knowledge". This library is one of the oldest talking about
@@ -44,11 +44,11 @@ with a lenses that support frames. I thank you.
 
 ## Attractions of Temuair
 
-![Attractions of Temuair](images/biomagus_library_t_attrations.png)
+![Attractions of Temuair](images/biomagus_library_t_attrations.webp)
 
 ### Abel Crypt
 
-![Abel Horror](images/biomagus_library_abelcrypt.png)
+![Abel Horror](images/biomagus_library_abelcrypt.webp)
 
 Danger, courage and fear. This is what you'll find in this horrid place. Dark
 creatures dwell in this pit of destructions. On the out-skirts of Abel you'll
@@ -62,7 +62,7 @@ need it.
 
 ### Cail Temple Fountain
 
-![Cail Temple Fountain](images/biomagus_library_cailfountian.png)
+![Cail Temple Fountain](images/biomagus_library_cailfountian.webp)
 
 Outside the mighty temple of balance of peace, lies the soft sound of water
 sprinkling over the splashes of heart-warming purity. This must be one of the
@@ -72,7 +72,7 @@ see for all.
 
 ### Glorious Undine Lake
 
-![Glorious Undine Lake](images/biomagus_library_undinesea.png)
+![Glorious Undine Lake](images/biomagus_library_undinesea.webp)
 
 Gliocas' indomitable drive and passion is what gives this lake a mystical
 being. On a soft, quiet night, it is said that you can see Glioca her-self bath
@@ -81,7 +81,7 @@ the powers of a goddess.
 
 ### Mileth Church
 
-![Mileth Church](images/biomagus_library_church.png)
+![Mileth Church](images/biomagus_library_church.webp)
 
 Can you hear the bell of those "Just-married-couple"? Such peace, and love is
 in the air. And even Sgath the dark lord can't with-stand the harmonies that
@@ -90,7 +90,7 @@ insightful sight to see.
 
 ### Statue of the Temples
 
-![Statue of the Temples](images/biomagus_library_godstatue.png)
+![Statue of the Temples](images/biomagus_library_godstatue.webp)
 
 Every temple of a god is blessed with a statue. This statue is not to be taken
 with neglect. It is like a tender fairy that not only represents a god, but is
@@ -100,7 +100,7 @@ of faith.
 
 ### Abel's Spectacular Beach's
 
-![Abel's Spitacular Beach](images/biomagus_library_beach.png)
+![Abel's Spitacular Beach](images/biomagus_library_beach.webp)
 
 Great castle made out of sand, a romantic stroll along the beach shore. This
 coast is one of spenders. One can heard the soft sounds of the water, of the
@@ -110,7 +110,7 @@ energy and zeal. One should try it out one night.
 
 ### Ascension Outstanding Ice Temples
 
-![Acesion's Outstanding Temple](images/biomagus_library_iceshrine.png)
+![Acesion's Outstanding Temple](images/biomagus_library_iceshrine.webp)
 
 Composed of ice, these temples renew both wisdom and health. Peering into them
 gives the seeker a new look on life. The ice looks like crystals on a dewy
@@ -119,7 +119,7 @@ of all the Asilings that have the honor of touching it.
 
 ### Soumi's Enchanting Fountain
 
-![Soumi's Enchanting Fountain](images/biomagus_library_soumifountian.png)
+![Soumi's Enchanting Fountain](images/biomagus_library_soumifountian.webp)
 
 Yet another great peice of artistic visions. It incorporates both water and
 nature in one clear picture. The waters of Soumi is the purest of the land,
@@ -129,7 +129,7 @@ pleasure.
 
 ### Wonder of Astrid
 
-![Wonder of Astrid](images/biomagus_library_astridoctigram.png)
+![Wonder of Astrid](images/biomagus_library_astridoctigram.webp)
 
 Astrid has always been a place of mystery. Being just out-side on Undine this
 forest is enchanted with Kobs' Wolfs' and Gob Shamons'. A enchanting octagram
@@ -140,7 +140,7 @@ great history that surrounds it. This mystery can not be missed.
 
 ### Prize of Mileth
 
-![Prize of Mileth](images/biomagus_library_cows.png)
+![Prize of Mileth](images/biomagus_library_cows.webp)
 
 One of the great prizes of Mileth is its love for animals. Even in Mileth
 itself is cows that shows this great farming land a pleasure to witness.
@@ -150,7 +150,7 @@ should consider yourself lucky.
 
 ### Curse of the Crypt
 
-![Terror of the Crypt](images/biomagus_library_dragon.png)
+![Terror of the Crypt](images/biomagus_library_dragon.webp)
 
 The most splendid place of them all is the dragon in the most bitter deeps of
 the crypt. In this dark dark place, that no god, not even glioca herself would
@@ -163,7 +163,7 @@ Crypt!
 
 ### Undine Fountain
 
-![Undine Fountain](images/biomagus_library_undinefountian.png)
+![Undine Fountain](images/biomagus_library_undinefountian.webp)
 
 One of the best fountains in all of Temuair, is the Undine fountain. Powered by
 the great waters of the undine lake, this fountain gives both slender to all
@@ -172,19 +172,19 @@ ancient heroes of the land as it tells you the stories of long ago.
 
 ## Mundane Ainm
 
-![Mundanes](images/biomagus_library_t_mundane.png)
+![Mundanes](images/biomagus_library_t_mundane.webp)
 
-![A Gaze of a Goddess](images/biomagus_library_silloette.png)
+![A Gaze of a Goddess](images/biomagus_library_silloette.webp)
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Keeper](images/biomagus_library_001.png) | Riona | Mileth | Inn Keeper |
+| ![Keeper](images/biomagus_library_001.webp) | Riona | Mileth | Inn Keeper |
 |  | Runa | Abel | Inn Keeper |
 |  | Saskia | Peit | Inn Keeper |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Smith](images/biomagus_library_005.png) | Torrance | Mileth | Armor Smith |
+| ![Smith](images/biomagus_library_005.webp) | Torrance | Mileth | Armor Smith |
 |  | Steinar | Abel | Armor Smith |
 |  | Valdemar | Soumi | Jewlery Smith |
 |  | Leo | Peit | Armor Smith |
@@ -194,7 +194,7 @@ ancient heroes of the land as it tells you the stories of long ago.
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Smith](images/biomagus_library_005.png) | Callough | Mileth | Arms Smith |
+| ![Smith](images/biomagus_library_005.webp) | Callough | Mileth | Arms Smith |
 |  | Vidar | Abel | Arms Smith |
 |  | Torbjorn | Soumi | Arms Smith |
 |  | Gunnar | Peit | Arms Smith |
@@ -203,14 +203,14 @@ ancient heroes of the land as it tells you the stories of long ago.
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Tailor](images/biomagus_library_009.png) | Brody | Mileth | Tailor |
+| ![Tailor](images/biomagus_library_009.webp) | Brody | Mileth | Tailor |
 |  | Arnljot | Abel | Tailor |
 |  | Huberto | Rucesion | Tailor |
 |  | Hali | Undine | Talior |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Higgler](images/biomagus_library_010.png) | Cassidy | Mileth | Higgler |
+| ![Higgler](images/biomagus_library_010.webp) | Cassidy | Mileth | Higgler |
 |  | Lamont | Abel | Higgler |
 |  | Jilt | Peit | Higgler |
 |  | Antonio | Rucesion | Higgler |
@@ -218,19 +218,19 @@ ancient heroes of the land as it tells you the stories of long ago.
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Sender](images/biomagus_library_007.png) | Colm | Mileth | Message Bird Sender |
-| ![Angelo](images/biomagus_library_058.png) | Angelo | Rucesion | Message Bird Sender/Demagogue |
+| ![Sender](images/biomagus_library_007.webp) | Colm | Mileth | Message Bird Sender |
+| ![Angelo](images/biomagus_library_058.webp) | Angelo | Rucesion | Message Bird Sender/Demagogue |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Wizard](images/biomagus_library_004.png) | Cian | Mileth | Alchemist |
+| ![Wizard](images/biomagus_library_004.webp) | Cian | Mileth | Alchemist |
 |  | Egil | Abel | Alchemist/Award Keeper |
 |  | Appie | Peit | Alchemist |
-| ![Alchemist](images/biomagus_library_081.png) | Jean | Loures | Alchemist/Councilor |
+| ![Alchemist](images/biomagus_library_081.webp) | Jean | Loures | Alchemist/Councilor |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Oona](images/biomagus_library_oona.png) | Oona | Mileth | Baker |
+| ![Oona](images/biomagus_library_oona.webp) | Oona | Mileth | Baker |
 |  | Aud | Abel | Baker |
 |  | Gudny | Soumi | Baker |
 |  | Alleen | Peit | Baker |
@@ -239,7 +239,7 @@ ancient heroes of the land as it tells you the stories of long ago.
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Aingeal](images/biomagus_library_001.png) | Aingeal | Mileth | Tavern Attendent/Demagogue |
+| ![Aingeal](images/biomagus_library_001.webp) | Aingeal | Mileth | Tavern Attendent/Demagogue |
 |  | Frida | Abel | Tavern Attendent |
 |  | Viveka | Soumi | Tavern Attendent |
 |  | Lia | Peit | Tavern Attendent |
@@ -247,143 +247,143 @@ ancient heroes of the land as it tells you the stories of long ago.
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Dark Wizard](images/biomagus_library_003.png) | Dar | Mileth | Dark Wizard Teacher |
+| ![Dark Wizard](images/biomagus_library_003.webp) | Dar | Mileth | Dark Wizard Teacher |
 |  | Hadrian | Soumi | Dark Wizard Teacher |
 |  | Kiril | Undine | Dark Wizard Teacher |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Priestess](images/biomagus_library_012.png) | Devlin | Mileth | Priestess Teacher |
+| ![Priestess](images/biomagus_library_012.webp) | Devlin | Mileth | Priestess Teacher |
 |  | Bertil | Soumi | Priestess Teacher |
 |  | Narve | Peit | Priestess Teacher |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Rouge](images/biomagus_library_002.png) | Daithi | Mileth | Rouge Teacher |
+| ![Rouge](images/biomagus_library_002.webp) | Daithi | Mileth | Rouge Teacher |
 |  | Fisk | Soumi | Rouge Teacher |
 |  | Baltasar | Rucesion | Rouge Teacher |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Skills Teacher](images/biomagus_library_011.png) | Keallach | Mileth | Skills Teacher |
+| ![Skills Teacher](images/biomagus_library_011.webp) | Keallach | Mileth | Skills Teacher |
 |  | Bodil | Abel | Skills Teacher |
 |  | Berg | Soumi | Skills Teacher |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Judge](images/biomagus_library_025.png) | Connlaoj | Mileth | Judge Attendent |
+| ![Judge](images/biomagus_library_025.webp) | Connlaoj | Mileth | Judge Attendent |
 |  | Ramiro | Rucesion | Judge Attendent |
-| ![Bugress](images/biomagus_library_026.png) | Cedric | Mileth | Burgess Attendent |
+| ![Bugress](images/biomagus_library_026.webp) | Cedric | Mileth | Burgess Attendent |
 |  | Eduardo | Rucesion | Burgess Attendent |
 |  | Aricin | Abel | Guild Attendent |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Religous Attendent](images/biomagus_library_027.png) | Meaveen | Outside Mileth | Gloica's Attendent |
+| ![Religous Attendent](images/biomagus_library_027.webp) | Meaveen | Outside Mileth | Gloica's Attendent |
 |  | Audny | Outside Abel | Fiosachd's Attendent |
 |  | Gabriela | Outside Rucesion | Luathas's Attendent |
 |  | Erika | Outside Piet | Ceannlaidir's Attendent |
 |  | Camille | Outside Lourse | Gramail's Attendent |
 |  | Evania | Outside Undine | Cail's Attendent |
 |  | Vivianne | Outside Soumi | Deoch's Attendent |
-| ![Greim](images/biomagus_library_103.png) | Greim | In Dubhaim Castle | Sgrios's Attendent |
+| ![Greim](images/biomagus_library_103.webp) | Greim | In Dubhaim Castle | Sgrios's Attendent |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Mukul](images/biomagus_library_071.png) | Bhrigus | Mehadi Swamp | Mukul Teacher |
+| ![Mukul](images/biomagus_library_071.webp) | Bhrigus | Mehadi Swamp | Mukul Teacher |
 |  | Chandra | Mehadi Swamp | Mukul Teacher |
 |  | Varuna | Mehadi Swamp | Mukul Historin |
 |  | Ganesha | Mehadi Swamp | Mukul Teacher |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Kieran](images/biomagus_library_103.png) | Kieran | Sgath Prison | Sgath Summoner |
+| ![Kieran](images/biomagus_library_103.webp) | Kieran | Sgath Prison | Sgath Summoner |
 |  | Sath | Lag Prison | Lag Beast Protector |
 |  | "Shambler" | In Deaths Palace | The Soul Taker |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Kobold](images/biomagus_library_091.png) | Zeroun | Astrid | Kobold Shamon |
+| ![Kobold](images/biomagus_library_091.webp) | Zeroun | Astrid | Kobold Shamon |
 |  | Shant | Astrid | Kobold Teacher |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Armor Master](images/biomagus_library_035.png) | Moire | 20-1 Woodlands | Armor Master |
+| ![Armor Master](images/biomagus_library_035.webp) | Moire | 20-1 Woodlands | Armor Master |
 |  | Rowena | 15-1 Woodlands | Armor Master |
-| ![Armor Master](images/biomagus_library_073.png) | Ake | 5-1 Abel Crypt | Armor Master |
+| ![Armor Master](images/biomagus_library_073.webp) | Ake | 5-1 Abel Crypt | Armor Master |
 |  | Torgny | 10-2 Abel Crypt | Armor Master |
-| ![Armor Master](images/biomagus_library_036.png) | Baki | 16-1 Woodlands | Warrior Armor Master |
+| ![Armor Master](images/biomagus_library_036.webp) | Baki | 16-1 Woodlands | Warrior Armor Master |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Marlin](images/biomagus_library_076marlin.png) | Marlin | Loures Prison | Prisoner Wizard |
-| ![Yves](images/biomagus_library_076yves.png) | Yves | Loures Prison | Prisoner Apprentice Wizard |
-| ![Blanchefleur](images/biomagus_library_077.png) | Blanchefleur | Room in Loures | Girl Of Loures |
-| ![Paulin](images/biomagus_library_079.png) | Paulin | Room in Loures | Guard |
-| ![Bruce](images/biomagus_library_080bruce.png) | Bruce | Loures Courtroom | King |
-| ![Thibault](images/biomagus_library_080thibault.png) | Thibault | Lourse Courtroom | Kight Caption of Loures |
-| ![Blaise](images/biomagus_library_082.png) | Blaise | Loures Library | Librarian of Loures |
-| ![Jay](images/biomagus_library_080jay.png) | Jay | Loures Courtroom | Jester of Loures |
+| ![Marlin](images/biomagus_library_076marlin.webp) | Marlin | Loures Prison | Prisoner Wizard |
+| ![Yves](images/biomagus_library_076yves.webp) | Yves | Loures Prison | Prisoner Apprentice Wizard |
+| ![Blanchefleur](images/biomagus_library_077.webp) | Blanchefleur | Room in Loures | Girl Of Loures |
+| ![Paulin](images/biomagus_library_079.webp) | Paulin | Room in Loures | Guard |
+| ![Bruce](images/biomagus_library_080bruce.webp) | Bruce | Loures Courtroom | King |
+| ![Thibault](images/biomagus_library_080thibault.webp) | Thibault | Lourse Courtroom | Kight Caption of Loures |
+| ![Blaise](images/biomagus_library_082.webp) | Blaise | Loures Library | Librarian of Loures |
+| ![Jay](images/biomagus_library_080jay.webp) | Jay | Loures Courtroom | Jester of Loures |
 |  | Courtney | Loures Courtroom | Jester of Loures |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Kalliope](images/biomagus_library_088kalliope.png) | Kalliope | Undine Tavern | Undine Girl |
-| ![Hauk](images/biomagus_library_045.png) | Hauk | Abel House | Abel Child |
+| ![Kalliope](images/biomagus_library_088kalliope.webp) | Kalliope | Undine Tavern | Undine Girl |
+| ![Hauk](images/biomagus_library_045.webp) | Hauk | Abel House | Abel Child |
 |  | Evan | Pravat | Allience Boy |
-| ![Ase](images/biomagus_library_072.png) | Ase | Abel Beach | Girl Attendent |
-| ![Naomhan](images/biomagus_library_008.png) | Naomhan | Mileth Chapel | Chapel Attendent |
-| ![Tague](images/biomagus_library_tague.png) | Tague | Mileth Tavern | Drunk |
-| ![Duana](images/biomagus_library_duana.png) | Duana | Mileth Tavern | Dancer |
+| ![Ase](images/biomagus_library_072.webp) | Ase | Abel Beach | Girl Attendent |
+| ![Naomhan](images/biomagus_library_008.webp) | Naomhan | Mileth Chapel | Chapel Attendent |
+| ![Tague](images/biomagus_library_tague.webp) | Tague | Mileth Tavern | Drunk |
+| ![Duana](images/biomagus_library_duana.webp) | Duana | Mileth Tavern | Dancer |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Goran](images/biomagus_library_096.png) | Goran | Soumi | Cherry Seller |
-| ![Alvar](images/biomagus_library_100.png) | Alvar | Soumi | Grape Seller |
-| ![Braz](images/biomagus_library_058.png) | Braz | Rucesion | Black Market Attendent |
+| ![Goran](images/biomagus_library_096.webp) | Goran | Soumi | Cherry Seller |
+| ![Alvar](images/biomagus_library_100.webp) | Alvar | Soumi | Grape Seller |
+| ![Braz](images/biomagus_library_058.webp) | Braz | Rucesion | Black Market Attendent |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Ozkan](images/biomagus_library_040gobteacher.png) | Ozkan | Pravat | Gob Teacher |
-| ![Pricha](images/biomagus_library_041grimteacher.png) | Pricha | Pravat Cave | Grimlok Teacher |
-| ![Bahadir](images/biomagus_library_040gobleader.png) | Bahadir | Pravat | Gob Commander |
-| ![Phailin](images/biomagus_library_041grimqueen.png) | Phailin | Pravat Cave | Grimlok Queen |
+| ![Ozkan](images/biomagus_library_040gobteacher.webp) | Ozkan | Pravat | Gob Teacher |
+| ![Pricha](images/biomagus_library_041grimteacher.webp) | Pricha | Pravat Cave | Grimlok Teacher |
+| ![Bahadir](images/biomagus_library_040gobleader.webp) | Bahadir | Pravat | Gob Commander |
+| ![Phailin](images/biomagus_library_041grimqueen.webp) | Phailin | Pravat Cave | Grimlok Queen |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Uistean](images/biomagus_library_004.png) | Uistean | Mileth College | Mileth Librarian |
-| ![Parthalan](images/biomagus_library_007.png) | Parthalan | Mileth College | Lore Teacher |
-| ![Conn](images/biomagus_library_004.png) | Conn | Mileth College | Philosopher Teacher |
-| ![Steafan](images/biomagus_library_007.png) | Steafan | Mileth College | Litature Teacher |
-| ![Rory](images/biomagus_library_026.png) | Rory | Mileth College | Historian Teacher |
+| ![Uistean](images/biomagus_library_004.webp) | Uistean | Mileth College | Mileth Librarian |
+| ![Parthalan](images/biomagus_library_007.webp) | Parthalan | Mileth College | Lore Teacher |
+| ![Conn](images/biomagus_library_004.webp) | Conn | Mileth College | Philosopher Teacher |
+| ![Steafan](images/biomagus_library_007.webp) | Steafan | Mileth College | Litature Teacher |
+| ![Rory](images/biomagus_library_026.webp) | Rory | Mileth College | Historian Teacher |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Aoife](images/biomagus_library_013aoife.png) | Aoife | Temple Of Veil | Temple Assistent |
+| ![Aoife](images/biomagus_library_013aoife.webp) | Aoife | Temple Of Veil | Temple Assistent |
 |  | Dee | Temple Of Veil | Temple Assistent |
-| ![Gregory](images/biomagus_library_013gregory.png) | Gregory | Temple of Veil | Temple Assistent |
-| ![Neal](images/biomagus_library_015.png) | Neal | Temple of Veil | Warrior Master |
-| ![Donnan](images/biomagus_library_016.png) | Donnan | Temple of Veil | Monk Master |
-| ![Keefe](images/biomagus_library_017.png) | Keefe | Temple of Veil | Rouge Master |
-| ![Erin](images/biomagus_library_018.png) | Erin | Temple of Veil | Priestess Master |
-| ![Logan](images/biomagus_library_019.png) | Logan | Temple of Veil | Wizard Master |
-| ![Gramail](images/biomagus_library_105.png) | "Gramail" | Ascension | Ascension Attendent of Mana |
-| ![Deoch](images/biomagus_library_106.png) | "Deoch" | Ascension | Ascension Attendent of Health |
+| ![Gregory](images/biomagus_library_013gregory.webp) | Gregory | Temple of Veil | Temple Assistent |
+| ![Neal](images/biomagus_library_015.webp) | Neal | Temple of Veil | Warrior Master |
+| ![Donnan](images/biomagus_library_016.webp) | Donnan | Temple of Veil | Monk Master |
+| ![Keefe](images/biomagus_library_017.webp) | Keefe | Temple of Veil | Rouge Master |
+| ![Erin](images/biomagus_library_018.webp) | Erin | Temple of Veil | Priestess Master |
+| ![Logan](images/biomagus_library_019.webp) | Logan | Temple of Veil | Wizard Master |
+| ![Gramail](images/biomagus_library_105.webp) | "Gramail" | Ascension | Ascension Attendent of Mana |
+| ![Deoch](images/biomagus_library_106.webp) | "Deoch" | Ascension | Ascension Attendent of Health |
 
 | Picture | Name of Mundane | Where They Hang Out | What They Do |
 |---------|-----------------|---------------------|--------------|
-| ![Bartley](images/biomagus_library_020.png) | Bartley | Mileth Tourial | Grampa Assistent |
-| ![Flynn](images/biomagus_library_022.png) | Flynn | Mileth Tourial | Merchant Boy |
-| ![Keelin](images/biomagus_library_023.png) | Keelin | Mileth Tourial | Priestess Assistent |
-| ![Raghnall](images/biomagus_library_024.png) | Raghnall | Mileth Tourial | Wise Man Teacher |
+| ![Bartley](images/biomagus_library_020.webp) | Bartley | Mileth Tourial | Grampa Assistent |
+| ![Flynn](images/biomagus_library_022.webp) | Flynn | Mileth Tourial | Merchant Boy |
+| ![Keelin](images/biomagus_library_023.webp) | Keelin | Mileth Tourial | Priestess Assistent |
+| ![Raghnall](images/biomagus_library_024.webp) | Raghnall | Mileth Tourial | Wise Man Teacher |
 
 ## Cthonic Remains
 
-![Beasts of Cthonic](images/biomagus_library_t_cthonic.png)
+![Beasts of Cthonic](images/biomagus_library_t_cthonic.webp)
 
 ### Nagetier Dieter
 
-![Foul Beast](images/biomagus_library_dieter.png) ![Foul Beast, greater form](images/biomagus_library_c_dieter.png)
+![Foul Beast](images/biomagus_library_dieter.webp) ![Foul Beast, greater form](images/biomagus_library_c_dieter.webp)
 
 | Max Experience |
 |----------------|
@@ -404,7 +404,7 @@ underground temple.
 
 ### Dhole Larva
 
-![Slimy!](images/biomagus_library_larva.png) ![Slimy!, greater form](images/biomagus_library_c_larva.png)
+![Slimy!](images/biomagus_library_larva.webp) ![Slimy!, greater form](images/biomagus_library_c_larva.webp)
 
 | Max Experience |
 |----------------|
@@ -423,7 +423,7 @@ populations. Bon appitè!
 
 ### Scarlet Beetle
 
-![Creepy Crawly](images/biomagus_library_beetle.png) ![Creepy Crawly, greater form](images/biomagus_library_c_beetle.png)
+![Creepy Crawly](images/biomagus_library_beetle.webp) ![Creepy Crawly, greater form](images/biomagus_library_c_beetle.webp)
 
 | Max Experience |
 |----------------|
@@ -447,7 +447,7 @@ nest.
 
 ### Qualgeist
 
-![Ghostly](images/biomagus_library_qualgeist.png) ![Ghostly, greater form](images/biomagus_library_c_qualgeist.png)
+![Ghostly](images/biomagus_library_qualgeist.webp) ![Ghostly, greater form](images/biomagus_library_c_qualgeist.webp)
 
 | Max Experience |
 |----------------|
@@ -470,7 +470,7 @@ the Glioca priestess at her temple pray for your well being... you'll need it.
 
 ### Bone Collector
 
-![Evil, Don't let him get your Bones!](images/biomagus_library_collector.png) ![Evil, Don't let him get your Bones!, greater form](images/biomagus_library_c_collector.png)
+![Evil, Don't let him get your Bones!](images/biomagus_library_collector.webp) ![Evil, Don't let him get your Bones!, greater form](images/biomagus_library_c_collector.webp)
 
 | Max Experience |
 |----------------|
@@ -487,7 +487,7 @@ very carful or you might find your partner getting munched up for dinner.
 
 ### Mummies
 
-![Ack, He's Strong!](images/biomagus_library_mummie.png) ![Ack, He's Strong!, greater form](images/biomagus_library_c_mummie.png)
+![Ack, He's Strong!](images/biomagus_library_mummie.webp) ![Ack, He's Strong!, greater form](images/biomagus_library_c_mummie.webp)
 
 | Max Experience |
 |----------------|
@@ -505,9 +505,9 @@ in your dreams, you will not be laughing at this mystical beast.
 
 ## Legends of Temuair
 
-![Legends of Temuair](images/biomagus_library_t_legend.png)
+![Legends of Temuair](images/biomagus_library_t_legend.webp)
 
-![Madb Of Fury](images/biomagus_library_madb.png)
+![Madb Of Fury](images/biomagus_library_madb.webp)
 
 ### Song of Morrigu
 
@@ -521,7 +521,7 @@ _\*collapses into a deep slomber\*_
 
 ### Morrigu
 
-![Ana of Magic](images/biomagus_library_ana.png)
+![Ana of Magic](images/biomagus_library_ana.webp)
 
 Morrigu was the ancient triple goddess. It has been thousands of years since
 she was openly worshipped. She is a Tuatha De Danaan, and rumored to be a dark
@@ -566,7 +566,7 @@ _Fortold by Narve of Peit_
 
 ### Ascesion Tablet Of Counting
 
-![Health](images/biomagus_library_106.png) ![Mana](images/biomagus_library_105.png)
+![Health](images/biomagus_library_106.webp) ![Mana](images/biomagus_library_105.webp)
 
 #### Please Fill in the Desired Information
 
@@ -584,6 +584,7 @@ _Pictures on this scroll remains to Shanna Lane. All rights reserved._
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #90).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Biomagus_Library/index.htm .
 ```

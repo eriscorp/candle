@@ -17,71 +17,82 @@ with us._
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | Acinorev           | [Sleep Well](Acinorev-Sleep-Well.md)                                                                                             |
 | Aeife              | [Mundane](Aeife-Mundane.md)                                                                                                      |
-| Aeife              | ![Treasure of Temuair](../images/octagram.png) [Seimh Bron](Aeife-Seimh-Bron.md)                                                                                                |
+| Aeife              | ![Treasure of Temuair](../images/octagram.webp) [Seimh Bron](Aeife-Seimh-Bron.md)                                                                                                |
 | Aeowyn             | [The Ring](Aeowyn-The-Ring.md)                                                                                                   |
-| Aisley             | ![This work has been lost](../images/questionmark.png) [Encounter](Aisley-Encounter.md)                                                                                                 |
+| Aisley             | ![This work has been lost](../images/questionmark.webp) [Encounter](Aisley-Encounter.md)                                                                                                 |
 | Akujioto           | [Along for the Ride](Akujioto-Along-for-the-Ride.md)                                                                             |
+| Algiza             | [Life Begins With A Stranger](Algiza-Life-Begins-With-A-Stranger.md)                                                             |
+| Annoy              | [The Whiny Wizard](Annoy-The-Whiny-Wizard.md)                                                                                    |
 | Archias            | [The Adventures of Archias](Archias-The-Adventures-of-Archias.md)                                                                |
 | Ardeo              | [The Descendants of Paex](Ardeo-The-Descendents-of-Paex.md)                                                                      |
-| Ariadne            | ![Treasure of Temuair](../images/octagram.png) [A Tale of a Tavern](Ariadne-A-Tale-of-a-Tavern.md)                                                                              |
-| Armisael           | ![This work has been lost](../images/questionmark.png) [Eternally yours](Armisael-Eternally-yours.md)                                                                                   |
+| Ariadne            | ![Treasure of Temuair](../images/octagram.webp) [A Tale of a Tavern](Ariadne-A-Tale-of-a-Tavern.md)                                                                              |
+| Armisael           | ![This work has been lost](../images/questionmark.webp) [Eternally yours](Armisael-Eternally-yours.md)                                                                                   |
 | Artigan            | [Nature's Renowned](Artigan-Natures-Renowned.md)                                                                                 |
 | Aselus             | [The Secret of the Garden](Aselus-The-Secret-of-the-Garden.md)                                                                   |
-| Ataireamh          | ![This work has been lost](../images/questionmark.png) [Dwarvish Battle Song](Ataireamh-Dwarvish-Battle-Song.md)                                                                        |
+| Ataireamh          | ![This work has been lost](../images/questionmark.webp) [Dwarvish Battle Song](Ataireamh-Dwarvish-Battle-Song.md)                                                                        |
 | Atticus            | [Scripts de la luna](Atticus-Scripts-de-la-luna.md)                                                                              |
+| Audry              | [Your Spark](Audry-Your-Spark.md)                                                                                                |
 | Aurica             | [Confession of a Fae](Aurica-Confession-of-a-Fae.md)                                                                             |
 | Azyre              | [The Sacred Mantle](Azyre-The-Sacred-Mantle.md)                                                                                  |
 | Bellina            | [The Folly of Luathas](Bellina-The-Folly-Of-Luathas.md)                                                                          |
 | Beos               | [The Chant: Mor Athar](Beos-The-Chant.md)                                                                                        |
 | BioMagus           | [A True Monster... Not I](BioMagus-A-True-Monster-not-I.md)                                                                      |
+| Blackiecrown       | [An Aisling Returned](Blackiecrown-An-Aisling-Returned.md)                                                                       |
+| Blackiecrown       | [Fragments of Our World](Blackiecrown-Fragments-of-Our-World.md)                                                                 |
 | Brennen            | [Hy-Brasyl Warriors - The Story of a Scholar](Brennen-Hybrasyl-Warriors.md)                                                      |
 | Brennen            | [Teirinn](Brennen-Teirinn.md)                                                                                                    |
 | Brothaigh          | [An Aisling Battle](Brothaigh-An-Aisling-Battle.md)                                                                              |
+| Bywyd              | [A Letter Unsent](Bywyd-A-Letter-Unsent.md)                                                                                      |
 | Camryn             | [The Tale of an Unknown Hero](Camryn-Tale-of-an-Unknown-Hero.md)                                                                 |
 | Cedrick            | [Impact](Cedrick-Impact.md)                                                                                                      |
 | Cereus             | [Whispers of Sgrios](Cereus-Whispers-of-Sgrios.md)                                                                               |
-| Chaise             | ![This work has been lost](../images/questionmark.png) [The Battle Field of Regret](Chaise-The-Battle-Field-of-Regret.md)                                                               |
+| Chaise             | ![This work has been lost](../images/questionmark.webp) [The Battle Field of Regret](Chaise-The-Battle-Field-of-Regret.md)                                                               |
 | Chandra            | [As You Lay Sleeping](Chandra-As-You-Lay-Sleeping.md)                                                                            |
 | Chinlove           | [Rivers of Temuair](Chinlove-Rivers-of-Temuair.md)                                                                               |
 | Chupaca            | [Awoken](Chupaca-Awoken.md)                                                                                                      |
+| Claudine           | [The Bard and Her Gladiator](Claudine-The-Bard-and-Her-Gladiator.md)                                                             |
 | Cleante            | [For the Love of Kattrine](Cleante-For-the-Love-of-Kattrine.md)                                                                  |
 | Cliona             | [Manach](Cliona-Manach.md)                                                                                                       |
-| Cliona             | ![Treasure of Temuair](../images/octagram.png) [Stitch in Time](Cliona-Stitch-in-Time.md)                                                                                       |
+| Cliona             | ![Treasure of Temuair](../images/octagram.webp) [Stitch in Time](Cliona-Stitch-in-Time.md)                                                                                       |
 | Cliona             | [The Choosing of Parlan Mire](Cliona-The-Choosing-of-Parlan-Mire.md)                                                             |
 | Cliona             | [The Legend of the Succubus](Cliona-The-Legend-of-the-Succubus.md)                                                               |
-| Cliona             | ![Treasure of Temuair](../images/octagram.png) [Ulick and Cliona](Cliona-Ulick-and-Cliona.md)                                                                                   |
+| Cliona             | ![Treasure of Temuair](../images/octagram.webp) [Ulick and Cliona](Cliona-Ulick-and-Cliona.md)                                                                                   |
 | Cliona             | [callaid-bhròin](Cliona-callaid-bhroin.md)                                                                                       |
 | Clockwork          | [On the Steps of the Temple of Deoch](Clockwork-On-the-Steps-of-the-Temple-of-Deoch.md)                                          |
 | Collins            | [Moonlight over Temuair (or A Walk Home at Night)](Collins-Moonlight-over-Temuair.md)                                            |
 | Contra             | [Dear Glioca](Contra-Dear-Glioca.md)                                                                                             |
 | Creek              | [The Mighty Battle](Creek-The-Mighty-Battle.md)                                                                                  |
 | Cynix              | [Lost Temuairan Love](Cynix-Lost-Temuairan-Love.md)                                                                              |
-| Dantine            | ![This work has been lost](../images/questionmark.png) [A Mythic Quest](Dantine-A-Mythic-Quest.md)                                                                                      |
+| Dantine            | ![This work has been lost](../images/questionmark.webp) [A Mythic Quest](Dantine-A-Mythic-Quest.md)                                                                                      |
 | Daravon            | [Blades of Misery](Daravon-Blades-of-Misery.md)                                                                                  |
 | Daravon            | [Memories of Midnight](Daravon-Midnight.md)                                                                                      |
 | Dartanian          | [A Crossing of Paths](Dartanian-A-Crossing-of-Paths.md)                                                                          |
 | Dartanian          | [Dark Tides](Dartanian-Dark-Tides.md)                                                                                            |
 | Dartanian          | [For Marlina](Dartanian-For-Marlina.md)                                                                                          |
-| Dartanian          | ![Treasure of Temuair](../images/octagram.png) [In the Name of the Goddess](Dartanian-In-the-Name-of-the-Goddess.md)                                                            |
-| Deice              | ![This work has been lost](../images/questionmark.png) [Rebel's Lament](Deice-Rebels-Lament.md)                                                                                         |
+| Dartanian          | ![Treasure of Temuair](../images/octagram.webp) [In the Name of the Goddess](Dartanian-In-the-Name-of-the-Goddess.md)                                                            |
+| Deft               | [The Nightmare](Deft-The-Nightmare.md)                                                                                           |
+| Deice              | ![This work has been lost](../images/questionmark.webp) [Rebel's Lament](Deice-Rebels-Lament.md)                                                                                         |
 | Deius              | [Aurumanis](Deius-Aurumanis.md)                                                                                                  |
 | Deksar             | ["Beatha mithear, cia feud sibh dean?"](Deksar-Beatha-mithear-cia-feud-sibh-dean.md)                                             |
-| Dimulone           | ![This work has been lost](../images/questionmark.png) [Teach Me](Dimulone-Teach-Me.md)                                                                                                 |
-| DrkCherub          | ![This work has been lost](../images/questionmark.png) [The Birth of Anaman](DrkCherub-The-Birth-of-Anaman.md)                                                                          |
-| Dryft              | ![This work has been lost](../images/questionmark.png) [The Wizard](Dryft-The-Wizard.md)                                                                                                |
+| Dimulone           | ![This work has been lost](../images/questionmark.webp) [Teach Me](Dimulone-Teach-Me.md)                                                                                                 |
+| DrkCherub          | ![This work has been lost](../images/questionmark.webp) [The Birth of Anaman](DrkCherub-The-Birth-of-Anaman.md)                                                                          |
+| Dryft              | ![This work has been lost](../images/questionmark.webp) [The Wizard](Dryft-The-Wizard.md)                                                                                                |
 | Dryst              | [The Lost Mountaineer](Dryst-The-Lost-Mountaineer.md)                                                                            |
 | Dunlouch           | [Cloud Break](Dunlouch-Cloud-Break.md)                                                                                           |
+| Eiscego            | [A Song of the Errant Knight](Eiscego-A-Song-of-the-Errant-Knight.md)                                                            |
+| Electronicat       | [In The Lover's Glade](Electronicat-In-The-Lovers-Glade.md)                                                                      |
 | Elexi              | [The Terror of the Crypt](Elexi-The-Terror-of-the-Crypt.md)                                                                      |
 | Elfette            | [Speaking with a Goddess](Elfette-Speaking-with-a-Goddess.md)                                                                    |
 | Eliya              | [The Sounds of Demise](Eliya-The-Sounds-of-Demise.md)                                                                            |
 | Elmo               | [The Frog at the Swamp](Elmo-The-Frog-at-the-Swamp.md)                                                                           |
 | Engelyn            | [Engelyn S'phire mcGregoure](Engelyn-Engelyn-S-phire-mcGregoure.md)                                                              |
-| Etienne            | ![Treasure of Temuair](../images/octagram.png) [Dream Debris](Etienne-Dream-Debris.md)                                                                                          |
+| Etienne            | ![Treasure of Temuair](../images/octagram.webp) [Dream Debris](Etienne-Dream-Debris.md)                                                                                          |
 | Etienne            | [Elise](Etienne-Elise.md)                                                                                                        |
 | Etienne            | [Fireflies](Etienne-Fireflies.md)                                                                                                |
 | Etienne            | [Four Far From Formidable Fables](Etienne-Four-Far-From-Formidable-Fables.md)                                                    |
 | Etienne            | [Rucesion of Mine](Etienne-Rucesion-of-Mine.md)                                                                                  |
-| Evie               | ![This work has been lost](../images/questionmark.png) [If I were the wind](Evie-If-I-were-the-wind.md)                                                                                 |
+| Euen               | [Under the Watch of Temuair's Eight](Euen-Under-the-Watch-of-Temuairs-Eight.md)                                                  |
+| Evie               | ![This work has been lost](../images/questionmark.webp) [If I were the wind](Evie-If-I-were-the-wind.md)                                                                                 |
 | Fae                | [Danaan](Fae-Danaan.md)                                                                                                          |
 | Faramir            | [Fate's Twists](Faramir-Fates-Twists.md)                                                                                         |
 | Feena              | [The Intruder](Feena-The-Intruder.md)                                                                                            |
@@ -95,8 +106,9 @@ with us._
 | Greiz              | [Places in Temuair](Greiz-Places-in-Temuair.md)                                                                                  |
 | GwenDilyn          | [Matrika's Battles](GwenDilyn-Matrika-s-Battles.md)                                                                              |
 | Hibiscus           | [The Fall From Grace](Hibiscus-The-Fall-From-Grace.md)                                                                           |
-| Hyperninja         | ![This work has been lost](../images/questionmark.png) [Kelberoth's Plague](Hyperninja-Kelberoths-Plague.md)                                                                            |
-| IMeizo             | ![This work has been lost](../images/questionmark.png) [37](IMeizo-37.md)                                                                                                               |
+| Hyperninja         | ![This work has been lost](../images/questionmark.webp) [Kelberoth's Plague](Hyperninja-Kelberoths-Plague.md)                                                                            |
+| IMeizo             | ![This work has been lost](../images/questionmark.webp) [37](IMeizo-37.md)                                                                                                               |
+| Icon               | [The Ballad of Jaylinn, Mistress of the Arena](Icon-The-Ballad-of-Jaylinn-Mistress-of-the-Arena.md)                              |
 | Imajica            | [Heart of Moon](Imajica-Heart-of-Moon.md)                                                                                        |
 | Imhotep            | [Of transforming into Animals](Imhotep-Of-transforming-into-Animals.md)                                                          |
 | Jannee             | [The Locket: A Tale of Jannee the Rogue](Jannee-The-Locket-A-Tale-of-Jannee-the-Rogue.md)                                        |
@@ -104,16 +116,17 @@ with us._
 | Jennifer           | [Blue And Pink](Jennifer-Blue-And-Pink.md)                                                                                       |
 | Julian             | [Avec Mon Amoureux Bel De Guerrier](Julian-Avec-Mon-Amoureux-Bel-De-Guerrier.md)                                                 |
 | Kaeyhari           | [The Ballad of the Blushing Barmaid](Kaeyhari-The-Ballad-of-the-Blushing-Barmaid.md)                                             |
-| Kaieve             | ![Treasure of Temuair](../images/octagram.png) [When Time Comes Calling](Kaieve-When-Time-Comes-Calling.md)                                                                     |
+| Kaieve             | ![Treasure of Temuair](../images/octagram.webp) [When Time Comes Calling](Kaieve-When-Time-Comes-Calling.md)                                                                     |
 | Kalandre           | [The Terror of the Garden](Kalandre-The-Terror-of-the-Garden.md)                                                                 |
 | Kalasin            | [The Sadness of King Bruce](Kalasin-The-Sadness-of-King-Bruce.md)                                                                |
+| Kalru              | [The Light Flickers Pt. 1](Kalru-The-Light-Flickers-Pt-1.md)                                                                     |
 | Kasmanan           | [White Eyes of the Yard](Kasmanan-White-Eyes-of-the-Yard.md)                                                                     |
 | Katrionah          | [Aisling](Katrionah-Aisling.md)                                                                                                  |
 | Katrionah          | [Chain of Fools I - The Siren's Fount](Katrionah-Chain-of-Fools-I-The-Siren-s-Fount.md)                                          |
 | Katrionah          | [Fading Echoes](Katrionah-Fading-Echoes.md)                                                                                      |
-| Katrionah          | ![Treasure of Temuair](../images/octagram.png) [The Mundane Aspects - Grapes & Cherries of Wrath](Katrionah-The-Mundane-Aspects-Grapes-Cherries-of-Wrath.md)                    |
-| Kiera              | ![Treasure of Temuair](../images/octagram.png) [Dark Destiny](Kiera-Dark-Destiny.md)                                                                                            |
-| Klaudaryn          | ![Treasure of Temuair](../images/octagram.png) [15 Years Past](Klaudaryn-15-Years-Past.md)                                                                                      |
+| Katrionah          | ![Treasure of Temuair](../images/octagram.webp) [The Mundane Aspects - Grapes & Cherries of Wrath](Katrionah-The-Mundane-Aspects-Grapes-Cherries-of-Wrath.md)                    |
+| Kiera              | ![Treasure of Temuair](../images/octagram.webp) [Dark Destiny](Kiera-Dark-Destiny.md)                                                                                            |
+| Klaudaryn          | ![Treasure of Temuair](../images/octagram.webp) [15 Years Past](Klaudaryn-15-Years-Past.md)                                                                                      |
 | Klaudaryn          | [Fortune's Fool](Klaudaryn-Fortune-s-Fool.md)                                                                                    |
 | Klaudaryn          | [Here be Daemons](Klaudaryn-Here-be-Daemons.md)                                                                                  |
 | Klaudaryn          | [Twilight of the Cockroaches](Klaudaryn-Twilight-of-the-Cockroaches.md)                                                          |
@@ -121,37 +134,48 @@ with us._
 | Kullan             | [The Last Warrior](Kullan-The-Last-Warrior.md)                                                                                   |
 | Kylan              | [For the Children of Suomi](Kylan-For-the-Children-of-Suomi.md)                                                                  |
 | LadyKyra           | [A Temuairian Warrior Standing Tall and Proud](LadyKyra-A-Temuairian-Warrior-Standing-Tall-and-Proud.md)                         |
-| Laila              | ![Treasure of Temuair](../images/octagram.png) [Innocence of Undine](Laila-Innocence-of-Undine.md)                                                                              |
+| Laila              | ![Treasure of Temuair](../images/octagram.webp) [Innocence of Undine](Laila-Innocence-of-Undine.md)                                                                              |
 | Lethalia           | [The Path I Walk](Lethalia-The-Path-I-Walk.md)                                                                                   |
 | Levinia            | [A Man Of Reason](Levinia-A-Man-Of-Reason.md)                                                                                    |
-| Lobokia            | ![Treasure of Temuair](../images/octagram.png) [Mighty Gramail](Lobokia-Mighty-Gramail.md)                                                                                      |
+| Lobokia            | ![Treasure of Temuair](../images/octagram.webp) [Mighty Gramail](Lobokia-Mighty-Gramail.md)                                                                                      |
 | Logoth             | [Dreamer](Logoth-Dreamer.md)                                                                                                     |
 | Lothe              | [Confessions](Lothe-Confessions.md)                                                                                              |
 | Lothe              | [Moon Over Suomi](Lothe-Moon-Over-Suomi.md)                                                                                      |
 | Luzifent           | [The Prophecy Dark](Luzifent-The-Prophecy-Dark.md)                                                                               |
+| Lybrea             | [Sgrios's Scar](Lybrea-Sgrioss-Scar.md)                                                                                          |
+| Lydien             | [Awakening, An Aisling's Dream](Lydien-Awakening-An-Aislings-Dream.md)                                                           |
 | Maerista           | [The Thorn of Sgrios](Maerista-The-Thorn-of-Sgrios.md)                                                                           |
 | Magerum            | [Sal](Magerum-Sal.md)                                                                                                            |
 | Malicus            | [My Light](Malicus-My-Light.md)                                                                                                  |
 | Manipulator        | [Ceannlaidir Prays](Manipulator-Ceannlaidir-Prays.md)                                                                            |
 | Mauve              | [The Mines of Kasman](Mauve-The-Mines-of-Kasman.md)                                                                              |
+| Mayheart           | [Temuair Minute Poems](Mayheart-Temuair-Minute-Poems.md)                                                                         |
 | Mayukichan         | [Farewell My Love](Mayukichan-Farewell-My-Love.md)                                                                               |
 | Mayukichan         | [Man With The Bouquet](Mayukichan-Man-With-The-Bouquet.md)                                                                       |
 | Mayukichan         | [Mayuki's Song](Mayukichan-Mayuki-s-Song.md)                                                                                     |
-| Mayukichan         | ![Treasure of Temuair](../images/octagram.png) [Temuair Nights](Mayukichan-Temuair-Nights.md)                                                                                   |
+| Mayukichan         | ![Treasure of Temuair](../images/octagram.webp) [Temuair Nights](Mayukichan-Temuair-Nights.md)                                                                                   |
 | Mazrooth           | [A Day of A Ceannlaidir Priest](Mazrooth-A-Day-of-A-Ceannlaidir-Priest.md)                                                       |
+| Merisa             | [Octave, Frozen, Octave](Merisa-Octave-Frozen-Octave.md)                                                                         |
 | Miray              | [The Song of Gods](Miray-The-Song-of-Gods.md)                                                                                    |
 | Miria              | [Message to Macabre](Miria-Message-to-Macabre.md)                                                                                |
+| MistressIvy        | [Sacred Sacrifice](MistressIvy-Sacred-Sacrifice.md)                                                                              |
+| Moogle             | [Something in the Woods](Moogle-Something-in-the-Woods.md)                                                                       |
+| Moogle             | [The Haunting of Piet Inn 2: The Moon's Song](Moogle-The-Haunting-of-Piet-Inn-2.md)                                              |
+| Moogle             | [The Haunting of Piet Inn](Moogle-The-Haunting-of-Piet-Inn.md)                                                                   |
 | Mordrake           | [Dear Brother](Mordrake-Dear-Brother.md)                                                                                         |
-| Morrigan           | ![This work has been lost](../images/questionmark.png) [Garden of Night](Morrigan-Garden-of-Night.md)                                                                                   |
+| Morrigan           | ![This work has been lost](../images/questionmark.webp) [Garden of Night](Morrigan-Garden-of-Night.md)                                                                                   |
 | Morrigan           | [Morrigan's Shadow](Morrigan-Morrigan-s-Shadow.md)                                                                               |
 | Morrigon           | [The Reunion](Morrigon-The-Reunion.md)                                                                                           |
+| Naena              | [Calaveras of Temuair](Naena-Calaveras-of-Temuair.md)                                                                            |
+| NagisaChan         | [The Ballad of the Green Mantis](NagisaChan-The-Ballad-of-the-Green-Mantis.md)                                                   |
 | Naze               | [The Chest](Naze-The-Chest.md)                                                                                                   |
 | Nostrus            | [Awakening](Nostrus-Awakening.md)                                                                                                |
-| Palin              | ![Treasure of Temuair](../images/octagram.png) [The Kid and The Ruby](Palin-The-Kid-and-The-Ruby.md)                                                                            |
+| Palin              | ![Treasure of Temuair](../images/octagram.webp) [The Kid and The Ruby](Palin-The-Kid-and-The-Ruby.md)                                                                            |
 | Palleon            | [Father](Palleon-Father.md)                                                                                                      |
 | Pameth             | [Thank Thee, Cail](Pameth-Thank-Thee-Cail.md)                                                                                    |
-| Parane             | ![This work has been lost](../images/questionmark.png) [Sweet Suomi](Parane-Sweet-Suomi.md)                                                                                             |
-| Pellaeon           | ![This work has been lost](../images/questionmark.png) [For A Hero](Pellaeon-For-A-Hero.md)                                                                                             |
+| Parane             | ![This work has been lost](../images/questionmark.webp) [Sweet Suomi](Parane-Sweet-Suomi.md)                                                                                             |
+| Peach              | [Untitled](Peach-Untitled.md)                                                                                                    |
+| Pellaeon           | ![This work has been lost](../images/questionmark.webp) [For A Hero](Pellaeon-For-A-Hero.md)                                                                                             |
 | Phileas            | [Glioca is Here](Phileas-Glioca-is-Here.md)                                                                                      |
 | Pumpkins           | [Tale of a Fallen Warrior](Pumpkins-Tale-of-a-Fallen-Warrior.md)                                                                 |
 | Pyotr              | [The Enchanted Garden](Pyotr-The-Enchanted-Garden.md)                                                                            |
@@ -161,40 +185,48 @@ with us._
 | Ramus              | [The Marauder](Ramus-The-Marauder.md)                                                                                            |
 | Recca              | [T'was Merely a Jest](Recca-T-was-Merely-a-Jest.md)                                                                              |
 | Reiana             | [The Peasant Army](Reiana-The-Peasant-Army.md)                                                                                   |
+| Reias              | [A Pilgrim's Path](Reias-A-Pilgrims-Path.md)                                                                                     |
+| Reias              | [Contraversy](Reias-Contraversy.md)                                                                                              |
+| Rewn               | [The Arena Catacombs](Rewn-The-Arena-Catacombs.md)                                                                               |
 | Rhaxephon          | [The Mask](Rhaxephon-The-Mask.md)                                                                                                |
-| Rhaxephon          | ![This work has been lost](../images/questionmark.png) [The Pirate Shanty](Rhaxephon-The-Pirate-Shanty.md)                                                                              |
-| Rhianna            | ![Treasure of Temuair](../images/octagram.png) [The Eulogy](Rhianna-The-Eulogy.md)                                                                                              |
+| Rhaxephon          | ![This work has been lost](../images/questionmark.webp) [The Pirate Shanty](Rhaxephon-The-Pirate-Shanty.md)                                                                              |
+| Rhianna            | ![Treasure of Temuair](../images/octagram.webp) [The Eulogy](Rhianna-The-Eulogy.md)                                                                                              |
 | Rookerin           | [To See With Eyes Unclouded](Rookerin-To-See-With-Eyes-Unclouded.md)                                                             |
 | Rose               | [Ceannlaidir's Treaty](Rose-Ceannlaidir-s-Treaty.md)                                                                             |
 | Rykoffe            | [Where is the Compassion?](Rykoffe-Where-is-the-Compassion.md)                                                                   |
+| SOLiN              | [Feasgar's Promise](SOLiN-Feasgars-Promise.md)                                                                                   |
 | Seara              | [Dark Seduction](Seara-Dark-Seduction.md)                                                                                        |
+| Serrah             | [Fisk's Secret](Serrah-Fisks-Secret.md)                                                                                          |
 | Silverfox          | [Two Minds, One Love](Silverfox-Two-Minds-One-Love.md)                                                                           |
-| Silverwind         | ![This work has been lost](../images/questionmark.png) [Ode to my Stick](Silverwind-Ode-to-my-Stick.md)                                                                                 |
+| Silverwind         | ![This work has been lost](../images/questionmark.webp) [Ode to my Stick](Silverwind-Ode-to-my-Stick.md)                                                                                 |
 | SkyMaiden          | [The Taste of the Moon](SkyMaiden-The-Taste-of-the-Moon.md)                                                                      |
 | Sophocles          | [The Fate of Nations, Act I](Sophocles-The-Fate-of-Nations-Act-I.md)                                                             |
-| Sterne             | ![This work has been lost](../images/questionmark.png) [The plateaus of Kadath](Sterne-The-plateaus-of-Kadath.md)                                                                       |
+| Sterne             | ![This work has been lost](../images/questionmark.webp) [The plateaus of Kadath](Sterne-The-plateaus-of-Kadath.md)                                                                       |
 | Sungam             | [The Diary of a Voyage](Sungam-The-Diary-of-a-Voyage.md)                                                                         |
 | Swinky             | [Histories Reawakening](Swinky-Histories-Reawakening.md)                                                                         |
 | Tandar             | [The Pilgrimage](Tandar-The-Pilgrimage.md)                                                                                       |
+| TeddyPaw           | [The Lantern of Glioca](TeddyPaw-The-Lantern-of-Glioca.md)                                                                       |
 | Teger              | [A Wizard's Mistake](Teger-A-Wizard-s-Mistake.md)                                                                                |
 | Terris             | [Trousers](Terris-Trousers.md)                                                                                                   |
 | Thayer             | [To See With Clouded Eyes](Thayer-To-See-With-Clouded-Eyes.md)                                                                   |
-| Theowin            | ![This work has been lost](../images/questionmark.png) [Mythril Hope](Theowin-Mythril-Hope.md)                                                                                          |
-| Thubub             | ![This work has been lost](../images/questionmark.png) [Treehugger](Thubub-Treehugger.md)                                                                                               |
-| Topic              | ![This work has been lost](../images/questionmark.png) [Sight-Seer](Topic-Sight-Seer.md)                                                                                                |
-| Trach              | ![This work has been lost](../images/questionmark.png) [Savior](Trach-Savior.md)                                                                                                        |
-| Trashie            | ![This work has been lost](../images/questionmark.png) [Untitled](Trashie-Untitled.md)                                                                                                  |
+| Theowin            | ![This work has been lost](../images/questionmark.webp) [Mythril Hope](Theowin-Mythril-Hope.md)                                                                                          |
+| Thubub             | ![This work has been lost](../images/questionmark.webp) [Treehugger](Thubub-Treehugger.md)                                                                                               |
+| Topic              | ![This work has been lost](../images/questionmark.webp) [Sight-Seer](Topic-Sight-Seer.md)                                                                                                |
+| Trach              | ![This work has been lost](../images/questionmark.webp) [Savior](Trach-Savior.md)                                                                                                        |
+| Trashie            | ![This work has been lost](../images/questionmark.webp) [Untitled](Trashie-Untitled.md)                                                                                                  |
 | Triad              | [The Awakened](Triad-The-Awakened.md)                                                                                            |
 | Triad              | [The Darkening](Triad-The-Darkening.md)                                                                                          |
+| Tristam            | [Signs of Temuair](Tristam-Signs-of-Temuair.md)                                                                                  |
 | TsubameSho         | [The Glade of the Fae](TsubameSho-The-Glade-of-the-Fae.md)                                                                       |
 | Tyrain             | [Cassidy's Gold](Tyrain-Cassidy-s-Gold.md)                                                                                       |
-| Ubrey              | ![This work has been lost](../images/questionmark.png) [Dusgadh de Dorcha](Ubrey-Dusgadh-de-Dorcha.md)                                                                                  |
-| Ukkyo              | ![This work has been lost](../images/questionmark.png) [Untitled](Ukkyo-Untitled.md)                                                                                                    |
-| Vykk               | ![This work has been lost](../images/questionmark.png) [The Monk's Way](Vykk-The-Monk-s-Way.md)                                                                                         |
+| Ubrey              | ![This work has been lost](../images/questionmark.webp) [Dusgadh de Dorcha](Ubrey-Dusgadh-de-Dorcha.md)                                                                                  |
+| Ukkyo              | ![This work has been lost](../images/questionmark.webp) [Untitled](Ukkyo-Untitled.md)                                                                                                    |
+| Vykk               | ![This work has been lost](../images/questionmark.webp) [The Monk's Way](Vykk-The-Monk-s-Way.md)                                                                                         |
 | Wintereagle        | [Iksander Deathstalker](Wintereagle-Iksander-Deathstalker.md)                                                                    |
 | Xibalba            | [Power Unleashed](Xibalba-Power-Unleashed.md)                                                                                    |
-| Xilan              | ![This work has been lost](../images/questionmark.png) [Elementi](Xilan-Elementi.md)                                                                                                    |
+| Xilan              | ![This work has been lost](../images/questionmark.webp) [Elementi](Xilan-Elementi.md)                                                                                                    |
 | Yobguad            | [One Night in Abel](Yobguad-One-Night-in-Abel.md)                                                                                |
+| ZerioAgain         | [The Man of Mileth Crypt](ZerioAgain-The-Man-of-Mileth-Crypt.md)                                                                 |
 | Zervus             | [Wedding Ceremony](Zervus-Wedding-Ceremony.md)                                                                                   |
 | Zirilian           | [A Promise Made](Zirilian-A-Promise-Made.md)                                                                                     |
 | Zirilian           | [By Any Other Name](Zirilian-By-Any-Other-Name.md)                                                                               |
@@ -202,4 +234,5 @@ with us._
 | Zirilian           | [The Last Laugh](Zirilian-The-Last-Laugh.md)                                                                                     |
 | Zoei               | [Zoei's Quest](Zoei-Zoei-s-Quest.md)                                                                                             |
 | Zylecia            | [Old Hunter and the Mask of NamuNamu](Zylecia-Old-Hunter-and-the-Mask-of-NamuNamu.md)                                            |
+| xYukarix           | [The Canon of Snow (To Know the Gentle Mark of Cail)](xYukarix-The-Canon-of-Snow.md)                                             |
 

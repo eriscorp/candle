@@ -85,27 +85,27 @@ As with Aislings, mundanes generally wear garments which identify them as being 
 
 Below are examples of how the various mundanes one needs to meet to receive one's reward appear.
 
-![](images/barraigh_celebrity_11.png)A Mundane Alchemist *
+![](images/barraigh_celebrity_11.webp)A Mundane Alchemist *
 
-![](images/barraigh_celebrity_1.png)A Mundane Baker
+![](images/barraigh_celebrity_1.webp)A Mundane Baker
 
-![](images/barraigh_celebrity_2.png)A Mundane Barmaid or Inn Keeper
+![](images/barraigh_celebrity_2.webp)A Mundane Barmaid or Inn Keeper
 
-![](images/barraigh_celebrity_3.png)A Mundane Boy
+![](images/barraigh_celebrity_3.webp)A Mundane Boy
 
-![](images/barraigh_celebrity_4.png)A Mundane Dancer
+![](images/barraigh_celebrity_4.webp)A Mundane Dancer
 
-![](images/barraigh_celebrity_5.png)A Mundane Fae
+![](images/barraigh_celebrity_5.webp)A Mundane Fae
 
-![](images/barraigh_celebrity_6.png)A Mundane Higgler or Tailor
+![](images/barraigh_celebrity_6.webp)A Mundane Higgler or Tailor
 
-![](images/barraigh_celebrity_7.png)King Bruce
+![](images/barraigh_celebrity_7.webp)King Bruce
 
-![](images/barraigh_celebrity_8.png)A Mundane Messager
+![](images/barraigh_celebrity_8.webp)A Mundane Messager
 
-![](images/barraigh_celebrity_9.png)A Mundane Rogue
+![](images/barraigh_celebrity_9.webp)A Mundane Rogue
 
-![](images/barraigh_celebrity_10.png)A Mundane Wizard
+![](images/barraigh_celebrity_10.webp)A Mundane Wizard
 
 * Jean, Loures Court Councilor an alchemist as well, and is therefore also dressed in this fashion. 
 
@@ -118,6 +118,7 @@ _Barriagh of Abel_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #184).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Barraigh_Celebrity/index.htm .
 ```

@@ -6,7 +6,7 @@ The Eldritch mark...The Glyph of Destruction..the Fatal Aosdic Glyph..all
 of which refer to one mysterious spell, Mor Strioch Pian Gar. Many thought it
 weak, some thought it was laughable. until now!
 
-![Aosdic Glyph](images/pill_aosdic_glyph.png)
+![Aosdic Glyph](images/pill_aosdic_glyph.webp)
 
 On my recent journeys within the Cthonic Remains, this ancient aosdic glyph
 gave me many a shock. I thought I would conduct an experiment of some sorts,
@@ -14,7 +14,7 @@ so I brought all of my necklaces, each of which posessed a different element.
 
 | Fire | Water | Wind | Earth |
 |------|-------|------|-------|
-| ![Fire Necklace](images/pill_aosdic_fire_necklace.png) | ![Water Necklace](images/pill_aosdic_water_necklace.png) | ![Wind Necklace](images/pill_aosdic_wind_necklace.png) | ![Earth Necklace](images/pill_aosdic_earth_necklace.png) |
+| ![Fire Necklace](images/pill_aosdic_fire_necklace.webp) | ![Water Necklace](images/pill_aosdic_water_necklace.webp) | ![Wind Necklace](images/pill_aosdic_wind_necklace.webp) | ![Earth Necklace](images/pill_aosdic_earth_necklace.webp) |
 
 I wore my necklace embued with the element sal, and wandered into the Second
 Yard of the House Macabre, and asked a young Rogue to tell me the element of
@@ -22,7 +22,7 @@ the first creature I saw. I began to chant, and with all of my might, cast
 this dark mark, and to my surprise, the creature's flesh vanished. All that
 remained was its wrotting, fleshy corpse.
 
-![Corpse](images/pill_aosdic_corpse.png)
+![Corpse](images/pill_aosdic_corpse.webp)
 
 I thought my eyes had decieved me, as I'd heard many tales about this spell,
 all of which I thought I had just proven wrong.
@@ -30,27 +30,27 @@ all of which I thought I had just proven wrong.
 I, once again, found another creature, had its element identified, and cast
 the eldritch mark. Sure enough, the creature remained as a bloody corpse.
 
-![Bloody Corpse](images/pill_aosdic_bloody_corpse.png)
+![Bloody Corpse](images/pill_aosdic_bloody_corpse.webp)
 
 I thought again that this was a mistake, as I have never been thought of as
 powerful, so I conducted another test. I used the opposite element of srad,
 Athar.
 
-![Athar](images/pill_aosdic_athar.png)
+![Athar](images/pill_aosdic_athar.webp)
 
-![Wind](images/pill_aosdic_wind.png)
+![Wind](images/pill_aosdic_wind.webp)
 
 Not too astoundingly, the creature survived, so I replaced my necklace with
 the latter, sal, and blasted, and sure enough, the creature perished.
 
-![Corpse](images/pill_aosdic_corpse.png)
+![Corpse](images/pill_aosdic_corpse.webp)
 
-![Water](images/pill_aosdic_water.png)
+![Water](images/pill_aosdic_water.webp)
 
 I tell this lore to aid many youthful aislings who may still learn this
 eldritch mark, as it is very difficult to understand.
 
-![Kobold](images/pill_aosdic_kobold.png)
+![Kobold](images/pill_aosdic_kobold.webp)
 
 A wise Kobold once told me,
 
@@ -81,6 +81,7 @@ _This Document Written by Pill Shizimai Tenaki-Kronagan, 2001_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #157).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Pill_Aosdic/index.html .
 ```

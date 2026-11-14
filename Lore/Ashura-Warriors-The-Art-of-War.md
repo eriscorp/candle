@@ -2,7 +2,7 @@
 
 _by Ashura in **Dark Ages**_
 
-![Warrior](images/ashura_warrior_warrior.png)
+![Warrior](images/ashura_warrior_warrior.webp)
 
 ## Basic Guide
 
@@ -380,6 +380,7 @@ of creature is to attack non-stop and prevent it from running away.
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #3).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/download/Ashura_Warrior.html .
 ```

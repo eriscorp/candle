@@ -1,6 +1,6 @@
 # Artis Mystiklan
 
-![Kamiomi, "Mor Strioch Bais"](images/xilan_kamiomi_mor_strioch_bais.png)  
+![Kamiomi, "Mor Strioch Bais"](images/xilan_kamiomi_mor_strioch_bais.webp)  
 _Kamiomi's "Mor Strioch Bais"_
 ## Volume I - Secrets of the Mystic Arts
 
@@ -284,6 +284,7 @@ _The piece is written on 100% recycled parchment. Keep Temuair clean! And not on
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #3).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Xilan_Mystiklan.html .
 ```

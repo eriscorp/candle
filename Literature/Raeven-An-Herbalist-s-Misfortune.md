@@ -25,6 +25,7 @@ You scoundrel! Go away!
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #124).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Raeven_Herbalist.html .
 ```

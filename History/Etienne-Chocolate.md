@@ -73,6 +73,7 @@ _Etienne Suarven Lorneau_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Historians Recognized (Events of Temuair post #8).
 This entry has been edited to conform to Library formatting.
 The original copy of this document was lost. It has been reconstructed from fragments.
 ```

@@ -60,6 +60,7 @@ socialism between aislings of Temuair.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophers Recognized (Events of Temuair post #109).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Rasputen_Society.html .
 ```

@@ -12,7 +12,7 @@ _One ingredient you will find in almost every remedy is that of wine. My people 
 
 _May the meager learning of my people, now lost to me, bring thee aid and peace._
 
-![All the flowers](images/chloe_herbal_1.png)
+![All the flowers](images/chloe_herbal_1.webp)
  
 ## Remedy for Snake Bite
 
@@ -40,7 +40,7 @@ _To find betonicam_: Again, enter this blessed glade. Your first sight will like
 
 ## Remedy for Nosebleed
 
-![Fifleafan](images/chloe_herbal_2.png)
+![Fifleafan](images/chloe_herbal_2.webp)
 
 Gif men blod ut of nosum yrne to swyte, syle him drincan fifleafan on wine, and smyre taet heafud mid tam. Tonne otstandet se blodgyte sona.
 
@@ -58,7 +58,7 @@ _Where to find Ancusa_: For the herb to be at its most potent, gather it in the 
 
 It will make an ooze, cool to the touch, that will extract all heat from the burn. Lay this on the maimed area and it will be fully recovered within a day or two. This is most useful, as the ingredients are easily found, and so many creatures attack with fire in our world. Note : you will notice that this is the only remedy that does not require wine. You may discover, however, that pouring wine down the throat of the burn victim will muffle his curses amazingly.
 
-![Ancusa](images/chloe_herbal_3.png)
+![Ancusa](images/chloe_herbal_3.webp)
 
 _Here ends the first Herb Journal of Chloe, Priestess of Mileth_
 

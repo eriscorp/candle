@@ -59,6 +59,7 @@ _All information compiled and interpreted by Solinox Geranthar, Warrior at heart
 ```
 *Librarian Notes*
 
+Recognized: Village, Historians Recognized (Events of Temuair post #179).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Solinox_Finach.html .
 ```

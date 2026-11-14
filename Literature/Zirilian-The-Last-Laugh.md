@@ -214,6 +214,7 @@ looked at the creature. And with his dying breath, he let out a chuckle.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #17).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Zirilian_Laugh.html .
 ```

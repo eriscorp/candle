@@ -10,7 +10,7 @@ _This split interested me, as an observer of a world growing increasingly politi
 
 Timeline | Family Tree
 ---------|-------------
-![](images/chloe_blood_1.png)|![](images/chloe_blood_2.png)
+![](images/chloe_blood_1.webp)|![](images/chloe_blood_2.webp)
 
 ### The League of Darkness
 Lord Tenes, whose name means firm grip, was renowned as a man of unstoppable ambition. This reputation was greatly enhanced and encouraged by his wife, Lady Dubhreal, or Dark Star. When they were married is unclear, as is her origin. There are those who say she was half dubhaim, and this is what the Beanlar believe, as her actions justified this belief. Their power had been secure since 2468, when they signed the Pact of Anaman and gave the inhuman a leading hand in mundane politics. It is said that Dubhreal had no small part in the convincing of the other lords to sign this pact, for she saw the possibilities for evil it entailed. The League of Darkness comprised all ten kingdoms: Mileth, Rucesion, Loures, Suomi, Gear Inbhir, Niara, Massai, Feasgar, Glaic, and the dark Isle of Man. Although there was no emperor in name, Tenes wielded the influence of one.

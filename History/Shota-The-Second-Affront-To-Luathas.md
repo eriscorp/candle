@@ -69,6 +69,7 @@ For the next fourteen hundred years the War of the Shadows would be fought, with
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, History Contest, 24 January 2003.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://homeusers.brutele.be/hecate/jason/first.htm .
 ```

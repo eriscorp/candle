@@ -34,6 +34,7 @@ _By Takata Sama_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Historians Recognized (Events of Temuair post #126).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Takata_Crypt.html .
 ```

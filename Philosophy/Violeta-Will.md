@@ -131,6 +131,7 @@ own? That my friends, is up to you.
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #214).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Violeta_Will.htm .
 ```

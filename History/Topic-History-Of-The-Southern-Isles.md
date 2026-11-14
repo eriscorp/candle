@@ -39,7 +39,7 @@ The tales of the mundane islanders say that Uaran held a mighty spear that could
 It is by their very nature difficult for mundanes to accept change and uncertainty. So, uneasy about the new form of leadership that was developing before them, a breakaway sect of the mundane refugees decided that they would prefer to opt out of following chief Uaran. His reign had not been well established throughout all of the refugee clans of the island, and a single new mundane ruler was not easily accepted throughout all of the isle's clans within the first few years of his reign. And so it came to be that the largest of the refugee mundane clans called the "Nobis" people (thought to originally hail from the area around Loures) along with a handful of dissenters left the growing multi-clan town of refugees that had been united under chief Uaran, and they left for a more sheltered, quiet life through the old Aosdian portal on a nearby island surrounded by steep, rocky cliffs.
 
 ## The Medusa and Her Son
-!["The Medusa" by: Ardis](images/topic_history_1.png)
+!["The Medusa" by: Ardis](images/topic_history_1.webp)
 
 On the smaller island, the clans people of Nobis would have quickly discovered the ancient ruins completely deserted yet full of tablets and carvings left behind in the Aosdian settlement. With the vague memories and stories describing the romantic notions of the simpler, even-keeled, and Earth-Sea worshiping Aosdians, the mundanes of Nobis soon made arrangements to summon the gentle water goddess Medusa. The ritual tablet left behind during Medusa's last efforts toward true immortality (before she fell into the slumber of the immortal abyss) needed only to have been translated.
 

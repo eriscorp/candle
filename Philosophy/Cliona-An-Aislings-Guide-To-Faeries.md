@@ -2,7 +2,7 @@
 
 _by Cliona Malkier, in **Dark Ages**_
 
-![fae](images/Cliona-Fae-L.png) ![another fae](images/Cliona-Fae-R.png)
+![fae](images/Cliona-Fae-L.webp) ![another fae](images/Cliona-Fae-R.webp)
 
 In Temuair, mention of the fae is likely to bring but one thing to mind: The
 Tuatha. Of course, some will argue that we ourselves are the Tuatha, but such
@@ -495,6 +495,7 @@ past.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophers Recognized (Events of Temuair post #36).
 This work is considered one of the greatest treasures of Temuair.
 
 This entry has been heavily edited to conform to Library formatting.

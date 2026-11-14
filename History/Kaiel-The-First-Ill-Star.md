@@ -63,6 +63,7 @@ _By Kaiel Morduun, Warrior of Rucesion, in Dark Ages_
 ```
 *Librarian Notes*
 
+Recognized: Village, Historians Recognized (Events of Temuair post #75).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Kaiel_Star.html .
 ```

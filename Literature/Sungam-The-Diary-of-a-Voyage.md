@@ -296,6 +296,7 @@ and we have much to learn yet.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #174).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Sungam_Diary .
 ```

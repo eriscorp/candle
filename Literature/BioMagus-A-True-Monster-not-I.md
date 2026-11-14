@@ -287,6 +287,7 @@ _Lonely Soul_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Bards Recognized (Events of Temuair post #207).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/BioMagus_Monster.htm .
 ```

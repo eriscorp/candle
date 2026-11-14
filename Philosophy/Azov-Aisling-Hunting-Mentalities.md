@@ -45,7 +45,7 @@ pleasurable urges, while the superego enforces judgments, advocating "correct"
 behavior and ethics. These forces dueling in the subconscious, cause internal
 conflicts.  
 
-![Diagram of mentalities](images/Azov-Aisling-Mentalities.png)  
+![Diagram of mentalities](images/Azov-Aisling-Mentalities.webp)  
 
 ## How psychology principles relate to hunting mentalities
 
@@ -94,6 +94,7 @@ _Azov_
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #193).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Azov_Hunting.htm .
 ```

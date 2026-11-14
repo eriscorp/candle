@@ -71,6 +71,7 @@ The End.
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #136).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Feena_Intruder.html .
 ```

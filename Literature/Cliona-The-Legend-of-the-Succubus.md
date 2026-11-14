@@ -242,6 +242,7 @@ _Deoch 10_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Bards Recognized (Events of Temuair post #33).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/ .
 ```

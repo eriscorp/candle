@@ -85,6 +85,7 @@ sociological behavior of those in the arena.
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #214).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Relg_Arena.html .
 ```

@@ -106,6 +106,7 @@ _Kasmanan D'Arth_
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #152).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Kasmanan_Spark.html .
 ```

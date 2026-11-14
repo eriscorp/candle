@@ -491,6 +491,7 @@ any purpose at all?
 ```
 *Librarian Notes*
 
+Recognized: Village, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original copy of this document was lost. It has been reconstructed from fragments.
 ```

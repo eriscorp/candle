@@ -83,7 +83,7 @@ hides behind the mountains, which spray red light through the shrine's pillars
 and into the main chamber. The shrine was specifically built to best catch
 this effect.
 
-![](images/Dartanian-Holy-Star-Octagram.png)
+![](images/Dartanian-Holy-Star-Octagram.webp)
 
 Going from here, the other temples seem to somewhat reflect the nature of the
 god. Fiosachd is placed at the center of commerce, Gramail at the center of
@@ -105,7 +105,7 @@ eventually took out a brush and lightly made a few marks on the maps to all
 the towns and places which had a temple. I had to draw to the outskirts of
 some but I came up with the figure that ye see here:
 
-![Temuairan temples](images/Dartanian-Holy-Star-Octagram-Towns.png)
+![Temuairan temples](images/Dartanian-Holy-Star-Octagram-Towns.webp)
 
 It is rough (since the map is flat but our world is not so clear cut) but an
 octagram is formed! The placing of the temples was indeed not a coincidence.
@@ -113,7 +113,7 @@ It seems this position holds the most power for religion. Now we can organize
 the temples of this octagram the same way we did the priestial lecture, by
 placing Deoch on top. With that, we achieve this octagram:
 
-![Temuairan temples](images/Dartanian-Holy-Star-Temple-Towns.png)
+![Temuairan temples](images/Dartanian-Holy-Star-Temple-Towns.webp)
 
 ## Interpretations of the Star
 
@@ -204,6 +204,7 @@ _Dartanian Lestor_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Historians Recognized (Events of Temuair post #8).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Dartanian_Star .
 ```

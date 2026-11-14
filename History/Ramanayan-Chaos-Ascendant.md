@@ -40,7 +40,7 @@ In the 17th Deoch many rumors had been circulating of a mundane who knew the lon
 
 The hideous looking creature introduced himself as Gigean and said he would teach the art of Necromancy to wizards. He explained only certain wizards would be able to control the kind of power necromancy unleashed. Those who wished to be become Necromancers would need to be at least insight 25 and have some intelligence and wisdom `25 intel, and 15 wis`. Those who could match this must go out and kill a zombie and bring Gigean back its flesh. After completing this they became necromancers and learned the spell "Spion Torrah" (which means in the old tongue to basically 'pluck up') to summon the undead.
 
-![Gigean, teacher of Necromancy](images/ramanayan_chaos_1.png)
+![Gigean, teacher of Necromancy](images/ramanayan_chaos_1.webp)
 
 A great many wizards became necromancers in these times. It was soon discovered some gods did not approve of necromancy and would not allow their worshipers to become them. Only Ceannladir, Fiosachd, and Sgrios would allow it. The others would need to leave their faiths to become necromancers.
 
@@ -57,7 +57,7 @@ Soon after this had begun a circle of stone was discovered the outskirts of the 
 Some weeks later there was a large earthquake in Pravat, whether it was intentional caused or naturally happened remains a mystery, and in the room where the draco hatchlings often are found a large hole appeared in the wall. As aislings entered they found a remarkable sight. Vipers were all over the floor and along the back wall was a giant monolith that was calling forth the vipers. Finally the source had been found! The Druids explained that monoliths are often the gateways into other worlds and were seeking ways to destroy it. Meanwhile aislings came to attack the monolith and succeeded in killing it. There was now another opening that lead into a realm which we know as the Chaos Realms. The creatures were beyond belief, bone dragons, skeletons and other dreaded and weird looking monsters. The creatures were so strong that no one could take them on.
 
 
-![](images/ramanayan_chaos_2.png)|![](images/ramanayan_chaos_2a.gif)
+![](images/ramanayan_chaos_2.webp)|![](images/ramanayan_chaos_2a.gif)
 -------------------------|-------------------------
 Viper hordes infest the floor of the monolith area|The monolith itself
 
@@ -115,7 +115,7 @@ During this time the druids had been informing the aislings of the many events t
 
 Shortly after Krytos had chosen his 12 disciples Chadul granted his followers the ability to summon minor skeletons. The light obtained a spell called banish which would send the skeletons back to the abyss. The side of chaos moved quickly as its disciples summoned dozens of skeletons mainly in Rucesion. The docks soon became crowded with skeletons and no one could escape. The light spell was having no effect and it seemed the skeletons could not be killed! Eventually the banish spell was perfected and the crisis was resolved. The skeletons remained only a minor annoyance in the future.
 
-![](images/ramanayan_chaos_3.png)|![](images/ramanayan_chaos_4.png)
+![](images/ramanayan_chaos_3.webp)|![](images/ramanayan_chaos_4.webp)
 -------------------------|-------------------------
 Minor Skeletons|Banishment Spell
 
@@ -123,12 +123,12 @@ Minor Skeletons|Banishment Spell
 ## The Contests of Light and Chaos
 
 ### The Chrysalis Hunt
-![Chrysalis](images/ramanayan_chaos_5.png)
+![Chrysalis](images/ramanayan_chaos_5.webp)
 
 Shortly after the champions and disciples had been chosen some aislings when awakening in Temuair `logging on` had large orbs appearing with them. Mundane Burgess of Rucesion Eduardo explained these were known as Chrysalis and would be used for the first contest. Aislings would randomly be given them when they entered Temuair. They would then have the option of giving them to the light or dark side or keeping them for themselves. The side that collected the most would be the winner of the round. Aislings looked toward what appeared to be a popularity contest but then something unexpected happened: The dark side unofficially announced they would not be doing the contest. Many speculate this happened because the dark side simply was not liked by many aislings and not enough would give them Chrysalises. Although others say the dark side had more economic power then the light and could have probably purchased enough to win. It remains debated to this day. When the hunt ended 64 Chrysalises were in Temuair. 35 were with the light, 2 with the dark, and the rest with other aislings. Light won the first round.
 
 ### The Kelberoth Hunt
-![A Kelberoth](images/ramanayan_chaos_6.png)
+![A Kelberoth](images/ramanayan_chaos_6.webp)
 
 After the Chystalis hunt ended another hunt would begin. However this hunt would be quite different. The mythical kelberoth creature, which a certain monk form is based on, had been reborn with the rise of chaos. These creatures would appear at random anywhere in Temuair. The side that killed the most of them would be declared the winner. When the Kelberoth hunt ended about a double moon later each side had killed one kelberoth. To break the tie each side would choose a disciple to battle to death in a specially built arena. The winner would win the Kelberoth hunt. Aislings thought who would be the judge of this contest? It turned out to be Chadul himself who took a human-like form for the battle.
 
@@ -136,7 +136,7 @@ After the Chystalis hunt ended another hunt would begin. However this hunt would
 
 When the arena was completed each side had chosen its respected champion. For the light it was disciple Victorious a master monk dedicated from the warrior class who many believed to be the strongest aisling in Temuair. The dark choose the lesser known but still powerful Kezril, a master wizard dedicated from the priest class. Interestingly Kezril was not actually a dark disciple but still Chadul allowed this. The date of the combat was announced and several mundanes appeared in Mileth, Rucesion, and the Eastern Woodlands to take aislings to the battle ring. Aislings would need to enter as spirits to prevent any interference in the battle.
 
-![Victorious vs. Kezril Duel, third round.](images/ramanayan_chaos_7.png)
+![Victorious vs. Kezril Duel, third round.](images/ramanayan_chaos_7.webp)
 
 The first round began. Victorious called upon Glicoa to bless him with invincibility. Kezril could not do any damage to Victorious for a time now. Finally Victorious found a hole in Kezril's mor dion spells (limited invincibility) and killed him. Light had won the first round. The second round was similar to the first except Victorious was overcome by a lag beast `disconnected`, and thus the round was given to Kezril.
 
@@ -144,12 +144,12 @@ As the third round began the dark side had Victorious excommunicated from the Gl
 
 Also during this time strange gemstones began appearing to the champions and disciples of each side. They were small strange green/bluish gems and when used would sometimes grant the user increased resistance to harmful magic `+30% Magic Resistance` for a very short time. Aside from that their use and purpose remained unkown.
 
-![Gemstone](images/ramanayan_chaos_8.png)
+![Gemstone](images/ramanayan_chaos_8.webp)
 
 ### Kick the Kobold
 About a moon after the battle Kobolds began infesting one of the areas of the Lost Souls Pass outside of Tagor. Eduardo wrote it was probably Chadul's doing and some prelude to another contest. That was indeed the case. Soon after Eduardo announced Chadul had constructed an arena for a game called "Kick the Kobold". The game consisted of two teams on a field. Each team attempted to "kick" Kobolds into each others goal by using skills and such. There would be a total of three games with three rounds each. The winner would be the best two of three. The matches would be held in a specially built arena which could be entered by the stone square in Tagor village.
 
-![Kick the Kobold field and contest](images/ramanayan_chaos_9.png)
+![Kick the Kobold field and contest](images/ramanayan_chaos_9.webp)
 
 The first game was won by the light. However what most people remember about this round this round was that Victorious began to slander and threaten Kytros, who in turn began speaking heretically mad at Eduardo, who was hosting the games. Many people were shocked by this display of irrational behavior. The second game, which was not attended by either Champion, was won by the dark side. The final game was won by the light and thus light won the Kick the Kobold matches and the light vs. dark war. They could now bring three boons into Temuair within power of the mundanes.
 
@@ -215,11 +215,11 @@ At the height of the second ritual the Avitar began to speak louder, speaking of
 
 Aislings battled the Avatar for a long time but finally gained the upper hand, and killed it. Another Avatar appeared in the center of the arena! However it to meet the fate as its predecessor.
 
-![Height of the Second rite of the Eulogy.](images/ramanayan_chaos_13.png)
+![Height of the Second rite of the Eulogy.](images/ramanayan_chaos_13.webp)
 
 Anaman Avatar|Servitor|Lesser Servitor|Dunan|Nightgaunt
 -------------|--------|---------------|-----|----------
-![](images/ramanayan_chaos_14.gif)|![](images/ramanayan_chaos_15.gif)|![](images/ramanayan_chaos_16.gif)|![](images/ramanayan_chaos_17.gif)|![](images/ramanayan_chaos_18.gif)
+![](images/ramanayan_chaos_14.webp)|![](images/ramanayan_chaos_15.gif)|![](images/ramanayan_chaos_16.gif)|![](images/ramanayan_chaos_17.gif)|![](images/ramanayan_chaos_18.gif)
 
 
 Finally the monsters ceased appearing as the Eulogy itself finally arrived. Aislings gathered at Pravat, Astrid, and Mehadi to worship Danaan along side the creatures. Each participate was blessed with a wealth of experience, an item to be used at the next ritual, the redemption, and their legends expanded from it.
@@ -235,6 +235,7 @@ ___But every light casts a shadow...___
 ```
 *Librarian Notes*
 
+Recognized: Clave, History Contest, 24 January 2003.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.angelfire.com/scifi/b5rpg/chaos.htm .
 ```

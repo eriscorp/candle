@@ -722,6 +722,7 @@ _[Exit messenger, with Belmont and Darliena giving each other one final hug befo
 ```
 *Librarian Notes*
 
+Recognized: Folk, Bards Recognized (Events of Temuair post #4).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Dartanian_Tides.html .
 ```

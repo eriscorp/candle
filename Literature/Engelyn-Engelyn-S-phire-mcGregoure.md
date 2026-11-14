@@ -445,6 +445,7 @@ Ranux gathered my up in his arms. All the blood was gone. He held me gently to h
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Literature Contest, 29 March 2002.
 This entry has been edited to conform to Library formatting.
 The original can be found at https://www.darkages.com/2000/community/lit/Engelyn_Engelyn.htm .
 ```

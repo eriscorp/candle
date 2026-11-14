@@ -396,6 +396,7 @@ would not know of it until it was too late.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 1999 (Mileth College master list).
 This entry is considered one of the greatest treasures of Temuair.
 
 This entry has been edited to conform to Library formatting.

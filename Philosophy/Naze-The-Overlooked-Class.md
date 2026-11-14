@@ -80,6 +80,7 @@ all the difference.
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #177).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Naze_Class.html .
 ```

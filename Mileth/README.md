@@ -6,5 +6,5 @@ random contributions, fragments) from players of the game
 
 ## Currently Open Library Sections
 
-[Folklore](Folklore) [2 entries]
+[Folklore](Folklore) [10 entries]
 

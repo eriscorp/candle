@@ -102,6 +102,7 @@ _rogue of Sgrios_
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #22).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Jakkal_Gate.html .
 ```

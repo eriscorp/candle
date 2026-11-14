@@ -154,6 +154,7 @@ As a member of the demagoguery it is your obligation to be a role model citizen 
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #206).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Xibalba_Conduct.htm .
 ```

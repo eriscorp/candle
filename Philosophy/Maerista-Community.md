@@ -218,6 +218,7 @@ _Summer, Deoch 6_
 ```
 *Librarian Notes*
 
+Recognized: Village, 1999 (Mileth College master list).
 Kedian: This is a foundational document of the Runic Terra Society and of the Hybrasyl Project.
 
 This entry has been edited to conform to Library formatting.

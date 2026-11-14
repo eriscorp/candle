@@ -133,6 +133,7 @@ the gods; for He may just prove you wrong.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 2010 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original copy of this document has been lost. It has been reconstructed from fragments.
 ```

@@ -11,7 +11,7 @@ This guide is meant to be a savior of sorts for those of us that fit into the se
 
 ## Finding a Date 
 
-![](images/landon_chum_1.png)
+![](images/landon_chum_1.webp)
 
 Let's face it, there isn't really a lack of women in Temuair! In fact, many new women come to Temuair each and every sun! However, just in case yer still having a problem finding the right Aisling girl for ye... here is yer section...
 
@@ -37,7 +37,7 @@ Joining an established and populated guild will increase social awareness of ye,
 
 The same applies for religions, however, joining a religion solely based on the idea of getting to know the women in that religion is... frowned upon.
 
-![](images/landon_chum_2.png)
+![](images/landon_chum_2.webp)
 
 ### Politics 
 
@@ -47,11 +47,11 @@ Holding a political position will allow ye to expose yerself to a wide range of 
 
 This becomes a very touchy subject, but as a good rule of thumb... try and stay away from married or Fae bonded women. It's a big no-no, and should be avoided at all costs... ye don't want to be on the bad end with a master warrior...
 
-![](images/landon_chum_3.png)
+![](images/landon_chum_3.webp)
 
 ## First date and dates after that
 
-![](images/landon_chum_4.png)
+![](images/landon_chum_4.webp)
 
 Now that ye have chosen a target, ye should start to gather up all that stuff, that I like to call courage, and ask her out on a date! What? Afraid? Rejection? What if she says yes? No problem! All that and more is covered in this section!
 
@@ -64,13 +64,13 @@ Sweating? Yeah, ye should be. Yer about to go on a date that is going to end up 
 If it be either a bouquet of roses or a single Tulsi Blossom, the flower has a mysterious effect on the female of almost any species. On yer first date and dates to follow, it's would be a nice gesture to bring along a flower of some sort and give it to yer date. Flowers won't quite get ye the key to her inn room, but it'll at least get her thinking about it.
 Some types of flowers are as follows...
 
-+ ![](images/landon_chum_5.png)Tulsi, Nila, Sevti Blossoms
++ ![](images/landon_chum_5.webp)Tulsi, Nila, Sevti Blossoms
 
-+ ![](images/landon_chum_6.png)Rose Bouquet
++ ![](images/landon_chum_6.webp)Rose Bouquet
 
-+ ![](images/landon_chum_7.png)Man's Bouquet
++ ![](images/landon_chum_7.webp)Man's Bouquet
 
-+ ![](images/landon_chum_8.png)Spring Bouquet
++ ![](images/landon_chum_8.webp)Spring Bouquet
 
 #### Don't over dress... don't underdressed
 
@@ -89,26 +89,26 @@ Never wear a ragged shirt on a date, this is a classic example of under dressing
 
 Train yerself, before the date, to tune out any whispers or guild chatting that may come yer way. Ye can't focus on yer date if ye are taking to others through whispers.
 
-![](images/landon_chum_9.png)
+![](images/landon_chum_9.webp)
 
 ### Places to Take Yer Date
 
 Temuair has a wealth of sights and wonders to behold to a dating couple. Sadly, most of us have been around too long and have started to take some of these places for granted, and often would not think of them as good spots to have a date. A date can take place almost anywhere, with the exception of hostile areas and inn rooms. Yer not a hunting party, yer a dating group and also yer not going to need a bed on the first date, so don't even bother innkeeper Maria, cause yer not gonna use that room.
 Some nice suggestions for a date location:
 
-![](images/landon_chum_10.png)  
+![](images/landon_chum_10.webp)  
 Abel Beach - The beach is the ideal location for any first date. During the daylight hours ye can lounge around near the water edge and play. During the night time hours ye can sit back away from the water and look at the beautiful view of the sky that nowhere else but the beach has. The beach is also somewhat secluded from Aislings, except for a few crypts bound hunters.
 
-![](images/landon_chum_11.png)  
+![](images/landon_chum_11.webp)  
 Druid Circle - Perhaps one of the most mysterious places in all of Temuair. The Druid Circle has the atmosphere of the garden, without any of the mantis or bee attacks. The Circle almost always peaceful, for many Aisling do not explore the area and many don't even know of its existence! The friendly druid will always spark up a conversation of ye ask him a question, or he'll go about his business if ye only with to talk with yer date.
 
-![](images/landon_chum_12.png)  
+![](images/landon_chum_12.webp)  
 Loures Castle - The Castle of Loures is the architectural masterpiece of Temuair. Many locations inside the castle can provide insight on pre-Deoch dating history, as well as provide an intellectual couple with a most enjoyable date. Many of the servants are willing to allow Aislings to stay a night in one of the many rooms. Some things to avoid in the castle are the king's throne room and Master Jean's work area...other than that, the Castle of Loures will keep ye busy with its sights.
 
-![](images/landon_chum_13.png)  
+![](images/landon_chum_13.webp)  
 Any Tavern - Basically speaking, every tavern in Temuair can provide a wonderful dating experience. I always say...nothing like getting drunk with the girl ye love. Be careful not to drink too much, and then make a fool out of yerself in front of yer lady friend. Some taverns are of higher standards than others...the Tavern of Abel as well as the Tavern of Suomi have strict rules that ye would be wise to memorize.
 
-![](images/landon_chum_14.png)  
+![](images/landon_chum_14.webp)  
 Any Eatery- Same with the Taverns, the eatery is a great place to get together. The provider of great food and high-class entertainment. Higher quality eateries can be found in Abel and Piet.
 
 ### On the Actual Date
@@ -119,11 +119,11 @@ Yer on yer own with this one, boy. Every woman is different, so that means that 
 
 If ye didn't get a kiss, or a hug, or a handshake at the end of yer first date, then don't even try to get a second one, it's over buddy, it just wasn't meant to be. If ye DID get one of these, then by all means, whisper her next time she's awake and roaming Temuair...but not right away. Ye'll appear desperate, and just cause ye are desperate, doesn't meant that ye have to appear that way.
 
-![](images/landon_chum_15.png)
+![](images/landon_chum_15.webp)
 
 ## Fae Love
 
-![](images/landon_chum_16.png)
+![](images/landon_chum_16.webp)
 
 Let's set the scene... Ye have been on several dates now, and yer starting to have this weird feeling when yer around her. Guess what? That feeling is the elusive LOVE emotion. Now what do ye do? Ye go and get fae bonded at the lover's glade! Don't know how? That's what this guide is for! Read on for all yer Fae bonding needs...
 
@@ -131,24 +131,24 @@ Let's set the scene... Ye have been on several dates now, and yer starting to ha
 
 The Lover's Glade is located in the enchanted garden... once ye enter, turn to yer right and walk straight, ye will eventually end up inside of the Lover's Glade. The glade is a place for a couple to be bonded by the fae. This bonding in a ritual of love and must be started by a priest. There is room inside of the glade for family and friends to watch, but usually, the bonding is done with only the couple and the priest.
 
-![](images/landon_chum_17.png)
+![](images/landon_chum_17.webp)
 
 ### Decorating the Glade
 
 This is just a fun little thing that adds a little spice to the ol' glade. Decorating the glade can be done with almost anything, but the most used items are coins and flowers... and just to save ye time... don't even try and make a heart out of coin that ye both can stand in, it doesn't work.
 
-![](images/landon_chum_18.png)
+![](images/landon_chum_18.webp)
 
 ### Getting the Girl to the Glade
 
 This seems rather straight forward, doesn't it? Well, not exactly. There is the 'just bring her to the glade' method, but that's not as much fun as the mystery method. Very simple actually... have the presiding priest ask yer lover to come to the glade, but don't have him say for what reason. Yer confused lover will be stunned to see ye standing there with a goofy grin on yer face!
 The priest will then proceed to start the ritual, and soon ye both will be bonded
 
-![](images/landon_chum_19.png)
+![](images/landon_chum_19.webp)
 
 ## Marriage
 
-![](images/landon_chum_20.png)
+![](images/landon_chum_20.webp)
 
 Ahhhh... Marriage... Defined in the dictionary of the male Aisling as 'a time of needless decoration and ceremony'. It's really not such a bad thing, but just be sure ye know what yer getting into. Marriage is a tight bond, one that will leave an everlasting scar if ye decide to break it.
 
@@ -156,13 +156,13 @@ Ahhhh... Marriage... Defined in the dictionary of the male Aisling as 'a time of
 
 The Mileth Chapel is the only place in all of Temuair that can take two Aislings and make them husband and wife. It is located just south of the Mileth Inn, and is often decorated for an upcoming marriage. Naomhan, the Mundane priest, will assist an Aisling Priest that wishes to join a couple in marriage.
 
-![](images/landon_chum_21.png)
+![](images/landon_chum_21.webp)
 
 ### Proper Wedding Clothing
 
 Proper wedding attire can be purchased in the town of Piet. The wedding suits, the tux and the gown, are five hundred thousand gold pieces each! The bride can either add a headband or veil to her attire, but it is not required. Wedding clothing is not a requirement to be married, but it is a welcome addition to ceremonies.
 
-![](images/landon_chum_22.png)
+![](images/landon_chum_22.webp)
 
 ### Decorating the Church
 
@@ -186,9 +186,9 @@ There are 3 basic types of Ceremonies, and all three are summarized here...
 
 + Traditional (large scale) - The wedding is advertised on community boards, the chapel is decorated with expensive flowers, there are guards watching for thieves and hooligans. There is a long ceremony, with an exchange of words, a prayer for the couple lead by the priest, and the vows follow shortly after. (In the traditional wedding, the ceremony and exchange of words can be done in some place other than Mileth chapel, but the couple must return to the chapel for the vows.)
 
-![](images/landon_chum_23.png)
+![](images/landon_chum_23.webp)
 
-![](images/landon_chum_24.png)
+![](images/landon_chum_24.webp)
 
 ## Conclusion
 
@@ -202,6 +202,7 @@ _Revised, Deoch 27_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lore Contest, 25 April 2002.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2002/community/lore/Landon_Relationships/index.html .
 ```

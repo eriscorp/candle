@@ -2,7 +2,7 @@
 
 _by Cittikat in **Dark Ages**_
 
-![](images/cittikat_feline_1.png)
+![](images/cittikat_feline_1.webp)
 
 Greetings! As the old saying goes saying goes, "knowledge is power." But, to be knowledgeable about powerful creatures must make someone twice as impressive! 
 
@@ -10,7 +10,7 @@ In this work, Guide to Feline Menagerie, you will find instruction on how to car
 
 ## Introduction
 
-![](images/cittikat_feline_2.png)
+![](images/cittikat_feline_2.webp)
 
 So, you desire to master the exquisite art of feline conservation? A difficult journey lies ahead for those that do; collecting, sustaining and housing numerous felines can be a daunting task. Or, perhaps a casual interest has brought you to this manual instead. Whether your reasoning be cursory or with the intent of mastery, you will find a wealth of feline knowledge ahead.
 
@@ -110,7 +110,7 @@ Caring for your Lion Buddy requires minimal effort. Like their cousin the Leopar
 
 ## Enclosures
 
-![](images/cittikat_feline_10.png)
+![](images/cittikat_feline_10.webp)
 
 Capturing and feeding your felines is one task, but what is a menagerie without enclosures to keep your collection in? Different felines have different environmental needs and they are appropriately addressed in their given chapters. Common enclosures you will need to consider include: cages, small pens, canyon pens, dark room enclosures and fenced in fields. Cages and fences should be constructed of thick wood from the West Woodlands when harboring wild beasts. Small pens for mild mannered creatures can be crafted from less sturdier woods, such as those found in Shinewood Forest.
 
@@ -126,20 +126,20 @@ Below is an overview of the raw data for the feral cats of Temuair and Medenia a
 
 |Image|Name|Level|HP|EXP|Nature|Drops|
 |-----|----|-----|--|---|------|-----|
-|![](images/cittikat_feline_3.gif)|Black Cat|35|4,000-9,000|8,400|Ele/Ele|Black Cat's Tail <br> ![](images/cittikat_feline_13.png)|
-|![](images/cittikat_feline_4.gif)|Solt Cat|99|120,000-200,000|70,900|Fire/Fire|Empty Bottle <br> ![](images/cittikat_feline_14.png)|
-|![](images/cittikat_feline_5.gif)|Kelberoth|99|1,800,000-5,000,000|1,332,500|Holy/Dark|Tauren Horn <br> ![](images/cittikat_feline_15.png)|
-|![](images/cittikat_feline_6.gif)|BoroNang|99|240,000-257,000|1,910|Dark/Dark|Green Tonic <br> ![](images/cittikat_feline_16.png) <br> Red Tonic <br> ![](images/cittikat_feline_17.png) |
+|![](images/cittikat_feline_3.gif)|Black Cat|35|4,000-9,000|8,400|Ele/Ele|Black Cat's Tail <br> ![](images/cittikat_feline_13.webp)|
+|![](images/cittikat_feline_4.gif)|Solt Cat|99|120,000-200,000|70,900|Fire/Fire|Empty Bottle <br> ![](images/cittikat_feline_14.webp)|
+|![](images/cittikat_feline_5.gif)|Kelberoth|99|1,800,000-5,000,000|1,332,500|Holy/Dark|Tauren Horn <br> ![](images/cittikat_feline_15.webp)|
+|![](images/cittikat_feline_6.gif)|BoroNang|99|240,000-257,000|1,910|Dark/Dark|Green Tonic <br> ![](images/cittikat_feline_16.webp) <br> Red Tonic <br> ![](images/cittikat_feline_17.webp) |
 
 ### Domesticated Pets
 
 |Image|Name|Cost|Dyeable?|Summon?|
 |-----|----|----|--------|-------|
-|![](images/cittikat_feline_3.gif)|Pet Black Cat|1,000,000 Gold <br> ![](images/cittikat_feline_18.png) <br> 10 Spider's Silk <br> ![](images/cittikat_feline_19.png)|No|No|
-|![](images/cittikat_feline_4.gif)|Pet Bast Cat|1,000,000 Gold <br> ![](images/cittikat_feline_18.png)|No|Yes|
-|![](images/cittikat_feline_7.gif)|Top Hat Cat|525 Kruna <br> ![](images/cittikat_feline_20.png)|Yes|No|
-|![](images/cittikat_feline_8.gif)|Leopard Buddy|250 Kruna <br> ![](images/cittikat_feline_20.png)|No|No|
-|![](images/cittikat_feline_9.gif)|Lion Buddy|350 Kruna (Random Item Chance) <br> ![](images/cittikat_feline_20.png)|No|No|
+|![](images/cittikat_feline_3.gif)|Pet Black Cat|1,000,000 Gold <br> ![](images/cittikat_feline_18.webp) <br> 10 Spider's Silk <br> ![](images/cittikat_feline_19.webp)|No|No|
+|![](images/cittikat_feline_4.gif)|Pet Bast Cat|1,000,000 Gold <br> ![](images/cittikat_feline_18.webp)|No|Yes|
+|![](images/cittikat_feline_7.gif)|Top Hat Cat|525 Kruna <br> ![](images/cittikat_feline_20.webp)|Yes|No|
+|![](images/cittikat_feline_8.gif)|Leopard Buddy|250 Kruna <br> ![](images/cittikat_feline_20.webp)|No|No|
+|![](images/cittikat_feline_9.gif)|Lion Buddy|350 Kruna (Random Item Chance) <br> ![](images/cittikat_feline_20.webp)|No|No|
 
 ## Acknowledgments
 
@@ -150,11 +150,11 @@ I'd like to thank my guild, Cult de Carrot, for tolerating a lunatic feline fana
 Specifically, I'd like to thank the following Aislings for their encouragement and helpful critiques: 
 NagisaChan, Firewind, Cazbrileth, MaeSen and BioMagus. 
 
-![](images/cittikat_feline_12.png)
+![](images/cittikat_feline_12.webp)
 
 ## Conclusion
 
-![](images/cittikat_feline_11.png)
+![](images/cittikat_feline_11.webp)
 
 Maintaining a diverse feline menagerie requires dedication and, above all, a deep caring for the cats that roam Temuair and Medenia. While a few may make fantastic pets for the casual feline enthusiast, many of them require special care and should only be handled by those intending to master the art of feline husbandry. It is important to understand the natural habitat of the felines and to imitate it as closely as possible to provide them with the utmost standard of living. Similarly, diet must be watched with a careful eye. Felines are highly temperamental and prone to intestinal upset if their diet is not strictly adhered to; many of the best intentioned Aislings have had catastrophic failures with their collection by feeding them an inconsistent diet.
 

@@ -143,22 +143,22 @@ qualities also, but these are the names given to them by the Guildmasters at
 the Five Guilds of Rucesion (the Rogue Guilds) who teach Paint, Ink and Dye
 Alchemy.)
 
-![Base Ingredients](images/raeven_color_dyes1.png)
+![Base Ingredients](images/raeven_color_dyes1.webp)
 
-![Angelica](images/raeven_color_angelica.png)
+![Angelica](images/raeven_color_angelica.webp)
 
 **Angelica** is a small plant that grows in clusters of small, narrow spiky
 leaves that are dark green with a lighter olive green underside. It is often
 mistaken for budding trigonelle. When the leaves are crushed and soaked in
 wine, the mixture yields a bright blue dye.
 
-![Bittersweet](images/raeven_color_bittersweet.png)
+![Bittersweet](images/raeven_color_bittersweet.webp)
 
 **Bittersweet** is a large bush that yields fern-like dark green leaves with
 pale green undersides. When the leaves are crushed and soaked in brandy, the
 mixture produces a rich green dye.
 
-![Capsic bark](images/raeven_color_capsicbark.png)
+![Capsic bark](images/raeven_color_capsicbark.webp)
 
 **Capsic bark** is harvested from the capsel tree, which is native to all the
 major villages, towns, and areas of Temuair. Capsel trees grow to medium height
@@ -167,26 +167,26 @@ Capsic bark is the thin, inner layer of bark that overlays the soft wood. When
 these fine shreds are peeled from the tree and steeped in one part wine and one
 part rum, the mixture yields a true black dye.
 
-![Chicory](images/raeven_color_chicory.png)
+![Chicory](images/raeven_color_chicory.webp)
 
 **Chicory** is a large plant that grows in fans of five to seven dark green
 leaves and a large tan kernel in the center. When the kernel and leaves are
 crushed together and soaked in rum, the mixture yields a rich brown dye.
 
-![Hyssop](images/raeven_color_hyssop.png)
+![Hyssop](images/raeven_color_hyssop.webp)
 
 **Hyssop** is a large plant of medium height that yields large, flat pink
 leaves with purple veins and a white underside. When the leaves are crushed and
 soaked in brandy, the mixture yields a bright red dye.
 
-![Paola Nut](images/raeven_color_paolanut.png)
+![Paola Nut](images/raeven_color_paolanut.webp)
 
 **Paola Nut** is a small plant with five to seven dark green leaves and a small
 yellowish kernel in the center. It is often mistaken for budding or immature
 chicory. When the kernel is crushed and soaked in spring water, the mixture
 yields a bright yellow dye.
 
-![Spirulina](images/raeven_color_spirulina.png)
+![Spirulina](images/raeven_color_spirulina.webp)
 
 **Spirulina** is a small flowering bush characterized by round, dark green
 leaves and star-shaped white blossoms. It is sometimes mistaken for betony
@@ -194,7 +194,7 @@ though it tends to grow taller and produce fewer, smaller flowers. When
 spirulina flowers are crushed and soaked in rum, they produce a milky liquid
 that bleaches fabric or lightens other dyes.
 
-![Trigonelle](images/raeven_color_trigonelle.png)
+![Trigonelle](images/raeven_color_trigonelle.webp)
 
 **Trigonelle** is a large plant with long, narrow, spiky leaves. When the
 leaves are crushed and soaked in Suomi wine, the mixture yields a rich violet
@@ -205,7 +205,7 @@ dye.
 Here are the recipes for the various hair color essences, in the order they are
 presented by the Mundanes:
 
-![Hair Dyes](images/raeven_color_hairdyes.png)
+![Hair Dyes](images/raeven_color_hairdyes.webp)
 
 To prepare a hair dye, mix one part color essence to one part rum and one part
 spring water. The rum sets the color while the water distributes it evenly.
@@ -241,7 +241,7 @@ angelica and spirulina).
 
 ### Male Monk Apparel: The Dobok
 
-![Male Monk Apparel: The Dobok](images/raeven_color_mmonk-3.png)
+![Male Monk Apparel: The Dobok](images/raeven_color_mmonk-3.webp)
 
 The Dobok may be worn by male Monks who have gained one or more Insights. The
 loose fabric construction allows for great freedom of movement. The **Plain**
@@ -254,7 +254,7 @@ The **Rucesion** variant is dyed with chicory, hyssop, and paola nut. The
 
 ### Male Monk Apparel: The Culotte
 
-![Male Monk Apparel: The Culotte](images/raeven_color_mmonk-1.png)
+![Male Monk Apparel: The Culotte](images/raeven_color_mmonk-1.webp)
 
 The Culotte may be worn by male Monks who have gained eleven or more Insights.
 The **Plain** Culotte is crafted by the Mundanes with hyssop, spirulina,
@@ -267,7 +267,7 @@ bark, spirulina, angelica, bittersweet and hyssop.
 
 ### Male Monk Apparel: The Earth Garb
 
-![Male Monk Apparel: The Earth Garb](images/raeven_color_mmonk-2.png)
+![Male Monk Apparel: The Earth Garb](images/raeven_color_mmonk-2.webp)
 
 The Earth Garb may be worn by male Monks who have gained forty-one or more
 Insights. The **Plain** Earth Garb is crafted by the Mundanes with capsic bark,
@@ -280,7 +280,7 @@ dyed with capsic bark, hyssop and spirulina.
 
 ### Male Monk Apparel: The Wind Garb
 
-![Male Monk Apparel: The Wind Garb](images/raeven_color_mmonk-4.png)
+![Male Monk Apparel: The Wind Garb](images/raeven_color_mmonk-4.webp)
 
 The Wind Garb may be worn by male Monks who have gained seventy-one or more
 Insights. The **Plain** Wind Garb is crafted by the Mundanes with angelica,
@@ -294,7 +294,7 @@ bark.
 
 ### Male Monk Apparel: The Mountain Garb
 
-![Male Monk Apparel: The Mountain Garb](images/raeven_color_mmonk-5.png)
+![Male Monk Apparel: The Mountain Garb](images/raeven_color_mmonk-5.webp)
 
 The Mountain Garb may be worn by male Monks who have gained ninety-seven or
 more Insights. The four dyes available at various other locations require
@@ -310,7 +310,7 @@ Garb, please contact Raeven or Maiala to add your knowledge to this manual.
 
 ### More Male Monk Apparel
 
-![More Male Monk Apparel](images/raeven_color_mmonk-6.png)
+![More Male Monk Apparel](images/raeven_color_mmonk-6.webp)
 
 The **Pattern Walker** garb may be worn by male Monks who have completely the
 required quest. It is created by the Mundanes and may not be dyed by Aislings.
@@ -319,7 +319,7 @@ required quest. It is created by the Mundanes and may not be dyed by Aislings.
 
 ### Female Monk Apparel: The Earth Bodice
 
-![Female Monk Apparel: The Earth Bodice](images/raeven_color_fmonk-1.png)
+![Female Monk Apparel: The Earth Bodice](images/raeven_color_fmonk-1.webp)
 
 The Earth Bodice may be worn by female Monks with one or more Insights. The
 fabric bodice and the leather shorts allow for greater range of movement. The
@@ -332,7 +332,7 @@ variant is dyed with capsic bark, spirulina, and bittersweet.
 
 ### Female Monk Apparel: The Lotus Bodice
 
-![Female Monk Apparel: The Lotus Bodice](images/raeven_color_fmonk-3.png)
+![Female Monk Apparel: The Lotus Bodice](images/raeven_color_fmonk-3.webp)
 
 The Lotus Bodice may be worn by female Monks with eleven or more Insights. This
 garb helps to protect the ankles and/or feet as the wearer gains strength and
@@ -346,7 +346,7 @@ paola nut.
 
 ### Female Monk Apparel: The Moon Bodice
 
-![Female Monk Apparel: The Moon Bodice](images/raeven_color_fmonk-2.png)
+![Female Monk Apparel: The Moon Bodice](images/raeven_color_fmonk-2.webp)
 
 The Moon Bodice may be worn by Female Monks who have gained forty-one or more
 Insights. This garb extends protection to the entire leg as needed with
@@ -360,7 +360,7 @@ with hyssop and capsic bark.
 
 ### Female Monk Apparel: The Lightning Garb
 
-![Female Monk Apparel: The Lightning Garb](images/raeven_color_fmonk-4.png)
+![Female Monk Apparel: The Lightning Garb](images/raeven_color_fmonk-4.webp)
 
 The Lightning Garb may be worn by Female Monks who have gained seventy-one or
 more Insights. This garb extends protection to the arms and legs with leather,
@@ -374,7 +374,7 @@ bittersweet, hyssop and paola nut.
 
 ### Female Monk Apparel: The Sea Garb
 
-![Female Monk Apparel: The Sea Garb](images/raeven_color_fmonk-5.png)
+![Female Monk Apparel: The Sea Garb](images/raeven_color_fmonk-5.webp)
 
 The Sea Garb may be worn by Female Monks who have gained ninety-seven or more
 Insights. This garb facilitates full extension of the leg for optimal kicking
@@ -392,7 +392,7 @@ to add your knowledge to this manual.
 
 ### More Female Monk Apparel
 
-![More Female Monk Apparel](images/raeven_color_fmonk-6.png)
+![More Female Monk Apparel](images/raeven_color_fmonk-6.webp)
 
 The **Pattern Walker** garb may be worn by Female Monks who have completely the
 required quest. It is created by the Mundanes and may not be dyed by Aislings.
@@ -401,7 +401,7 @@ required quest. It is created by the Mundanes and may not be dyed by Aislings.
 
 ### Male Priest Apparel: The Cowl
 
-![Male Priest Apparel: The Cowl](images/raeven_color_mpriest-4.png)
+![Male Priest Apparel: The Cowl](images/raeven_color_mpriest-4.webp)
 
 The Cowl may be worn by male Priests who have gained one or more Insights. The
 gray tunic and trousers are made of gray felt with a solid color cloth field
@@ -415,7 +415,7 @@ spirulina, capsic bark, hyssop and paola nut.
 
 ### Male Priest Apparel: The Galuchat Coat
 
-![Male Priest Apparel: The Galuchat Coat](images/raeven_color_mpriest-1.png)
+![Male Priest Apparel: The Galuchat Coat](images/raeven_color_mpriest-1.webp)
 
 The Galuchat Coat may be worn by male Priests who have gained eleven or more
 Insights. The leather coat and gray trousers protect the wearer against all
@@ -429,7 +429,7 @@ spirulina, capsic bark, hyssop and bittersweet.
 
 ### Male Priest Apparel: The Mantle
 
-![Male Priest Apparel: The Mantle](images/raeven_color_mpriest-2.png)
+![Male Priest Apparel: The Mantle](images/raeven_color_mpriest-2.webp)
 
 The Mantle may be worn by male Priests who have gained forty-one or more
 Insights. The felt coat has a comfortable velvet drape across the chest and
@@ -444,7 +444,7 @@ capsic bark, hyssop and chicory.
 
 ### Male Priest Apparel: The Hierophant
 
-![Male Priest Apparel: The Hierophant](images/raeven_color_mpriest-5.png)
+![Male Priest Apparel: The Hierophant](images/raeven_color_mpriest-5.webp)
 
 The Hierophant may be worn by male Priests who have gained seventy-one or more
 Insights. The elegant cut of the coat conveys stature without restricting
@@ -462,7 +462,7 @@ Maiala to add your knowledge to this manual.
 
 ### Male Priest Apparel: The Dalmatica
 
-![Male Priest Apparel: The Dalmatica](images/raeven_color_mpriest-3.png)
+![Male Priest Apparel: The Dalmatica](images/raeven_color_mpriest-3.webp)
 
 The Dalmatica may be worn by male Priests who have gained ninety-seven or more
 Insights. The draped coat and bell trousers are made of cloth and velvet. The
@@ -476,7 +476,7 @@ bittersweet, hyssop and paola nut.
 
 ### More Male Priest Apparel
 
-![More Male Priest Apparel](images/raeven_color_mpriest-6.png)
+![More Male Priest Apparel](images/raeven_color_mpriest-6.webp)
 
 The **Cthonic Magus** robes may be worn by male Priests who have completely the
 required quest. It is created by the Mundanes and may not be dyed by Aislings.
@@ -485,7 +485,7 @@ required quest. It is created by the Mundanes and may not be dyed by Aislings.
 
 ### Female Priest Apparel: The Gorget Gown
 
-![Female Priest Apparel: The Gorget Gown](images/raeven_color_fpriest-4.png)
+![Female Priest Apparel: The Gorget Gown](images/raeven_color_fpriest-4.webp)
 
 The Gorget Gown may be worn by female Priests who have gained one or more
 Insights. The simple gray skirt and the high neckline convey devotion. The
@@ -499,7 +499,7 @@ capsic bark, spirulina, and paola nut.
 
 ### Female Priest Apparel: The Mystic Gown
 
-![Female Priest Apparel: The Mystic Gown](images/raeven_color_fpriest-1.png)
+![Female Priest Apparel: The Mystic Gown](images/raeven_color_fpriest-1.webp)
 
 The Mystic Gown may be worn by female Priests who have gained eleven or more
 Insights. The split skirt enables the wearer to move freely and quickly to
@@ -513,7 +513,7 @@ and hyssop.
 
 ### Female Priest Apparel: The Elle
 
-![Female Priest Apparel: The Elle](images/raeven_color_fpriest-2.png)
+![Female Priest Apparel: The Elle](images/raeven_color_fpriest-2.webp)
 
 The Elle may be worn by female Priests who have gained forty-one or more
 Insights. The medallion which hangs from the belt is engraved with a symbol of
@@ -526,7 +526,7 @@ spirulina and trigonelle. The **Rucesion** variant is dyed with hyssop. The
 
 ### Female Priest Apparel: The Dolman
 
-![Female Priest Apparel: The Dolman](images/raeven_color_fpriest-3.png)
+![Female Priest Apparel: The Dolman](images/raeven_color_fpriest-3.webp)
 
 The Dolman may be worn by female Priests who have gained seventy-one or more
 Insights. The cloth dress is hemmed with soft gray velvet at the cuffs and
@@ -540,7 +540,7 @@ with capsic bark, spirulina and angelica.
 
 ### Female Priest Apparel: The Bansagart
 
-![Female Priest Apparel: The Bansagart](images/raeven_color_fpriest-5.png)
+![Female Priest Apparel: The Bansagart](images/raeven_color_fpriest-5.webp)
 
 The Bansagart may be worn by female Priests who have gained ninety-seven or
 more Insights. The cloth dress flows loosely to allow for quick healings and
@@ -553,7 +553,7 @@ is dyed with hyssop, paola nut and capsic bark.
 
 ### More Female Priest Apparel
 
-![More Female Priest Apparel](images/raeven_color_fpriest-6.png)
+![More Female Priest Apparel](images/raeven_color_fpriest-6.webp)
 
 The **Pellison** may be worn by female Priests with eighty or more Insights. It
 is created by the Mundanes and may not be dyed by Aislings.
@@ -562,7 +562,7 @@ is created by the Mundanes and may not be dyed by Aislings.
 
 ### Male Rogue Apparel: The Scout Leather
 
-![Male Rogue Apparel: The Scout Leather](images/raeven_color_mrogue-3.png)
+![Male Rogue Apparel: The Scout Leather](images/raeven_color_mrogue-3.webp)
 
 The Scout Leather may be worn by male Rogues who have gained one or more
 Insights. The gray body suit is made of leather and the belt is made of cloth.
@@ -576,7 +576,7 @@ bittersweet, capsic bark and spirulina.
 
 ### Male Rogue Apparel: The Dwarvish Leather
 
-![Male Rogue Apparel: The Dwarvish Leather](images/raeven_color_mrogue-1.png)
+![Male Rogue Apparel: The Dwarvish Leather](images/raeven_color_mrogue-1.webp)
 
 The Dwarvish Leather may be worn by male Rogues who have gained eleven or more
 Insights. The sleeveless tunic has a high cloth collar, short leather trousers
@@ -591,7 +591,7 @@ and bittersweet.
 
 ### Male Rogue Apparel: The Paluten
 
-![Male Rogue Apparel: The Paluten](images/raeven_color_mrogue-2.png)
+![Male Rogue Apparel: The Paluten](images/raeven_color_mrogue-2.webp)
 
 The Paluten may be worn by male Rogues who have gained forty-one or more
 Insights. The armor is made with leather and cloth in varying combinations but
@@ -606,7 +606,7 @@ and angelica.
 
 ### Male Rogue Apparel: The Keaton
 
-![Male Rogue Apparel: The Keaton](images/raeven_color_mrogue-4.png)
+![Male Rogue Apparel: The Keaton](images/raeven_color_mrogue-4.webp)
 
 The Keaton may be worn by male Rogues who have gained seventy-one or more
 Insights. The sleeveless tunic and long trousers are made with striped cloth.
@@ -619,7 +619,7 @@ The **Mileth** variant is dyed with capsic bark, bittersweet and spirulina.
 
 ### Male Rogue Apparel: The Bardocle
 
-![Male Rogue Apparel: The Bardocle](images/raeven_color_mrogue-5.png)
+![Male Rogue Apparel: The Bardocle](images/raeven_color_mrogue-5.webp)
 
 The Bardocle may be worn by male Rogues who have gained ninety-seven or more
 Insights. The tunic is cut away like a long vest and held in place with a
@@ -633,7 +633,7 @@ with bittersweet, spirulina, paola nut, chicory and hyssop.
 
 ### More Male Rogue Apparel
 
-![More Male Rogue Apparel](images/raeven_color_mrogue-6.png)
+![More Male Rogue Apparel](images/raeven_color_mrogue-6.webp)
 
 The **Marauder Hide** garb may be worn by male Rogues who have completely the
 required quest. It is created by the Mundanes and may not be dyed by Aislings.
@@ -642,7 +642,7 @@ required quest. It is created by the Mundanes and may not be dyed by Aislings.
 
 ### Female Rogue Apparel: The Cotte
 
-![Female Rogue Apparel: The Cotte](images/raeven_color_frogue-3.png)
+![Female Rogue Apparel: The Cotte](images/raeven_color_frogue-3.webp)
 
 The Cotte may be worn by female Rogues who have gained one or more Insights.
 The legs of the cloth tunic are cut short over the leather leggings for
@@ -655,7 +655,7 @@ hyssop. The **Suomi** variant is dyed with capsic bark, hyssop and chicory.
 
 ### Female Rogue Apparel: The Brigandine
 
-![Female Rogue Apparel: The Brigandine](images/raeven_color_frogue-1.png)
+![Female Rogue Apparel: The Brigandine](images/raeven_color_frogue-1.webp)
 
 The Brigandine may be worn by female Rogues who have gained eleven or more
 Insights. This armor is hand-sewn into flexible leather segments for improved
@@ -669,7 +669,7 @@ chicory, spirulina and paola nut.
 
 ### Female Rogue Apparel: The Corsette
 
-![Female Rogue Apparel: The Corsette](images/raeven_color_frogue-2.png)
+![Female Rogue Apparel: The Corsette](images/raeven_color_frogue-2.webp)
 
 The Corsette may be worn by female Rogues who have gained forty-one or more
 Insights. The leather belt and shorts have several concealed pockets for
@@ -683,7 +683,7 @@ trigonelle and angelica.
 
 ### Female Rogue Apparel: The Pebble Rose
 
-![Female Rogue Apparel: The Pebble Rose](images/raeven_color_frogue-5.png)
+![Female Rogue Apparel: The Pebble Rose](images/raeven_color_frogue-5.webp)
 
 The Pebble Rose may be worn by female Rogues who have gained seventy-one or
 more Insights. The high-waisted blouse is overlapped and held by a gold-buckled
@@ -698,7 +698,7 @@ is dyed with angelica, hyssop, spirulina, chicory and capsic bark.
 
 ### Female Rogue Apparel: The Kagum
 
-![Female Rogue Apparel: The Kagum](images/raeven_color_frogue-4.png)
+![Female Rogue Apparel: The Kagum](images/raeven_color_frogue-4.webp)
 
 The Kagum may be worn by female Rogues who have gained ninety-seven or more
 Insights. The short, full-sleeved blouse and close-fitting leather trousers are
@@ -717,7 +717,7 @@ to add your knowledge to this manual.
 
 ### More Female Rogue Apparel
 
-![More Female Rogue Apparel](images/raeven_color_frogue-6.png)
+![More Female Rogue Apparel](images/raeven_color_frogue-6.webp)
 
 The **Marauder Hide** garb may be worn by female Rogues who have completely the
 required quest. It is created by the Mundanes and may not be dyed by Aislings.
@@ -726,7 +726,7 @@ required quest. It is created by the Mundanes and may not be dyed by Aislings.
 
 ### Male Warrior Apparel: The Leather Tunic
 
-![Male Warrior Apparel: The Leather Tunic](images/raeven_color_mwarrior-4.png)
+![Male Warrior Apparel: The Leather Tunic](images/raeven_color_mwarrior-4.webp)
 
 The Leather Tunic may be worn by male Warriors who have gained one or more
 Insights. The leather short-sleeved tunic is trimmed with contrasting color and
@@ -740,7 +740,7 @@ bittersweet. The **Loures** variant is dyed with capsic bark and spirulina. The
 
 ### Male Warrior Apparel: The Jupe
 
-![Male Warrior Apparel: The Jupe](images/raeven_color_mwarrior-1.png)
+![Male Warrior Apparel: The Jupe](images/raeven_color_mwarrior-1.webp)
 
 The Jupe may be worn by male Warriors who have gained eleven or more Insights.
 The belted short-sleeved tunic is fitted with a contrasting sash over gray
@@ -755,7 +755,7 @@ spirulina.
 
 ### Male Warrior Apparel: The Lorica
 
-![Male Warrior Apparel: The Lorica](images/raeven_color_mwarrior-2.png)
+![Male Warrior Apparel: The Lorica](images/raeven_color_mwarrior-2.webp)
 
 The Lorica may be worn by male Warriors who have gained twenty-six or more
 Insights. The front of the sleeveless leather tunic is woven together and
@@ -770,7 +770,7 @@ paola nut and spirulina.
 
 ### Male Warrior Apparel: The Chain Mail
 
-![Male Warrior Apparel: The Chain Mail](images/raeven_color_mwarrior-5.png)
+![Male Warrior Apparel: The Chain Mail](images/raeven_color_mwarrior-5.webp)
 
 The Chain Mail may be worn by male Warriors who have gained fifty-six or more
 Insights. This armor is constructed of tensile steel embossed with color. The
@@ -784,7 +784,7 @@ bark, trigonelle, angelica and spirulina.
 
 ### Male Warrior Apparel: The Platemail
 
-![Male Warrior Apparel: The Platemail](images/raeven_color_mwarrior-3.png)
+![Male Warrior Apparel: The Platemail](images/raeven_color_mwarrior-3.webp)
 
 The Platemail may be worn by male Warriors who have gained fifty-six or more
 Insights. This armor is constructed of handcrafted hollow steel embossed with
@@ -797,7 +797,7 @@ The **Mileth** variant is dyed with hyssop, paola nut and spirulina.
 
 ### More Male Warrior Apparel
 
-![More Male Warrior Apparel](images/raeven_color_mwarrior-6.png)
+![More Male Warrior Apparel](images/raeven_color_mwarrior-6.webp)
 
 The **Hy-Brasyl Plate** armor may be worn by male Warriors who have completed
 the required quest. It is created by the Mundanes and may not be dyed by
@@ -816,7 +816,7 @@ required quest. It is created by the Mundanes and may not be dyed by Aislings.
 
 ### Female Warrior Apparel: The Leather Bliaut
 
-![Female Warrior Apparel: The Leather Bliaut](images/raeven_color_fwarrior-3.png)
+![Female Warrior Apparel: The Leather Bliaut](images/raeven_color_fwarrior-3.webp)
 
 The Leather Bliaut may be worn by female Warriors who have gained one or more
 Insights. The divided leather tunic is trimmed with contrasting colors and tied
@@ -831,7 +831,7 @@ and capsic bark.
 
 ### Female Warrior Apparel: The Cuirass
 
-![Female Warrior Apparel: The Cuirass](images/raeven_color_fwarrior-2.png)
+![Female Warrior Apparel: The Cuirass](images/raeven_color_fwarrior-2.webp)
 
 The Cuirass may be worn by female Warriors who have gained eleven or more
 Insights. The fitted leather armor is embellished with contrasting colors and
@@ -846,7 +846,7 @@ and paola nut.
 
 ### Female Warrior Apparel: The Cotehardie
 
-![Female Warrior Apparel: The Cotehardie](images/raeven_color_fwarrior-1.png)
+![Female Warrior Apparel: The Cotehardie](images/raeven_color_fwarrior-1.webp)
 
 The Cotehardie may be worn by female Warriors who have gained twenty-six or
 more Insights. The stomach of the armor is handcrafted hollow steel burnished
@@ -861,7 +861,7 @@ spirulina.
 
 ### Female Warrior Apparel: The Kasmanium Hauberk
 
-![Female Warrior Apparel: The Kasmanium Hauberk](images/raeven_color_fwarrior-4.png)
+![Female Warrior Apparel: The Kasmanium Hauberk](images/raeven_color_fwarrior-4.webp)
 
 The Kasmanium Hauberk may be worn by female Warriors who have gained forty-one
 or more Insights. The body of the armor is woven of pure, tensile kasmanium
@@ -875,7 +875,7 @@ variant is dyed with angelica, trigonelle and capsic bark.
 
 ### Female Warrior Apparel: The Labirynth
 
-![Female Warrior Apparel: The Labirynth](images/raeven_color_fwarrior-5.png)
+![Female Warrior Apparel: The Labirynth](images/raeven_color_fwarrior-5.webp)
 
 The Labirynth may be worn by female Warriors who have gained seventy-eight or
 more Insights. This armor is handcrafted of moveable kasmanium plates embossed
@@ -893,7 +893,7 @@ Maiala to add your knowledge to this manual.
 
 ### More Female Warrior Apparel
 
-![More Female Warrior Apparel](images/raeven_color_fwarrior-6.png)
+![More Female Warrior Apparel](images/raeven_color_fwarrior-6.webp)
 
 The **Phoenix Mail** armor may be worn by Female Warriors with eighty-six or
 more Insights. It is created by the Mundanes and may not be dyed by Aislings.
@@ -912,7 +912,7 @@ Aislings.
 
 ### Male Wizard Apparel: The Gardcorp
 
-![Male Wizard Apparel: The Gardcorp](images/raeven_color_mwizard-2.png)
+![Male Wizard Apparel: The Gardcorp](images/raeven_color_mwizard-2.webp)
 
 The Gardcorp may be worn by male Wizards who have gained one or more Insights.
 The soft woven wool tunic and leather trousers provide protection from magick
@@ -925,7 +925,7 @@ bark. The **Rucesion** variant is dyed with capsic bark and angelica. The
 
 ### Male Wizard Apparel: The Journeyman
 
-![Male Wizard Apparel: The Journeyman](images/raeven_color_mwizard-1.png)
+![Male Wizard Apparel: The Journeyman](images/raeven_color_mwizard-1.webp)
 
 The Journeyman may be worn by male Wizards who have gained eleven or more
 Insights. The longer woven wool tunic is embroidered with contrasting color,
@@ -940,7 +940,7 @@ bittersweet, trigonelle and capsic bark.
 
 ### Male Wizard Apparel: The Lorum
 
-![Male Wizard Apparel: The Lorum](images/raeven_color_mwizard-4.png)
+![Male Wizard Apparel: The Lorum](images/raeven_color_mwizard-4.webp)
 
 The Lorum may be worn by male Wizards who have gained forty-one or more
 Insights. The longer cloth tunic is striped and embroidered with contrasting
@@ -954,7 +954,7 @@ dyed with bittersweet, angelica and capsic bark.
 
 ### Male Wizard Apparel: The Mane
 
-![Male Wizard Apparel: The Mane](images/raeven_color_mwizard-3.png)
+![Male Wizard Apparel: The Mane](images/raeven_color_mwizard-3.webp)
 
 The Mane may be worn by male Wizards who have gained seventy-one or more
 Insights. The loosely fitting tunic and leggings are made of soft woven cloth
@@ -968,7 +968,7 @@ variant is dyed with angelica, hyssop, paola nut and capsic bark. The
 
 ### Male Wizard Apparel: The Duin Uasal
 
-![Male Wizard Apparel: The Duin Uasal](images/raeven_color_mwizard-5.png)
+![Male Wizard Apparel: The Duin Uasal](images/raeven_color_mwizard-5.webp)
 
 The Duin Uasal may be worn by male Wizards who have gained ninety-seven or more
 Insights. The tailored tunic and trousers are made of cloth and embroidered
@@ -982,7 +982,7 @@ capsic bark.
 
 ### More Male Wizard Apparel
 
-![More Male Wizard Apparel](images/raeven_color_mwizard-6.png)
+![More Male Wizard Apparel](images/raeven_color_mwizard-6.webp)
 
 The **Cthonic Magus** robes may be worn by male Wizards who have completely the
 required quest. It is created by the Mundanes and may not be dyed by Aislings.
@@ -991,7 +991,7 @@ required quest. It is created by the Mundanes and may not be dyed by Aislings.
 
 ### Female Wizard Apparel: The Magi Skirt
 
-![Female Wizard Apparel: The Magi Skirt](images/raeven_color_fwizard-1.png)
+![Female Wizard Apparel: The Magi Skirt](images/raeven_color_fwizard-1.webp)
 
 The Magi Skirt may be worn by female Wizards who have gained one or more
 Insights. The short, pleated dress has a contrasting velvet collar and sash.
@@ -1004,7 +1004,7 @@ spirulina. The **Rucesion** variant is dyed with bittersweet and paola nut. The
 
 ### Female Wizard Apparel: The Benusta
 
-![Female Wizard Apparel: The Benusta](images/raeven_color_fwizard-2.png)
+![Female Wizard Apparel: The Benusta](images/raeven_color_fwizard-2.webp)
 
 The Benusta may be worn by female Wizards who have gained eleven or more
 Insights. The shaped cloth bodice and belled trousers help protect the wearer
@@ -1017,7 +1017,7 @@ angelica. The **Loures** variant is dyed with hyssop and spirulina.
 
 ### Female Wizard Apparel: The Stoller
 
-![Female Wizard Apparel: The Stoller](images/raeven_color_fwizard-5.png)
+![Female Wizard Apparel: The Stoller](images/raeven_color_fwizard-5.webp)
 
 The Stoller may be worn by female Wizards who have gained forty-one or more
 Insights. The dress is made of velvet and crinoline while the leggings are made
@@ -1031,7 +1031,7 @@ chicory.
 
 ### Female Wizard Apparel: The Clymouth
 
-![Female Wizard Apparel: The Clymouth](images/raeven_color_fwizard-3.png)
+![Female Wizard Apparel: The Clymouth](images/raeven_color_fwizard-3.webp)
 
 The Clymouth may be worn by female Wizards who have gained seventy-one or more
 Insights. The long dress is made of velvet and crinoline with contrasting color
@@ -1045,7 +1045,7 @@ variant is dyed with trigonelle, spirulina, angelica and bittersweet.
 
 ### Female Wizard Apparel: The Clamyth
 
-![Female Wizard Apparel: The Clamyth](images/raeven_color_fwizard-4.png)
+![Female Wizard Apparel: The Clamyth](images/raeven_color_fwizard-4.webp)
 
 The Clamyth may be worn by female Wizards who have gained ninety-seven or more
 Insights. The short bodice and long divided skirt are trimmed with velvet and
@@ -1059,7 +1059,7 @@ with trigonelle, paola nut, chicory and capsic bark.
 
 ### More Female Wizard Apparel
 
-![More Female Wizard Apparel](images/raeven_color_fwizard-6.png)
+![More Female Wizard Apparel](images/raeven_color_fwizard-6.webp)
 
 The **Pellison** may be worn by female Wizards with eighty or more Insights. It
 is created by the Mundanes and may not be dyed by Aislings.
@@ -1068,7 +1068,7 @@ is created by the Mundanes and may not be dyed by Aislings.
 
 ### Specialty Apparel: Peasant Clothes
 
-![Specialty Apparel: Peasant Clothes](images/raeven_color_peasantclothes.png)
+![Specialty Apparel: Peasant Clothes](images/raeven_color_peasantclothes.webp)
 
 When an individual is first summoned, stunned and newly aware of his or her
 aisling potential, the Mundanes provide peasant clothes. A woman's peasant
@@ -1084,7 +1084,7 @@ different styles and types of first-insight garb.
 
 ### Specialty Apparel: Wedding Clothes
 
-![Specialty Apparel: Wedding Clothes](images/raeven_color_weddingclothes.png)
+![Specialty Apparel: Wedding Clothes](images/raeven_color_weddingclothes.webp)
 
 In Temuair, the Mundanes create beautiful traditional marriage clothing for
 church weddings and for pledges in the faery glade. For the bride, there is a
@@ -1100,7 +1100,7 @@ section of this handbook to see a picture of this alternative wedding garb.
 
 ### Specialty Apparel: Noble Garments
 
-![Specialty Apparel: Noble Garments](images/raeven_color_noblegarments.png)
+![Specialty Apparel: Noble Garments](images/raeven_color_noblegarments.webp)
 
 Noble garments are fashioned by the Mundanes for Aislings who have won several
 Aisling awards or who have taught regular, well-attended classes at Mileth
@@ -1115,7 +1115,7 @@ the betterment of this guide.
 
 ### Specialty Apparel: Political Garments of Mileth
 
-![Specialty Apparel: Political Garments of Mileth](images/raeven_color_milethpolitics.png)
+![Specialty Apparel: Political Garments of Mileth](images/raeven_color_milethpolitics.webp)
 
 In return for political service, the Mundanes of Mileth craft uniforms and
 other garb for the political officials of the town. The official color of
@@ -1143,7 +1143,7 @@ impressive. Please flip to that page for illustrations.
 
 ### Specialty Apparel: Political Garments of Rucesion
 
-![Specialty Apparel: Political Garments of Rucesion](images/raeven_color_rucpolitics.png)
+![Specialty Apparel: Political Garments of Rucesion](images/raeven_color_rucpolitics.webp)
 
 In return for political service, the Mundanes of Rucesion craft uniforms and
 other garb for the political officials of the town. The official color of
@@ -1173,7 +1173,7 @@ impressive. Please flip to that page for illustrations.
 
 ### Accessories: Boots
 
-![Accessories: Boots](images/raeven_color_boots.png)
+![Accessories: Boots](images/raeven_color_boots.webp)
 
 To prepare a leather dye for boots, the Mundanes mix one part color essence to
 equal parts mold and royal honey. The active elements in the mold and the honey
@@ -1209,7 +1209,7 @@ trigonelle.
 
 ### Accessories: Hats for Men
 
-![Accessories: Hats for Men](images/raeven_color_mhats.png)
+![Accessories: Hats for Men](images/raeven_color_mhats.webp)
 
 Here are the different types of male hats and the requirements to wear them:
 
@@ -1230,7 +1230,7 @@ white and gold embroidery, dyed with hyssop, paola nut and spirulina.
 
 ### Accessories: Hats for Women
 
-![Accessories: Hats for Women](images/raeven_color_fhats.png)
+![Accessories: Hats for Women](images/raeven_color_fhats.webp)
 
 Here are the different types of female hats and the requirements to wear them:
 
@@ -1257,6 +1257,7 @@ hy-brasyl ornaments, dyed with spirulina.
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #101).
 This entry has been heavily edited to conform to Library formatting. The
 original can be found at
 http://www.darkages.com/community/lore/Raeven_Color/toc.html .

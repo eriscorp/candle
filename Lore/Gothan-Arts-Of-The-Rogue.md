@@ -6,7 +6,7 @@ While it is our array of nasty traps and snares that rogues are famous for, one 
 
 ## Tailoring
 
-![](images/gothan_arts_1.png)
+![](images/gothan_arts_1.webp)
 
 Common garments can often be dull or not offer you the protection you need. However, rogues, monks, and skilled warriors can work on these clothes, and improve upon them. By adding extra padding here and there, a bit of stitch work, and an improved design, you can alter clothing to offer more protection to its wearer. These improvements range from simply good and finely crafted clothing, to the beauty and extended protection offered by great and grand garments fashioned by master tailors.
 
@@ -14,7 +14,7 @@ An individual skilled in tailoring can also assist in dyeing clothes. The mundan
 
 ## Higgling
 
-![](images/gothan_arts_2.png)
+![](images/gothan_arts_2.webp)
 
 Higgling allows rogues to purchase mundane items that might not be available as common stock in a store. These materials can include fresh berries from the vines of Suomi, wolf pelts from woodland trappers, or the sweet fermented wines made by the Piet goodwives. Although these might not be currently in the shop, a rogue can order them for a small fee of 500 coins through a local higgler. Of course, you must be willing to spend a bit of time waiting for the wares to come in. Other Aislings will often employ a rogue to higgle them some berries or wine to save themselves the trip, which can be a good source of some extra pocket change.
 
@@ -22,7 +22,7 @@ Another useful application of higgling is, for a scant few coins and some time, 
 
 ## Gem Smithing
 
-![](images/gothan_arts_3.png)
+![](images/gothan_arts_3.webp)
 
 The art of gem smithing allows a rogue to polish uncut and raw gems, or even gem fragments, into valuable finished gems. Finishing gems requires some time, and an assistant will greatly increase your chances of success. To begin, one must first know the gem smithing skill, which is taught by Jilt in Piet.
 
@@ -32,7 +32,7 @@ There are three common types of gems: beryl, coral, and ruby. These can be found
 
 ## Creating Rings
 
-![](images/gothan_arts_4.png)
+![](images/gothan_arts_4.webp)
 
 As I alluded to, one talent of a skilled gem smith is their ability to work uncut and finished gems into exquisite rings. These delicate workmanships can offer enchanted might or stronger willpower to their wearer. For a small sum of money for tools and supplies, most armorers will lend their instruments to gems smiths who can begin working on a fine ring, and setting gems into it. I highly recommend an assistant for this delicate task, for few can create such finely wrought jewelry on his or her own. With patients, and a bit of luck, you can work almost any kind of gem into a beautiful and beneficial ring.
 
@@ -50,7 +50,7 @@ Although the main weapons of a rogue are their traps, a trusted soori or sharp b
 
 ## Lock-picking
 
-![](images/gothan_arts_5.png)
+![](images/gothan_arts_5.webp)
 
 _I remember in my younger years when I crept through the Mileth crypts, and my eyes first laid upon one of those chests. It sat there, massive and rotting from its age, yet sturdy and foreboding. I had just come from the tutelage of Daithi in Mileth, who had taught me how to pick and open locks. I stared at if for a while, its gleaming lock looked nothing like the ones I had practiced on. The padlock however was bolted shut, promising of some unknown treasure inside. I sat in front of it, anxious and a little frightened, and set my thieves picks down in front of me. I went over the diagrams Daithi had shown me in my mind, and began. I pressed a pick in, and quickly found a hidden groove and latch, and another pick ... turned it ... and heard a familiar click. That was it? Instinctively, I reached my hand to lift the latch._
 
@@ -62,7 +62,7 @@ There are a few things a rogue needs to pick locks: a little training (which can
 
 ## Hide in Shadows
 
-![](images/gothan_arts_6.png)
+![](images/gothan_arts_6.webp)
 
 Such an ability is a renowned art unique to rogues. Fisk in Suomi can train ye to be a master of the shadows, invisible to the common eye. This ability is useful in so many ways. I have often hidden to travel through dangerous areas, explore unknown reaches, escape from hungry fiends, or lay traps without being preyed upon by what you are hunting. I have also found several humorous uses of this skill, but I'll leave that for ye to find out ...
 
@@ -84,6 +84,7 @@ Dedicated to all the rougelings who ever asked me questions of these arts...
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #150).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Gothan_Rogue/index.htm .
 ```

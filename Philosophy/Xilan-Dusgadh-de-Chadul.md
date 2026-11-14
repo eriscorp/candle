@@ -198,6 +198,7 @@ _A thank you to Talshaya Purehurst for her rendition of Chadul above._
 ```
 *Librarian Notes*
 
+Recognized: Village, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Xilan_Chadul.html .
 ```

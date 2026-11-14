@@ -134,6 +134,7 @@ _Wintermoon d'Winter_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #193).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Wintermoon_Energy.html .
 ```

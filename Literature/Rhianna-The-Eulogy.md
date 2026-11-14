@@ -29,6 +29,7 @@ _Rhianna Lightfoot_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #4).
 This entry is considered one of the greatest treasures of Temuair.
 
 This entry has been edited to conform to Library formatting.

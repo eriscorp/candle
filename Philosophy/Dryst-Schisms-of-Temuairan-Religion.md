@@ -94,6 +94,7 @@ I part with some wisdom from the other realm...
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original copy of this document was lost. It has been reconstructed from fragments.
 ```

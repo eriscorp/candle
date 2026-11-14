@@ -532,6 +532,7 @@ _Grinneal 35394, 1st Moon_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Philosophers Recognized (Events of Temuair post #22).
 Blaise: This is a thoughtful, integrated humanities essay about the societies,
 economies, politics, and history of humans.
 

@@ -2,7 +2,7 @@
 
 _by Grim in **Dark Ages**_
 
-![Scribblings of a madman](./images/Grim-Hexagram-diagram.png)
+![Scribblings of a madman](./images/Grim-Hexagram-diagram.webp)
 
 Within the universal map of creation we find several simple and quintessential
 elements that define the very pattern that is existance. Within the very

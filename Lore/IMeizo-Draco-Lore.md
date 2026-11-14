@@ -2,7 +2,7 @@
 
 _by IMeizo in **Dark Ages**_
 
-![Draco Lore - By IMeizo](images/imeizo_draco_main.png)
+![Draco Lore - By IMeizo](images/imeizo_draco_main.webp)
 
 ## Martial form
 
@@ -16,7 +16,7 @@ Draco. Draco form, also known as the "hunting form" dishes out massive amounts
 of damage, as compared to the other forms which rely on spells to improve the
 fighting ability.
 
-![Berg, Fighter Trainer of Suomi](images/imeizo_draco_berg.png)
+![Berg, Fighter Trainer of Suomi](images/imeizo_draco_berg.webp)
 
 ## Attribute Pros and Cons
 
@@ -54,11 +54,11 @@ Draco. `((Con + Str based attack, sided more for Con))`
 Draco tail kick is the most powerfull monk attack known to date in Temuair, far
 surpassing the Saphire streams skill "_Mantis Kick_"
 
-![Beggining](images/imeizo_draco_dtk1.png)
+![Beggining](images/imeizo_draco_dtk1.webp)
 
-![Middle](images/imeizo_draco_dtk.png)
+![Middle](images/imeizo_draco_dtk.webp)
 
-![End](images/imeizo_draco_dtk2.png)
+![End](images/imeizo_draco_dtk2.webp)
 
 ## Spells
 
@@ -68,13 +68,13 @@ _**Draco Stance**_ (_Dion_) - A very usefull spell indeed, quick but handy `((7
 second))` dion. (_Invincibility_) - The user pulls at his being and summons the
 dracos ability to withstand physical damage. `((200 mp to cast))`
 
-![Draco Stance](images/imeizo_draco_dion.png)
+![Draco Stance](images/imeizo_draco_dion.webp)
 
 _**Snort!**_ (_Taunt_) - A quick but to the point taunt. `((1 line))` - The
 user flashes signs of his Form to enrage opponents while snorting and barking
 chants of vindication.
 
-![Snort](images/imeizo_draco_snort.png)
+![Snort](images/imeizo_draco_snort.webp)
 
 ## Draco fighting tactics (_Hunting_)
 
@@ -132,7 +132,7 @@ When facing one or more opponents, "**DTK**" will be essential. Because of its
 ability to hit targets all around the user, the combination of ambush and throw
 could be deadly.
 
-![Fear DTK!](images/imeizo_draco_arena.png)
+![Fear DTK!](images/imeizo_draco_arena.webp)
 
 ## Uncommon tips
 
@@ -143,7 +143,7 @@ could be deadly.
 3. Draco form monks are usually more attractive then Kelberoth form monks -
    Easier to get married.
 
-![IMeizo](images/imeizo_draco_meizo.png)
+![IMeizo](images/imeizo_draco_meizo.webp)
 
 ~ _By IMeizo_
 
@@ -152,6 +152,7 @@ could be deadly.
 ```
 *Librarian Notes*
 
+Recognized: Clave, Lore Contest, 2 November 2004.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20041211125350/http://www.angelfire.com/psy/meizo/index.html .

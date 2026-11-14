@@ -69,6 +69,7 @@ _written by: Therisa_
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophy Contest, 29 July 2004.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20040803113816/http://valkyrieprofile.virtue.nu/philentry.html .

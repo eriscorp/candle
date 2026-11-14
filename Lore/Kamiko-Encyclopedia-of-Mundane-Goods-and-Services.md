@@ -3835,7 +3835,7 @@ of all mundanes in Temuair. Hope we're not missing anybody.
 
 ## About the Author
 
-![Kamiko](images/kamiko_encyclopedia_kamiko.png)
+![Kamiko](images/kamiko_encyclopedia_kamiko.webp)
 
 Fair day. I'm Kamiko, concerned citizen, Guard of Mileth, and author of this
 Guide.
@@ -3900,6 +3900,7 @@ by Nexon and Dark Ages, under copyright))`
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Lorekeepers Recognized (Events of Temuair post #184).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lore/Kamiko_Encyclopedia/index.html .
 ```

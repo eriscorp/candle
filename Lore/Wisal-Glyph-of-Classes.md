@@ -54,9 +54,9 @@ somethin' really weird... But ya can't be afraid of it, or you'll nevah learn
 the knowledge it has ta offer. When you're ready, touch the stone, and be
 prepared to commune with the ancient buildin' blocks of our land..."_
 
-![hand](images/wisal_path_hand.png)
+![hand](images/wisal_path_hand.webp)
 
-![classwheel](images/wisal_path_classwheel.png)
+![classwheel](images/wisal_path_classwheel.webp)
 
 ## YOUR LIFE HAS BEGUN
 

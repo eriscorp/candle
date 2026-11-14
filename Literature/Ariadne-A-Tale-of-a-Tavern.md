@@ -117,6 +117,7 @@ _Rogue of Rucesion_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 1999 (Mileth College master list).
 This work is considered one of the greatest treasures of Temuair.
 
 This entry has been edited to conform to Library formatting.

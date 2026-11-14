@@ -66,6 +66,7 @@ of Chadul.
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Philosophers Recognized (Events of Temuair post #50).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Skar_Cthonic.html .
 ```

@@ -12,7 +12,7 @@ _Fall, Deoch Six_
 
 _(Library Copy by The Loures Library Markdown Subcommittee)_  
 
-![Runic Terra Society logo](./images/Kedian-Mystic-Theory-RTS-logo.png)
+![Runic Terra Society logo](./images/Kedian-Mystic-Theory-RTS-logo.webp)
 
 ## Introduction
 
@@ -111,7 +111,7 @@ him. And by Luathas, we will not fail.
 
 ## Aosdic Mystic Theory
 
-![Badly copied rune diagram](./images/Kedian-Mystic-Theory-Rune.png)
+![Badly copied rune diagram](./images/Kedian-Mystic-Theory-Rune.webp)
 
 We know there to be four elements: Air, Earth, Fire, and Water. But what we do
 not know is that there is a deeper meaning to their ancient positioning.
@@ -262,7 +262,7 @@ This is a good thing.
 
 ## A "Society of Magick Preservation"
 
-![A page from Shamshiel's scrolls](./images/Kedian-Mystic-Theory-RTS.png)
+![A page from Shamshiel's scrolls](./images/Kedian-Mystic-Theory-RTS.webp)
 
 _A page detailing the foundations of "The Society of the Runic Terra"_
 
@@ -485,7 +485,7 @@ must do it because it is the right and just thing to do.
 
 Glory be to Luathas. Walk in the path of Knowledge and Faith, Aisling.
 
-![Signature of some dingbat](./images/Kedian-Mystic-Theory-Signature.png)
+![Signature of some dingbat](./images/Kedian-Mystic-Theory-Signature.webp)
 
 _Kedian Ta'Null_
 _(written in the Script of the Aosda, entitled "Lunar Hand")_
@@ -495,6 +495,7 @@ _(written in the Script of the Aosda, entitled "Lunar Hand")_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, 1999 (Mileth College master list).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Kedian_Mystic .
 ```

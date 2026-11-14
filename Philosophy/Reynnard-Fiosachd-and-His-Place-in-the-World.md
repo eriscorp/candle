@@ -270,6 +270,7 @@ _Reynnard Tenes_
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, Philosophy Contest, 15 November 2002.
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://homeusers.brutele.be/hecate/jason/fiosachd.htm .
 ```

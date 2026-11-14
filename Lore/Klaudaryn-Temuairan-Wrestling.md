@@ -8,7 +8,7 @@ Needless to say, the War of the Shadows hammered in some lessons that could othe
  
 ## The Ring
  
-![](images/klaudaryn_wrestling_1.png)
+![](images/klaudaryn_wrestling_1.webp)
  
 The Ring is the area in which the confrontation occurs. It is normally a hastily constructed contraption (for quick dismantling in case of discovery), about six large paces squared.
  
@@ -45,13 +45,13 @@ If a fighter is thrown to the ringside, he is considered to be hanging on at the
  
 `((Fighters pushed onto the edge of the ring cannot move unless they manage to repel their attacker by successfully attempting a throw against them. In which case, the fighter is allowed to struggle free from the ropes and jump back into the fray.))`
 
-![](images/klaudaryn_wrestling_2.png)
+![](images/klaudaryn_wrestling_2.webp)
 
 ## Victory
  
 Victory occurs as soon as a fighter is thrown out of the ring and onto the hard floor. The wrestler remaining inside the ring is declared the winner of the round by the umpire and depending on the victory conditions of the match, is declared the victor.
  
-![](images/klaudaryn_wrestling_3.png)
+![](images/klaudaryn_wrestling_3.webp)
  
 ## Winnings
  
@@ -74,6 +74,7 @@ _Klaudaryn Armagh, Deoch 7._
 ```
 *Librarian Notes*
 
+Recognized: Village, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Klaudaryn_Wrestle/ .
 ```

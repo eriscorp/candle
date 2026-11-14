@@ -151,6 +151,7 @@ again tell the truth of Kadath.
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #4).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Swinky_Reawakening.html .
 ```

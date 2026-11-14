@@ -24,7 +24,7 @@ The two octagrams below contain much information useful to the curious Aisling. 
 
 Each deity's polar force is opposite them on the diagram, but this does not imply enmity, necessarily : merely contrast. The deities that flank each god are those, which they strive with most commonly on a daily basis.
 
-![Octagram diagram](images/Chloe-Theology.png)
+![Octagram diagram](images/Chloe-Theology.webp)
 
 ## Deoch: The Creative Spark
 

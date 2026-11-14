@@ -8,7 +8,7 @@ no record for future; Time consumes all history that is not carefully recorded.
 So it was with great surprise when I happened across such a history. The truth
 came in the most unusual of forms.
 
-![ASTRID1](images/naze_caroun_astrid1.png)
+![ASTRID1](images/naze_caroun_astrid1.webp)
 
 I was aiding the plight of the children of Undine. Kalliope had told me of the
 Kobold and Goblin that plagued her town. I, for my part, was attempting to
@@ -18,7 +18,7 @@ came across a very old Kobold. His fur was grey and matted. He could barely
 hold his blade in his paw. His eyes, however, still burned with the pride of a
 Kobold.
 
-![ASTRID2](images/naze_caroun_astrid2.png)
+![ASTRID2](images/naze_caroun_astrid2.webp)
 
 The old Kobold laid his weapon on the ground as I approached, and I knew he
 meant me no harm. He beckoned me to listen to his story, a story that needed to
@@ -35,7 +35,7 @@ one with the _athar_ that flows across the plains. We did not bother the humans
 who dwell nearby, save for an occasional honorable theft of food from your pens
 when the winds did not bless our pack with enough food."
 
-![ASTCROUN](images/naze_caroun_astcroun.png)
+![ASTCROUN](images/naze_caroun_astcroun.webp)
 
 "The thing we call Caroun is an ancient rite practiced by all peoples of this
 land. You humans sacrifice food to please your gods to grant you a bountiful
@@ -45,7 +45,7 @@ litter. The rite was to return the runt to the womb from which our pack all
 came, that it may be reborn a proud and strong Kobold in future. It was a
 painful ritual, but it was for the good of the pack and Arpina's will."
 
-![ASTCNCL1](images/naze_caroun_astcncl1.png)
+![ASTCNCL1](images/naze_caroun_astcncl1.webp)
 
 "All that was before the coming of the _bocan_ pack. Oh, how our pack has come
 to lament the day this great curse befell our people. They appeared at the edge
@@ -65,7 +65,7 @@ mothers, for they were most hurt by our ancient rite of Caroun. The mothers
 came before the elders to voice support of the _bocan_ plan, but the elders
 were wise to such guile, and still refused."
 
-![ASTCNCL2](images/naze_caroun_astcncl2.png)
+![ASTCNCL2](images/naze_caroun_astcncl2.webp)
 
 "The next trick the _bocan_ tried was not so subtle. The wisest of the elders
 was found in pieces upon the ground, human weapons littered beside his
@@ -76,8 +76,8 @@ ways. There was no scent of man about the remains of our revered elder, only
 that of _bocan_. We knew then that the _bocan_ were enemies of the Kobold pack
 of Astrid."
 
-![ASTRIDW1](images/naze_caroun_astridw1.png)
-![ASTRIDW2](images/naze_caroun_astridw2.png)
+![ASTRIDW1](images/naze_caroun_astridw1.webp)
+![ASTRIDW2](images/naze_caroun_astridw2.webp)
 
 "The Kobold pack of Astrid tried its best to rid our plains of the _bocan_
 scourge. Our wily rogues laid traps to deter them from treading so lightly on
@@ -88,7 +88,7 @@ fought a mighty fight against the _bocan_, using all the bravery they could
 muster. But the _bocan_ pack was too strong. After a moon of battle, our pack
 was cowed; The _bocan_ pack became our masters."
 
-![ASTFETCH](images/naze_caroun_astfetch.png)
+![ASTFETCH](images/naze_caroun_astfetch.webp)
 
 "And so it was one night that our new masters bade our pack's wiliest rogues to
 take your pups from their homes. But our pack's rogues proved too wily for the
@@ -109,7 +109,7 @@ came to naught. The mighty of your kind, the _'Aislings'_, spread across our
 plains and slaughtered our pack and our _bocan_ masters to retrieve your
 young."
 
-![ASTWOUND](images/naze_caroun_astwound.png)
+![ASTWOUND](images/naze_caroun_astwound.webp)
 
 "Our _bocan_ masters were not pleased with this. They continued to send our
 pack into the place you call Undine to steal more of your young. They must have
@@ -117,7 +117,7 @@ learned some guile from our pack, for they motivated our stealthy rogues with
 promises of human blood equal to that of Kobold blood spilt. But time and again
 the _'Aislings'_ have put a stop to the plans of our _bocan_ masters."
 
-![ASTLSSN](images/naze_caroun_astlssn.png)
+![ASTLSSN](images/naze_caroun_astlssn.webp)
 
 "For so long now, this cycle of death has continued. The pups of our pack no
 longer wish to hear how things were, the tragic tale of how our kind came to be
@@ -127,7 +127,7 @@ In order for the truth to be remembered, it must be told to ones who will
 listen. So mark well these words I have spoken, human. My pack's salvation
 depends on the days of the past being remembered."
 
-![ASTRDEND](images/naze_caroun_astrdend.png)
+![ASTRDEND](images/naze_caroun_astrdend.webp)
 
 The old Kobold asked that I do him one final favor. He was old and weak now, a
 burden to his pack. He wanted to go join Arpina through a Caroun as they once
@@ -145,6 +145,7 @@ lest the truth of this page of our world's history be lost in the fog of war.
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, History Contest, 6 July 2004.
 This entry has been edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20031009084040/http://www.geocities.com/peasantnaze/Caroun.html .

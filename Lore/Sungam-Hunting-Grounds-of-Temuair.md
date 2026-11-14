@@ -31,11 +31,11 @@ insight on the various places to practice your skills.
 
 ## Mileth Crypt
 
-![Mileth Crypt map](images/sungam_hunting_milethcrypt_map.png)
+![Mileth Crypt map](images/sungam_hunting_milethcrypt_map.webp)
 
-![Mileth Crypt](images/sungam_hunting_milethcrypt1.png)
+![Mileth Crypt](images/sungam_hunting_milethcrypt1.webp)
 
-![Mileth Crypt](images/sungam_hunting_milethcrypt2.png)
+![Mileth Crypt](images/sungam_hunting_milethcrypt2.webp)
 
 **[Cross-Reference: Beastiary of Temuair](Angelic-Beastiary-Of-Temuair.md#mileth-crypt)**
 
@@ -73,11 +73,11 @@ those in the Woodlands, making it an ideal place to save up a few coins.
 
 ## East Woodlands
 
-![East Woodlands map](images/sungam_hunting_eastwoodlands_map.png)
+![East Woodlands map](images/sungam_hunting_eastwoodlands_map.webp)
 
-![East Woodlands](images/sungam_hunting_eastwoodlands1.png)
+![East Woodlands](images/sungam_hunting_eastwoodlands1.webp)
 
-![East Woodlands](images/sungam_hunting_eastwoodlands2.png)
+![East Woodlands](images/sungam_hunting_eastwoodlands2.webp)
 
 **[Cross-Reference: Beastiary of Temuair](Angelic-Beastiary-Of-Temuair.md#eastern-woodlands)**
 
@@ -115,11 +115,11 @@ Crypt as an alternative, even if it is a long walk.
 
 ## Dubhaim Castle
 
-![Dubhaim Castle map](images/sungam_hunting_dubhaimcastle_map.png)
+![Dubhaim Castle map](images/sungam_hunting_dubhaimcastle_map.webp)
 
-![Dubhaim Castle](images/sungam_hunting_dubhaimcastle1.png)
+![Dubhaim Castle](images/sungam_hunting_dubhaimcastle1.webp)
 
-![Dubhaim Castle](images/sungam_hunting_dubhaimcastle2.png)
+![Dubhaim Castle](images/sungam_hunting_dubhaimcastle2.webp)
 
 Many young Aislings do not even know of the existence of the Dubhaim Castle,
 due to it's isolated location - and perhaps that's a good thing for it is not a
@@ -151,11 +151,11 @@ since spells is normally the only thing they have to worry about.
 
 ## Mehadi Swamps
 
-![Mehadi Swamps map](images/sungam_hunting_mehadiswamps_map.png)
+![Mehadi Swamps map](images/sungam_hunting_mehadiswamps_map.webp)
 
-![Mehadi Swamps](images/sungam_hunting_mehadiswamps1.png)
+![Mehadi Swamps](images/sungam_hunting_mehadiswamps1.webp)
 
-![Mehadi Swamps](images/sungam_hunting_mehadiswamps2.png)
+![Mehadi Swamps](images/sungam_hunting_mehadiswamps2.webp)
 
 The home of the Mukhul, the Mehadi Swamps can be found near Piet. The swamps
 have been the home to the Mukhul for longer than time has been recorded, and
@@ -187,11 +187,11 @@ cure them.
 
 ## Piet Crypt
 
-![Piet Crypt map](images/sungam_hunting_pietcrypt_map.png)
+![Piet Crypt map](images/sungam_hunting_pietcrypt_map.webp)
 
-![Piet Crypt](images/sungam_hunting_pietcrypt1.png)
+![Piet Crypt](images/sungam_hunting_pietcrypt1.webp)
 
-![Piet Crypt](images/sungam_hunting_pietcrypt2.png)
+![Piet Crypt](images/sungam_hunting_pietcrypt2.webp)
 
 **[Cross-Reference: Beastiary of Temuair](Angelic-Beastiary-Of-Temuair.md#piet-dungeon-monsters)**
 
@@ -231,11 +231,11 @@ home of the temple of the God of War.
 
 ## Pravat Caves
 
-![Pravat Caves map](images/sungam_hunting_pravatcaves_map.png)
+![Pravat Caves map](images/sungam_hunting_pravatcaves_map.webp)
 
-![Pravat Caves](images/sungam_hunting_pravatcaves1.png)
+![Pravat Caves](images/sungam_hunting_pravatcaves1.webp)
 
-![Pravat Caves](images/sungam_hunting_pravatcaves2.png)
+![Pravat Caves](images/sungam_hunting_pravatcaves2.webp)
 
 Although the mountains south of Mileth have been apparent to Aislings and
 Mundanes alike for as long as they have been there, no Aisling ever set foot in
@@ -275,11 +275,11 @@ of gems, a good resource for money as a Rogue.
 
 ## Astrid
 
-![Astrid map](images/sungam_hunting_astrid_map.png)
+![Astrid map](images/sungam_hunting_astrid_map.webp)
 
-![Astrid](images/sungam_hunting_astrid1.png)
+![Astrid](images/sungam_hunting_astrid1.webp)
 
-![Astrid](images/sungam_hunting_astrid2.png)
+![Astrid](images/sungam_hunting_astrid2.webp)
 
 Astrid is a small area just south of Undine. Home mainly to Kobolds and
 Goblins, Astrid is not a good place to visit if you want to relax and just to
@@ -314,11 +314,11 @@ mundanes.
 
 ## Labyrinth of the Heart (Loures Basement)
 
-![Labyrinth of the Heart map](images/sungam_hunting_labyrinthoftheheart_map.png)
+![Labyrinth of the Heart map](images/sungam_hunting_labyrinthoftheheart_map.webp)
 
-![Labyrinth of the Heart](images/sungam_hunting_labyrinthoftheheart1.png)
+![Labyrinth of the Heart](images/sungam_hunting_labyrinthoftheheart1.webp)
 
-![Labyrinth of the Heart](images/sungam_hunting_labyrinthoftheheart2.png)
+![Labyrinth of the Heart](images/sungam_hunting_labyrinthoftheheart2.webp)
 
 Beneath the surface of Temuair, under the mighty Loures Castle lies the
 Labyrinth of the Heart. To call this a hunting place is almost absurd… No one
@@ -350,11 +350,11 @@ about impossible…
 
 ## Isle of Dawn Crypt (Abel Crypt)
 
-![Isle of Dawn Crypt map](images/sungam_hunting_isleofdawncrypt_map.png)
+![Isle of Dawn Crypt map](images/sungam_hunting_isleofdawncrypt_map.webp)
 
-![Isle of Dawn Crypt](images/sungam_hunting_isleofdawncrypt1.png)
+![Isle of Dawn Crypt](images/sungam_hunting_isleofdawncrypt1.webp)
 
-![Isle of Dawn Crypt](images/sungam_hunting_isleofdawncrypt2.png)
+![Isle of Dawn Crypt](images/sungam_hunting_isleofdawncrypt2.webp)
 
 **[Cross-Reference: Beastiary of Temuair](Angelic-Beastiary-Of-Temuair.md#abel-dungeon-monsters)**
 
@@ -386,11 +386,11 @@ such as Talgonite Axes and their helmets.
 
 ## Undine Fields
 
-![Undine Fields map](images/sungam_hunting_undinefields_map.png)
+![Undine Fields map](images/sungam_hunting_undinefields_map.webp)
 
-![Undine Fields](images/sungam_hunting_undinefields1.png)
+![Undine Fields](images/sungam_hunting_undinefields1.webp)
 
-![Undine Fields](images/sungam_hunting_undinefields2.png)
+![Undine Fields](images/sungam_hunting_undinefields2.webp)
 
 When the rebellion of Undine started Loures had already been oppressing them
 for long. And as always with Loures, they had to overdo this one slightly…
@@ -431,11 +431,11 @@ pieces of gold for this awesome weapon!
 
 ## House Macabre
 
-![House Macabre map](images/sungam_hunting_housemacabre_map.png)
+![House Macabre map](images/sungam_hunting_housemacabre_map.webp)
 
-![House Macabre](images/sungam_hunting_housemacabre1.png)
+![House Macabre](images/sungam_hunting_housemacabre1.webp)
 
-![House Macabre](images/sungam_hunting_housemacabre2.png)
+![House Macabre](images/sungam_hunting_housemacabre2.webp)
 
 On the outskirts of Temuair lies the wicked House Macabre. Dark and twisted,
 the House holds many secrets of the past, most of which I would rather not live
@@ -465,11 +465,11 @@ insights in one of the houses with just a Wizard as my aid.
 
 ## Cthonic Remains
 
-![Cthonic Remains map](images/sungam_hunting_cthonicremains_map.png)
+![Cthonic Remains map](images/sungam_hunting_cthonicremains_map.webp)
 
-![Cthonic Remains](images/sungam_hunting_cthonicremains1.png)
+![Cthonic Remains](images/sungam_hunting_cthonicremains1.webp)
 
-![Cthonic Remains](images/sungam_hunting_cthonicremains2.png)
+![Cthonic Remains](images/sungam_hunting_cthonicremains2.webp)
 
 Without a doubt this is the deepest, darkest and most dangerous place in all of
 Temuair. This dungeon has existed longer than any can imagine and houses some
@@ -501,11 +501,11 @@ famed treasures can be found here.
 
 ## Kasmanium Mines
 
-![Kasmanium Mines map](images/sungam_hunting_kasmaniummines_map.png)
+![Kasmanium Mines map](images/sungam_hunting_kasmaniummines_map.webp)
 
-![Kasmanium Mines](images/sungam_hunting_kasmaniummines1.png)
+![Kasmanium Mines](images/sungam_hunting_kasmaniummines1.webp)
 
-![Kasmanium Mines](images/sungam_hunting_kasmaniummines2.png)
+![Kasmanium Mines](images/sungam_hunting_kasmaniummines2.webp)
 
 As the final stop of this tour we have the famed Kasmanium Mines, home of the
 most powerful beast of all of Temuair - the Draco. While the Draco is the
@@ -542,6 +542,7 @@ _5th Deoch Warrior_
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #121).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/download/Sungam_Hunting/index.html .
 ```

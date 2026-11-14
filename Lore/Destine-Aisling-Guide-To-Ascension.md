@@ -15,7 +15,7 @@ _he searched among the rubble and found_
 _way that his spirit might cross the Abyss_  
 _and arrive at a forbidden home of the gods._  
 
-![](images/destine_ascension_1.png)
+![](images/destine_ascension_1.webp)
 
 _There his soul was bare._  
 _There he became fiery and great._  
@@ -41,9 +41,9 @@ Ascension was first discovered by Kiril, Undine master of magic, in Deoch 9. It'
 
 Before an Aisling can start the ascension, one Succubus's hair is needed. Succubus's hair can be found in the corpse of Succubus, who lives beyond the 23rd floor in the Mileth Crypt. Succubus are of 85th insight or higher, and they can cast very deadly spells. Therefore, adventurers must be well prepared and take caution when entering deep crypt to look for hair.
 
-![](images/destine_ascension_2.png)
+![](images/destine_ascension_2.webp)
 
-![](images/destine_ascension_3.png)
+![](images/destine_ascension_3.webp)
 
 ## Step 3: Visiting the Altar - The Sacrifice
 
@@ -53,9 +53,9 @@ After obtaining a Succubus hair, the next step is to offer the Succubus's hair i
 
 The gods no longer protect you, which means you are vulnerable to Aisling's attack or spells. Ascending Aisling must sacrifice himself and die within this period. Otherwise, the Aisling must restart the process again. It is reminded that all items and garments on the Aisling will not perish after the Aisling dies.
 
-![](images/destine_ascension_4.png)
+![](images/destine_ascension_4.webp)
 
-![](images/destine_ascension_5.png)
+![](images/destine_ascension_5.webp)
 
 ## Step 4: Visiting Sgrios-The Rebirth
 
@@ -65,15 +65,15 @@ After the ascending Aisling dies, you will visit Sgrios. However, do not attempt
 
 Once inside the area, walk around again and you will step through an infinite sea of blackness into an iceland.
 
-![](images/destine_ascension_6.png)
+![](images/destine_ascension_6.webp)
 
-![](images/destine_ascension_7.png)
+![](images/destine_ascension_7.webp)
 
-![](images/destine_ascension_8.png)
+![](images/destine_ascension_8.webp)
 
 ## Step 5: Visiting Gramail and Deoch-The Ascension
 
-![](images/destine_ascension_9.png)
+![](images/destine_ascension_9.webp)
 
 Once you are transported into ice land, two temples stand in front of you. They are the temple of Deoch Toiseach and Gramail Toiseach. If you wish to increase your health, go to Deoch temple. If will power, go to Gramail temple.
 
@@ -104,13 +104,13 @@ You can buy mana as long as you have sufficient exp.
 
 After you are done with ascension, you can choose to descend back to Temuair. You can ascend anytime and any number of times you want, following the same procedure.
 
-![](images/destine_ascension_10.png)
+![](images/destine_ascension_10.webp)
 
-![](images/destine_ascension_11.png)
+![](images/destine_ascension_11.webp)
 
 ## Conclusion
 
-![](images/destine_ascension_12.png)
+![](images/destine_ascension_12.webp)
 
 The ascension is a gift from gods to aid Aislings in their journey and exploration in Temuair. Aislings are welcome to try ascension and share their experience with the gods so that new dungeons and quests will be created. Yet, there are still more about ascension than what had been discovered. For now, follow the instructions in the scroll and ascend wisely.
 
@@ -120,11 +120,11 @@ This part of the scroll simulates the actual ascension in as much details as pos
 
 `Note: please expect the content of the simulation to be semi-OOC`. 
 
-![](images/destine_ascension_13.png)
+![](images/destine_ascension_13.webp)
 
 |Purchase Health|Purchase Mana|
 |-|-|
-|[![Health](images/destine_ascension_14.png)](http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyHP.htm)|[![Mana](images/destine_ascension_15.png)](http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyMana.htm)|
+|[![Health](images/destine_ascension_14.webp)](http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyHP.htm)|[![Mana](images/destine_ascension_15.webp)](http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyMana.htm)|
 
 
 
@@ -137,6 +137,7 @@ This part of the scroll simulates the actual ascension in as much details as pos
 ```
 *Librarian Notes*
 
+Recognized: Folk, Lorekeepers Recognized (Events of Temuair post #135).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Destine_Ascension/index.html .
 ```

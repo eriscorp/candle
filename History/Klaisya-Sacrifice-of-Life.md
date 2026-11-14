@@ -273,6 +273,7 @@ Chadul.))`
 ```
 *Librarian Notes*
 
+Recognized: Clave, History Contest, 6 July 2004.
 This entry has been heavily edited to conform to Library formatting.
 Recovered from the Internet Archive; the original site no longer exists.
 The original can be found at https://web.archive.org/web/20040805130952/http://www.jaggbre.beigetower.org/dahistory/ .

@@ -7,10 +7,10 @@ survive.
 Most of these works have been edited to conform to the Library's display
 formats. Where possible, a link to the original work has been included.
 
-_Works with a octagram ![octagram](../images/octagram.png) displayed next to
+_Works with a octagram ![octagram](../images/octagram.webp) displayed next to
 them represent some of the greatest treasures of Temuair._
 
-_Works with a question mark ![questionmark](../images/questionmark.png)
+_Works with a question mark ![questionmark](../images/questionmark.webp)
 displayed next to them have been lost to time, and are merely placeholders. If
 you have these works, by all means, get in touch with us._
 
@@ -18,17 +18,19 @@ you have these works, by all means, get in touch with us._
 |       Author       |                                                               Work                                                               |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | Aeidolon           | [The Peasant's Guide to Choosing a Craft](Aeidolon-The-Peasant's-Guide.md)                                                       |
+| Aerobyte           | [Love in Temuair](Aerobyte-Love-in-Temuair.md)                                                                                   |
 | Aisley             | [Proper Temuairan Etiquette](Aisley-Proper-Temuairan-Etiquette.md)                                                               |
-| Angelic            | ![Treasure of Temuair](../images/octagram.png) [Bestiary of Temuair](Angelic-Beastiary-Of-Temuair.md)                                                                           |
+| Angelic            | ![Treasure of Temuair](../images/octagram.webp) [Bestiary of Temuair](Angelic-Beastiary-Of-Temuair.md)                                                                           |
 | Angelique          | [Community Service: A Guide to the Office of Respected Citizen](Angelique-A-Guide-To-The-Office-Of-Respected-Citizen.md)         |
 | Angelique          | [The Codex of Saintly Knowledge: The Guide to All Things Religious](Angelique-Codex-Of-Saintly-Knowledge.md)                     |
 | Areyn              | [Prey](Areyn-Prey.md)                                                                                                            |
-| Ariadne            | ![Treasure of Temuair](../images/octagram.png) [A Cook's Guide to the Piet Sewers](Ariadne-A-Cook's-Guide-To-The-Piet-Sewers.md)                                                |
+| Ariadne            | ![Treasure of Temuair](../images/octagram.webp) [A Cook's Guide to the Piet Sewers](Ariadne-A-Cook's-Guide-To-The-Piet-Sewers.md)                                                |
 | Armisael           | [A Guide To Hunting Group Etiquette](Armisael-A-Guide-To-Hunting-Group-Etiquette.md)                                             |
-| Artiigan           | ![This work has been lost](../images/questionmark.png) [A Survival Guide to Karlopos Isle](Artiigan-A-Survival-Guide-to-Karlopos-Isle.md)                                               |
+| Artiigan           | ![This work has been lost](../images/questionmark.webp) [A Survival Guide to Karlopos Isle](Artiigan-A-Survival-Guide-to-Karlopos-Isle.md)                                               |
 | Ashen              | [Event: Where is Tailte?](Ashen-Event-Where-is-Tailte.md)                                                                        |
 | Ashura             | [Warriors: The Art of War](Ashura-Warriors-The-Art-of-War.md)                                                                    |
 | Barriagh           | [In Search of Celebrity: An Aisling Guide to Mundane Recognition](Barriagh-In-Search-Of-Celebrity.md)                            |
+| Bee                | [A Bee-ginner's Guide to the Chests of Asilon](Bee-A-Bee-ginners-Guide-to-the-Chests-of-Asilon.md)                               |
 | BioMagus           | [Sagesse des Armes](BioMagus-Sagesse-des-Armes.md)                                                                               |
 | Biomagus           | [Library of Knowledge](Biomagus-Library-of-Knowledge.md)                                                                         |
 | Callum             | [Welcome to Castle Loures](Callum-Welcome-To-Castle-Loures.md)                                                                   |
@@ -44,8 +46,10 @@ you have these works, by all means, get in touch with us._
 | Dryst              | [A Call to Duty: Life as a Mileth Guard](Dryst-A-Call-To-Duty.md)                                                                |
 | Duplico            | [The Peasant's Guide to Roleplaying](Duplico-Peasant-Guide-To-Roleplaying.md)                                                    |
 | Duplico            | [A Peasant's Introduction to Temuair](Duplico-Peasants-Introduction-To-Temuair.md)                                               |
+| Dylanlan           | [Feral Fountains](Dylanlan-Feral-Fountains.md)                                                                                   |
 | Elenoir            | [The Complete Guide to Fishing: Facts, Food, Fashion & Fun](Elenoir-Complete-Guide-To-Fishing.md)                                |
 | Enclave            | [Leabhar Hemloch](Enclave-Leabhar-Hemloch.md)                                                                                    |
+| Enemy              | [On the Principles of Warfare](Enemy-On-the-Principles-of-Warfare.md)                                                            |
 | Eugorp             | [Oren Pirate Quest](Eugorp-Oren-Pirates-Quest.md)                                                                                |
 | FalconZero         | [Priest Hunting for Dummies](FalconZero-Priest-Hunting-For-Dummies.md)                                                           |
 | Feena              | [Will You Guide Me? On Mentoring and Guiding](Feena-Will-You-Guide-Me.md)                                                        |
@@ -64,7 +68,7 @@ you have these works, by all means, get in touch with us._
 | Innoruk            | [Worshipper's Guide to the Gods](Innoruk-Worshippers-Guide-to-the-Gods.md)                                                       |
 | Jennifer           | [Medicines and Cures of Temuair](Jennifer-Medicines-And-Cures-Of-Temuair.md)                                                     |
 | Kamiko             | [Encyclopedia of Mundane Goods and Services](Kamiko-Encyclopedia-of-Mundane-Goods-and-Services.md)                               |
-| Karasi             | ![This work has been lost](../images/questionmark.png) [Dragon Scale Sword Quest](Karasi-Dragon-Scale-Sword-Quest.md)                                                                   |
+| Karasi             | [Dragon Scale Sword Quest](Karasi-Dragon-Scale-Sword-Quest.md)                                                                   |
 | Kayson             | [The Ultimate Dark Ages Skill Guide](Kayson-Ultimate-Dark-Ages-Skill-Guide.md)                                                   |
 | Kedian             | [A Guide to Wizardry](Kedian-A-Guide-To-Wizardry.md)                                                                             |
 | Kerani             | [On Proper Behavior at Mass](Kerani-On-Proper-Behavior-At-Mass.md)                                                               |
@@ -73,34 +77,40 @@ you have these works, by all means, get in touch with us._
 | Landon             | [Aisling's Seòl Chum Dìlse: An Aisling's guide to Relationships](Landon-Aisling-Seol-Chum-Dilse.md)                              |
 | Larsius            | [The Need to Know on Fas Nadur and Other Nadur Magics](Larsius-The-Need-To-Know-On-Fas-Nadur.md)                                 |
 | Larsius            | [The Wonder of Java Root](Larsius-The-Wonder-Of-Java-Root.md)                                                                    |
-| Lethalia           | ![Treasure of Temuair](../images/octagram.png) [Lioarlan de Ynsagh](Lethalia-Lioarlan-De-Ynsagh.md)                                                                             |
+| Lethalia           | ![Treasure of Temuair](../images/octagram.webp) [Lioarlan de Ynsagh](Lethalia-Lioarlan-De-Ynsagh.md)                                                                             |
 | Lira               | [Guide To Being A Thrifty Priestess](Lira-Guide-To-Being-A-Thrifty-Priestess.md)                                                 |
 | Lokee              | [Rogue's Guide to Chaos](Lokee-Rogues-Guide-To-Chaos.md)                                                                         |
 | Lustra             | [Priestess Fashion Show](Lustra-Priestess-Fashion-Show.md)                                                                       |
+| Maesen             | [The Art of Surviving Loures Canals](Maesen-The-Art-of-Surviving-Loures-Canals.md)                                               |
+| Mayheart           | [Geology of Temuair](Mayheart-Geology-of-Temuair.md)                                                                             |
 | Mayheart           | [The Priest's guide to Curses Conditions and Remedies](Mayheart-Priests-Guide-To-Curses-Conditions-And-Remedies.md)              |
 | Melian             | [Monastery Lore](Melian-Monastery-Lore.md)                                                                                       |
 | Miyamoto           | [The Book of Five Paths](Miyamoto-The-Book-of-Five-Paths.md)                                                                     |
 | Moiraine           | [An Aisling's First Day in Temuair](Moiraine-An-Aislings-First-Day-in-Temuair.md)                                                |
+| NaLyd              | [Memory Guide](NaLyd-Memory-Guide.md)                                                                                            |
 | Nazashanna         | [The Ageless Land](Nazashanna-The-Ageless-Land.md)                                                                               |
 | Naze               | [Mileth College Lore](Naze-Mileth-College-Lore.md)                                                                               |
 | Neacal             | [Keeping a Pet in Temuair](Neacal-Keeping-a-Pet-in-Temuair.md)                                                                   |
 | Neurosis           | [The Ways of Barbarians](Neurosis-The-Ways-of-Barbarians.md)                                                                     |
+| NiaLee             | [Boards of Temuair](NiaLee-Boards-of-Temuair.md)                                                                                 |
 | Nitrotfd           | [The Guard: The Protector of Aislings](Nitrotfd-The Guard.md)                                                                    |
 | Omner              | [The Chaos Realm](Omner-The-Chaos-Realm.md)                                                                                      |
 | Oujousaighi        | [The Dark Art](Oujousaighi-The-Dark-Art.md)                                                                                      |
-| Paladine           | ![Treasure of Temuair](../images/octagram.png) [Political Dominica](Paladine-Political-Dominica.md)                                                                             |
+| Paladine           | ![Treasure of Temuair](../images/octagram.webp) [Political Dominica](Paladine-Political-Dominica.md)                                                                             |
 | Pashura            | [Big Book of Advice](Pashura-Big-Book-of-Advice.md)                                                                              |
+| Phever             | [On Growth, Death, and Scars](Phever-On-Growth-Death-and-Scars.md)                                                               |
 | Pill               | [The Aosdic Glyph](Pill-The-Aosdic-Glyph.md)                                                                                     |
 | Raeven             | [On Guards and Guard Duty, With regards to all villages and environs in Temuair.](Raeven-On-Guards-And-Guard-Duty.md)            |
 | Raeven             | [On Rogues and Rogue Training: An Overview of the Formal and Informal Education of the Rogue.](Raeven-On-Rogues-And-Rogue-Training.md) |
 | Raeven             | [The Illustrated Handbook of Color Alchemy](Raeven-The_Illustrated-Handbook-of-Color-Alchemy.md)                                 |
+| Ramanayan          | [On Citizenship](Ramanayan-On-Citizenship.md)                                                                                    |
 | Randolf            | [Còmhraig Principia, Volume I: Lower Réidheachd Training](Randolf-Comhraig-Principia.md)                                         |
-| Randolf            | ![Treasure of Temuair](../images/octagram.png) [Principia Monastica](Randolf-Principia-Monastica.md)                                                                            |
+| Randolf            | ![Treasure of Temuair](../images/octagram.webp) [Principia Monastica](Randolf-Principia-Monastica.md)                                                                            |
 | Rasputen           | [Navigating Temuair](Rasputen-Navigating-Temuair.md)                                                                             |
-| Rhaxephon          | ![This work has been lost](../images/questionmark.png) [The Aisling's Guide to Craft](Rhaxephon-The-Aislings-Guide-to-Craft.md)                                                         |
+| Rhaxephon          | ![This work has been lost](../images/questionmark.webp) [The Aisling's Guide to Craft](Rhaxephon-The-Aislings-Guide-to-Craft.md)                                                         |
 | Sakura             | [The Races of Temuair](Sakura-The-Races-of-Temuair.md)                                                                           |
 | Seara              | [The Pacificist's Guide to Insight](Seara-The-Pacificists-Guide-to-Insight.md)                                                   |
-| Shimjun            | ![This work has been lost](../images/questionmark.png) [Dark Ages Library](Shimjun-Dark-Ages-Library.md)                                                                                |
+| Shimjun            | [Dark Ages Library](Shimjun-Dark-Ages-Library.md)                                                                                |
 | Soidier            | [Mileth Tour](Soidier-Mileth-Tour.md)                                                                                            |
 | Solanalein         | [Realto i Laiocht fior na Speire: A guide to Temuair's Constellations](Solanalein-Realto-I-Laiocht-Fior-Na-Speire.md)            |
 | Sorren             | [A Thesis on the Economics of Temuair](Sorren-Economics-Thesis.md)                                                               |
@@ -108,7 +118,7 @@ you have these works, by all means, get in touch with us._
 | Sungam             | [Hunting Grounds of Temuair](Sungam-Hunting-Grounds-of-Temuair.md)                                                               |
 | Sungam             | [Positioning Tactics](Sungam-Positioning-Tactics.md)                                                                             |
 | Sungam             | [Via Equitis](Sungam-Via-Equitis.md)                                                                                             |
-| Taliesin           | ![Treasure of Temuair](../images/octagram.png) [A Rogue's Pocket Guide to Skills and Secrets](Taliesin-A-Rogue's-Pocket-Guide-to-Skills-and-Secrets.md)                         |
+| Taliesin           | ![Treasure of Temuair](../images/octagram.webp) [A Rogue's Pocket Guide to Skills and Secrets](Taliesin-A-Rogue's-Pocket-Guide-to-Skills-and-Secrets.md)                         |
 | Tarrant            | [A Guide to Conducting a Religious Mass](Tarrant-A-Guide-To-Conducting-A-Religious-Mass.md)                                      |
 | Taurlos            | [Ainmhidh de Temuair (Bestiary)](Taurlos-Ainmhidh-de-Temuair(Bestiary).md)                                                       |
 | Tmy                | [Story of Priests](Tmy-Story-of-Priests.md)                                                                                      |
@@ -117,9 +127,10 @@ you have these works, by all means, get in touch with us._
 | Tryston            | [The Gifts of the Gods: A Survey of Supplications, Entreaties and Consecrations](Tryston-The-Gifts-Of-The-Gods.md)               |
 | Twila              | [Inside the Judge's Chamber: A Guide to Surviving the Bench with the Minimum Number of Splinters](Twila-Inside-The-Judges-Chamber.md) |
 | Velious            | [How to Become an Effective Mentor](Velious-How-To-Become-An-Effective-Mentor.md)                                                |
-| Vendes             | ![Treasure of Temuair](../images/octagram.png) [Trade and Commerce in Temuair](Vendes-Trade-and-Commerce-in-Temuair.md)                                                         |
+| Vendes             | ![Treasure of Temuair](../images/octagram.webp) [Trade and Commerce in Temuair](Vendes-Trade-and-Commerce-in-Temuair.md)                                                         |
 | Whisper            | [Fae Alphabet](Whisper-Fae-Alphabet.md)                                                                                          |
 | Wisal              | [Glyph of Classes](Wisal-Glyph-of-Classes.md)                                                                                    |
+| XhaLe              | [The Expert's Path to Soloing Nobis Mob Rooms as a Karura Priest-Monk](XhaLe-The-Experts-Path-to-Soloing.md)                     |
 | Xibalba            | [Demagoguery Conduct Manual](Xibalba-Demagoguery-Conduct-Manual.md)                                                              |
 | Xilan              | [Artis Mystiklan](Xilan-Artis-Mystiklan.md)                                                                                      |
 | Xilan              | [Political Structure](Xilan-Political-Structure.md)                                                                              |

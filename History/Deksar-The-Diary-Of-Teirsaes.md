@@ -18,7 +18,7 @@ I have almost reached the castle of the dubhaim. I cannot wait to finally quench
 
 * Deoch 2, 6th Moon, 30th Sun  
 The charm from that old wizard seems to be working perfectly. I am virtually invisible to the dubhaim, they just walk right by me. I have gained much information already, and it all supports my theories. I will venture deeper into the castle, for the dubhaim here are of little intelligence. I know there must be an intelligent dubhaim somewhere in here.
-![](images/deksar_diary_1.png)
+![](images/deksar_diary_1.webp)
 
 * Deoch 2, 7th Moon, 12th Sun  
 Perfect. The stronger dubhaim are more intelligent. But they still aren't intelligent enough to see through my disguise. With my ability to blend in, I have reached places other men have only dreamed about. I saw a rare specimen of dubhaim here. About 4 feet tall, 4 feet wide. It resembles some unintelligible darkness, some type of odd floating cloud of evil. Suffice to say, it is almost formless, so I am having a difficult time explaining what it looks like. As for its function, it seems to be feeding the dubhaim energy. I don't understand how or why, as I have just seen it. More on it later, for I must get a closer look at it.
@@ -32,7 +32,7 @@ I am now in the depths of the castle. Using my charm, I have devised a plan to h
 * Deoch 2, 11th Moon, 21st Sun  
 With the tunnels complete, my powers of observation have been extended beyond anyone's comprehension. I can see into the most secretive of the dubhaim's little society, and find that something MUST be ruling over them. The higher-level intelligent dubhaim seem to have rituals to a god...probably the Evil God...but...there seems to be sadness in their songs...most curious. As well, I have document five more types of dubhaim, and sketched their appearances to me. I must find who is leading the dubhaim. I am sure it is not the Evil God, for they seem more to obey out of duty then fear...
 
-![](images/deksar_diary_2.png)
+![](images/deksar_diary_2.webp)
 
 * Deoch 3  
 (Note: For most of this year, Teirsaes talks a good deal about his theories of dubbhaim society, the origins of the dubbhaim, and their purpose. I will be disclosing this in another work, for it is quite long and unrelated to Teirsaes's welfare. However, if you wish to know Teirsaes's true accomplishments, you'd best read it after it is published.)
@@ -46,7 +46,7 @@ I saw it! The master! I have tried to show what he looks like, but they are afte
 * Deoch 4, 9th Moon, 16th Sun  
 My head! My mind! It HURTS! Make the voices STOP! Why did it do this to me? Why did it curse me? I only wished to know the truth! I know it now, and I will tell everyone, for the dubhaim are the cursed so... (rest is indecipherable nonsense)
 
-![](images/deksar_diary_3.png)
+![](images/deksar_diary_3.webp)
 
 * Unknown (There was no date for this entry)  
 Mallacht! Mallacht brach! Aisling tinn, codail tinn...an codail deireadh - dubbhaim. Fulaing! Fulaing brach, an mallacht olc. Suil deisionn, "Aisling" - codail cosain, an codail brach! Deoch - codail cabhru...dubbhaim cabhru... (the rest is totally indecipherable...)
@@ -62,6 +62,7 @@ _Compilation and comments by Deksar math-K'sull_
 ```
 *Librarian Notes*
 
+Recognized: Village, Historians Recognized (Events of Temuair post #8).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Deksar_Teirsaes/index.html .
 ```

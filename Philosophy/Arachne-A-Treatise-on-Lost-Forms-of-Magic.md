@@ -118,6 +118,7 @@ _Arachne of Mileth, Wizard Adept_
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original may be viewed at http://darkages.com/community/phi/Arachne_Magic.html .
 ```

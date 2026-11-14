@@ -31,6 +31,7 @@ And I danced.
 ```
 *Librarian Notes*
 
+Recognized: Village, Story Contest, 19 December 2001.
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Seara_Dark_Seduction.html .
 ```

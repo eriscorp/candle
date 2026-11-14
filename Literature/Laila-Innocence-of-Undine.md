@@ -36,6 +36,7 @@ _Lailia, Priestess of Sgrios_
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry is considered one of the greatest treasures of Temuair.
 
 This entry has been edited to conform to Library formatting.

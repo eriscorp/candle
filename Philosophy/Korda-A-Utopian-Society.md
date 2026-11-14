@@ -125,6 +125,7 @@ this to heart. You could be living under much worse circumstances.
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Korda_Utopia.html .
 ```

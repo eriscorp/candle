@@ -27,7 +27,7 @@ must not only know basic facts concerning strengths of elements, they must
 know pertinent information such as the location of elemental nodes. In
 addition, as has been discovered, the cyclical nature of the four elements
 
-![figure](Wyrmo-Elements-Diagram.png)  
+![figure](images/Wyrmo-Elements-Diagram.webp)  
 
 (fig. 1)
 
@@ -37,7 +37,7 @@ However, every element must have a relationship with all of the other three. It
 is my belief, therefore, that for elemental relationships, each element has an
 element greater, lesser, and equal
 
-![figure](Wyrmo-Elements-Diagram2.png)  
+![figure](images/Wyrmo-Elements-Diagram2.webp)  
 
 This relationship helps to create a sense of symmetry among the elements. With
 this in mind we can begin to understand the oraganization of the elements and
@@ -293,6 +293,7 @@ other works by respectable Aislings._
 ```
 *Librarian Notes*
 
+Recognized: Village, Philosophers Recognized (Events of Temuair post #109).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Wyrmo_Elements.html .
 ```

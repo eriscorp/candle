@@ -23,6 +23,7 @@ in these now small grains I hold so delicately in my hands.
 ```
 *Librarian Notes*
 
+Recognized: Village, Literature Contest, 29 March 2002.
 This entry has been edited to conform to Library formatting.
 The original can be found at https://www.darkages.com/2000/community/lit/Cynix_LostLove.htm .
 ```

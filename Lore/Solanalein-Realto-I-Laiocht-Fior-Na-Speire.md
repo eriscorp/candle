@@ -32,17 +32,17 @@ Temuair time is 8 times faster than Real Life time.
 ## On Compass Points:
 This lorekeeper acknowledges that a compass is costly, and often mislaid by those lacking their wits in the dark. Because of this, I have removed all reference of North, South, East, and West, and replaced them with the following. There are no compass points on this common map of Temuair. With the interests of the average Aisling in mind, references to directions will be based on the location of well-known trade routes. 
 
-![Map of Temuair](images/solanalein_realto_1.png)
+![Map of Temuair](images/solanalein_realto_1.webp)
 
 Sea captains, Rangers, mail carriers, pigeon trainers, and Loures scouts all carry a compass by necessity. Here is a typical compass. Under the glass window in the center is a pin which spins under the influence of magik. As you can see, there is very little glass used in making a compass. Glass must be manufactured in Oren where there is plenty of sand, which makes it an expensive import. A compass is also expensive due to the complicated enchantments on the pin to ensure accuracy.
 
-![Map of Temuair](images/solanalein_realto_2.png)
+![Map of Temuair](images/solanalein_realto_2.webp)
 
 ## The Octogram
 
 Let us begin with the constellation found overhead while walking through Mileth Proper, for this is where all Aisling begin their journeys. Directly above Mileth is the Octagram, this symbol of beginnings and fellowship so often impressed upon our minds as Aislings. In any temple, one can ask the attendant to explain the theology of Temuair. She or he will draw for you an Octagram in pebbles on the temple floor. The pebble-Octagram was first used by Conn, Mundane Philosopher of Mileth College, when his frequent travels to teach abroad required him to carry only necessities.
 
-![Compass](images/solanalein_realto_3.png)
+![Compass](images/solanalein_realto_3.webp)
 
 The most prominent stars in this constellation are Torthai, Feoil and Donnacadh, each pointing in a compass direction of Undine, Abel, and Piet, respectively. The constellation consists of these three bright stars and five smaller and dimmer stars, each having the name of one the Mundane saints; Neal, Donnan, Keefe, Erin, and Logan. `See Translations from Gaelic to English, at the end of this guidebook.`  The Octagram can be seen from the towns surrounding Mileth Proper: Abel Port, Kasmanium Mines, Pravat Crossing, and through the treetops of the East and West Woodlands. 
 
@@ -54,7 +54,7 @@ To find a path to Mileth from the towns mentioned above, first locate a footpath
 
 Over Loures, the constellation Mairtina graces the sky. This female warrior of old leans on her shield with her sword upraised. The legendary soldier Mairtina was chased by demons to the cliff's edge at the cold ocean brink. Mairtina cried out to Gramail with her last breath of strength to lift her from the demons' clutches. Ultimately Mairtina took her place in the heavens above Loures Castle. A song, celebrating Gramail's miracles, [can be found in the care of Camille, temple attendant to Gramail.](../Literature/Lobokia-Mighty-Gramail.md "Mighty Gramail") It is written by Lobokia, of Gramail.
 
-![Mairtina](images/solanalein_realto_4.png)
+![Mairtina](images/solanalein_realto_4.webp)
 
 In the olden days of Atavism the constellation was called "Na Drochsheasamh." The name Mairtina was later given to this grouping of stars as a sign of new beginnings for King Bruce. Prominent stars in this constellation are Colg, Dhroma, Sciath, and Buaileam. "Sciath," which means 'shield,' has also been spelled "Sgiath" and "Sgath."  Mairtina's constellation is rather large, and can be seen over the ocean dividing Loures and Tagor. In winter, the constellation can also be seen over Piet. Mairtina's sword points out a path from Loures to Piet. Following this path will help a traveler to avoid the marshy sandbars and wetlands of Mehadi in the dark. 
 
@@ -62,7 +62,7 @@ In the olden days of Atavism the constellation was called "Na Drochsheasamh." Th
 
 Over the cold sea which between Abel Port and Undine is an array of stars named "Ceadsearc." In the old tongue this term means Sweethearts. The following is an excerpt from a very ancient scroll in the protective care of Kiril, Dark Wizard of Undine and Magus Philosophicus of Temuair.
 
-![Ceadsearc](images/solanalein_realto_5.png)
+![Ceadsearc](images/solanalein_realto_5.webp)
 
 >_"Here follows the account of the first experimental forms of matter. In days long gone, gods and demons experimented with primitive life. They created crude beasts which walked awkwardly, shunned light, and had no language or culture ("Flesh Gollum," see Reanimation and its Uses). However these monsters had no capacity for love. Finally the gods desired to see creatures interact with the emotion of love. Two crude animals were created and were granted a heart to love and care for one another. These creatures, being very innocent of the world, so fiercely loved one another that they never were apart for longer than a few moments at a time._
 >
@@ -76,7 +76,7 @@ The most notable stars in this constellation are Thaisce, Muirnin, and Leannan, 
                                   
 Mean Oiche is often depicted in childrens' texts as a cloaked Aisling with a campfire at his feet. This image has been designed to lessen curiosity about Tagor and the House Macabre, but it is the opinion of this lorekeeper that perhaps the real story would deter Aislings more effectively from blackened and cursed places.
 
-![Mean Oiche](images/solanalein_realto_6.png)
+![Mean Oiche](images/solanalein_realto_6.webp)
 
 Four prominent stars in this constellation are Leathuair, Bandearg, Clar Dubh, and Slaghdan. Mean Oiche depicts a priest summoning the spirit of the Dark Cleric. Bandearg is a prominent body located between Undine and Suomi, and indicates the rising wisps of the Cleric's unholy form. In general the names of the stars brought together indicate the Aisling, at the witching hour, drew in the cleric possession into his heart. 
 
@@ -86,7 +86,7 @@ I was permitted to study an old guide to astrology belonging to Blaise of Loures
 
 This final constellation forms a silent reminder of an Aisling's agreement with the Gods never to sail to Kadath's icy, coveted shores. A lost boat sails forever in the black of night, its captain driven mad. There have been many failed, tragic attempts to sail to Kadath safely, and it is not known, at the writing of this guidebook, that there have been any successful arrivals by boat. To reach Kadath, an Aisling must leave the grey realm of the living. At insight 99, by burning a Succubus' hair on the Mileth Altar, an Aisling may be transported to Gramail and Deoch, where they entreat for miracles. Here lies the fate of those seeks Kadath before they are worthy. Such an Aisling will be victim to violent winds, rain, and razor-sharp rocks that come out of the waves like great fish, on their own accord, and slice at boats. 
 
-![Wandering Boatman](images/solanalein_realto_7.png)
+![Wandering Boatman](images/solanalein_realto_7.webp)
 
 >_"The traveler of old was most likely full of his own sense of purpose. Perhaps he was a rogue. Always ridiculed by others for his inadequacies at swordplay, and never given proper thanks for his smithing skills. None could live without his expert tailoring and bladework, yet none gave him the thanks he was due. Or so he thought. He felt very different from the others, as if there were an untapped power inside him that no one could see or feel. His mother felt it too, and she always encouraged him to be the best and to rise above all others. The rogue sought a way to prove the bullies wrong. By becoming one with the gods, he would return to Temuair and destroy all his former enemies._
 >
@@ -129,6 +129,7 @@ __Glossary__:
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, Lore Contest, 18 June 2004.
 This entry has been edited to conform to Library formatting.
 The original was lost.  An archive can be found at http://web.archive.org/web/20090829093303/http://geocities.com/solanalein/starlight.html .
 ```

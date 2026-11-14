@@ -148,7 +148,7 @@ abilities to those skills wisely.
 
 ## Monastery Legend
 
-![Sabonim](images/melian_monastery_sabonim.png)
+![Sabonim](images/melian_monastery_sabonim.webp)
 
 ### Part One
 
@@ -230,7 +230,7 @@ the snarl of Loures.
 
 > \*returns to silence after the end of the legend\*
 
-![Hubae](images/melian_monastery_little_monk.png)
+![Hubae](images/melian_monastery_little_monk.webp)
 
 ## White Dugon
 
@@ -238,7 +238,7 @@ the snarl of Loures.
 
 Need: Insight 11, 0 Hubae
 
-To kill: Bat ![Bat](images/melian_monastery_monster_bat.png)
+To kill: Bat ![Bat](images/melian_monastery_monster_bat.webp)
 
 > Sabonim, please teach me the white dugon
 
@@ -248,7 +248,7 @@ Meditation Answer: the hand turns over - patience
 
 Get:
 
-![Inner Fire](images/melian_monastery_inner_fire.png)
+![Inner Fire](images/melian_monastery_inner_fire.webp)
 
 Inner Fire: Increases your Health regeneration rate `((3.3.8.3.3))`
 
@@ -258,7 +258,7 @@ Inner Fire: Increases your Health regeneration rate `((3.3.8.3.3))`
 
 Need: Insight 22, 0 Hubae
 
-To kill: Crab ![Crab](images/melian_monastery_monster_crab.png)
+To kill: Crab ![Crab](images/melian_monastery_monster_crab.webp)
 
 > Sabonim, please teach me the green dugon
 
@@ -269,7 +269,7 @@ chest - rising breath
 
 Get:
 
-![Gentle Touch](images/melian_monastery_gentle_touch.png)
+![Gentle Touch](images/melian_monastery_gentle_touch.webp)
 
 Gentle Touch: heals all creatures/aisling around the caster `((3.3.18.19.3))`
 
@@ -279,7 +279,7 @@ Gentle Touch: heals all creatures/aisling around the caster `((3.3.18.19.3))`
 
 Need: Insight 33, 4 Hubae
 
-To kill: Chest ![Chest](images/melian_monastery_monster_chest.png)
+To kill: Chest ![Chest](images/melian_monastery_monster_chest.webp)
 
 > Sabonim, please teach me the blue dugon
 
@@ -289,7 +289,7 @@ Meditation Answer: the moon shines as if smiling - rising breath
 
 Get:
 
-![Mantis Kick](images/melian_monastery_mantis_kick.png)
+![Mantis Kick](images/melian_monastery_mantis_kick.webp)
 
 Mantis Kick: strong like the draco tail kick `((3.11.11.32.3))`
 
@@ -299,7 +299,7 @@ Mantis Kick: strong like the draco tail kick `((3.11.11.32.3))`
 
 Need: Insight 44, 8 Hubae
 
-To kill: Gruesomefly ![Gruesomefly](images/melian_monastery_monster_gruesomefly.png)
+To kill: Gruesomefly ![Gruesomefly](images/melian_monastery_monster_gruesomefly.webp)
 
 > Sabonim, please teach me the yellow dugon
 
@@ -309,12 +309,12 @@ Meditation Answer: a wolf lunges at your throat - empty breath
 
 Get:
 
-![Cat's Hearing](images/melian_monastery_cats_hearing.png)
+![Cat's Hearing](images/melian_monastery_cats_hearing.webp)
 
 Cat's Hearing: makes invisible aislings visible, longer than eisd creutair
 `((3.15.3.3.3))`
 
-![Eagle Strike](images/melian_monastery_eagle_strike.png)
+![Eagle Strike](images/melian_monastery_eagle_strike.webp)
 
 Eagle Strike: like Windblade for warriors, less powerful `((3.17.3.30.3))`
 
@@ -324,7 +324,7 @@ Eagle Strike: like Windblade for warriors, less powerful `((3.17.3.30.3))`
 
 Need: Insight 55, 16 Hubae
 
-To kill: Leech ![Leech](images/melian_monastery_monster_leech.png)
+To kill: Leech ![Leech](images/melian_monastery_monster_leech.webp)
 
 > Sabonim, please teach me the purple dugon
 
@@ -334,11 +334,11 @@ Meditation Answer: ocean waves reflect light - patience
 
 Get:
 
-![Wise Touch](images/melian_monastery_wise_touch.png)
+![Wise Touch](images/melian_monastery_wise_touch.webp)
 
 Wise Touch: identify skill, tells name, value and weight `((3.16.3.3.10))`
 
-![Claw Fist](images/melian_monastery_claw_fist.png)
+![Claw Fist](images/melian_monastery_claw_fist.webp)
 
 Claw Fist: almost doubles punch and assail damage for short time
 `((3.14.3.3.20))`
@@ -349,7 +349,7 @@ Claw Fist: almost doubles punch and assail damage for short time
 
 Need: Insight 66, 32 Hubae
 
-To kill: Shrieker ![Shrieker](images/melian_monastery_monster_shrieker.png)
+To kill: Shrieker ![Shrieker](images/melian_monastery_monster_shrieker.webp)
 
 > Sabonim, please teach me the brown dugon
 
@@ -359,7 +359,7 @@ Meditation Answer: cool running river - patience
 
 Get:
 
-![Lucky Hand](images/melian_monastery_lucky_hand.png)
+![Lucky Hand](images/melian_monastery_lucky_hand.webp)
 
 Lucky Hand: tailor like skill `((22.3.3.3.17))`
 
@@ -369,7 +369,7 @@ Lucky Hand: tailor like skill `((22.3.3.3.17))`
 
 Need: Insight 77, 64 Hubae
 
-To kill: Fae ![Fae](images/melian_monastery_monster_fae.png)
+To kill: Fae ![Fae](images/melian_monastery_monster_fae.webp)
 
 > Sabonim, please teach me the red dugon
 
@@ -379,11 +379,11 @@ Meditation Answer: discovery - patience
 
 Get:
 
-![Wolf Fang Fist](images/melian_monastery_suain_punch.png)
+![Wolf Fang Fist](images/melian_monastery_suain_punch.webp)
 
 Wolf Fang Fist: freezes (suain) the creature/aisling `((58.3.3.3.25))`
 
-![Howl](images/melian_monastery_howl.png)
+![Howl](images/melian_monastery_howl.webp)
 
 Howl: taunts everything in sight `((68.3.3.3.20))`
 
@@ -393,7 +393,7 @@ Howl: taunts everything in sight `((68.3.3.3.20))`
 
 Need: Insight 88, 128 Hubae
 
-To kill: ?? ![??](images/melian_monastery_skill_none.png)
+To kill: ?? ![??](images/melian_monastery_skill_none.webp)
 
 > Sabonim, please teach me the black dugon
 
@@ -403,7 +403,7 @@ Meditation Answer: ? - ?
 
 Get:
 
-![Wraith Touch](images/melian_monastery_skill_none.png)
+![Wraith Touch](images/melian_monastery_skill_none.webp)
 
 Wraith Touch: ranged attack spell `((3.20.20.3.3))`
 
@@ -413,43 +413,43 @@ Wraith Touch: ranged attack spell `((3.20.20.3.3))`
 
 |  | SKILL/SPELL |  | REQUIRED ITEM | REQUIRED STATS | DESCRIPTION | LINES | USE PERIOD | EFFECT PERIOD | MP | MAX LEVEL |
 |---|-------------|---|---------------|----------------|-------------|-------|------------|---------------|----|-----------|
-| White Dugon: | Inner Fire | ![Inner Fire](images/melian_monastery_inner_fire.png) |  | `((3.3.8.3.3))` | +20 Regen | 5 | - | 450 | 360 | 90 |
-| Green Dugon: | Gentle Touch | ![Gentle Touch](images/melian_monastery_gentle_touch.png) | Crab's Claw, Gob's Skull | `((3.3.18.19.3))` | heals around caster | 1 | - | - | 360 | 90 |
-| Blue Dugon: | Mantis Kick | ![Mantis Kick](images/melian_monastery_mantis_kick.png) | Garg's Skull, 30k Gold | `((3.11.11.32.3))` | strong like DTK | 1 | 24 | - | - | 90 |
-| Yellow Dugon: | Cat's Hearing | ![Cat's Hearing](images/melian_monastery_cats_hearing.png) | Grue's Antena, Wolf's Fur | `((3.15.3.3.3))` | to see invisibles | 5 | - | 225 | 120 | 90 |
-|  | Eagle Strike | ![Eagle Strike](images/melian_monastery_eagle_strike.png) | Grue's Wings, Wolf's Fur | `((3.17.3.30.3))` | like Windblade | 1 | 21 | - | - | 90 |
-| Purple Dugon: | Wise Touch | ![Wise Touch](images/melian_monastery_wise_touch.png) | Ghast's Skull, Rotten Apple | `((3.16.3.3.10))` | identify | 1 | 23 | - | - | 90 |
-|  | Claw Fist | ![Claw Fist](images/melian_monastery_claw_fist.png) | Garg Fiend's Skull, Frog's Leg | `((3.14.3.3.20))` | doubles punch/assail Damage | 1 | 28 | 10 | - | 90 |
-| Brown Dugon: | Lucky Hand | ![Lucky Hand](images/melian_monastery_lucky_hand.png) | Grue's Antena, Mushroom | `((22.3.3.3.17))` | tailor like skill | 1 | 78 | - | - | 100 |
-| Red Dugon: | Howl | ![Howl](images/melian_monastery_howl.png) | Frog's Leg, Spore's Sac | `((68.3.3.3.20))` | taunts whole screen, much more dmg than taunt | 5 | - | - | 360 | 90 |
-|  | Wolf Fang Fist | ![Wolf Fang Fist](images/melian_monastery_suain_punch.png) | Fae's Wings, Polyp's Sac | `((58.3.3.3.25))` | suains opponent | 1 | 33 | 10 | - | 90 |
-| Black Dugon: | Wraith Touch | ![Wraith Touch](images/melian_monastery_skill_none.png) | ? | `((3.20.20.3.3))` | ranged attack spell | 5 | - | - | ? | ? |
+| White Dugon: | Inner Fire | ![Inner Fire](images/melian_monastery_inner_fire.webp) |  | `((3.3.8.3.3))` | +20 Regen | 5 | - | 450 | 360 | 90 |
+| Green Dugon: | Gentle Touch | ![Gentle Touch](images/melian_monastery_gentle_touch.webp) | Crab's Claw, Gob's Skull | `((3.3.18.19.3))` | heals around caster | 1 | - | - | 360 | 90 |
+| Blue Dugon: | Mantis Kick | ![Mantis Kick](images/melian_monastery_mantis_kick.webp) | Garg's Skull, 30k Gold | `((3.11.11.32.3))` | strong like DTK | 1 | 24 | - | - | 90 |
+| Yellow Dugon: | Cat's Hearing | ![Cat's Hearing](images/melian_monastery_cats_hearing.webp) | Grue's Antena, Wolf's Fur | `((3.15.3.3.3))` | to see invisibles | 5 | - | 225 | 120 | 90 |
+|  | Eagle Strike | ![Eagle Strike](images/melian_monastery_eagle_strike.webp) | Grue's Wings, Wolf's Fur | `((3.17.3.30.3))` | like Windblade | 1 | 21 | - | - | 90 |
+| Purple Dugon: | Wise Touch | ![Wise Touch](images/melian_monastery_wise_touch.webp) | Ghast's Skull, Rotten Apple | `((3.16.3.3.10))` | identify | 1 | 23 | - | - | 90 |
+|  | Claw Fist | ![Claw Fist](images/melian_monastery_claw_fist.webp) | Garg Fiend's Skull, Frog's Leg | `((3.14.3.3.20))` | doubles punch/assail Damage | 1 | 28 | 10 | - | 90 |
+| Brown Dugon: | Lucky Hand | ![Lucky Hand](images/melian_monastery_lucky_hand.webp) | Grue's Antena, Mushroom | `((22.3.3.3.17))` | tailor like skill | 1 | 78 | - | - | 100 |
+| Red Dugon: | Howl | ![Howl](images/melian_monastery_howl.webp) | Frog's Leg, Spore's Sac | `((68.3.3.3.20))` | taunts whole screen, much more dmg than taunt | 5 | - | - | 360 | 90 |
+|  | Wolf Fang Fist | ![Wolf Fang Fist](images/melian_monastery_suain_punch.webp) | Fae's Wings, Polyp's Sac | `((58.3.3.3.25))` | suains opponent | 1 | 33 | 10 | - | 90 |
+| Black Dugon: | Wraith Touch | ![Wraith Touch](images/melian_monastery_skill_none.webp) | ? | `((3.20.20.3.3))` | ranged attack spell | 5 | - | - | ? | ? |
 
 ### What you have to do:
 
 |  | REQUIRED INSIGHT | REQUIRED HUBAE | MEDITATION | ANSWER | MONSTER TO KILL |  |
 |---|------------------|----------------|------------|--------|-----------------|---|
-| White Dugon: | 11 | 0 | the hand turns over | patience | bat | ![bat](images/melian_monastery_monster_bat.png) |
-| Green Dugon: | 22 | 0 | peaceful mountain<br>a spark dances in your chest | falling breath<br>rising breath | crab | ![crab](images/melian_monastery_monster_crab.png) |
-| Blue Dugon: | 33 | 4 | the moon shines as if smiling | rising breath | chest | ![chest](images/melian_monastery_monster_chest.png) |
-| Yellow Dugon: | 44 | 8 | a wolf lunges at your throat | empty breath | gruesomefly | ![gruesomefly](images/melian_monastery_monster_gruesomefly.png) |
-| Purple Dugon: | 55 | 16 | ocean waves reflect light | patience | leech | ![leech](images/melian_monastery_monster_leech.png) |
-| Brown Dugon: | 66 | 32 | cool running river | patience | shrieker | ![shrieker](images/melian_monastery_monster_shrieker.png) |
-| Red Dugon: | 77 | 64 | discovery | patience | fae | ![fae](images/melian_monastery_monster_fae.png) |
+| White Dugon: | 11 | 0 | the hand turns over | patience | bat | ![bat](images/melian_monastery_monster_bat.webp) |
+| Green Dugon: | 22 | 0 | peaceful mountain<br>a spark dances in your chest | falling breath<br>rising breath | crab | ![crab](images/melian_monastery_monster_crab.webp) |
+| Blue Dugon: | 33 | 4 | the moon shines as if smiling | rising breath | chest | ![chest](images/melian_monastery_monster_chest.webp) |
+| Yellow Dugon: | 44 | 8 | a wolf lunges at your throat | empty breath | gruesomefly | ![gruesomefly](images/melian_monastery_monster_gruesomefly.webp) |
+| Purple Dugon: | 55 | 16 | ocean waves reflect light | patience | leech | ![leech](images/melian_monastery_monster_leech.webp) |
+| Brown Dugon: | 66 | 32 | cool running river | patience | shrieker | ![shrieker](images/melian_monastery_monster_shrieker.webp) |
+| Red Dugon: | 77 | 64 | discovery | patience | fae | ![fae](images/melian_monastery_monster_fae.webp) |
 | Black Dugon: | 88 | 128 | ? | ? | ? |  |
 
 ### Silk Dugon abilities:
 
 |  | HP | MP | MR | R | DMG | HIT | AC |  |
 |---|----|----|----|---|-----|-----|----|---|
-| White |  | +125 |  | +6 | -6 |  | +2 | ![White Dugon](images/melian_monastery_white_dugon.png) |
-| Green | +50 | +250 | -10 | +3 |  |  |  | ![Green Dugon](images/melian_monastery_green_dugon.png) |
-| Blue | +100 | +125 |  |  | +3 |  | +2 | ![Blue Dugon](images/melian_monastery_blue_dugon.png) |
-| Yellow | +50 |  |  | -6 | +6 |  |  | ![Yellow Dugon](images/melian_monastery_yellow_dugon.png) |
-| Purple |  | -250 | +10 |  |  | +3 | -1 | ![Purple Dugon](images/melian_monastery_purple_dugon.png) |
-| Brown | -100 |  |  |  |  |  | -1 | ![Brown Dugon](images/melian_monastery_brown_dugon.png) |
-| Red |  | -250 |  |  |  | -6 | -1 | ![Red Dugon](images/melian_monastery_red_dugon.png) |
-| Black | +100 | -100 | -10 | +2 |  |  |  | ![Black Dugon](images/melian_monastery_black_dugon.png) |
+| White |  | +125 |  | +6 | -6 |  | +2 | ![White Dugon](images/melian_monastery_white_dugon.webp) |
+| Green | +50 | +250 | -10 | +3 |  |  |  | ![Green Dugon](images/melian_monastery_green_dugon.webp) |
+| Blue | +100 | +125 |  |  | +3 |  | +2 | ![Blue Dugon](images/melian_monastery_blue_dugon.webp) |
+| Yellow | +50 |  |  | -6 | +6 |  |  | ![Yellow Dugon](images/melian_monastery_yellow_dugon.webp) |
+| Purple |  | -250 | +10 |  |  | +3 | -1 | ![Purple Dugon](images/melian_monastery_purple_dugon.webp) |
+| Brown | -100 |  |  |  |  |  | -1 | ![Brown Dugon](images/melian_monastery_brown_dugon.webp) |
+| Red |  | -250 |  |  |  | -6 | -1 | ![Red Dugon](images/melian_monastery_red_dugon.webp) |
+| Black | +100 | -100 | -10 | +2 |  |  |  | ![Black Dugon](images/melian_monastery_black_dugon.webp) |
 
 _This lore was written by Melian, the only dark cail cleric in temuair, and
 was greatly supported by the knowledge of Miriel, the nicest but sometimes

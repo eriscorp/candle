@@ -26,6 +26,7 @@ _Priest of Ceannlaidir, the almighty God of War_
 ```
 *Librarian Notes*
 
+Recognized: Village, Lorekeepers Recognized (Events of Temuair post #16).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Tarrant_Mass.html .
 ```

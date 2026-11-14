@@ -79,6 +79,7 @@ _Dedicated to my mentor Angel_
 ```
 *Librarian Notes*
 
+Recognized: Aisling, Bards Recognized (Events of Temuair post #106).
 This entry is considered one of the greatest treasures of Temuair.
 
 This entry has been edited to conform to Library formatting.

@@ -213,6 +213,7 @@ killing them on sight.
 ```
 *Librarian Notes*
 
+Recognized: Kingdom, 1999 (Mileth College master list).
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Acinorev_Goblin.html .
 ```

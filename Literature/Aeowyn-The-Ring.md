@@ -365,6 +365,7 @@ notice that he has left. "Aeowyn? Aeowyn?"_
 ```
 *Librarian Notes*
 
+Recognized: Village, Bards Recognized (Events of Temuair post #17).
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Aeowyn_Ring.html .
 ```

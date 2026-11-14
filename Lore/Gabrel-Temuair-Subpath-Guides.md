@@ -610,6 +610,7 @@ Make your own Hubae. There isn't enough Hubae in the game for you to get all the
 ```
 *Librarian Notes*
 
+Recognized: Village, Lore Contest, 15 August 2003.
 This entry has been edited to conform to Library formatting.
 The original was lost. A copy was restored from
 https://web.archive.org/web/20041226042435/http://www.dahelp.com:80/contest/index.html .
